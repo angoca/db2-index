@@ -3,6 +3,7 @@ Welcome to the db2-index wiki!
 # H
 * HADR
  * Increase DB2 availability. DeveloperWorks - http://www.ibm.com/developerworks/data/library/techarticle/dm-1406db2avail/index.html
+
 # S
 
 * SAR: SQL Archive file
