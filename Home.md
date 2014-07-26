@@ -6,6 +6,16 @@ Welcome to the db2-index wiki!
  * Increase DB2 availability. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1406db2avail/index.html
  * DB2 system topology and configuration for automated multi-site HA and DR. IBM. Whitepaper - http://public.dhe.ibm.com/software/dw/data/dm-1002automateddb2hadr/Automated_long-distance_HADR_configurations.pdf
 
+# I
+
+* Isolation
+ * Determine the effective isolation level in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1107db2isolationlevel/index.html
+
+# M
+
+* Monitoring
+ * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
+
 # S
 
 * SAR: SQL Archive file
