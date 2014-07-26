@@ -29,3 +29,4 @@ Welcome to the db2-index wiki!
  * IBM IM Support. Twitter - https://twitter.com/IBM_IM_Support
  * IBM DB2 support. Twitter - https://twitter.com/db2_support
  * IBM Data magazine. Twitter - https://twitter.com/IBMdatamag
+ * IBM Pure Data. Twitter - https://twitter.com/IBMPDASupport
