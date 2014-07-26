@@ -10,6 +10,8 @@ This index does not contain any kind of content, it is just a references center.
  * PlanetDB2. PlanetDB2. Planet - http://www.planetdb2.com/
  * Expert tips on building and administering DB2 LUW databases. db2commerce. Blog - http://db2commerce.com/
  * SQL Tips for DB2 LUW. DeveloperWorks. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/
+ * Getting the Most out of DB2 for z/OS. itToolBox. Blog - http://it.toolbox.com/blogs/db2zos/
+ * An Expert's Guide to DB2 Technology. itToolBox. Blog - http://it.toolbox.com/blogs/db2luw/
 
 # D
 
