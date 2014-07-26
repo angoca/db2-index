@@ -1,5 +1,17 @@
 Welcome to the db2-index wiki!
 
+This is an index where you can search for a term and get the related resources about that. The index is sorted in alphabetical order, and for each entry there is a title, the name of the source, the type and the URL.
+
+# D
+
+* Deadlock
+ * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
+
+# E
+
+* Event monitor
+ * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
+
 # H
 
 * HADR
@@ -10,6 +22,11 @@ Welcome to the db2-index wiki!
 
 * Isolation
  * Determine the effective isolation level in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1107db2isolationlevel/index.html
+
+# L
+
+* Locks
+ * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
 
 # M
 
