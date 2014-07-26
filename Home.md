@@ -79,6 +79,8 @@ This index does not contain any kind of content, it is just a references center.
  * DB2-LUW-ACADEMY. YouTube. Channel - https://www.youtube.com/user/DB2LUWAcademy
  * IBMDatamanagement. YouTube. Channel - https://www.youtube.com/channel/UC9QnRdjWEIe58LXKpAoXl4A
  * IDUG: International DB2 Users Group. YouTube. Channel - https://www.youtube.com/channel/UCVY6PWpd9No0zNEQvKIVGhw
+ * The DB2Night Show. dbisoftware. Channel - http://www.dbisoftware.com/blog/db2nightshow.php
+ * IDUG DB2 Tech. IDUG. Channel - http://www.idug-db2.com/
 
 # W
 
