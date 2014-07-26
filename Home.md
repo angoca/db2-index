@@ -2,8 +2,20 @@ Welcome to the db2-index wiki!
 
 This is an index where you can search for a term and get the related resources about that. The index is sorted in alphabetical order, and for each entry there is a title, the name of the source, the type and the URL.
 
+This index does not contain any kind of content, it is just a references center.
+
+# B
+
+* Blogs
+ * PlanetDB2. PlanetDB2. Planet - http://www.planetdb2.com/
+ * Expert tips on building and administering DB2 LUW databases. db2commerce. Blog - http://db2commerce.com/
+ * SQL Tips for DB2 LUW. DeveloperWorks. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/
+
 # D
 
+* DB2
+ * IBM DB2. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2
+ * DB2 UDB. Wikipedia. Wiki - https://en.wikipedia.org/wiki/DB2_UDB
 * Deadlock
  * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
 
@@ -11,6 +23,8 @@ This is an index where you can search for a term and get the related resources a
 
 * Event monitor
  * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
+* Express-C
+ * IBM DB2 Express-C. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2_Express-C
 
 # H
 
@@ -33,6 +47,11 @@ This is an index where you can search for a term and get the related resources a
 * Monitoring
  * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
 
+# P
+
+* PureXML
+ * pureXML. Wikipedia. Wiki - https://en.wikipedia.org/wiki/PureXML
+
 # S
 
 * SAR: SQL Archive file
@@ -52,3 +71,16 @@ This is an index where you can search for a term and get the related resources a
  * IBM DB2 support. Twitter - https://twitter.com/db2_support
  * IBM Data magazine. Twitter - https://twitter.com/IBMdatamag
  * IBM Pure Data. Twitter - https://twitter.com/IBMPDASupport
+
+# V
+
+* Video
+ * ChannelDB2. ChannelDB2. Channel - http://www.channeldb2.com/
+ * DB2-LUW-ACADEMY. YouTube. Channel - https://www.youtube.com/user/DB2LUWAcademy
+ * IBMDatamanagement. YouTube. Channel - https://www.youtube.com/channel/UC9QnRdjWEIe58LXKpAoXl4A
+ * IDUG: International DB2 Users Group. YouTube. Channel - https://www.youtube.com/channel/UCVY6PWpd9No0zNEQvKIVGhw
+
+# W
+
+* Wiki
+ * DB2 Database Professionals. DeveloperWorks. Wiki - https://www.ibm.com/developerworks/community/groups/service/html/communityview?lang=en&communityUuid=fc834388-7630-4b28-9abd-2f6e702b7df7
