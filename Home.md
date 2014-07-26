@@ -1,10 +1,5 @@
 Welcome to the db2-index wiki!
 
-# B
-
-* Blogs
- * Expert tips on building and administering DB2 LUW databases. db2commerce. Blog post - http://db2commerce.com/
-
 # H
 
 * HADR
