@@ -2,7 +2,7 @@ Welcome to the db2-index wiki!
 
 This is an index where you can search for a term and get the related resources about that. The index is sorted in alphabetical order, and for each entry there is a title, the name of the source, the type and the URL.
 
-This index does not contain any kind of content, it is just a references center.
+This index does not contain any kind of content, it is just a references center. One reference could be cited several times.
 
 # B
 
@@ -12,6 +12,8 @@ This index does not contain any kind of content, it is just a references center.
  * SQL Tips for DB2 LUW. DeveloperWorks. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/
  * Getting the Most out of DB2 for z/OS. itToolBox. Blog - http://it.toolbox.com/blogs/db2zos/
  * An Expert's Guide to DB2 Technology. itToolBox. Blog - http://it.toolbox.com/blogs/db2luw/
+ * Henrik's thoughts about life in and outside the IT business, and things that keep him busy, including DB2... Loeser. Blog - http://blog.4loeser.net
+ * 
 
 # D
 
@@ -61,6 +63,8 @@ This index does not contain any kind of content, it is just a references center.
  * DB2 Tips n Tricks Part 39 - Deploy Stored Procedure without revealing source code. DB2Academy. Video - https://www.youtube.com/watch?v=WxxKOYee9ZU
 * Storage groups
  * DB2 Basics: Storage Groups. db2commerce. Blog post - http://db2commerce.com/2014/07/22/db2-basics-storage-groups
+* Snapshots
+ * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
 
 # T
 
