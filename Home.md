@@ -30,6 +30,12 @@ This index does not contain any kind of content, it is just a references center.
 * Express-C
  * IBM DB2 Express-C. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2_Express-C
 
+# F
+
+* Forum
+ * db2. StackOverFlow. Forum - https://stackoverflow.com/questions/tagged/db2
+ * db2-luw. StackOverFlow. Forum - https://stackoverflow.com/questions/tagged/db2-luw
+
 # H
 
 * HADR
