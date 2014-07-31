@@ -22,6 +22,8 @@ This index does not contain any kind of content, it is just a references center.
  * DB2 UDB. Wikipedia. Wiki - https://en.wikipedia.org/wiki/DB2_UDB
 * Deadlock
  * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
+* Documentation
+ * SQL-PL Guide. SQL-PL Guide. Documentation - http://www.sqlpl-guide.com/
 
 # E
 
