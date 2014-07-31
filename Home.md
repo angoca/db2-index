@@ -13,7 +13,12 @@ This index does not contain any kind of content, it is just a references center.
  * Getting the Most out of DB2 for z/OS. itToolBox. Blog - http://it.toolbox.com/blogs/db2zos/
  * An Expert's Guide to DB2 Technology. itToolBox. Blog - http://it.toolbox.com/blogs/db2luw/
  * Henrik's thoughts about life in and outside the IT business, and things that keep him busy, including DB2... Loeser. Blog - http://blog.4loeser.net
- * 
+
+# C
+
+* Compound Statement
+ * Compound statements. SQL-PL guide. Documentation - http://www.sqlpl-guide.com/Compound_statements
+ * Compound statement. IBM. Documentation - http://www-01.ibm.com/support/knowledgecenter/SSEPGG_10.5.0/com.ibm.db2.luw.apdv.sqlpl.doc/doc/c0053781.html?lang=en
 
 # D
 
