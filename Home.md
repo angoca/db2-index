@@ -24,6 +24,7 @@ This index does not contain any kind of content, it is just a references center.
  * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
 * Documentation
  * SQL-PL Guide. SQL-PL Guide. Documentation - http://www.sqlpl-guide.com/
+ * Knowledgecenter. IBM. Documentation - http://www-01.ibm.com/support/knowledgecenter/SSEPGG_10.5.0/com.ibm.db2.luw.kc.doc/welcome.html?lang=en
 
 # E
 
