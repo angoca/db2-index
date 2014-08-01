@@ -87,7 +87,6 @@ This index does not contain any kind of content, it is just a references center.
   * DB2 security, Part 8: Twelve DB2 security best practices. http://www.ibm.com/developerworks/data/library/techarticle/dm-0607wasserman/index.html
   * DB2 security, Part 10: Deploy customized security plug-ins in DB2 9. http://www.ibm.com/developerworks/data/library/techarticle/dm-0610see/index.html
   * DB2 Security, Part 11: Develop a security plug-in for DB2 database authentication. http://www.ibm.com/developerworks/data/library/techarticle/dm-0802kligerman/
-  * Resource Info: Knowledge Collection - DB2 Security. DeveloperWorks. Blog - https://www.ibm.com/developerworks/community/blogs/IMSupport/entry/knowledge_collection_db2_security?lang=en
 * Snapshots
  * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
 * Storage groups
