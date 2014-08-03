@@ -4,6 +4,10 @@ This is an index where you can search for a term and get the related resources a
 
 This index does not contain any kind of content, it is just a references center. One reference could be cited several times.
 
+# A
+
+* Activated database
+ * DB2 Tips n Tricks Part 40 - How to Find DB was implicitly or explicitly activated or deactivated. DB2Academy. Video - https://www.youtube.com/watch?v=AdmNwiul0Yo
 # B
 
 * Blogs
