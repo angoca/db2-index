@@ -4,6 +4,20 @@ This is an index where you can search for a term and get the related resources a
 
 This index does not contain any kind of content, it is just a references center. One reference could be cited several times.
 
+These are the possible type of link:
+
+ * Article: The articles in DeveloperWorks, DataMagazine or something similar that follows an editorial process.
+ * Blog: Personal article about DB2.
+ * Channel: Set of videos in YouTube or similar service.
+ * Documentation: Documentation about DB2 in KnowledgeCenter or previous InfoCenters.
+ * Forum: Discussions about a topic.
+ * Planet: List of blogs.
+ * Support: Note written by the IBM support.
+ * Twitter: Twitter account.
+ * Video: Specific video about a topic.
+ * Whitepaper: Commercial article about DB2 technologies.
+ * Wiki: Wiki or article in a Wiki that discuss a topic.
+
 # A
 
 * Activated database
@@ -44,6 +58,8 @@ This index does not contain any kind of content, it is just a references center.
 
 # F
 
+* Fixpack
+ * Fix List for DB2 Version 10.5 for Linux, UNIX and Windows. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21633303
 * Forum
  * db2. StackOverFlow. Forum - https://stackoverflow.com/questions/tagged/db2
  * db2-luw. StackOverFlow. Forum - https://stackoverflow.com/questions/tagged/db2-luw
@@ -58,6 +74,12 @@ This index does not contain any kind of content, it is just a references center.
 
 * Isolation
  * Determine the effective isolation level in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1107db2isolationlevel/index.html
+
+# J
+
+* JDBC drivers
+ * DB2 JDBC Driver Versions. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21363866
+ * Knowledge Collection: DB2 JDBC driver issues. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21358484
 
 # L
 
@@ -81,20 +103,20 @@ This index does not contain any kind of content, it is just a references center.
  * DB2 Tips n Tricks Part 39 - Deploy Stored Procedure without revealing source code. DB2Academy. Video - https://www.youtube.com/watch?v=WxxKOYee9ZU
 * Security
  * DB2 UDB security. DeveloperWorks. Serie 11 articles
-  * Part 1: Understand how user and group accounts interact with DB2 UDB. http://www.ibm.com/developerworks/data/library/techarticle/dm-0508wasserman/index.html
-  * DB2 security, Part 2: Understand the DB2 for Linux, UNIX, and Windows security plug-ins. http://www.ibm.com/developerworks/data/library/techarticle/dm-0512chong/index.html
-  * DB2 UDB security, Part 3: Security plug-ins using the GSS-API security mechanisms (SPKM / LIPKEY). http://www.ibm.com/developerworks/data/library/techarticle/dm-0512patil/index.html
-  * DB2 UDB security, Part 4: Understand how authorities and privileges are implemented in DB2 UDB. http://www.ibm.com/developerworks/data/library/techarticle/dm-0601wasserman/index.html
-  * DB2 UDB security, Part 5: Understand the DB2 audit facility. http://www.ibm.com/developerworks/data/library/techarticle/dm-0603wasserman/index.html
-  * DB2 UDB security, Part 6: Configure Kerberos for authentication on DB2 UDB for Linux, UNIX, and Windows. http://www.ibm.com/developerworks/data/library/techarticle/dm-0603see/index.html
-  * DB2 security, Part 7: Object ownership management for DB2 9. http://www.ibm.com/developerworks/data/library/techarticle/dm-0608see/index.html
-  * DB2 security, Part 8: Twelve DB2 security best practices. http://www.ibm.com/developerworks/data/library/techarticle/dm-0607wasserman/index.html
-  * DB2 security, Part 10: Deploy customized security plug-ins in DB2 9. http://www.ibm.com/developerworks/data/library/techarticle/dm-0610see/index.html
-  * DB2 Security, Part 11: Develop a security plug-in for DB2 database authentication. http://www.ibm.com/developerworks/data/library/techarticle/dm-0802kligerman/
+   * Part 1: Understand how user and group accounts interact with DB2 UDB. http://www.ibm.com/developerworks/data/library/techarticle/dm-0508wasserman/index.html
+   * DB2 security, Part 2: Understand the DB2 for Linux, UNIX, and Windows security plug-ins. http://www.ibm.com/developerworks/data/library/techarticle/dm-0512chong/index.html
+   * DB2 UDB security, Part 3: Security plug-ins using the GSS-API security mechanisms (SPKM / LIPKEY). http://www.ibm.com/developerworks/data/library/techarticle/dm-0512patil/index.html
+   * DB2 UDB security, Part 4: Understand how authorities and privileges are implemented in DB2 UDB. http://www.ibm.com/developerworks/data/library/techarticle/dm-0601wasserman/index.html
+   * DB2 UDB security, Part 5: Understand the DB2 audit facility. http://www.ibm.com/developerworks/data/library/techarticle/dm-0603wasserman/index.html
+   * DB2 UDB security, Part 6: Configure Kerberos for authentication on DB2 UDB for Linux, UNIX, and Windows. http://www.ibm.com/developerworks/data/library/techarticle/dm-0603see/index.html
+   * DB2 security, Part 7: Object ownership management for DB2 9. http://www.ibm.com/developerworks/data/library/techarticle/dm-0608see/index.html
+   * DB2 security, Part 8: Twelve DB2 security best practices. http://www.ibm.com/developerworks/data/library/techarticle/dm-0607wasserman/index.html
+   * DB2 security, Part 10: Deploy customized security plug-ins in DB2 9. http://www.ibm.com/developerworks/data/library/techarticle/dm-0610see/index.html
+   * DB2 Security, Part 11: Develop a security plug-in for DB2 database authentication. http://www.ibm.com/developerworks/data/library/techarticle/dm-0802kligerman/
 * Snapshots
  * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
 * Storage groups
- * DB2 Basics: Storage Groups. db2commerce. Blog post - http://db2commerce.com/2014/07/22/db2-basics-storage-groups
+ * DB2 Basics: Storage Groups. db2commerce. Blog - http://db2commerce.com/2014/07/22/db2-basics-storage-groups
 
 # T
 
