@@ -139,6 +139,7 @@ These are the possible type of link:
  * IDUG: International DB2 Users Group. YouTube. Channel - https://www.youtube.com/channel/UCVY6PWpd9No0zNEQvKIVGhw
  * The DB2Night Show. dbisoftware. Channel - http://www.dbisoftware.com/blog/db2nightshow.php
  * IDUG DB2 Tech. IDUG. Channel - http://www.idug-db2.com/
+ * DB2Night Show. DBI software. Channel - http://www.dbisoftware.com/blog/db2nightshow.php
 
 # W
 
