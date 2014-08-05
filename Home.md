@@ -29,10 +29,10 @@ These are the possible type of link:
  * An Expert's Guide to DB2 Technology. itToolBox. Blog - http://it.toolbox.com/blogs/db2luw/
  * Expert tips on building and administering DB2 LUW databases. db2commerce. Blog - http://db2commerce.com/
  * Getting the Most out of DB2 for z/OS. itToolBox. Blog - http://it.toolbox.com/blogs/db2zos/
- * Henrik's thoughts about life in and outside the IT business, and things that keep him busy, including DB2... Loeser. Blog - http://blog.4loeser.net
  * PlanetDB2. PlanetDB2. Planet - http://www.planetdb2.com/
  * SQL Tips for DB2 LUW. DeveloperWorks. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/
  * Thoughts of DB2. Triton Consulting. Blog - http://blog.triton.co.uk/
+ * Thoughts on IT, Life, DB2, and more. Henrik Loeser. Blog - http://blog.4loeser.net
 * BLU
  * DB2 monitoring enhancements for BLU Acceleration. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitor-bluaccel/index.html
 
@@ -114,6 +114,9 @@ These are the possible type of link:
 
 * PureXML
  * pureXML. Wikipedia. Wiki - https://en.wikipedia.org/wiki/PureXML
+* Python
+ * Using DB2 with Python on Cloud Foundry-Based IBM Bluemix. Henrik Loeser. Blog - 
+http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 
 # S
 
