@@ -109,16 +109,16 @@ These are the possible type of link:
  * DB2 Tips n Tricks Part 39 - Deploy Stored Procedure without revealing source code. DB2Academy. Video - https://www.youtube.com/watch?v=WxxKOYee9ZU
 * Security
  * DB2 UDB security. DeveloperWorks. Serie 11 articles
-   * DB2 UDB security, Part 1: Understand how user and group accounts interact with DB2 UDB. http://www.ibm.com/developerworks/data/library/techarticle/dm-0508wasserman/index.html
-   * DB2 security, Part 2: Understand the DB2 for Linux, UNIX, and Windows security plug-ins. http://www.ibm.com/developerworks/data/library/techarticle/dm-0512chong/index.html
-   * DB2 UDB security, Part 3: Security plug-ins using the GSS-API security mechanisms (SPKM / LIPKEY). http://www.ibm.com/developerworks/data/library/techarticle/dm-0512patil/index.html
-   * DB2 UDB security, Part 4: Understand how authorities and privileges are implemented in DB2 UDB. http://www.ibm.com/developerworks/data/library/techarticle/dm-0601wasserman/index.html
-   * DB2 UDB security, Part 5: Understand the DB2 audit facility. http://www.ibm.com/developerworks/data/library/techarticle/dm-0603wasserman/index.html
-   * DB2 UDB security, Part 6: Configure Kerberos for authentication on DB2 UDB for Linux, UNIX, and Windows. http://www.ibm.com/developerworks/data/library/techarticle/dm-0603see/index.html
-   * DB2 security, Part 7: Object ownership management for DB2 9. http://www.ibm.com/developerworks/data/library/techarticle/dm-0608see/index.html
-   * DB2 security, Part 8: Twelve DB2 security best practices. http://www.ibm.com/developerworks/data/library/techarticle/dm-0607wasserman/index.html
-   * DB2 security, Part 10: Deploy customized security plug-ins in DB2 9. http://www.ibm.com/developerworks/data/library/techarticle/dm-0610see/index.html
-   * DB2 Security, Part 11: Develop a security plug-in for DB2 database authentication. http://www.ibm.com/developerworks/data/library/techarticle/dm-0802kligerman/
+    * DB2 UDB security, Part 1: Understand how user and group accounts interact with DB2 UDB. http://www.ibm.com/developerworks/data/library/techarticle/dm-0508wasserman/index.html
+    * DB2 security, Part 2: Understand the DB2 for Linux, UNIX, and Windows security plug-ins. http://www.ibm.com/developerworks/data/library/techarticle/dm-0512chong/index.html
+    * DB2 UDB security, Part 3: Security plug-ins using the GSS-API security mechanisms (SPKM / LIPKEY). http://www.ibm.com/developerworks/data/library/techarticle/dm-0512patil/index.html
+    * DB2 UDB security, Part 4: Understand how authorities and privileges are implemented in DB2 UDB. http://www.ibm.com/developerworks/data/library/techarticle/dm-0601wasserman/index.html
+    * DB2 UDB security, Part 5: Understand the DB2 audit facility. http://www.ibm.com/developerworks/data/library/techarticle/dm-0603wasserman/index.html
+    * DB2 UDB security, Part 6: Configure Kerberos for authentication on DB2 UDB for Linux, UNIX, and Windows. http://www.ibm.com/developerworks/data/library/techarticle/dm-0603see/index.html
+    * DB2 security, Part 7: Object ownership management for DB2 9. http://www.ibm.com/developerworks/data/library/techarticle/dm-0608see/index.html
+    * DB2 security, Part 8: Twelve DB2 security best practices. http://www.ibm.com/developerworks/data/library/techarticle/dm-0607wasserman/index.html
+    * DB2 security, Part 10: Deploy customized security plug-ins in DB2 9. http://www.ibm.com/developerworks/data/library/techarticle/dm-0610see/index.html
+    * DB2 Security, Part 11: Develop a security plug-in for DB2 database authentication. http://www.ibm.com/developerworks/data/library/techarticle/dm-0802kligerman/
 * Snapshots
  * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
 * Storage groups
