@@ -100,7 +100,10 @@ These are the possible type of link:
 # L
 
 * Locks
- * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
+ * Lock events for DB2. DeveloperWorks Serie 3 articles
+   * Lock events for DB2 for Linux, UNIX, and Windows, Part 1: Analyzing lockwait situations in DB2 for Linux, UNIX, and Windows - http://www.ibm.com/developerworks/data/library/techarticle/dm-0707fechner/index.html
+   * Lock events for DB2 for Linux, UNIX, and Windows, Part 2: New options for analyzing lock timeouts in DB2 9.5 - http://www.ibm.com/developerworks/data/library/techarticle/dm-0804fechner/index.html
+   * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
 
 # M
 
