@@ -106,7 +106,7 @@ These are the possible type of link:
  * DB2 Tips n Tricks Part 39 - Deploy Stored Procedure without revealing source code. DB2Academy. Video - https://www.youtube.com/watch?v=WxxKOYee9ZU
 * Security
  * DB2 UDB security. DeveloperWorks. Serie 11 articles
-   * Part 1: Understand how user and group accounts interact with DB2 UDB. http://www.ibm.com/developerworks/data/library/techarticle/dm-0508wasserman/index.html
+   * DB2 UDB security, Part 1: Understand how user and group accounts interact with DB2 UDB. http://www.ibm.com/developerworks/data/library/techarticle/dm-0508wasserman/index.html
    * DB2 security, Part 2: Understand the DB2 for Linux, UNIX, and Windows security plug-ins. http://www.ibm.com/developerworks/data/library/techarticle/dm-0512chong/index.html
    * DB2 UDB security, Part 3: Security plug-ins using the GSS-API security mechanisms (SPKM / LIPKEY). http://www.ibm.com/developerworks/data/library/techarticle/dm-0512patil/index.html
    * DB2 UDB security, Part 4: Understand how authorities and privileges are implemented in DB2 UDB. http://www.ibm.com/developerworks/data/library/techarticle/dm-0601wasserman/index.html
