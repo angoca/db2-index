@@ -75,6 +75,7 @@ These are the possible type of link:
  * DB2-L. idug. Forum - http://www.idug.org/p/fo/si/topic=19
  * Forum: IBM DB2. Database Journal. Forum - http://forums.databasejournal.com/forumdisplay.php?8-IBM-DB2
  * IBM: DB2 Forum. Tek Tips. Forum - http://www.tek-tips.com/threadminder.cfm?pid=178
+ * IBM DB2 for Linux, Unix, and Windows Forum. DeveloperWorks. Forum - https://www.ibm.com/developerworks/community/forums/html/forum?id=11111111-0000-0000-0000-000000000842&ps=25
 
 # H
 
