@@ -26,12 +26,13 @@ These are the possible type of link:
 # B
 
 * Blogs
- * PlanetDB2. PlanetDB2. Planet - http://www.planetdb2.com/
- * Expert tips on building and administering DB2 LUW databases. db2commerce. Blog - http://db2commerce.com/
- * SQL Tips for DB2 LUW. DeveloperWorks. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/
- * Getting the Most out of DB2 for z/OS. itToolBox. Blog - http://it.toolbox.com/blogs/db2zos/
  * An Expert's Guide to DB2 Technology. itToolBox. Blog - http://it.toolbox.com/blogs/db2luw/
+ * Expert tips on building and administering DB2 LUW databases. db2commerce. Blog - http://db2commerce.com/
+ * Getting the Most out of DB2 for z/OS. itToolBox. Blog - http://it.toolbox.com/blogs/db2zos/
  * Henrik's thoughts about life in and outside the IT business, and things that keep him busy, including DB2... Loeser. Blog - http://blog.4loeser.net
+ * PlanetDB2. PlanetDB2. Planet - http://www.planetdb2.com/
+ * SQL Tips for DB2 LUW. DeveloperWorks. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/
+ * Thoughts of DB2. Triton Consulting. Blog - http://blog.triton.co.uk/
 * BLU
  * DB2 monitoring enhancements for BLU Acceleration. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitor-bluaccel/index.html
 
