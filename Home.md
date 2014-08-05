@@ -32,6 +32,8 @@ These are the possible type of link:
  * Getting the Most out of DB2 for z/OS. itToolBox. Blog - http://it.toolbox.com/blogs/db2zos/
  * An Expert's Guide to DB2 Technology. itToolBox. Blog - http://it.toolbox.com/blogs/db2luw/
  * Henrik's thoughts about life in and outside the IT business, and things that keep him busy, including DB2... Loeser. Blog - http://blog.4loeser.net
+* BLU
+ * DB2 monitoring enhancements for BLU Acceleration. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitor-bluaccel/index.html
 
 # C
 
