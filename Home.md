@@ -72,6 +72,8 @@ These are the possible type of link:
 
 # I
 
+* Index
+ * When Index Scans Attack! db2commerce. Blog - http://db2commerce.com/2014/08/05/when-index-scans-attack/?utm_source=rss&utm_medium=rss&utm_campaign=when-index-scans-attack
 * Isolation
  * Determine the effective isolation level in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1107db2isolationlevel/index.html
 
