@@ -63,6 +63,8 @@ These are the possible type of link:
 
 * Fixpack
  * Fix List for DB2 Version 10.5 for Linux, UNIX and Windows. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21633303
+* Force application
+ * Why does DB2 FORCE APPLICATION not work sometimes? IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21108336
 * Forum
  * db2. StackOverFlow. Forum - https://stackoverflow.com/questions/tagged/db2
  * db2-luw. StackOverFlow. Forum - https://stackoverflow.com/questions/tagged/db2-luw
