@@ -67,7 +67,12 @@ These are the possible type of link:
  * Why does DB2 FORCE APPLICATION not work sometimes? IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21108336
 * Forum
  * db2. StackOverFlow. Forum - https://stackoverflow.com/questions/tagged/db2
+ * db2. dbforums. Forum - http://www.dbforums.com/db2/
  * db2-luw. StackOverFlow. Forum - https://stackoverflow.com/questions/tagged/db2-luw
+ * DB2 LUW. it.toolbox. Forum - http://database.ittoolbox.com/groups/technical-functional/db2-l/
+ * DB2-L. idug. Forum - http://www.idug.org/p/fo/si/topic=19
+ * Forum: IBM DB2. Database Journal. Forum - http://forums.databasejournal.com/forumdisplay.php?8-IBM-DB2
+ * IBM: DB2 Forum. Tek Tips. Forum - http://www.tek-tips.com/threadminder.cfm?pid=178
 
 # H
 
@@ -95,6 +100,8 @@ These are the possible type of link:
 
 # M
 
+* Magazine
+ * DataMagazine. DataMagazine. Magazine - http://ibmdatamag.com/
 * Monitoring
  * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
  * DB2 monitoring enhancements for BLU Acceleration. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitor-bluaccel/index.html
