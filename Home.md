@@ -22,6 +22,7 @@ These are the possible type of link:
 
 * Activated database
  * DB2 Tips n Tricks Part 40 - How to Find DB was implicitly or explicitly activated or deactivated. DB2Academy. Video - https://www.youtube.com/watch?v=AdmNwiul0Yo
+
 # B
 
 * Blogs
