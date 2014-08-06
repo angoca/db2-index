@@ -81,6 +81,7 @@ These are the possible type of link:
 * Force application
   * Why does DB2 FORCE APPLICATION not work sometimes? IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21108336
 * Forum
+  * Community Discussion. Toad. Forum - http://www.toadworld.com/platforms/ibmdb2/f/55.aspx
   * comp.databases.ibm-db2. Google. Forum - https://groups.google.com/forum/#!forum/comp.databases.ibm-db2
   * db2. StackOverFlow. Forum - https://stackoverflow.com/questions/tagged/db2
   * db2. dbforums. Forum - http://www.dbforums.com/db2/
