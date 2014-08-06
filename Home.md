@@ -53,6 +53,8 @@ These are the possible type of link:
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
 * db2exfmt
   * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Blog - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
+* db2trc
+  * DB2 Basics: An introduction to the DB2 UDB trace facility. DeveloperWorks. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0409melnyk/
 * Deadlock
   * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
 * DFT_QUERYOPT
@@ -163,6 +165,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Increase DB2 availability. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1406db2avail/index.html
 * Timeron
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
+* Trace
+  * DB2 Basics: An introduction to the DB2 UDB trace facility. DeveloperWorks. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0409melnyk/
 
 * Twitter
   * DeveloperWorks. Twitter - https://twitter.com/developerWorks
