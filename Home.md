@@ -20,6 +20,8 @@ These are the possible type of link:
 
 # A
 
+* Access Plan
+  * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Blog - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
 * Activated database
   * DB2 Tips n Tricks Part 40 - How to Find DB was implicitly or explicitly activated or deactivated. DB2Academy. Video - https://www.youtube.com/watch?v=AdmNwiul0Yo
 
@@ -47,8 +49,14 @@ These are the possible type of link:
 * DB2
   * IBM DB2. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2
   * DB2 UDB. Wikipedia. Wiki - https://en.wikipedia.org/wiki/DB2_UDB
+* DB2_REDUCED_OPTIMIZATION
+  * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
+* db2exfmt
+  * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Blog - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
 * Deadlock
   * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
+* DFT_QUERYOPT
+  * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
 * Documentation
   * SQL-PL Guide. SQL-PL Guide. Documentation - http://www.sqlpl-guide.com/
   * Knowledgecenter. IBM. Documentation - http://www-01.ibm.com/support/knowledgecenter/SSEPGG_10.5.0/com.ibm.db2.luw.kc.doc/welcome.html?lang=en
@@ -57,6 +65,10 @@ These are the possible type of link:
 
 * Event monitor
   * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
+* Explain
+  * Explain. db2commerce. Serie of 2 blog posts.
+    * Explain Part 1 – Explain and the DB2 Optimizer - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
+    * Explain Part 2 – Command Line Explain Plans Using db2exfmt - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
 * Express-C
   * IBM DB2 Express-C. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2_Express-C
 
@@ -115,6 +127,8 @@ These are the possible type of link:
 
 # P
 
+* Parameter Markers
+  * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Blog - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
 * PureXML
   * pureXML. Wikipedia. Wiki - https://en.wikipedia.org/wiki/PureXML
 * Python
@@ -147,6 +161,9 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 
 * Tie-Breaking
   * Increase DB2 availability. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1406db2avail/index.html
+* Timeron
+  * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
+
 * Twitter
   * DeveloperWorks. Twitter - https://twitter.com/developerWorks
   * IBM_DB2. Twitter - https://twitter.com/IBM_DB2
