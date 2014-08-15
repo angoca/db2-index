@@ -43,6 +43,8 @@ These are the possible type of link:
 * Compound Statement
  * Compound statements. SQL-PL guide. Documentation - http://www.sqlpl-guide.com/Compound_statements
  * Compound statement. IBM. Documentation - http://www-01.ibm.com/support/knowledgecenter/SSEPGG_10.5.0/com.ibm.db2.luw.apdv.sqlpl.doc/doc/c0053781.html?lang=en
+* Corruption
+ * Diagnosing corruption when using IBM DB2. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1208corruptiondb2/index.html
 
 # D
 
