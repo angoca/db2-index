@@ -53,6 +53,8 @@ These are the possible type of link:
   * DB2 UDB. Wikipedia. Wiki - https://en.wikipedia.org/wiki/DB2_UDB
 * DB2_REDUCED_OPTIMIZATION
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
+* DB2_RESTORE_GRANT_ADMIN_AUTHORITIES
+ * DB2 Tips n Tricks Part 41 - How to get Admin Authorities on a Restored Database. db2academy. Video - https://www.youtube.com/watch?v=IPM15F23VYA
 * db2exfmt
   * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Blog - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
 * db2trc
