@@ -136,6 +136,8 @@ These are the possible type of link:
 
 * Parameter Markers
   * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Blog - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
+* Performance
+  * Best Practices for Optimizing DB2 Performance. DatAvail. Webminar - http://www.datavail.com/datavail-resources/webinar-optimizing-db2-performance/
 * PureXML
   * pureXML. Wikipedia. Wiki - https://en.wikipedia.org/wiki/PureXML
 * Python
