@@ -40,8 +40,8 @@ These are the possible type of link:
 
 # C
 
-* Client
- * DB2 Tips n Tricks Part 42 - How to Identify DB2 Client Release Version from Server. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=XG8k5prZ7yA&list=UU_iWPd8HXwhTAOSKQPDlo-A
+* CLIENT_PRDID
+ * DB2 Tips n Tricks Part 42 - How to Identify DB2 Client Release Version from Server. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=XG8k5prZ7yA
 * Compound Statement
  * Compound statements. SQL-PL guide. Documentation - http://www.sqlpl-guide.com/Compound_statements
  * Compound statement. IBM. Documentation - http://www-01.ibm.com/support/knowledgecenter/SSEPGG_10.5.0/com.ibm.db2.luw.apdv.sqlpl.doc/doc/c0053781.html?lang=en
@@ -112,6 +112,8 @@ These are the possible type of link:
 
 # I
 
+* Import
+  * DB2 Tips n Tricks Part 37 - How To Load Compressed Files directly without Extracting to Harddisk. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=FT3UBxpeR9k
 * Index
   * When Index Scans Attack! db2commerce. Blog - http://db2commerce.com/2014/08/05/when-index-scans-attack/?utm_source=rss&utm_medium=rss&utm_campaign=when-index-scans-attack
 * Isolation
@@ -125,6 +127,8 @@ These are the possible type of link:
 
 # L
 
+* Load
+  * DB2 Tips n Tricks Part 37 - How To Load Compressed Files directly without Extracting to Harddisk. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=FT3UBxpeR9k
 * Locks
   * Lock events for DB2. DeveloperWorks Serie 3 articles
     * Lock events for DB2 for Linux, UNIX, and Windows, Part 1: Analyzing lockwait situations in DB2 for Linux, UNIX, and Windows - http://www.ibm.com/developerworks/data/library/techarticle/dm-0707fechner/index.html
@@ -138,6 +142,13 @@ These are the possible type of link:
 * Monitoring
   * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
   * DB2 monitoring enhancements for BLU Acceleration. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitor-bluaccel/index.html
+* MON_GET_PKG_CACHE_STMT
+  * https://www.youtube.com/watch?v=MO-UlXkiRoo
+
+# N
+
+* Named-pipe
+  * DB2 Tips n Tricks Part 37 - How To Load Compressed Files directly without Extracting to Harddisk. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=FT3UBxpeR9k
 
 # P
 
@@ -170,6 +181,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
     * DB2 Security, Part 11: Develop a security plug-in for DB2 database authentication. http://www.ibm.com/developerworks/data/library/techarticle/dm-0802kligerman/
 * Snapshots
   * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
+  * DB2 Tips n Tricks Part 38 - Limitation on Monitor Metrics by Dynamic SQL Snapshot. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=MO-UlXkiRoo
 * Storage groups
   * DB2 Basics: Storage Groups. db2commerce. Blog - http://db2commerce.com/2014/07/22/db2-basics-storage-groups
 
