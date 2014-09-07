@@ -66,6 +66,8 @@ These are the possible type of link:
  * Quick Hit Tips – CPUSPEED, RESTRICTIVE, and DB2_WORKLOAD. db2commerce. Blog - http://db2commerce.com/2014/08/19/quick-hit-tips-cpuspeed-restrictive-and-db2_workload/?utm_source=rss&utm_medium=rss&utm_campaign=quick-hit-tips-cpuspeed-restrictive-and-db2_workload
 * db2exfmt
   * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Blog - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
+* db2flsn
+  * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
 * db2trc
   * DB2 Basics: An introduction to the DB2 UDB trace facility. DeveloperWorks. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0409melnyk/
 * Deadlock
@@ -136,6 +138,8 @@ These are the possible type of link:
     * Lock events for DB2 for Linux, UNIX, and Windows, Part 1: Analyzing lockwait situations in DB2 for Linux, UNIX, and Windows - http://www.ibm.com/developerworks/data/library/techarticle/dm-0707fechner/index.html
     * Lock events for DB2 for Linux, UNIX, and Windows, Part 2: New options for analyzing lock timeouts in DB2 9.5 - http://www.ibm.com/developerworks/data/library/techarticle/dm-0804fechner/index.html
     * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
+* LOG_UTILIZATION
+  * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
 
 # M
 
