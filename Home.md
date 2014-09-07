@@ -23,7 +23,7 @@ These are the possible type of link:
 * Access Plan
   * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Blog - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
 * Activated database
-  * DB2 Tips n Tricks Part 40 - How to Find DB was implicitly or explicitly activated or deactivated. DB2Academy. Video - https://www.youtube.com/watch?v=AdmNwiul0Yo
+  * DB2 Tips n Tricks Part 40 - How to Find DB was implicitly or explicitly activated or deactivated. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=AdmNwiul0Yo
 
 # B
 
@@ -40,6 +40,8 @@ These are the possible type of link:
 
 # C
 
+* Client
+ * DB2 Tips n Tricks Part 42 - How to Identify DB2 Client Release Version from Server. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=XG8k5prZ7yA&list=UU_iWPd8HXwhTAOSKQPDlo-A
 * Compound Statement
  * Compound statements. SQL-PL guide. Documentation - http://www.sqlpl-guide.com/Compound_statements
  * Compound statement. IBM. Documentation - http://www-01.ibm.com/support/knowledgecenter/SSEPGG_10.5.0/com.ibm.db2.luw.apdv.sqlpl.doc/doc/c0053781.html?lang=en
@@ -56,7 +58,7 @@ These are the possible type of link:
 * DB2_REDUCED_OPTIMIZATION
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
 * DB2_RESTORE_GRANT_ADMIN_AUTHORITIES
- * DB2 Tips n Tricks Part 41 - How to get Admin Authorities on a Restored Database. db2academy. Video - https://www.youtube.com/watch?v=IPM15F23VYA
+ * DB2 Tips n Tricks Part 41 - How to get Admin Authorities on a Restored Database. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=IPM15F23VYA
 * DB2_WORKLOAD
  * Registry Variables and DB2_WORKLOAD=WC. db2commerce. Blog - http://db2commerce.com/2010/06/07/registry-variables-and-db2_workloadwc/
  * Quick Hit Tips – CPUSPEED, RESTRICTIVE, and DB2_WORKLOAD. db2commerce. Blog - http://db2commerce.com/2014/08/19/quick-hit-tips-cpuspeed-restrictive-and-db2_workload/?utm_source=rss&utm_medium=rss&utm_campaign=quick-hit-tips-cpuspeed-restrictive-and-db2_workload
@@ -153,7 +155,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 
 * SAR: SQL Archive file
   * Hide the body of a SQL PL Stored Procedure. SQL-PL guide. Documentation - http://www.sqlpl-guide.com/Hide_procedure_body
-  * DB2 Tips n Tricks Part 39 - Deploy Stored Procedure without revealing source code. DB2Academy. Video - https://www.youtube.com/watch?v=WxxKOYee9ZU
+  * DB2 Tips n Tricks Part 39 - Deploy Stored Procedure without revealing source code. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=WxxKOYee9ZU
 * Security
   * DB2 UDB security. DeveloperWorks. Serie 11 articles
     * DB2 UDB security, Part 1: Understand how user and group accounts interact with DB2 UDB. http://www.ibm.com/developerworks/data/library/techarticle/dm-0508wasserman/index.html
