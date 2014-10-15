@@ -155,6 +155,8 @@ These are the possible type of link:
 
 * Named-pipe
   * DB2 Tips n Tricks Part 37 - How To Load Compressed Files directly without Extracting to Harddisk. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=FT3UBxpeR9k
+* num_initfenced
+  * DB2 Tips n Tricks Part 46 - How to Find Fenced User ID for an Instance. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=tFonyCpVisU
 
 # P
 
