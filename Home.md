@@ -42,6 +42,8 @@ Example:
   * DB2 Tips n Tricks Part 28 - How to Avoid Non Logged Operations in a Database. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=YkEJRS6sfTQ
   * blocknonlogged - Block creation of tables that allow non-logged activity configuration parameter. IBM. Documentation - http://www.ibm.com/support/knowledgecenter/SSEPGG_11.1.0/com.ibm.db2.luw.admin.config.doc/doc/r0055068.html
   * Safety first with BLOCKNONLOGGED. Berst Blog. Bert van Langen. 2014. Blog - https://blog.bertvanlangen.com/db2/safety-first-with-blocknonlogged/
+  * Not logged initially must be forbidden! KBCE. Klaas Brant. 2015. Blog - http://www.kbce.com/articles/not-logged-initially-must-forbidden/
+  * My problem with nonrecoverable load in hadr setup. IDUG. Forum - http://www.idug.org/p/fo/et/thread=43290
 * Blogs. 
   * An Expert's Guide to DB2 Technology. itToolBox. Chris Eaton. Blog - http://it.toolbox.com/blogs/db2luw/
   * Expert tips on building and administering DB2 LUW databases. db2commerce. Ember Crooks. Blog - http://db2commerce.com/
