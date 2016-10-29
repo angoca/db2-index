@@ -22,7 +22,7 @@ This index does not contain any kind of content, it is just a references center.
 
 Example:
 
-# X <-- Letter
+## @
 
 * Concept
   * Title of the link. Name of the source or hosting facility. Author. Source type - Link
