@@ -1,22 +1,22 @@
 Welcome to the db2-index wiki!
 
-This is an index where you can search for a term and get the related resources about that. The index is sorted in alphabetical order, and for each entry there is a title, a name of the source, a source type and an URL.
+This is an index where you can search for a term and get the related resources about that. The index is sorted in alphabetical order, and each entry has: the title, the hosting name, (optional) the author, (optional), the year, the source type and the URL.
 
 These are the possible source types of the link:
 
  * Article: The articles in DeveloperWorks, DataMagazine or something similar that follows an editorial process.
  * Blog: Personal article about DB2.
- * Channel: Set of videos in YouTube or similar service.
- * Documentation: Documentation about DB2 in KnowledgeCenter or previous InfoCenters.
- * Forum: Discussions about a topic.
- * Planet: List of blogs.
+ * Channel: Set of videos in YouTube or similar service. This type of source does not have a year, nor an author.
+ * Documentation: Documentation about DB2 in KnowledgeCenter or previous InfoCenters. This type of source does not have a year, nor an author.
+ * Forum: Discussions about a topic. This could make reference to specific question about the topic. This type of source does not have an author.
+ * Planet: List of blogs. This type of source does not have a year, nor an author.
  * Program: A project that performs an advanced task in DB2.
  * Script: Set of instructions to perform a job.
- * Support: Note written by the IBM support.
- * Twitter: Twitter account.
+ * Support: Note written by the IBM support. This type of source does not have an author.
+ * Twitter: Twitter account. This type of source does not have a year.
  * Video: Specific video about a topic.
  * Whitepaper: Commercial article about DB2 technologies.
- * Wiki: Wiki or article in a Wiki that discuss a topic.
+ * Wiki: Wiki or article in a Wiki that discuss a topic. This type of source does not have a year, nor an author.
 
 This index does not contain any kind of content, it is just a references center. One reference could be cited several times in this index.
 
@@ -30,11 +30,11 @@ Example:
 # A
 
 * Access Plan
-  * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Ember Crooks. Blog - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
+  * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Ember Crooks. 2013. Blog - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
 * Activated database
-  * DB2 Tips n Tricks Part 40 - How to Find DB was implicitly or explicitly activated or deactivated. DB2-LUW-ACADEMY. Harishkumar Pathanga. Video - https://www.youtube.com/watch?v=AdmNwiul0Yo
+  * DB2 Tips n Tricks Part 40 - How to Find DB was implicitly or explicitly activated or deactivated. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=AdmNwiul0Yo
 * Active Logs
-  * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
+  * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
 
 # B
 
@@ -47,19 +47,19 @@ Example:
   * Thoughts of DB2. Triton Consulting. Iqbal Goralwalla. Blog - http://blog.triton.co.uk/
   * Thoughts on IT, Life, DB2, and more. Data Henrik. Henrik Loeser. Blog - http://blog.4loeser.net
 * BLU
-  * DB2 monitoring enhancements for BLU Acceleration. DeveloperWorks. Scott Walkty, Mike Springgay, Dan Behman, David Kalmuk. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitor-bluaccel/index.html
+  * DB2 monitoring enhancements for BLU Acceleration. DeveloperWorks. Scott Walkty, Mike Springgay, Dan Behman, David Kalmuk. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitor-bluaccel/index.html
 
 # C
 
 * CLIENT_PRDID
- * DB2 Tips n Tricks Part 42 - How to Identify DB2 Client Release Version from Server. DB2-LUW-ACADEMY. Harishkumar Pathanga. Video - https://www.youtube.com/watch?v=XG8k5prZ7yA
+ * DB2 Tips n Tricks Part 42 - How to Identify DB2 Client Release Version from Server. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=XG8k5prZ7yA
 * Compound Statement
- * Compound statements. SQL-PL guide. Michael Spoden. Documentation - http://www.sqlpl-guide.com/Compound_statements
+ * Compound statements. SQL-PL guide. Michael Spoden. 2013. Documentation - http://www.sqlpl-guide.com/Compound_statements
  * Compound statement. IBM. Documentation - http://www-01.ibm.com/support/knowledgecenter/SSEPGG_10.5.0/com.ibm.db2.luw.apdv.sqlpl.doc/doc/c0053781.html?lang=en
 * Corruption
- * Diagnosing corruption when using IBM DB2. DeveloperWorks. Amitkumar Bamane. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1208corruptiondb2/index.html
+ * Diagnosing corruption when using IBM DB2. DeveloperWorks. Amitkumar Bamane. 2012. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1208corruptiondb2/index.html
 * CPUSPEED
- * Quick Hit Tips – CPUSPEED, RESTRICTIVE, and DB2_WORKLOAD. db2commerce. Michael Krafick. Blog - http://db2commerce.com/2014/08/19/quick-hit-tips-cpuspeed-restrictive-and-db2_workload/?utm_source=rss&utm_medium=rss&utm_campaign=quick-hit-tips-cpuspeed-restrictive-and-db2_workload
+ * Quick Hit Tips – CPUSPEED, RESTRICTIVE, and DB2_WORKLOAD. db2commerce. Michael Krafick. 2016. Blog - http://db2commerce.com/2014/08/19/quick-hit-tips-cpuspeed-restrictive-and-db2_workload/?utm_source=rss&utm_medium=rss&utm_campaign=quick-hit-tips-cpuspeed-restrictive-and-db2_workload
 
 # D
 
@@ -67,25 +67,30 @@ Example:
   * IBM DB2. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2
   * DB2 UDB. Wikipedia. Wiki - https://en.wikipedia.org/wiki/DB2_UDB
 * DB2_REDUCED_OPTIMIZATION
-  * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Crooks. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
+  * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Crooks. 2013. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
 * DB2_RESTORE_GRANT_ADMIN_AUTHORITIES
- * DB2 Tips n Tricks Part 41 - How to get Admin Authorities on a Restored Database. DB2-LUW-ACADEMY. Harishkumar Pathanga. Video - https://www.youtube.com/watch?v=IPM15F23VYA
+ * DB2 Tips n Tricks Part 41 - How to get Admin Authorities on a Restored Database. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=IPM15F23VYA
 * DB2_WORKLOAD
- * Registry Variables and DB2_WORKLOAD=WC. db2commerce. Ember Crooks. Blog - http://db2commerce.com/2010/06/07/registry-variables-and-db2_workloadwc/
- * Quick Hit Tips – CPUSPEED, RESTRICTIVE, and DB2_WORKLOAD. db2commerce. Michael Krafick. Blog - http://db2commerce.com/2014/08/19/quick-hit-tips-cpuspeed-restrictive-and-db2_workload/?utm_source=rss&utm_medium=rss&utm_campaign=quick-hit-tips-cpuspeed-restrictive-and-db2_workload
+ * Registry Variables and DB2_WORKLOAD=WC. db2commerce. Ember Crooks. 2010. Blog - http://db2commerce.com/2010/06/07/registry-variables-and-db2_workloadwc/
+ * Quick Hit Tips – CPUSPEED, RESTRICTIVE, and DB2_WORKLOAD. db2commerce. Michael Krafick. 2014. Blog - http://db2commerce.com/2014/08/19/quick-hit-tips-cpuspeed-restrictive-and-db2_workload/?utm_source=rss&utm_medium=rss&utm_campaign=quick-hit-tips-cpuspeed-restrictive-and-db2_workload
 * db2exfmt
-  * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Ember Crooks. Blog - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
+  * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Ember Crooks. 2013. Blog - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
 * db2flsn
-  * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
+  * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
 * db2trc
-  * DB2 Basics: An introduction to the DB2 UDB trace facility. DeveloperWorks. Roman Melnyk. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0409melnyk/
+  * DB2 Basics: An introduction to the DB2 UDB trace facility. DeveloperWorks. Roman Melnyk. 2004. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0409melnyk/
 * Deadlock
-  * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues. DeveloperWorks. Dirk Fechner. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
+  * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues. DeveloperWorks. Dirk Fechner. 2010. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
 * DFT_QUERYOPT
-  * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Crooks. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
+  * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Crooks. 2013. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
 * Documentation
   * SQL-PL Guide. SQL-PL Guide. Michael Spoden. Documentation - http://www.sqlpl-guide.com/
-  * Knowledgecenter. IBM. Documentation - http://www-01.ibm.com/support/knowledgecenter/SSEPGG_10.5.0/com.ibm.db2.luw.kc.doc/welcome.html?lang=en
+  * KnowledgeCenter DB2 11.1. IBM. Documentation - http://www.ibm.com/support/knowledgecenter/SSEPGG_11.1.0/com.ibm.db2.luw.kc.doc/welcome.html
+  * KnowledgeCenter DB2 10.5. IBM. Documentation - http://www.ibm.com/support/knowledgecenter/SSEPGG_10.5.0/com.ibm.db2.luw.kc.doc/welcome.html
+  * KnowledgeCenter DB2 10.1. IBM. Documentation - http://www.ibm.com/support/knowledgecenter/SSEPGG_10.1.0/com.ibm.db2.luw.kc.doc/welcome.html
+  * KnowledgeCenter DB2 9.8. IBM. Documentation - http://www.ibm.com/support/knowledgecenter/SSEPGG_9.8.0/com.ibm.db2.luw.kc.doc/welcome.html
+  * KnowledgeCenter DB2 9.7. IBM. Documentation - http://www.ibm.com/support/knowledgecenter/SSEPGG_9.7.0/com.ibm.db2.luw.kc.doc/welcome.html
+  * KnowledgeCenter DB2 9.5. IBM. Documentation - http://www.ibm.com/support/knowledgecenter/SSEPGG_9.5.0/com.ibm.db2.luw.kc.doc/welcome.html
 
 # E
 
