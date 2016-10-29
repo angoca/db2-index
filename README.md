@@ -21,4 +21,10 @@ about DB2:
 
 * Ember Crooks - DB2Commence. http://db2commerce.com/
 * Harishkumar Pathanga - DB2-LUW-Academy. https://www.youtube.com/user/DB2LUWAcademy/videos
+* Chris Eaton - An Expert's Guide to DB2 Technology. http://it.toolbox.com/blogs/db2luw/
+* Serge Rielau (瑞赛奇) and Rick Swagerman - SQL Tips for DB2 LUW. https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/
+* Michael Spoden - SQL PL Guide. http://www.sqlpl-guide.com/Contact
+* Fred Sobotka and Ian Bjorhovde - The Whole Package Cache. http://www.pkgcache.com/
+* Ian Bjorhovde - Create Database podcast. http://createdatabase.fm
+* Scott Hayes - The DB2night show. http://www.dbisoftware.com/db2nightshow/
 
