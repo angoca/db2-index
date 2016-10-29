@@ -2,9 +2,7 @@ Welcome to the db2-index wiki!
 
 This is an index where you can search for a term and get the related resources about that. The index is sorted in alphabetical order, and for each entry there is a title, a name of the source, a source type and an URL.
 
-This index does not contain any kind of content, it is just a references center. One reference could be cited several times in this index.
-
-These are the possible type of link:
+These are the possible source types of the link:
 
  * Article: The articles in DeveloperWorks, DataMagazine or something similar that follows an editorial process.
  * Blog: Personal article about DB2.
@@ -19,6 +17,17 @@ These are the possible type of link:
  * Video: Specific video about a topic.
  * Whitepaper: Commercial article about DB2 technologies.
  * Wiki: Wiki or article in a Wiki that discuss a topic.
+
+This index does not contain any kind of content, it is just a references center. One reference could be cited several times in this index.
+
+Example:
+
+# X <-- Letter
+
+* Concept
+  * Title of the link. Name of the source or hosting facility. Author. Source type - Link
+
+# INDEX
 
 # A
 
