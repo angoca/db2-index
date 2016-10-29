@@ -140,6 +140,8 @@ Example:
   * DB2 Tips n Tricks Part 37 - How To Load Compressed Files directly without Extracting to Harddisk. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=FT3UBxpeR9k
 * Index
   * When Index Scans Attack! db2commerce. Blog - http://db2commerce.com/2014/08/05/when-index-scans-attack/?utm_source=rss&utm_medium=rss&utm_campaign=when-index-scans-attack
+* Instrumentation
+  * log4db2 - A logging framework like log4j for IBM DB2 SQL-PL. GitHub. Andres Gomez. Project - https://github.com/angoca/log4db2
 * Isolation
   * Determine the effective isolation level in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1107db2isolationlevel/index.html
 
@@ -160,6 +162,10 @@ Example:
     * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
 * LOG_UTILIZATION
   * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
+* Log4db2
+  * log4db2 - A logging framework like log4j for IBM DB2 SQL-PL. GitHub. Andres Gomez. Project - https://github.com/angoca/log4db2
+  * How to use log4db2. AngocA. Andres Gomez. 2014. Video - https://www.youtube.com/watch?v=QeZmAiTLqdk
+  * Tracing log4db2 with sqlpltrc. Ideas for DB2. Andres Gomez. 2014 - http://angocadb2.blogspot.com.co/2014/02/tracing-log4db2-with-sqlpltrc.html
 
 # M
 
@@ -210,6 +216,15 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 * Snapshots
   * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
   * DB2 Tips n Tricks Part 38 - Limitation on Monitor Metrics by Dynamic SQL Snapshot. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=MO-UlXkiRoo
+* SQL PL
+  * SQL procedure tracing. DeveloperWorks. Serge Rielau. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0409rielau/
+* SQL PL Profiler
+  * Reality Check: SQL PL Profiler and plan explain with actual row counts. SQL Tips for DB2 LUW. Serge Rielau. 2011. Blog - https://www.ibm.com/developerworks/mydeveloperworks/blogs/SQLTips4DB2LUW/entry/sql_pl_profiler_and_plan_explain_with_actual_row_counts23
+  * More than a TRACE. Extending the SQL PL Profiler to do tracing. SQL Tips for DB2 LUW. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/mydeveloperworks/blogs/SQLTips4DB2LUW/entry/tracing
+  * Profiling SQL procedures. DeveloperWorks. Sundip Pradhan, Serge Rielau. 2004. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0406rielau/
+  * SQL PL Profiler - Again, better than ever. SQL Tips for DB2 LUW. Serge Rielau. 2011. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/sql_pl_profiler_again_better_than_ever25
+* sqlpltrc
+  * SQL procedure tracing. DeveloperWorks. Serge Rielau. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0409rielau/
 * Storage groups
   * DB2 Basics: Storage Groups. db2commerce. Blog - http://db2commerce.com/2014/07/22/db2-basics-storage-groups
 
@@ -223,6 +238,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
 * Trace
   * DB2 Basics: An introduction to the DB2 UDB trace facility. DeveloperWorks. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0409melnyk/
+  * SQL procedure tracing. DeveloperWorks. Serge Rielau. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0409rielau/
 * Twitter
   * DeveloperWorks. Twitter - https://twitter.com/developerWorks
   * IBM_DB2. Twitter - https://twitter.com/IBM_DB2
