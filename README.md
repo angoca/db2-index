@@ -29,4 +29,5 @@ about DB2:
 * Fred Sobotka and Ian Bjorhovde - The Whole Package Cache. http://www.pkgcache.com/
 * Ian Bjorhovde - Create Database podcast. http://createdatabase.fm
 * Scott Hayes - The DB2night show. http://www.dbisoftware.com/db2nightshow/
+* Vinay Kumar Bommana - DB Tutorials. https://www.youtube.com/channel/UCo0cIzR_TbMzU5wHQmbTjxQ/videos
 
