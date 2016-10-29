@@ -1,8 +1,8 @@
 Welcome to the db2-index wiki!
 
-This is an index where you can search for a term and get the related resources about that. The index is sorted in alphabetical order, and for each entry there is a title, the name of the source, the type and the URL.
+This is an index where you can search for a term and get the related resources about that. The index is sorted in alphabetical order, and for each entry there is a title, a name of the source, a source type and an URL.
 
-This index does not contain any kind of content, it is just a references center. One reference could be cited several times.
+This index does not contain any kind of content, it is just a references center. One reference could be cited several times in this index.
 
 These are the possible type of link:
 
@@ -12,6 +12,8 @@ These are the possible type of link:
  * Documentation: Documentation about DB2 in KnowledgeCenter or previous InfoCenters.
  * Forum: Discussions about a topic.
  * Planet: List of blogs.
+ * Program: A project that performs an advanced task in DB2.
+ * Script: Set of instructions to perform a job.
  * Support: Note written by the IBM support.
  * Twitter: Twitter account.
  * Video: Specific video about a topic.
@@ -195,13 +197,14 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 
 # T
 
+* Test
+  * Unit test SQL PL routines by using db2unit framework in DB2 LUW. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1501unittest-sql-db2/index.html
 * Tie-Breaking
   * Increase DB2 availability. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1406db2avail/index.html
 * Timeron
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
 * Trace
   * DB2 Basics: An introduction to the DB2 UDB trace facility. DeveloperWorks. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0409melnyk/
-
 * Twitter
   * DeveloperWorks. Twitter - https://twitter.com/developerWorks
   * IBM_DB2. Twitter - https://twitter.com/IBM_DB2
@@ -209,6 +212,12 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * IBM DB2 support. Twitter - https://twitter.com/db2_support
   * IBM Data magazine. Twitter - https://twitter.com/IBMdatamag
   * IBM Pure Data. Twitter - https://twitter.com/IBMPDASupport
+
+# U
+
+* Unit testing
+  * db2unit. GitHub. Project - https://github.com/angoca/db2unit
+  * Unit test SQL PL routines by using db2unit framework in DB2 LUW. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1501unittest-sql-db2/index.html
 
 # V
 
