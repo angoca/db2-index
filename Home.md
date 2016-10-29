@@ -22,9 +22,7 @@ This index does not contain any kind of content, it is just a references center.
 
 Example:
 
-## @
-
-* Concept
+* Concept name
   * Title of the link. Name of the source or hosting facility. Author. Source type - Link
 
 # INDEX
@@ -32,24 +30,24 @@ Example:
 # A
 
 * Access Plan
-  * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Blog - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
+  * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Ember Crooks. Blog - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
 * Activated database
-  * DB2 Tips n Tricks Part 40 - How to Find DB was implicitly or explicitly activated or deactivated. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=AdmNwiul0Yo
+  * DB2 Tips n Tricks Part 40 - How to Find DB was implicitly or explicitly activated or deactivated. DB2-LUW-ACADEMY. Harishkumar Pathanga. Video - https://www.youtube.com/watch?v=AdmNwiul0Yo
 * Active Logs
-  * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
+  * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
 
 # B
 
 * Blogs
-  * An Expert's Guide to DB2 Technology. itToolBox. Blog - http://it.toolbox.com/blogs/db2luw/
-  * Expert tips on building and administering DB2 LUW databases. db2commerce. Blog - http://db2commerce.com/
-  * Getting the Most out of DB2 for z/OS. itToolBox. Blog - http://it.toolbox.com/blogs/db2zos/
+  * An Expert's Guide to DB2 Technology. itToolBox. Chris Eaton. Blog - http://it.toolbox.com/blogs/db2luw/
+  * Expert tips on building and administering DB2 LUW databases. db2commerce. Ember Crooks. Blog - http://db2commerce.com/
+  * Getting the Most out of DB2 for z/OS. itToolBox. William Favero. Blog - http://it.toolbox.com/blogs/db2zos/
   * PlanetDB2. PlanetDB2. Planet - http://www.planetdb2.com/
-  * SQL Tips for DB2 LUW. DeveloperWorks. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/
-  * Thoughts of DB2. Triton Consulting. Blog - http://blog.triton.co.uk/
-  * Thoughts on IT, Life, DB2, and more. Henrik Loeser. Blog - http://blog.4loeser.net
+  * SQL Tips for DB2 LUW. DeveloperWorks. Serge Rielau and Rick Swagerman. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/
+  * Thoughts of DB2. Triton Consulting. Iqbal Goralwalla. Blog - http://blog.triton.co.uk/
+  * Thoughts on IT, Life, DB2, and more. Data Henrik. Henrik Loeser. Blog - http://blog.4loeser.net
 * BLU
-  * DB2 monitoring enhancements for BLU Acceleration. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitor-bluaccel/index.html
+  * DB2 monitoring enhancements for BLU Acceleration. DeveloperWorks. Scott Walkty, Mike Springgay, Dan Behman, David Kalmuk. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitor-bluaccel/index.html
 
 # C
 
