@@ -1,3 +1,5 @@
+[Access the Index - Wiki](https://github.com/angoca/db2-index/wiki)
+
 This project aims to provide a content index about all DB2 for LUW terms.
 This is not a documentation repository; instead, it is like the index of a book,
 and the Internet is the book.
