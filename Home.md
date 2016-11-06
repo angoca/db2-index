@@ -265,7 +265,6 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 * Twitter
   * DeveloperWorks. Twitter - https://twitter.com/developerWorks
   * IBM_DB2. Twitter - https://twitter.com/IBM_DB2
-  * IBM IM Support. Twitter - https://twitter.com/IBM_IM_Support
   * IBM DB2 support. Twitter - https://twitter.com/db2_support
   * IBM Data magazine. Twitter - https://twitter.com/IBMdatamag
   * IBM Pure Data. Twitter - https://twitter.com/IBMPDASupport
