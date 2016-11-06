@@ -7,6 +7,7 @@ In this section, the main DB2 sources are described:
 * Ian Bjorhovde - Create Database podcast (Podcast about DB2 persons 🔉 ). http://createdatabase.fm
 * Scott Hayes - The DB2night show ( 📺  Videos and Webminars of DB2, also contests 😀 ). http://www.dbisoftware.com/db2nightshow/
 * Vinay Kumar Bommana - DB Tutorials (Videos of DB2 🎥 ). https://www.youtube.com/channel/UCo0cIzR_TbMzU5wHQmbTjxQ/videos
+* Vikram Khatri - Zinox (Blog of technical stuff). http://www.zinox.com/
 
 These blogs are not longer updated 😞 
 
