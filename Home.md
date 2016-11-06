@@ -290,4 +290,3 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 * Wiki
   * DB2 Database Professionals. DeveloperWorks. Wiki - https://www.ibm.com/developerworks/community/groups/service/html/communityview?lang=en&communityUuid=fc834388-7630-4b28-9abd-2f6e702b7df7
   * IBM DB2 - Wiki. Toad. Wiki - http://www.toadworld.com/platforms/ibmdb2/w/wiki/default.aspx
-  * IBM DB2 Database for Linux, UNIX, and Windows. Apricot Life. Wiki - http://kawases.wikispaces.com/IBM+DB2+Database+for+Linux%2C+UNIX%2C+and+Windows (No valid at 29/10/2016)
