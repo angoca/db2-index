@@ -35,11 +35,15 @@ Example:
   * DB2 Tips n Tricks Part 40 - How to Find DB was implicitly or explicitly activated or deactivated. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=AdmNwiul0Yo
 * Active Logs
   * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
+  * Quantity of files in the active log directory (including those from renameArray). Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/03/quantity-of-files-in-active-log.html
+* Authorities
+  * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html
 
 # B
 
 * Backup
   * DB2 Tips n Tricks Part 97 - How To Take Offline Backup of Tablespace. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=tT1K3uamwxc
+  * Backup terminated vs Backup complete. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/04/backup-terminated-vs-backup-complete.html
 * BlockedNonLogged
   * DB2 Tips n Tricks Part 28 - How to Avoid Non Logged Operations in a Database. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=YkEJRS6sfTQ
   * blocknonlogged - Block creation of tables that allow non-logged activity configuration parameter. IBM. Documentation - http://www.ibm.com/support/knowledgecenter/SSEPGG_11.1.0/com.ibm.db2.luw.admin.config.doc/doc/r0055068.html
@@ -68,6 +72,8 @@ Example:
  * Diagnosing corruption when using IBM DB2. DeveloperWorks. Amitkumar Bamane. 2012. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1208corruptiondb2/index.html
 * CPUSPEED
  * Quick Hit Tips – CPUSPEED, RESTRICTIVE, and DB2_WORKLOAD. db2commerce. Michael Krafick. 2016. Blog - http://db2commerce.com/2014/08/19/quick-hit-tips-cpuspeed-restrictive-and-db2_workload/?utm_source=rss&utm_medium=rss&utm_campaign=quick-hit-tips-cpuspeed-restrictive-and-db2_workload
+* Creation
+  * Default directory for DB creations. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/02/default-directory-for-db-creations.html
 
 # D
 
@@ -81,16 +87,30 @@ Example:
 * DB2_WORKLOAD
  * Registry Variables and DB2_WORKLOAD=WC. db2commerce. Ember Crooks. 2010. Blog - http://db2commerce.com/2010/06/07/registry-variables-and-db2_workloadwc/
  * Quick Hit Tips – CPUSPEED, RESTRICTIVE, and DB2_WORKLOAD. db2commerce. Michael Krafick. 2014. Blog - http://db2commerce.com/2014/08/19/quick-hit-tips-cpuspeed-restrictive-and-db2_workload/?utm_source=rss&utm_medium=rss&utm_campaign=quick-hit-tips-cpuspeed-restrictive-and-db2_workload
+* db2diag
+  * Backup terminated vs Backup complete. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/04/backup-terminated-vs-backup-complete.html
 * db2exfmt
   * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Ember Crooks. 2013. Blog - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
 * db2flsn
   * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
+* db2look
+  * db2look from stored procedure. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/10/db2look-from-stored-procedure.html
+* db2rfe
+  * db2rfe for non-root installations. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/01/db2rfe-for-non-root-instalations.html
 * db2trc
   * DB2 Basics: An introduction to the DB2 UDB trace facility. DeveloperWorks. Roman Melnyk. 2004. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0409melnyk/
+* dbpath
+  * Default directory for DB creations. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/02/default-directory-for-db-creations.html
+* DDL
+  * db2look from stored procedure. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/10/db2look-from-stored-procedure.html
 * Deadlock
   * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues. DeveloperWorks. Dirk Fechner. 2010. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
 * DFT_QUERYOPT
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Crooks. 2013. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
+* dftdbpath
+  * Default directory for DB creations. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/02/default-directory-for-db-creations.html
+* Directories
+  * Default directory for DB creations. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/02/default-directory-for-db-creations.html
 * Documentation
   * SQL-PL Guide. SQL-PL Guide. Michael Spoden. Documentation - http://www.sqlpl-guide.com/
   * KnowledgeCenter DB2 11.1. IBM. Documentation - http://www.ibm.com/support/knowledgecenter/SSEPGG_11.1.0/com.ibm.db2.luw.kc.doc/welcome.html
@@ -102,6 +122,10 @@ Example:
 
 # E
 
+* EOL
+  * Problems when executing commands from files in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/09/problems-when-executing-commands-from.html
+* Encoding
+  * Problems when executing commands from files in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/09/problems-when-executing-commands-from.html
 * Event monitor
   * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
 * Explain
@@ -113,6 +137,8 @@ Example:
 
 # F
 
+* Files
+  * Problems when executing commands from files in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/09/problems-when-executing-commands-from.html
 * Fixpack
   * Fix List for DB2 Version 10.5 for Linux, UNIX and Windows. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21633303
 * Force application
@@ -129,6 +155,11 @@ Example:
   * Forum: IBM DB2. Database Journal. Forum - http://forums.databasejournal.com/forumdisplay.php?8-IBM-DB2
   * IBM: DB2 Forum. Tek Tips. Forum - http://www.tek-tips.com/threadminder.cfm?pid=178
   * IBM DB2 for Linux, Unix, and Windows Forum. DeveloperWorks. Forum - https://www.ibm.com/developerworks/community/forums/html/forum?id=11111111-0000-0000-0000-000000000842&ps=25
+
+# G
+
+* Grant
+  * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html
 
 # H
 
@@ -164,6 +195,7 @@ Example:
     * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
 * Logs
   * DB2 Tips n Tricks Part 96 - How to run very huge transaction with less active log space file system. DB2-LUW-ACADEMY. Video - https://youtu.be/JCpGwm_ZTv0
+  * Quantity of files in the active log directory (including those from renameArray). Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/03/quantity-of-files-in-active-log.html
 * LOG_UTILIZATION
   * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
 * LOGSECOND
@@ -171,7 +203,7 @@ Example:
 * Log4db2
   * log4db2 - A logging framework like log4j for IBM DB2 SQL-PL. GitHub. Andres Gomez. Project - https://github.com/angoca/log4db2
   * How to use log4db2. AngocA. Andres Gomez. 2014. Video - https://www.youtube.com/watch?v=QeZmAiTLqdk
-  * Tracing log4db2 with sqlpltrc. Ideas for DB2. Andres Gomez. 2014 - http://angocadb2.blogspot.com.co/2014/02/tracing-log4db2-with-sqlpltrc.html
+  * Tracing log4db2 with sqlpltrc. Ideas for DB2 (Spanish). Andres Gomez. 2014 - http://angocadb2.blogspot.com.co/2014/02/tracing-log4db2-with-sqlpltrc.html
 
 # M
 
@@ -180,6 +212,7 @@ Example:
 * Monitoring
   * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
   * DB2 monitoring enhancements for BLU Acceleration. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitor-bluaccel/index.html
+  * How to monitor operations in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/11/how-to-monitor-operations-in-db2.html
 * MON_GET_PKG_CACHE_STMT
   * https://www.youtube.com/watch?v=MO-UlXkiRoo
 
@@ -187,6 +220,8 @@ Example:
 
 * Named-pipe
   * DB2 Tips n Tricks Part 37 - How To Load Compressed Files directly without Extracting to Harddisk. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=FT3UBxpeR9k
+* Non-root installation
+  * db2rfe for non-root installations. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/01/db2rfe-for-non-root-instalations.html
 * num_initfenced
   * DB2 Tips n Tricks Part 46 - How to Find Fenced User ID for an Instance. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=tFonyCpVisU
 
@@ -196,6 +231,8 @@ Example:
   * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Blog - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
 * Performance
   * Best Practices for Optimizing DB2 Performance. DatAvail. Webminar - http://www.datavail.com/datavail-resources/webinar-optimizing-db2-performance/
+* Permission
+  * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html
 * PureXML
   * pureXML. Wikipedia. Wiki - https://en.wikipedia.org/wiki/PureXML
 * Python
@@ -209,10 +246,14 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 
 # R
 
+* RenameArray
+  * Quantity of files in the active log directory (including those from renameArray). Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/03/quantity-of-files-in-active-log.html
 * Restore
   * DB2 Tips n Tricks Part 97 - How To Take Offline Backup of Tablespace. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=tT1K3uamwxc
 * Rollforward
   * DB2 Tips n Tricks Part 97 - How To Take Offline Backup of Tablespace. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=tT1K3uamwxc
+* Root installation
+  * db2rfe for non-root installations. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/01/db2rfe-for-non-root-instalations.html
 
 
 # S
@@ -232,6 +273,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
     * DB2 security, Part 8: Twelve DB2 security best practices. http://www.ibm.com/developerworks/data/library/techarticle/dm-0607wasserman/index.html
     * DB2 security, Part 10: Deploy customized security plug-ins in DB2 9. http://www.ibm.com/developerworks/data/library/techarticle/dm-0610see/index.html
     * DB2 Security, Part 11: Develop a security plug-in for DB2 database authentication. http://www.ibm.com/developerworks/data/library/techarticle/dm-0802kligerman/
+  * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html
 * Snapshots
   * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
   * DB2 Tips n Tricks Part 38 - Limitation on Monitor Metrics by Dynamic SQL Snapshot. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=MO-UlXkiRoo
@@ -242,10 +284,15 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * More than a TRACE. Extending the SQL PL Profiler to do tracing. SQL Tips for DB2 LUW. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/mydeveloperworks/blogs/SQLTips4DB2LUW/entry/tracing
   * Profiling SQL procedures. DeveloperWorks. Sundip Pradhan, Serge Rielau. 2004. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0406rielau/
   * SQL PL Profiler - Again, better than ever. SQL Tips for DB2 LUW. Serge Rielau. 2011. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/sql_pl_profiler_again_better_than_ever25
+* sqllib
+  * db2rfe for non-root installations. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/01/db2rfe-for-non-root-instalations.html
 * sqlpltrc
   * SQL procedure tracing. DeveloperWorks. Serge Rielau. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0409rielau/
 * Storage groups
   * DB2 Basics: Storage Groups. db2commerce. Blog - http://db2commerce.com/2014/07/22/db2-basics-storage-groups
+* Structure
+  * db2look from stored procedure. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/10/db2look-from-stored-procedure.html
+
 
 # T
 
@@ -271,6 +318,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 
 # U
 
+* User
+  * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html
 * Unit testing
   * db2unit. GitHub. Project - https://github.com/angoca/db2unit
   * Unit test SQL PL routines by using db2unit framework in DB2 LUW. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1501unittest-sql-db2/index.html
@@ -287,6 +336,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 
 # W
 
+* Watch
+  * How to monitor operations in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/11/how-to-monitor-operations-in-db2.html
 * Wiki
   * DB2 Database Professionals. DeveloperWorks. Wiki - https://www.ibm.com/developerworks/community/groups/service/html/communityview?lang=en&communityUuid=fc834388-7630-4b28-9abd-2f6e702b7df7
   * IBM DB2 - Wiki. Toad. Wiki - http://www.toadworld.com/platforms/ibmdb2/w/wiki/default.aspx
