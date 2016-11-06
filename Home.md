@@ -6,6 +6,7 @@ These are the possible source types of the link:
 
  * Article: The articles in DeveloperWorks, DataMagazine or something similar that follows an editorial process.
  * Blog: Personal article about DB2.
+ * Book: Digital book available for free.
  * Channel: Set of videos in YouTube or similar service. This type of source does not have a year, nor an author.
  * Documentation: Documentation about DB2 in KnowledgeCenter or previous InfoCenters. This type of source does not have a year, nor an author.
  * Forum: Discussions about a topic. This could make reference to specific question about the topic. This type of source does not have an author.
@@ -60,6 +61,8 @@ Example:
   * Thoughts on IT, Life, DB2, and more. Data Henrik. Henrik Loeser. Blog - http://blog.4loeser.net
 * BLU
   * DB2 monitoring enhancements for BLU Acceleration. DeveloperWorks. Scott Walkty, Mike Springgay, Dan Behman, David Kalmuk. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitor-bluaccel/index.html
+  * DB2 10.5 with Blu Acceleration (IMM14140USEN). DB2 with BLU Acceleration. Paul Zikopoulus, Sam Lightstone et al. Book. 2014 - http://www.ibmbluhub.com/wp-content/uploads/2014/06/IMM14140USEN_DB2_10.5_with_BLU_Acceleration_flash_book.pdf
+  * Architecting and Deploying DB2 with BLU Acceleration. Whei-Jen Chen, Brigitte Blaser et al. IBM RedBooks. Book. 2015 - http://www.redbooks.ibm.com/abstracts/sg248212.html
 
 # C
 
@@ -247,6 +250,10 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 
 # R
 
+* RedBooks
+  * Architecting and Deploying DB2 with BLU Acceleration. Whei-Jen Chen, Brigitte Blaser et al. IBM RedBooks. Book. 2015 - http://www.redbooks.ibm.com/abstracts/sg248212.html
+  * Unleashing DB2 10 for Linux, UNIX, and Windows. Danny Arnold, Steve Diniro et al. IBM RedBooks. Book. 2012 - http://www.redbooks.ibm.com/abstracts/sg248032.html
+  * Up and Running with DB2 on Linux. Whei-Jen Chen, Christian Hideaki Kondo et al.  IBM RedBooks. Book. 2008 - http://www.redbooks.ibm.com/abstracts/sg246899.html
 * RenameArray
   * Quantity of files in the active log directory (including those from renameArray). Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/03/quantity-of-files-in-active-log.html
 * Restore
@@ -299,6 +306,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 
 * Tablespace
   * DB2 Tips n Tricks Part 97 - How To Take Offline Backup of Tablespace. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=tT1K3uamwxc
+* Tech Talks
+  * DB2 tech talks. IDUG. Video - http://www.idug.org/p/cm/ld/fid=703
 * Test
   * Unit test SQL PL routines by using db2unit framework in DB2 LUW. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1501unittest-sql-db2/index.html
 * Tie-Breaking
@@ -347,3 +356,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * IBM DB2 Express-C. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2_Express-C
   * DB2 UDB. Wikipedia. Wiki - https://en.wikipedia.org/wiki/DB2_UDB
   * pureXML. Wikipedia. Wiki - https://en.wikipedia.org/wiki/PureXML
+
+# #
+
+* 10.5
+  * DB2 10.5 with Blu Acceleration (IMM14140USEN). DB2 with BLU Acceleration. Paul Zikopoulus, Sam Lightstone et al. Book. 2014 - http://www.ibmbluhub.com/wp-content/uploads/2014/06/IMM14140USEN_DB2_10.5_with_BLU_Acceleration_flash_book.pdf
