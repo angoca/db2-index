@@ -1,6 +1,6 @@
 Welcome to the db2-index wiki!
 
-This is an index where you can search for a term and get the related resources about that. The index is sorted in alphabetical order, and each entry has: the title, the hosting name, (optional) the author, (optional), the year, the source type and the URL.
+This is an index where you can search for a DB2 term and get the related Internet resources which are for free (or that only needs registration). The index is sorted in alphabetical order, and each entry has: the title, the hosting name, (optional) the author, (optional), the year, the source type and the URL.
 
 These are the possible source types of the link:
 
