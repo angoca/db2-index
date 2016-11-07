@@ -141,6 +141,8 @@ Example:
 
 # F
 
+* File System
+  *   * Log full condition. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/11/log-full-condition.html
 * Files
   * Problems when executing commands from files in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/09/problems-when-executing-commands-from.html
 * Fixpack
@@ -200,6 +202,7 @@ Example:
 * Logs
   * DB2 Tips n Tricks Part 96 - How to run very huge transaction with less active log space file system. DB2-LUW-ACADEMY. Video - https://youtu.be/JCpGwm_ZTv0
   * Quantity of files in the active log directory (including those from renameArray). Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/03/quantity-of-files-in-active-log.html
+  * Log full condition. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/11/log-full-condition.html
 * LOG_UTILIZATION
   * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
 * LOGSECOND
@@ -217,8 +220,9 @@ Example:
   * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
   * DB2 monitoring enhancements for BLU Acceleration. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitor-bluaccel/index.html
   * How to monitor operations in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/11/how-to-monitor-operations-in-db2.html
+  * Log full condition. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/11/log-full-condition.html
 * MON_GET_PKG_CACHE_STMT
-  * https://www.youtube.com/watch?v=MO-UlXkiRoo
+  * DB2 Tips n Tricks Part 38 - Limitation on Monitor Metrics by Dynamic SQL Snapshot. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=MO-UlXkiRoo
 
 # N
 
