@@ -24,7 +24,7 @@ This index does not contain any kind of content, it is just a references center.
 Example:
 
 * Concept name
-  * Title of the link. Name of the source or hosting facility. Author. Source type - Link
+  * Title of the link. Name of the source or hosting facility. Author. Year. Source type - Link
 
 # INDEX
 
@@ -347,7 +347,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 # W
 
 * Watch
-  * How to monitor operations in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/11/how-to-monitor-operations-in-db2.html
+  * How to monitor operations in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/how-to-monitor-operations-in-db2.html
+  * Unix command of the day: watch. Leons on Tech. Leons Petrazickis. 2016 http://lpetr.org/blog/archives/unix-command-of-the-day-watch
 * Wiki
   * DB2 Database Professionals. DeveloperWorks. Wiki - https://www.ibm.com/developerworks/community/groups/service/html/communityview?lang=en&communityUuid=fc834388-7630-4b28-9abd-2f6e702b7df7
   * IBM DB2 - Wiki. Toad. Wiki - http://www.toadworld.com/platforms/ibmdb2/w/wiki/default.aspx
