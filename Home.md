@@ -71,6 +71,8 @@ Example:
 * Compound Statement
  * Compound statements. SQL-PL guide. Michael Spoden. 2013. Documentation - http://www.sqlpl-guide.com/Compound_statements
  * Compound statement. IBM. Documentation - http://www-01.ibm.com/support/knowledgecenter/SSEPGG_10.5.0/com.ibm.db2.luw.apdv.sqlpl.doc/doc/c0053781.html?lang=en
+* Conversion, tablespace
+  * DB2 Tips n Tricks Part 98 - How Conversion of Regular to Large Tablespace Impacts Recovery. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=uJ2_HXMY6A4
 * Corruption
  * Diagnosing corruption when using IBM DB2. DeveloperWorks. Amitkumar Bamane. 2012. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1208corruptiondb2/index.html
 * CPUSPEED
@@ -216,6 +218,8 @@ Example:
 
 * Magazine
   * DataMagazine. DataMagazine. Magazine - http://ibmdatamag.com/
+* Minimum Recovery Time (MIR)
+  * DB2 Tips n Tricks Part 98 - How Conversion of Regular to Large Tablespace Impacts Recovery. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=uJ2_HXMY6A4
 * Monitoring
   * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
   * DB2 monitoring enhancements for BLU Acceleration. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitor-bluaccel/index.html
@@ -241,6 +245,8 @@ Example:
   * Best Practices for Optimizing DB2 Performance. DatAvail. Webminar - http://www.datavail.com/datavail-resources/webinar-optimizing-db2-performance/
 * Permission
   * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html
+* Point in Time Recovery (PIT)
+  * DB2 Tips n Tricks Part 98 - How Conversion of Regular to Large Tablespace Impacts Recovery. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=uJ2_HXMY6A4
 * PureXML
   * pureXML. Wikipedia. Wiki - https://en.wikipedia.org/wiki/PureXML
 * Python
@@ -264,6 +270,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * DB2 Tips n Tricks Part 97 - How To Take Offline Backup of Tablespace. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=tT1K3uamwxc
 * Rollforward
   * DB2 Tips n Tricks Part 97 - How To Take Offline Backup of Tablespace. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=tT1K3uamwxc
+  * DB2 Tips n Tricks Part 98 - How Conversion of Regular to Large Tablespace Impacts Recovery. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=uJ2_HXMY6A4
 * Root installation
   * db2rfe for non-root installations. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/01/db2rfe-for-non-root-instalations.html
 
@@ -310,6 +317,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 
 * Tablespace
   * DB2 Tips n Tricks Part 97 - How To Take Offline Backup of Tablespace. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=tT1K3uamwxc
+  * DB2 Tips n Tricks Part 98 - How Conversion of Regular to Large Tablespace Impacts Recovery. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=uJ2_HXMY6A4
 * Tech Talks
   * DB2 tech talks. IDUG. Video - http://www.idug.org/p/cm/ld/fid=703
 * Test
