@@ -73,7 +73,7 @@ Example:
 * CLIENT_PRDID
  * DB2 Tips n Tricks Part 42 - How to Identify DB2 Client Release Version from Server. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=XG8k5prZ7yA
 * Compound Statement
- * Compound statements. SQL-PL guide. Michael Spoden. 2013. Documentation - http://www.sqlpl-guide.com/Compound_statements
+ * Compound statements. SQL-PL guide. Michael Spoden. 2013. Documentation - http://www.sqlpl-guide.com/compound-statements/
  * Compound statement. IBM. Documentation - http://www-01.ibm.com/support/knowledgecenter/SSEPGG_10.5.0/com.ibm.db2.luw.apdv.sqlpl.doc/doc/c0053781.html?lang=en
 * Container
   * DB2 Tips n Tricks Part 99 - How To Perform Redirected Restore without REDIRECT Keyword. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=B2OWBhNg_E8
@@ -289,7 +289,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 # S
 
 * SAR: SQL Archive file
-  * Hide the body of a SQL PL Stored Procedure. SQL-PL guide. Documentation - http://www.sqlpl-guide.com/Hide_procedure_body
+  * Hide the body of a SQL PL Stored Procedure. SQL-PL guide. Documentation - http://www.sqlpl-guide.com/hide-procedure-body/
   * DB2 Tips n Tricks Part 39 - Deploy Stored Procedure without revealing source code. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=WxxKOYee9ZU
 * Security
   * DB2 UDB security. DeveloperWorks. Serie 11 articles
