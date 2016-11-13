@@ -1,7 +1,4 @@
-Welcome to the db2-index wiki!
-
-This is an index where you can search for a DB2 term and get the related Internet resources which are for free (or that only needs registration). 
-# INDEX
+This is an index where you can search for a DB2 term and get the related Internet resources which are for free access or that only needs registration.
 
 # A
 
