@@ -1,3 +1,4 @@
+* [Instructions](instructions)
 * [A](home#a)
 * [B](home#b)
 * [C](home#c)
@@ -8,11 +9,11 @@
 * [H](home#h)
 * [I](home#i)
 * [J](home#j)
-* [K](home#k)
+* K
 * [L](home#l)
 * [M](home#m)
 * [N](home#n)
-* [O](home#o)
+* O
 * [P](home#p)
 * [Q](home#q)
 * [R](home#r)
@@ -21,6 +22,7 @@
 * [U](home#u)
 * [V](home#v)
 * [W](home#w)
-* [X](home#x)
-* [Y](home#y)
-* [Z](home#z)
+* X
+* Y
+* Z
+* [Number](home#number)
