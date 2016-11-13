@@ -1,4 +1,17 @@
-The index is sorted in alphabetical order, and each entry has: the title, the hosting name ((optional) language if different to English), (optional) the author, (optional), the year, the source type and the URL.
+The index is sorted in alphabetical order, and each entry has:
+
+* The title.
+* The hosting name.
+* (Optional) language if different to English; in parenthesis.
+* (Optional) the author.
+* (Optional) the year.
+* The source type
+* The URL.
+
+This is the structure of an entry in the index:
+
+* Concept name
+  * Title of the link. Name of the source or hosting facility (Language). Author. Year. Source type - Link
 
 These are the possible source types of the link:
 
@@ -17,9 +30,9 @@ These are the possible source types of the link:
  * Whitepaper: Commercial article about DB2 technologies.
  * Wiki: Wiki or article in a Wiki that discuss a topic. This type of source does not have a year, nor an author.
 
-This index does not contain any kind of content, it is just a references center. One reference could be cited several times in this index.
+This index does not contain any kind of content, it is just a references center. One reference could be cited several times in this index, because it could explain different DB2 concepts.
 
 Example:
 
-* Concept name
-  * Title of the link. Name of the source or hosting facility (Language). Author. Year. Source type - Link
+* db2diag
+  * Backup terminated vs Backup complete. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/04/backup-terminated-vs-backup-complete.html
