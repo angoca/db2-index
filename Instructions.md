@@ -35,4 +35,4 @@ This index does not contain any kind of content, it is just a references center.
 Example:
 
 * db2diag
-  * Backup terminated vs Backup complete. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/04/backup-terminated-vs-backup-complete.html
+  * Backup terminated vs Backup complete. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/04/backup-terminated-vs-backup-complete.html
