@@ -311,25 +311,25 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 
 * SAR: SQL Archive file
   * Hide the body of a SQL PL Stored Procedure. SQL-PL guide. Documentation - http://www.sqlpl-guide.com/hide-procedure-body/
-  * DB2 Tips n Tricks Part 39 - Deploy Stored Procedure without revealing source code. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=WxxKOYee9ZU
+  * DB2 Tips n Tricks Part 39 - Deploy Stored Procedure without revealing source code. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=WxxKOYee9ZU
 * Security
   * DB2 UDB security. DeveloperWorks. Serie 11 articles
-    * DB2 UDB security, Part 1: Understand how user and group accounts interact with DB2 UDB. http://www.ibm.com/developerworks/data/library/techarticle/dm-0508wasserman/index.html
-    * DB2 security, Part 2: Understand the DB2 for Linux, UNIX, and Windows security plug-ins. http://www.ibm.com/developerworks/data/library/techarticle/dm-0512chong/index.html
-    * DB2 UDB security, Part 3: Security plug-ins using the GSS-API security mechanisms (SPKM / LIPKEY). http://www.ibm.com/developerworks/data/library/techarticle/dm-0512patil/index.html
-    * DB2 UDB security, Part 4: Understand how authorities and privileges are implemented in DB2 UDB. http://www.ibm.com/developerworks/data/library/techarticle/dm-0601wasserman/index.html
-    * DB2 UDB security, Part 5: Understand the DB2 audit facility. http://www.ibm.com/developerworks/data/library/techarticle/dm-0603wasserman/index.html
-    * DB2 UDB security, Part 6: Configure Kerberos for authentication on DB2 UDB for Linux, UNIX, and Windows. http://www.ibm.com/developerworks/data/library/techarticle/dm-0603see/index.html
-    * DB2 security, Part 7: Object ownership management for DB2 9. http://www.ibm.com/developerworks/data/library/techarticle/dm-0608see/index.html
-    * DB2 security, Part 8: Twelve DB2 security best practices. http://www.ibm.com/developerworks/data/library/techarticle/dm-0607wasserman/index.html
-    * DB2 security, Part 10: Deploy customized security plug-ins in DB2 9. http://www.ibm.com/developerworks/data/library/techarticle/dm-0610see/index.html
-    * DB2 Security, Part 11: Develop a security plug-in for DB2 database authentication. http://www.ibm.com/developerworks/data/library/techarticle/dm-0802kligerman/
+    * DB2 UDB security, Part 1: Understand how user and group accounts interact with DB2 UDB. DeveloperWorks. Ted Wasserman, Raul Chong. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0508wasserman/index.html
+    * DB2 security, Part 2: Understand the DB2 for Linux, UNIX, and Windows security plug-ins. DeveloperWorks. Kevin Yeung-Kuen See. 2011. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0512chong/index.html
+    * DB2 UDB security, Part 3: Security plug-ins using the GSS-API security mechanisms (SPKM / LIPKEY). DeveloperWorks. Sandeep Patil. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0512patil/index.html
+    * DB2 UDB security, Part 4: Understand how authorities and privileges are implemented in DB2 UDB. DeveloperWorks. Ted J. Wasserman. 2012. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0601wasserman/index.html
+    * DB2 UDB security, Part 5: Understand the DB2 audit facility. DeveloperWorks. Ted J. Wasserman. 2012. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0603wasserman/index.html
+    * DB2 UDB security, Part 6: Configure Kerberos for authentication on DB2 UDB for Linux, UNIX, and Windows. DeveloperWorks. Kevin Yeung-Kuen See. 2006. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0603see/index.html
+    * DB2 security, Part 7: Object ownership management for DB2 9. DeveloperWorks. Kevin Yeung-Kuen See. 2006. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0608see/index.html
+    * DB2 security, Part 8: Twelve DB2 security best practices. DeveloperWorks. Ted J. Wasserman. 2006. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0607wasserman/index.html
+    * DB2 security, Part 10: Deploy customized security plug-ins in DB2 9. DeveloperWorks. Kevin Yeung-Kuen See. 2010. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0610see/index.html
+    * DB2 Security, Part 11: Develop a security plug-in for DB2 database authentication. DeveloperWorks. Gene Kligerman. 2009. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0802kligerman/
   * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html
 * Shell
   * Escape characters in shell for DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/escape-characters-in-shell-for-db2.html
 * Snapshots
-  * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
-  * DB2 Tips n Tricks Part 38 - Limitation on Monitor Metrics by Dynamic SQL Snapshot. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=MO-UlXkiRoo
+  * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Scott Walkty. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
+  * DB2 Tips n Tricks Part 38 - Limitation on Monitor Metrics by Dynamic SQL Snapshot. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=MO-UlXkiRoo
 * SQL PL
   * SQL procedure tracing. DeveloperWorks. Serge Rielau. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0409rielau/
 * SQL PL Profiler
@@ -344,7 +344,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 * Start / Stop instance
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
 * Storage groups
-  * DB2 Basics: Storage Groups. db2commerce. Blog - http://db2commerce.com/2014/07/22/db2-basics-storage-groups
+  * DB2 Basics: Storage Groups. db2commerce. Ember Brooks. 2014. Blog - http://db2commerce.com/2014/07/22/db2-basics-storage-groups
   * DB2 Tips n Tricks Part 99 - How To Perform Redirected Restore without REDIRECT Keyword. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=B2OWBhNg_E8
 * Structure
   * db2look from stored procedure. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/10/db2look-from-stored-procedure.html
@@ -358,16 +358,16 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 * Tech Talks
   * DB2 tech talks. IDUG. Video - http://www.idug.org/p/cm/ld/fid=703
 * Test
-  * Unit test SQL PL routines by using db2unit framework in DB2 LUW. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1501unittest-sql-db2/index.html
+  * Unit test SQL PL routines by using db2unit framework in DB2 LUW. DeveloperWorks. Andres Gomez. 2015. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1501unittest-sql-db2/index.html
 * Tie-Breaking
-  * Increase DB2 availability. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1406db2avail/index.html
+  * Increase DB2 availability. DeveloperWorks. Stephen Holt. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1406db2avail/index.html
 * Timeron
-  * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
+  * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Brooks. 2013. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
 * Trace
-  * DB2 Basics: An introduction to the DB2 UDB trace facility. DeveloperWorks. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0409melnyk/
+  * DB2 Basics: An introduction to the DB2 UDB trace facility. DeveloperWorks. Roman Melnyk. 2014. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0409melnyk/
   * SQL procedure tracing. DeveloperWorks. Serge Rielau. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0409rielau/
 * Transactions
-  * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
+  * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
 * Twitter
   * DeveloperWorks. Twitter - https://twitter.com/developerWorks
   * IBM_DB2. Twitter - https://twitter.com/IBM_DB2
@@ -381,7 +381,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html
 * Unit testing
   * db2unit. GitHub. Project - https://github.com/angoca/db2unit
-  * Unit test SQL PL routines by using db2unit framework in DB2 LUW. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1501unittest-sql-db2/index.html
+  * Unit test SQL PL routines by using db2unit framework in DB2 LUW. DeveloperWorks. Andres Gomez. 2015. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1501unittest-sql-db2/index.html
 
 # V
 
