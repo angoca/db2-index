@@ -268,7 +268,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 # P
 
 * Parameter Markers
-  * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Blog - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
+  * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Ember Crooks. 2013. Blog - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
 * Performance
   * Best Practices for Optimizing DB2 Performance. DatAvail. Webminar - http://www.datavail.com/datavail-resources/webinar-optimizing-db2-performance/
   * DB2 Performance Myth Buster 1 - How Bufferpool with 100% Hit Ratio still has Performance Bottleneck. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=BtuUA6V7vmY
@@ -279,7 +279,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * PureXML
   * pureXML. Wikipedia. Wiki - https://en.wikipedia.org/wiki/PureXML
 * Python
-  * Using DB2 with Python on Cloud Foundry-Based IBM Bluemix. Henrik Loeser. Blog - 
+  * Using DB2 with Python on Cloud Foundry-Based IBM Bluemix. Data Henrik. Henrik Loeser. Blog - 
 http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 
 # Q
@@ -290,9 +290,9 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 # R
 
 * RedBooks
-  * Architecting and Deploying DB2 with BLU Acceleration. Whei-Jen Chen, Brigitte Blaser et al. IBM RedBooks. Book. 2015 - http://www.redbooks.ibm.com/abstracts/sg248212.html
-  * Unleashing DB2 10 for Linux, UNIX, and Windows. Danny Arnold, Steve Diniro et al. IBM RedBooks. Book. 2012 - http://www.redbooks.ibm.com/abstracts/sg248032.html
-  * Up and Running with DB2 on Linux. Whei-Jen Chen, Christian Hideaki Kondo et al.  IBM RedBooks. Book. 2008 - http://www.redbooks.ibm.com/abstracts/sg246899.html
+  * Up and Running with DB2 on Linux. IBM RedBooks. Whei-Jen Chen, Christian Hideaki Kondo et al. 2008. Book - http://www.redbooks.ibm.com/abstracts/sg246899.html
+  * Unleashing DB2 10 for Linux, UNIX, and Windows. IBM RedBooks. Danny Arnold, Steve Diniro et al. 2012. Book - http://www.redbooks.ibm.com/abstracts/sg248032.html
+  * Architecting and Deploying DB2 with BLU Acceleration. IBM RedBooks. Whei-Jen Chen, Brigitte Blaser et al. 2015. Book - http://www.redbooks.ibm.com/abstracts/sg248212.html
 * RenameArray
   * Quantity of files in the active log directory (including those from renameArray). Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/03/quantity-of-files-in-active-log.html
 * Restore
