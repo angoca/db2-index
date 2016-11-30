@@ -184,6 +184,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Increase DB2 availability. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1406db2avail/index.html
   * DB2 system topology and configuration for automated multi-site HA and DR. IBM. Whitepaper - http://public.dhe.ibm.com/software/dw/data/dm-1002automateddb2hadr/Automated_long-distance_HADR_configurations.pdf
   * Adding an Auxiliary HADR Standby to an Existing Two-Server Cluster. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/11/08/adding-an-auxilliary-hadr-standby-to-an-existing-two-server-cluster/
+  * Enable DB2 native encryption in an HADR environment. DeveloperWorks. Stephen Levett. 2016. Blog - https://www.ibm.com/developerworks/community/blogs/81c130c7-4408-4e01-adf5-658ae0ef5f0c/entry/Enable_DB2_native_encryption_in_an_HADR_environment
 
 # I
 
@@ -245,6 +246,8 @@ This is an index where you can search for a DB2 term and get the related Interne
 
 * Named-pipe
   * DB2 Tips n Tricks Part 37 - How To Load Compressed Files directly without Extracting to Harddisk. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=FT3UBxpeR9k
+* Native Encryption
+  * Enable DB2 native encryption in an HADR environment. DeveloperWorks. Stephen Levett. 2016. Blog - https://www.ibm.com/developerworks/community/blogs/81c130c7-4408-4e01-adf5-658ae0ef5f0c/entry/Enable_DB2_native_encryption_in_an_HADR_environment
 * Networker
   * Restore database from a backup in Networker. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/restore-database-from-backup-in.html
 * Non-root installation
