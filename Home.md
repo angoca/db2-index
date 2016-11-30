@@ -9,6 +9,8 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Active Logs
   * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
   * Quantity of files in the active log directory (including those from renameArray). Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/03/quantity-of-files-in-active-log.html
+* Alter table
+  * How to identify if a table has the not logged initially attribute. Ideas for DB2 (Spanish). Andres Gomez. 2015. Blog - http://angocadb2.blogspot.com.co/2015/12/how-to-identify-if-table-has-not-logged.html
 * Archive log
   * DB2 Tips n Tricks Part 100 - How To Save Space in Archive Log File System. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=dmhImiLeYoo
 * Authorities
@@ -187,6 +189,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * HADR
   * Increase DB2 availability. DeveloperWorks. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1406db2avail/index.html
   * DB2 system topology and configuration for automated multi-site HA and DR. IBM. Whitepaper - http://public.dhe.ibm.com/software/dw/data/dm-1002automateddb2hadr/Automated_long-distance_HADR_configurations.pdf
+  * How to identify if a table has the not logged initially attribute. Ideas for DB2 (Spanish). Andres Gomez. 2015. Blog - http://angocadb2.blogspot.com.co/2015/12/how-to-identify-if-table-has-not-logged.html
   * Adding an Auxiliary HADR Standby to an Existing Two-Server Cluster. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/11/08/adding-an-auxilliary-hadr-standby-to-an-existing-two-server-cluster/
   * Enable DB2 native encryption in an HADR environment. DeveloperWorks. Stephen Levett. 2016. Blog - https://www.ibm.com/developerworks/community/blogs/81c130c7-4408-4e01-adf5-658ae0ef5f0c/entry/Enable_DB2_native_encryption_in_an_HADR_environment
 
@@ -257,6 +260,9 @@ This is an index where you can search for a DB2 term and get the related Interne
   * How to identify a backup timestamp in Networker. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/restore-database-from-backup-in.html
 * Non-root installation
   * db2rfe for non-root installations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/01/db2rfe-for-non-root-instalations.html
+* Not logged initially
+  * How to identify if a table has the not logged initially attribute. Ideas for DB2 (Spanish). Andres Gomez. 2015. Blog - http://angocadb2.blogspot.com.co/2015/12/how-to-identify-if-table-has-not-logged.html
+
 * num_initfenced
   * DB2 Tips n Tricks Part 46 - How to Find Fenced User ID for an Instance. DB2-LUW-ACADEMY. Video - https://www.youtube.com/watch?v=tFonyCpVisU
 
