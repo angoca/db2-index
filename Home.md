@@ -7,6 +7,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Static SQL vs Dynamic SQL in Stored Procedures. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
 * Activated database
+  * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/08/30/powershell-script-for-local-db2-database-activation/
   * DB2 Tips n Tricks Part 40 - How to Find DB was implicitly or explicitly activated or deactivated. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=AdmNwiul0Yo
 * Active Logs
   * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
@@ -111,6 +112,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * db2bm
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
 * db2diag
+  * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/08/30/powershell-script-for-local-db2-database-activation/
   * Backup terminated vs Backup complete. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/04/backup-terminated-vs-backup-complete.html
   * Linux permission on directories to administer DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/linux-permission-on-directories-to.html
 * db2exfmt
@@ -322,6 +324,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Monitoring
   * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Scott Walkty. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
   * DB2 monitoring enhancements for BLU Acceleration. DeveloperWorks. Scott Walkty. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitor-bluaccel/index.html
+  * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/08/30/powershell-script-for-local-db2-database-activation/
   * How to monitor operations in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/how-to-monitor-operations-in-db2.html
   * Log full condition. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/log-full-condition.html
 
@@ -376,6 +379,8 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Point in Time Recovery (PIT)
   * DB2 Tips n Tricks Part 98 - How Conversion of Regular to Large Tablespace Impacts Recovery. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=uJ2_HXMY6A4
   * How to backup and extract the recovery history file from a database backup? IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21994689
+* PowerShell
+  * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/08/30/powershell-script-for-local-db2-database-activation/
 * Profile (runstats)
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
 * Pruning
@@ -436,6 +441,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Hide the body of a SQL PL Stored Procedure. SQL-PL guide. Documentation - http://www.sqlpl-guide.com/hide-procedure-body/
   * DB2 Tips n Tricks Part 39 - Deploy Stored Procedure without revealing source code. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=WxxKOYee9ZU
 * Scripting
+  * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/08/30/powershell-script-for-local-db2-database-activation/
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
 * Security
   * DB2 UDB security. DeveloperWorks. Serie 11 articles
