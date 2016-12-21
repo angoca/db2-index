@@ -71,6 +71,8 @@ This is an index where you can search for a DB2 term and get the related Interne
  * DB2 Tips n Tricks Part 42 - How to Identify DB2 Client Release Version from Server. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=XG8k5prZ7yA
 * CLP - Command Line Processor
   * Escape characters in shell for DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/escape-characters-in-shell-for-db2.html
+* Column Organized Tables
+  * Restore Transport option – mix and match your schemas (Part 2). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas-part-2/
 * Compression
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
 * Compound Statement
@@ -430,6 +432,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 
 # R
 
+* Range Partitioned Tables
+  * Restore Transport option – mix and match your schemas (Part 1). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas/
 * Rebind
   * Static SQL vs Dynamic SQL in Stored Procedures. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
@@ -452,6 +456,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 * ReorgChk
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
 * Restore
+  * Restore Transport option – mix and match your schemas (Part 1). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas/
+  * Restore Transport option – mix and match your schemas (Part 2). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas-part-2/
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
   * DB2 Tips n Tricks Part 97 - How To Take Offline Backup of Tablespace. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=tT1K3uamwxc
   * DB2 Tips n Tricks Part 99 - How To Perform Redirected Restore without REDIRECT Keyword. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=B2OWBhNg_E8
@@ -557,6 +563,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 # T
 
 * Tablespace
+  * Restore Transport option – mix and match your schemas (Part 1). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas/
+  * Restore Transport option – mix and match your schemas (Part 2). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas-part-2/
   * DB2 Tips n Tricks Part 97 - How To Take Offline Backup of Tablespace. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=tT1K3uamwxc
   * DB2 Tips n Tricks Part 98 - How Conversion of Regular to Large Tablespace Impacts Recovery. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=uJ2_HXMY6A4
 * Tech Talks
@@ -575,6 +583,9 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Increase the log capacity online in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog -  http://angocadb2.blogspot.com.co/2016/12/increase-log-capacity-online-in-db2.html
 * Transactions
   * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
+* Transport
+  * Restore Transport option – mix and match your schemas (Part 1). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas/
+  * Restore Transport option – mix and match your schemas (Part 2). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas-part-2/
 * TSM
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
 * Twitter
