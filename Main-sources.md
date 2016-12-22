@@ -9,6 +9,8 @@ In this section, the main DB2 sources are described:
 * Scott Hayes - DB2 Performance (Articles about performance and DBI software). http://www.dbisoftware.com/blog/db2_performance.php?cal=11,2016
 * Vinay Kumar Bommana - DB Tutorials (Videos of DB2 🎥 ). https://www.youtube.com/channel/UCo0cIzR_TbMzU5wHQmbTjxQ/videos
 * Vikram Khatri - Zinox (Blog of technical stuff). http://www.zinox.com/
+* DB2 Geek (Blog of different things about DB2). http://db2geek.triton.co.uk
+  * All 2016 has been indexed.
 
 These blogs are not longer updated 😞 
 
