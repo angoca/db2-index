@@ -12,6 +12,7 @@ In this section, the main DB2 sources are described:
 * Vikram Khatri - Zinox (Blog of technical stuff). http://www.zinox.com/
 * DB2 Geek (Blog of different things about DB2). http://db2geek.triton.co.uk
   * All 2016 has been indexed.
+* IDUG Content Blog (Blog). http://www.idug.org/p/bl/bl/blogid=278
 
 These blogs are not longer updated 😞 
 
