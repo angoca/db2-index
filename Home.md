@@ -230,6 +230,10 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Ember Crooks. 2013. Blog - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
 * Express-C
   * IBM DB2 Express-C. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2_Express-C
+* Extent
+  * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://db2commerce.com/2016/07/12/monitoring-extent-movement-progress/
+* Extrapolate
+  * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://db2commerce.com/2016/07/12/monitoring-extent-movement-progress/
 
 # F
 
@@ -366,12 +370,17 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
 * Mon_Get_Database
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+* Mon_Get_Extent_Movement_Status
+  * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://db2commerce.com/2016/07/12/monitoring-extent-movement-progress/
 * Mon_Get_Pkg_Cache_Stmt
   * DB2 Tips n Tricks Part 38 - Limitation on Monitor Metrics by Dynamic SQL Snapshot. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=MO-UlXkiRoo
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+* Mon_Get_Tablespace
+  * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://db2commerce.com/2016/07/12/monitoring-extent-movement-progress/
 * Monitoring
   * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Scott Walkty. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
   * DB2 monitoring enhancements for BLU Acceleration. DeveloperWorks. Scott Walkty. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitor-bluaccel/index.html
+  * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://db2commerce.com/2016/07/12/monitoring-extent-movement-progress/
   * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/08/30/powershell-script-for-local-db2-database-activation/
   * How to monitor operations in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/how-to-monitor-operations-in-db2.html
   * Log full condition. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/log-full-condition.html
@@ -571,6 +580,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
 * Statement concentrator
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+* State, tablespace
+  * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://db2commerce.com/2016/07/12/monitoring-extent-movement-progress/
 * Static SQL
   * Static SQL vs Dynamic SQL in Stored Procedures. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
@@ -604,6 +615,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 # T
 
 * Tablespace
+  * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://db2commerce.com/2016/07/12/monitoring-extent-movement-progress/
   * Restore Transport option – mix and match your schemas (Part 1). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas/
   * Restore Transport option – mix and match your schemas (Part 2). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas-part-2/
   * DB2 Tips n Tricks Part 97 - How To Take Offline Backup of Tablespace. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=tT1K3uamwxc
