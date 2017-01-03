@@ -1,6 +1,7 @@
 In this section, the main DB2 sources are described:
 
 * Ember Crooks - DB2Commence (Blog about technical stuff 💃 ). http://db2commerce.com/
+  * Articles since 201607 to 201612
 * Harishkumar Pathanga - DB2-LUW-Academy (Videos of db2 tricks 📹 ). https://www.youtube.com/user/DB2LUWAcademy/videos
 * Michael Spoden - SQL PL Guide (Programming reference 🔡 ). http://www.sqlpl-guide.com/
 * Fred Sobotka and Ian Bjorhovde - The Whole Package Cache (Podcasts about DB2 world 🎤 ). http://www.pkgcache.com/
