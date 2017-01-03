@@ -14,6 +14,8 @@ In this section, the main DB2 sources are described:
 * DB2 Geek (Blog of different things about DB2). http://db2geek.triton.co.uk
   * All 2016 has been indexed.
 * IDUG Content Blog (Blog). http://www.idug.org/p/bl/bl/blogid=278
+* Andres Gomez Casanova - Ideas for DB2 (Blog about technical stuff). https://angocadb2.blogspot.com.co
+  * Articles since 201601 to 201612
 
 These blogs are not longer updated 😞 
 
