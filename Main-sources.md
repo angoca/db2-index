@@ -5,6 +5,7 @@ In this section, the main DB2 sources are described:
 * Harishkumar Pathanga - DB2-LUW-Academy (Videos of db2 tricks 📹 ). https://www.youtube.com/user/DB2LUWAcademy/videos
 * Michael Spoden - SQL PL Guide (Programming reference 🔡 ). http://www.sqlpl-guide.com/
 * Fred Sobotka and Ian Bjorhovde - The Whole Package Cache (Podcasts about DB2 world 🎤 ). http://www.pkgcache.com/
+  * Podcast since 201607 to 201612
 * Ian Bjorhovde - Create Database podcast (Podcast about DB2 persons 🔉 ). http://createdatabase.fm
 * Scott Hayes - The DB2night show ( 📺  Videos and Webminars of DB2, also contests 😀 ). http://www.dbisoftware.com/db2nightshow/
 * Scott Hayes - DB2 Performance (Articles about performance and DBI software). http://www.dbisoftware.com/blog/db2_performance.php?cal=11,2016
