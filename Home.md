@@ -197,6 +197,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 Performance Myth Buster 1 - How Bufferpool with 100% Hit Ratio still has Performance Bottleneck. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=BtuUA6V7vmY
 * Docker
   * PkgCache #28: Easier to use when drunk. The Whole Package Cache. Ian Bjorhovde, Fred Sobotka. 2016. Podcast - http://www.pkgcache.com/28/
+  * Different images from Docker. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/12/different-images-from-docker.html
 * Documentation
   * SQL-PL Guide. SQL-PL Guide. Michael Spoden. Documentation - http://www.sqlpl-guide.com/
   * KnowledgeCenter DB2 11.1. IBM. Documentation - http://www.ibm.com/support/knowledgecenter/SSEPGG_11.1.0/com.ibm.db2.luw.kc.doc/welcome.html
