@@ -8,7 +8,8 @@ In this section, the main DB2 sources are described:
   * Podcast since 201607 to 201612
 * Ian Bjorhovde - Create Database podcast (Podcast about DB2 persons 🔉 ). http://createdatabase.fm
 * Scott Hayes - The DB2night show ( 📺  Videos and Webminars of DB2, also contests 😀 ). http://www.dbisoftware.com/db2nightshow/ - http://www.dbisoftware.com/blog/db2nightshow.php
-* Scott Hayes - DB2 Performance (Articles about performance and DBI software). http://www.dbisoftware.com/blog/db2_performance.php?cal=11,2016
+* Scott Hayes - DB2 Performance (Articles about performance and DBI software). http://www.dbisoftware.com/blog/db2_performance.php
+  * Articles since 201601 to 201612
 * Vinay Kumar Bommana - DB Tutorials (Videos of DB2 🎥 ). https://www.youtube.com/channel/UCo0cIzR_TbMzU5wHQmbTjxQ/videos
 * Vikram Khatri - Zinox (Blog of technical stuff). http://www.zinox.com/
 * DB2 Geek (Blog of different things about DB2). http://db2geek.triton.co.uk
