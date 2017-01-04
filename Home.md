@@ -309,6 +309,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Index
   * When Index Scans Attack! db2commerce. Ember Crooks. 2014. Blog - http://db2commerce.com/2014/08/05/when-index-scans-attack/?utm_source=rss&utm_medium=rss&utm_campaign=when-index-scans-attack
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
+  * IBM DB2 and SAP - A marriage made in heaven? Or Not? DBI blog. Martin Hubel. 2016. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=715
 * Instrumentation
   * log4db2 - A logging framework like log4j for IBM DB2 SQL-PL. GitHub. Andres Gomez. Project - https://github.com/angoca/log4db2
 * I/O
@@ -531,6 +532,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 
 # S
 
+* SAP
+  * IBM DB2 and SAP - A marriage made in heaven? Or Not? DBI blog. Martin Hubel. 2016. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=715
 * SAR: SQL Archive file
   * Hide the body of a SQL PL Stored Procedure. SQL-PL guide. Documentation - http://www.sqlpl-guide.com/hide-procedure-body/
   * DB2 Tips n Tricks Part 39 - Deploy Stored Procedure without revealing source code. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=WxxKOYee9ZU
