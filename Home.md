@@ -329,10 +329,13 @@ This is an index where you can search for a DB2 term and get the related Interne
 
 # I
 
-* Incremental backup
-  * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
+* I/O
+  * Enable Fast I/O Fencing Scipt for Linux. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11412
+  * DB2 Performance Myth Buster 2 - How Increasing Bufferpool Size will not increase LOAD Performance. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=spTrT6-U5Qk
 * Import
   * DB2 Tips n Tricks Part 37 - How To Load Compressed Files directly without Extracting to Harddisk. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=FT3UBxpeR9k
+* Incremental backup
+  * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
 * Index
   * When Index Scans Attack! db2commerce. Ember Crooks. 2014. Blog - http://db2commerce.com/2014/08/05/when-index-scans-attack/?utm_source=rss&utm_medium=rss&utm_campaign=when-index-scans-attack
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
@@ -341,9 +344,6 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 pureScale rebuild TSA Resources. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11394
 * Instrumentation
   * log4db2 - A logging framework like log4j for IBM DB2 SQL-PL. GitHub. Andres Gomez. Project - https://github.com/angoca/log4db2
-* I/O
-  * Enable Fast I/O Fencing Scipt for Linux. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11412
-  * DB2 Performance Myth Buster 2 - How Increasing Bufferpool Size will not increase LOAD Performance. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=spTrT6-U5Qk
 * Isolation
   * Determine the effective isolation level in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Peter Schurr. 2011. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1107db2isolationlevel/index.html
 
