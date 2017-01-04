@@ -157,8 +157,12 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
 * db2greg
   * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
+* db2haiuc
+  * Tie-Breaker Disk for HADR or pureScale. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/499
 * db2iauto
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
+* db2icrt
+  * Tie-Breaker Disk for HADR or pureScale. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/499
 * db2idrop_local
   * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
 * db2instance
@@ -315,6 +319,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 system topology and configuration for automated multi-site HA and DR. IBM. Aruna De Silva. 2010. Whitepaper - http://public.dhe.ibm.com/software/dw/data/dm-1002automateddb2hadr/Automated_long-distance_HADR_configurations.pdf
   * Increase DB2 availability. DeveloperWorks. Stephen Holt. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1406db2avail/index.html
   * How to identify if a table has the not logged initially attribute. Ideas for DB2 (Spanish). Andres Gomez. 2015. Blog - http://angocadb2.blogspot.com.co/2015/12/how-to-identify-if-table-has-not-logged.html
+  * Tie-Breaker Disk for HADR or pureScale. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/499
   * Avoid Tie Breaker Disk. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/501
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
   * Adding an Auxiliary HADR Standby to an Existing Two-Server Cluster. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/11/08/adding-an-auxilliary-hadr-standby-to-an-existing-two-server-cluster/
@@ -499,6 +504,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Pruning
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
 * PureScale
+  * Tie-Breaker Disk for HADR or pureScale. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/499
   * Avoid Tie Breaker Disk. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/501
   * DB2 pureScale rebuild TSA Resources. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11394
   * Enable Fast I/O Fencing Scipt for Linux. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11412
@@ -695,6 +701,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Unit test SQL PL routines by using db2unit framework in DB2 LUW. DeveloperWorks. Andres Gomez. 2015. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1501unittest-sql-db2/index.html
 * Tie-Breaking
   * Increase DB2 availability. DeveloperWorks. Stephen Holt. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1406db2avail/index.html
+  * Tie-Breaker Disk for HADR or pureScale. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/499
   * Avoid Tie Breaker Disk. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/501
 * Timeron
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Brooks. 2013. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
