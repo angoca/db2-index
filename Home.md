@@ -136,6 +136,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * db2bm
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
 * db2cluster
+  * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
   * DB2 11.1 Rebuild TSA Resources. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11436
 * db2diag
   * The Database isn’t Available from Half the Servers – it Must be DB2. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/08/19/the-database-isnt-available-from-half-the-servers-it-must-be-db2/
@@ -151,9 +152,16 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
 * db2fmcd
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
+* db2greg
+  * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
 * db2iauto
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
+* db2idrop_local
+  * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
+* db2instance
+  * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
 * db2iupdt
+  * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
 * db2logscan
   * DB2 Logging and HADR Performance Analysis using DB2 Log Scanner and HADR Calculator. DeveloperWorks. Yuke Zhuge. 2014. Blog - https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/DB2HADR/page/db2logscan 
@@ -162,6 +170,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * db2med
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
 * db2nodes.cfg
+  * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
   * DB2 11.1 Rebuild TSA Resources. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11436
 * db2pd
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
@@ -481,6 +490,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Pruning
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
 * PureScale
+  * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
   * db2start add member fails. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11419
   * DB2 purescale Install GPL Error. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
   * DB2 pureScale Install Problem Determination. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
@@ -549,6 +559,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 * RTO - Recovery Time Objetive
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
 * RSCT
+  * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
   * db2start add member fails. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11419
   * DB2 purescale Install GPL Error. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
   * DB2 pureScale Install Problem Determination. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
