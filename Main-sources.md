@@ -17,6 +17,7 @@ In this section, the main DB2 sources are described:
   * All 2016 has been indexed.
 * IDUG Content Blog (Blog). http://www.idug.org/p/bl/bl/blogid=278
 * DeveloperWorks (Articles). http://www.ibm.com/developerworks/views/data/libraryview.jsp?site_id=1&contentarea_by=Information%20management&sort_by=Date&sort_order=2&start=1&end=100&topic_by=-1&product_by=-1&type_by=All%20Types&show_abstract=true&search_by=db2&industry_by=-1&series_title_by=
+  * Articles since 201604 to 201612
 * Andres Gomez Casanova - Ideas for DB2 (Blog about technical stuff). https://angocadb2.blogspot.com.co
   * All 2016 has been indexed.
 
