@@ -136,6 +136,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * db2bm
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
 * db2cluster
+  * Enable Fast I/O Fencing Scipt for Linux. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11412
   * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
   * DB2 11.1 Rebuild TSA Resources. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11436
 * db2diag
@@ -336,6 +337,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Instrumentation
   * log4db2 - A logging framework like log4j for IBM DB2 SQL-PL. GitHub. Andres Gomez. Project - https://github.com/angoca/log4db2
 * I/O
+  * Enable Fast I/O Fencing Scipt for Linux. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11412
   * DB2 Performance Myth Buster 2 - How Increasing Bufferpool Size will not increase LOAD Performance. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=spTrT6-U5Qk
 * Isolation
   * Determine the effective isolation level in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Peter Schurr. 2011. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1107db2isolationlevel/index.html
@@ -490,6 +492,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Pruning
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
 * PureScale
+  * Enable Fast I/O Fencing Scipt for Linux. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11412
   * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
   * db2start add member fails. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11419
   * DB2 purescale Install GPL Error. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
