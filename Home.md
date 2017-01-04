@@ -175,6 +175,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * db2set
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
 * db2start
+  * db2start add member fails. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11419
   * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
 * db2trc
   * DB2 Basics: An introduction to the DB2 UDB trace facility. DeveloperWorks. Roman Melnyk. 2004. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0409melnyk/
@@ -480,6 +481,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Pruning
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
 * PureScale
+  * db2start add member fails. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11419
   * DB2 purescale Install GPL Error. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
   * DB2 pureScale Install Problem Determination. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
   * DB2 11.1 Rebuild TSA Resources. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11436
@@ -547,6 +549,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 * RTO - Recovery Time Objetive
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
 * RSCT
+  * db2start add member fails. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11419
   * DB2 purescale Install GPL Error. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
   * DB2 pureScale Install Problem Determination. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
   * DB2 11.1 Rebuild TSA Resources. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11436
@@ -556,6 +559,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 # S
 
 * samlicm
+  * db2start add member fails. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11419
   * DB2 pureScale Install Problem Determination. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
 * SAP
   * IBM DB2 and SAP - A marriage made in heaven? Or Not? DBI blog. Martin Hubel. 2016. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=715
@@ -683,7 +687,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Restore Transport option – mix and match your schemas (Part 2). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas-part-2/
 * Trigger
   * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
-* TSA
+* TSA, TSAMP - Tivoli System Automation for Multiple Platform
+  * db2start add member fails. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11419
   * DB2 purescale Install GPL Error. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
   * DB2 11.1 Rebuild TSA Resources. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11436
 * TSM
