@@ -75,8 +75,13 @@ This is an index where you can search for a DB2 term and get the related Interne
 
 # C
 
+* C
+  * External Stored Procedures. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/external-stored-procedures/
+  * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
 * Characters
   * Escape characters in shell for DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/escape-characters-in-shell-for-db2.html
+* CLI
+  * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
 * Client_PrdID
  * DB2 Tips n Tricks Part 42 - How to Identify DB2 Client Release Version from Server. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=XG8k5prZ7yA
 * Cloud
@@ -287,6 +292,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * IBM DB2 Express-C. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2_Express-C
 * Extent
   * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://db2commerce.com/2016/07/12/monitoring-extent-movement-progress/
+* External Stored Procedures
+  * External Stored Procedures. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/external-stored-procedures/
 * Extrapolate
   * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://db2commerce.com/2016/07/12/monitoring-extent-movement-progress/
 
@@ -386,9 +393,12 @@ This is an index where you can search for a DB2 term and get the related Interne
 
 # J
 
+* Java
+  * External Stored Procedures. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/external-stored-procedures/
 * JDBC drivers
   * DB2 JDBC Driver Versions. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21363866
   * Knowledge Collection: DB2 JDBC driver issues. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21358484
+  * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
 * Join
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
 * JPA - Java Persistence API
@@ -475,6 +485,8 @@ This is an index where you can search for a DB2 term and get the related Interne
 
 # N
 
+* .NET
+  * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
 * Named-pipe
   * DB2 Tips n Tricks Part 37 - How To Load Compressed Files directly without Extracting to Harddisk. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=FT3UBxpeR9k
 * Native Encryption
@@ -529,6 +541,8 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Permission
   * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html
   * Static SQL vs Dynamic SQL in Stored Procedures. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
+* PHP
+  * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
 * PMR
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
 * Point in Time Recovery (PIT)
@@ -558,6 +572,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * PVU
   * Licensing Your Database Software on Virtual Platforms. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/10/04/licensing-your-database-software-on-virtual-platforms/
 * Python
+  * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
   * Using DB2 with Python on Cloud Foundry-Based IBM Bluemix. Data Henrik. Henrik Loeser. Blog - 
 http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 
@@ -605,6 +620,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * DB2 Tips n Tricks Part 99 - How To Perform Redirected Restore without REDIRECT Keyword. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=B2OWBhNg_E8
   * Restore database from a backup in Networker. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/restore-database-from-backup-in.html
   * How to identify a backup timestamp in Networker. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/restore-database-from-backup-in.html
+* REXX
+  * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
 * RFE - Request For Enhancement
   * PkgCache #28: Easier to use when drunk. The Whole Package Cache. Ian Bjorhovde, Fred Sobotka. 2016. Podcast - http://www.pkgcache.com/28/
 * Rollforward
@@ -689,6 +706,9 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * SQL-PL Guide. SQL-PL Guide. Michael Spoden. Documentation - http://www.sqlpl-guide.com/
   * log4db2 - A logging framework like log4j for IBM DB2 SQL-PL. GitHub. Andres Gomez. Project - https://github.com/angoca/log4db2
   * Benefits of Stored Procedures. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/benefits-of-stored-procedures/
+  * SQL Procedural Language. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/sql-procedural-language/
+  * External Stored Procedures. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/external-stored-procedures/
+  * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
   * SQL procedure tracing. DeveloperWorks. Serge Rielau. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0409rielau/
   * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
 * SQL PL Profiler
@@ -696,6 +716,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * More than a TRACE. Extending the SQL PL Profiler to do tracing. SQL Tips for DB2 LUW. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/mydeveloperworks/blogs/SQLTips4DB2LUW/entry/tracing
   * Profiling SQL procedures. DeveloperWorks. Sundip Pradhan, Serge Rielau. 2004. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0406rielau/
   * SQL PL Profiler - Again, better than ever. SQL Tips for DB2 LUW. Serge Rielau. 2011. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/sql_pl_profiler_again_better_than_ever25
+* SQLj
+  * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
 * sqllib
   * db2rfe for non-root installations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/01/db2rfe-for-non-root-instalations.html
 * sqlpltrc
@@ -726,6 +748,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * DB2 Tips n Tricks Part 99 - How To Perform Redirected Restore without REDIRECT Keyword. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=B2OWBhNg_E8
 * Stored Procedures
   * Benefits of Stored Procedures. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/benefits-of-stored-procedures/
+  * External Stored Procedures. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/external-stored-procedures/
   * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
 * Structure
   * db2look from stored procedure. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/10/db2look-from-stored-procedure.html
