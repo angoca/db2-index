@@ -442,6 +442,8 @@ This is an index where you can search for a DB2 term and get the related Interne
 
 # M
 
+* Mac OS
+  * Install DB2 on OS X Sierra. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2017/01/install-db2-on-os-x-sierra.html
 * Magazine
   * DataMagazine. DataMagazine. Magazine - http://ibmdatamag.com/
 * Maintenance
