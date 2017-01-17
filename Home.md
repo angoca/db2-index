@@ -13,8 +13,11 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Active Logs
   * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
   * Quantity of files in the active log directory (including those from renameArray). Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/03/quantity-of-files-in-active-log.html
+* Admin_cmd
+  * Example: Runstats. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-runstats/ 
 * Allocate
   * ALLOCATE CURSOR statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/allocate-cursor/
+  * Example: How much reorganisations are recommended on a specific schema. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-reorgchk/
 * Alter table
   * How to identify if a table has the not logged initially attribute. Ideas for DB2 (Spanish). Andres Gomez. 2015. Blog - http://angocadb2.blogspot.com.co/2015/12/how-to-identify-if-table-has-not-logged.html
 * ANSI
@@ -28,6 +31,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 Tips n Tricks Part 100 - How To Save Space in Archive Log File System. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=dmhImiLeYoo
 * Associate
   * ASSOCIATE LOCATOR statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/associate-locator/
+  * Example: How much reorganisations are recommended on a specific schema. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-reorgchk/
 * Authorities
   * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html
 * Automatic maintenance
@@ -98,6 +102,8 @@ This is an index where you can search for a DB2 term and get the related Interne
  * DB2 Tips n Tricks Part 42 - How to Identify DB2 Client Release Version from Server. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=XG8k5prZ7yA
 * Close
   * FOR statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/for/
+  * Example: Select statement in dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-select-statement-in-dynamic-sql/
+  * Cursors. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/cursor/
 * Cloud
   * PkgCache #28: Easier to use when drunk. The Whole Package Cache. Ian Bjorhovde, Fred Sobotka. 2016. Podcast - http://www.pkgcache.com/28/
 * CLP - Command Line Processor
@@ -263,6 +269,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Declare
   * DECLARE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/declare/
   * DECLARE CURSOR statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/declare-cursor/
+  * Cursors. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/cursor/
 * Deduplication
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
@@ -291,6 +298,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Comments. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/comments/
 * Dynamic SQL
   * Dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/dynamic-sql/
+  * Example: Select statement in dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-select-statement-in-dynamic-sql/
+  * PREPARE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/prepare/
   * Static SQL vs Dynamic SQL in Stored Procedures. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
 
@@ -320,6 +329,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 Upgrade Detail: Upgrading Event Monitor Tables. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/12/20/db2-upgrade-detail-upgrading-event-monitor-tables/
 * Execute
   * Dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/dynamic-sql/
+  * Example: Select statement in dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-select-statement-in-dynamic-sql/
+  * PREPARE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/prepare/
 * Execution plan
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
 * Explain
@@ -338,6 +349,8 @@ This is an index where you can search for a DB2 term and get the related Interne
 
 * Fetch
   * FOR statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/for/
+  * Example: Select statement in dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-select-statement-in-dynamic-sql/
+  * Cursors. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/cursor/
 * File System
   * Log full condition. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/log-full-condition.html
 * File System Caching
@@ -432,6 +445,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * When Index Scans Attack! db2commerce. Ember Crooks. 2014. Blog - http://db2commerce.com/2014/08/05/when-index-scans-attack/?utm_source=rss&utm_medium=rss&utm_campaign=when-index-scans-attack
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
   * IBM DB2 and SAP - A marriage made in heaven? Or Not? DBI blog. Martin Hubel. 2016. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=715
+* Inline SQL PL
+  * Inline SQL PL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/inline-sql-pl/
 * instancedef.reg
   * DB2 pureScale rebuild TSA Resources. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11394
 * Instrumentation
@@ -571,6 +586,8 @@ This is an index where you can search for a DB2 term and get the related Interne
 
 * Open
   * FOR statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/for/
+  * Example: Select statement in dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-select-statement-in-dynamic-sql/
+  * Cursors. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/cursor/
 * Optimization profile
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
@@ -620,6 +637,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/08/30/powershell-script-for-local-db2-database-activation/
 * Prepare
   * Dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/dynamic-sql/
+  * Example: Select statement in dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-select-statement-in-dynamic-sql/
+  * PREPARE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/prepare/
 * Profile (runstats)
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
 * Pruning
@@ -686,6 +705,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
 * Repeat
   * REPEAT statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/repeat/
+  * Example: How much reorganisations are recommended on a specific schema. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-reorgchk/
 * Resignal
   * RESIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/resignal/
 * Restore
@@ -724,6 +744,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * DB2 11.1 Rebuild TSA Resources. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11436
 * Runstats
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
+  * Example: Runstats. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-runstats/ 
 
 # S
 
@@ -760,6 +781,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Please visit the STMM - Self-Tunning Memory Manager entry.
 * Select
   * FOR statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/for/
+  * Example: Select statement in dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-select-statement-in-dynamic-sql/
 * Selectivity
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
@@ -834,6 +856,15 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * SET statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/set/
   * SIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/signal/
   * While. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/while/
+  * Example: Runstats. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-runstats/ 
+  * Example: Select statement in dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-select-statement-in-dynamic-sql/
+  * PREPARE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/prepare/
+  * Example: How much reorganisations are recommended on a specific schema. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-reorgchk/
+  * Example: Sleep Procedure. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-db2-sleep-command/
+  * Inline SQL PL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/inline-sql-pl/
+  * Example: Before Trigger who’s checking a new value. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-trigger-with-signal/
+  * SQLCODE & SQLSTATE. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/sqlcode-sqlstate/
+  * . SQL-PL Guide. Michael Spoden. Documentation - 
   * . SQL-PL Guide. Michael Spoden. Documentation - 
   * . SQL-PL Guide. Michael Spoden. Documentation - 
   * SQL procedure tracing. DeveloperWorks. Serge Rielau. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0409rielau/
@@ -845,6 +876,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * SQL PL Profiler - Again, better than ever. SQL Tips for DB2 LUW. Serge Rielau. 2011. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/sql_pl_profiler_again_better_than_ever25
 * SQLCode
   * RESIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/resignal/
+  * SQLCODE & SQLSTATE. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/sqlcode-sqlstate/
 * SQLError
   * Condition handling. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/condition-handling/
 * SQLj
@@ -857,6 +889,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Condition handling. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/condition-handling/
   * RESIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/resignal/
   * SIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/signal/
+  * SQLCODE & SQLSTATE. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/sqlcode-sqlstate/
 * SQLWarning
   * Condition handling. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/condition-handling/
 * Start / Stop instance
@@ -935,6 +968,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Restore Transport option – mix and match your schemas (Part 1). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas/
   * Restore Transport option – mix and match your schemas (Part 2). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas-part-2/
 * Trigger
+  * Example: Before Trigger who’s checking a new value. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-trigger-with-signal/
   * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
 * TSA, TSAMP - Tivoli System Automation for Multiple Platform
   * Automating HADR on DB2 10.1 for Linux, UNIX and Windows Failover Solution Using Tivoli System Automation for Multiplatforms. IBM. 2014. Whitepaper - http://public.dhe.ibm.com/software/dw/im/dm-0907hadrdb2haicu/db2-10-hadr-tsa.pdf
@@ -980,6 +1014,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Variables in SQL PL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/variables/
   * DECLARE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/declare/
   * SET statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/set/
+  * PREPARE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/prepare/
 * Vendor
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
 * VendorOpt
