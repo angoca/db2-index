@@ -882,7 +882,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * ADMIN_CMD Procedure. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/admin_cmd-procedure/
   * Boolean data type. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/boolean-data-type/
   * CALLED ON NULL INPUT option. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/called-on-null-input/
-  * . SQL-PL Guide. Michael Spoden. Documentation - 
+  * CREATE VARIABLE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/create_variable/
   * . SQL-PL Guide. Michael Spoden. Documentation - 
   * . SQL-PL Guide. Michael Spoden. Documentation - 
   * . SQL-PL Guide. Michael Spoden. Documentation - 
@@ -1045,6 +1045,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * SET statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/set/
   * PREPARE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/prepare/
   * Boolean data type. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/boolean-data-type/
+  * CREATE VARIABLE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/create_variable/
 * Vendor
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
 * VendorOpt
