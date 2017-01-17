@@ -117,6 +117,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Condition handling. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/condition-handling/
   * DECLARE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/declare/
   * RESIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/resignal/
+  * SIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/signal/
 * Connection
   * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
 * Container
@@ -673,6 +674,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Architecting and Deploying DB2 with BLU Acceleration. IBM RedBooks. Whei-Jen Chen, Brigitte Blaser et al. 2015. Book - http://www.redbooks.ibm.com/abstracts/sg248212.html
 * Redirected restore
   * Moving Mountains with a Redirected Restore. db2commerce. Michael Krafick. 2016. Blog - http://db2commerce.com/2016/08/04/moving-mountains-with-a-redirected-restore/
+* Release savepoint
+  * RELEASE SAVEPOINT statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/release-savepoint/
 * RenameArray
   * Quantity of files in the active log directory (including those from renameArray). Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/03/quantity-of-files-in-active-log.html
 * Reopt
@@ -699,6 +702,10 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
 * RFE - Request For Enhancement
   * PkgCache #28: Easier to use when drunk. The Whole Package Cache. Ian Bjorhovde, Fred Sobotka. 2016. Podcast - http://www.pkgcache.com/28/
+* Rollback
+  * RELEASE SAVEPOINT statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/release-savepoint/
+  * ROLLBACK statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/rollback/
+  * SAVEPOINT statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/savepoint/
 * Rollforward
   * DB2 Tips n Tricks Part 97 - How To Take Offline Backup of Tablespace. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=tT1K3uamwxc
   * DB2 Tips n Tricks Part 98 - How Conversion of Regular to Large Tablespace Impacts Recovery. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=uJ2_HXMY6A4
@@ -728,6 +735,10 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 * SAR: SQL Archive file
   * Hide the body of a SQL PL Stored Procedure. SQL-PL guide. Documentation - http://www.sqlpl-guide.com/hide-procedure-body/
   * DB2 Tips n Tricks Part 39 - Deploy Stored Procedure without revealing source code. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=WxxKOYee9ZU
+* Savepoint
+  * RELEASE SAVEPOINT statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/release-savepoint/
+  * ROLLBACK statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/rollback/
+  * SAVEPOINT statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/savepoint/
 * Scripting
   * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/08/30/powershell-script-for-local-db2-database-activation/
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
@@ -758,6 +769,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * DB2 Upgrade Detail: Upgrading Event Monitor Tables. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/12/20/db2-upgrade-detail-upgrading-event-monitor-tables/
 * Set
   * DECLARE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/declare/
+  * SET statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/set/
 * Set_Routine_Opts
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
 * Settings
@@ -768,6 +780,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Escape characters in shell for DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/escape-characters-in-shell-for-db2.html
 * Signal
   * RESIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/resignal/
+  * SIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/signal/
 * Snap_Get_Tab_Reorg
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
 * Snapshots
@@ -815,9 +828,12 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * REPEAT statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/repeat/
   * RESIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/resignal/
   * RETURN statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/return/
-  * . SQL-PL Guide. Michael Spoden. Documentation - 
-  * . SQL-PL Guide. Michael Spoden. Documentation - 
-  * . SQL-PL Guide. Michael Spoden. Documentation - 
+  * RELEASE SAVEPOINT statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/release-savepoint/
+  * ROLLBACK statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/rollback/
+  * SAVEPOINT statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/savepoint/
+  * SET statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/set/
+  * SIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/signal/
+  * While. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/while/
   * . SQL-PL Guide. Michael Spoden. Documentation - 
   * . SQL-PL Guide. Michael Spoden. Documentation - 
   * SQL procedure tracing. DeveloperWorks. Serge Rielau. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0409rielau/
@@ -837,6 +853,10 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * db2rfe for non-root installations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/01/db2rfe-for-non-root-instalations.html
 * sqlpltrc
   * SQL procedure tracing. DeveloperWorks. Serge Rielau. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0409rielau/
+* SQLState
+  * Condition handling. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/condition-handling/
+  * RESIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/resignal/
+  * SIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/signal/
 * SQLWarning
   * Condition handling. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/condition-handling/
 * Start / Stop instance
@@ -959,6 +979,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 * Variables
   * Variables in SQL PL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/variables/
   * DECLARE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/declare/
+  * SET statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/set/
 * Vendor
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
 * VendorOpt
@@ -986,6 +1007,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Unix command of the day: watch. Leons on Tech. Leons Petrazickis. 2016 http://lpetr.org/blog/archives/unix-command-of-the-day-watch
 * Web resources
   * Index of free resources in the Web about DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/index-of-free-resources-in-web-about-db2.html
+* While
+  * While. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/while/
 * Wiki
   * DB2 Database Professionals. DeveloperWorks. Wiki - https://www.ibm.com/developerworks/community/groups/service/html/communityview?lang=en&communityUuid=fc834388-7630-4b28-9abd-2f6e702b7df7
   * IBM DB2 - Wiki. Toad. Wiki - http://www.toadworld.com/platforms/ibmdb2/w/wiki/default.aspx
