@@ -891,7 +891,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Default values. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/default-values/
   * DETERMINISTIC and NOT DETERMINISTIC option. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/deterministic/
   * DROP MODULE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/drop-module/
-  * . SQL-PL Guide. Michael Spoden. Documentation - 
+  * Hide the body of a SQL PL Stored Procedure. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/hide-procedure-body/
   * . SQL-PL Guide. Michael Spoden. Documentation - 
   * . SQL-PL Guide. Michael Spoden. Documentation - 
   * . SQL-PL Guide. Michael Spoden. Documentation - 
@@ -965,6 +965,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * DROP MODULE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/drop-module/
   * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
   * Default values. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/default-values/
+  * Hide the body of a SQL PL Stored Procedure. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/hide-procedure-body/
 * Structure
   * db2look from stored procedure. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/10/db2look-from-stored-procedure.html
 * Suspend write
