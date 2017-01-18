@@ -313,6 +313,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/dynamic-sql/
   * Example: Select statement in dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-select-statement-in-dynamic-sql/
   * PREPARE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/prepare/
+  * List of statements that can be dynamically prepared. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/statements-that-can-be-dynamically-prepared/
   * Static SQL vs Dynamic SQL in Stored Procedures. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
 
@@ -905,7 +906,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * SELECT INTO statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/select-into/
   * SQL access level clause. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/sql-access-level/
   * Supported SQL/PL statements. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/sql-pl-statements/
-  * . SQL-PL Guide. Michael Spoden. Documentation - 
+  * List of statements that can be dynamically prepared. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/statements-that-can-be-dynamically-prepared/
   * . SQL-PL Guide. Michael Spoden. Documentation - 
   * . SQL-PL Guide. Michael Spoden. Documentation - 
   * . SQL-PL Guide. Michael Spoden. Documentation - 
