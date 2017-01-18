@@ -217,10 +217,11 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
 * db2gse
   * Acquiring spatial data and developing applications. DeveloperWorks. David Adler. 2016. Article - http://www.ibm.com/developerworks/data/tutorials/dm-1202db2spatialdata1/index.html
-* db2haiuc
+* db2haicu
   * Automating HADR on DB2 10.1 for Linux, UNIX and Windows Failover Solution Using Tivoli System Automation for Multiplatforms. IBM. 2014. Whitepaper - http://public.dhe.ibm.com/software/dw/im/dm-0907hadrdb2haicu/db2-10-hadr-tsa.pdf
   * Automated cluster controlled HADR configuration setup using the IBM DB2 high availability instance configuration utility. DeveloperWorks. Steve Raspudic, Malaravan Ponnuthurai. 2016. Article - http://www.ibm.com/developerworks/data/library/long/dm-0907hadrdb2haicu/index.html
   * Tie-Breaker Disk for HADR or pureScale. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/499
+  * Rebuild TSA Resources in HADR Environment. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11439
 * db2iauto
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
 * db2icrt
@@ -434,6 +435,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Adding an Auxiliary HADR Standby to an Existing Two-Server Cluster. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/11/08/adding-an-auxilliary-hadr-standby-to-an-existing-two-server-cluster/
   * Enable DB2 native encryption in an HADR environment. DeveloperWorks. Stephen Levett. 2016. Blog - https://www.ibm.com/developerworks/community/blogs/81c130c7-4408-4e01-adf5-658ae0ef5f0c/entry/Enable_DB2_native_encryption_in_an_HADR_environment
   * Log configuration in HADR environment. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/12/log-configuration-in-hadr-environment.html
+  * Rebuild TSA Resources in HADR Environment. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11439
 * HADR Calculator
   * DB2 Logging and HADR Performance Analysis using DB2 Log Scanner and HADR Calculator. DeveloperWorks. Yuke Zhuge. 2014. Blog - https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/DB2HADR/page/db2logscan 
 * Handler
@@ -1004,6 +1006,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Increase DB2 availability. DeveloperWorks. Stephen Holt. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1406db2avail/index.html
   * Tie-Breaker Disk for HADR or pureScale. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/499
   * Avoid Tie Breaker Disk. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/501
+  * Rebuild TSA Resources in HADR Environment. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11439
 * Timeron
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Brooks. 2013. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
 * Trace
@@ -1029,6 +1032,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * db2start add member fails. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11419
   * DB2 purescale Install GPL Error. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
   * DB2 11.1 Rebuild TSA Resources. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11436
+  * Rebuild TSA Resources in HADR Environment. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11439
 * TSM
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
 * Twitter
