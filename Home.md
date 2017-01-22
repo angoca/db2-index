@@ -380,8 +380,10 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Linux permission on directories to administer DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/linux-permission-on-directories-to.html
 * Fixpack
   * Fix List for DB2 Version 10.5 for Linux, UNIX and Windows. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21633303
+  * V.R.M.F Maintenance Stream Delivery Vehicle terminology explanation. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg27008656
   * DB2 pureScale – Online Rolling update. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/490
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
+  * New Mod Pack and Fix Pack for DB2 V11 available now. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/12/new-mod-pack-and-fix-pack-for-db2-v11.html
 * Flash copy
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
 * Flush package cache
@@ -561,8 +563,12 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
 * Memory
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+* MDV - Maintenance Delivery Vehicle
+  * V.R.M.F Maintenance Stream Delivery Vehicle terminology explanation. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg27008656
 * Minimum Recovery Time (MIR)
   * DB2 Tips n Tricks Part 98 - How Conversion of Regular to Large Tablespace Impacts Recovery. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=uJ2_HXMY6A4
+* ModPack
+  * New Mod Pack and Fix Pack for DB2 V11 available now. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/12/new-mod-pack-and-fix-pack-for-db2-v11.html
 * Module
   * Module. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/module/
   * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
@@ -1068,6 +1074,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 
 # V
 
+* V.R.M.F. - Version, Release, Modification, Fixpack
+  * V.R.M.F Maintenance Stream Delivery Vehicle terminology explanation. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg27008656
 * Variables
   * Variables in SQL PL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/variables/
   * DECLARE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/declare/
