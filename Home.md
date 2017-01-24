@@ -77,6 +77,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 monitoring enhancements for BLU Acceleration. DeveloperWorks. Scott Walkty, Mike Springgay, Dan Behman, David Kalmuk. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitor-bluaccel/index.html
   * DB2 10.5 with Blu Acceleration (IMM14140USEN). DB2 with BLU Acceleration. Paul Zikopoulus, Sam Lightstone et al. Book. 2014 - http://www.ibmbluhub.com/wp-content/uploads/2014/06/IMM14140USEN_DB2_10.5_with_BLU_Acceleration_flash_book.pdf
   * Architecting and Deploying DB2 with BLU Acceleration. IBM RedBooks. Whei-Jen Chen, Brigitte Blaser et al. 2015. Book - http://www.redbooks.ibm.com/abstracts/sg248212.html
+  * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
 * Boolean
   * Boolean data type. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/boolean-data-type/
 * BSON
@@ -252,6 +253,8 @@ This is an index where you can search for a DB2 term and get the related Interne
 * db2rbind
   * Static SQL vs Dynamic SQL in Stored Procedures. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
+* db2relocatedb
+  * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
 * db2rfe
   * db2rfe for non-root installations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/01/db2rfe-for-non-root-instalations.html
 * db2set
@@ -263,6 +266,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 Basics: An introduction to the DB2 UDB trace facility. DeveloperWorks. Roman Melnyk. 2004. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0409melnyk/
 * db2updvNNN
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
+* DB2 Direct
+  * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
 * DB2 Log Scanner
   * DB2 Logging and HADR Performance Analysis using DB2 Log Scanner and HADR Calculator. DeveloperWorks. Yuke Zhuge. 2014. Blog - https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/DB2HADR/page/db2logscan 
 * dbpath
@@ -310,6 +315,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * KnowledgeCenter DB2 9.5. IBM. Documentation - http://www.ibm.com/support/knowledgecenter/SSEPGG_9.5.0/com.ibm.db2.luw.kc.doc/welcome.html
 * Double dash --
   * Comments. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/comments/
+* DPF - Data Partitioning Feature
+  * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
 * Dynamic SQL
   * Dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/dynamic-sql/
   * Example: Select statement in dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-select-statement-in-dynamic-sql/
@@ -327,6 +334,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Problems when executing commands from files in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/09/problems-when-executing-commands-from.html
 * End of Support - EOS
   * DB2 Distributed end of support (EOS) dates. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21168270
+  * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
 * EOL
   * Problems when executing commands from files in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/09/problems-when-executing-commands-from.html
 * Error code
@@ -440,6 +448,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Enable DB2 native encryption in an HADR environment. DeveloperWorks. Stephen Levett. 2016. Blog - https://www.ibm.com/developerworks/community/blogs/81c130c7-4408-4e01-adf5-658ae0ef5f0c/entry/Enable_DB2_native_encryption_in_an_HADR_environment
   * Log configuration in HADR environment. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/12/log-configuration-in-hadr-environment.html
   * Rebuild TSA Resources in HADR Environment. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11439
+  * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
 * HADR Calculator
   * DB2 Logging and HADR Performance Analysis using DB2 Log Scanner and HADR Calculator. DeveloperWorks. Yuke Zhuge. 2014. Blog - https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/DB2HADR/page/db2logscan 
 * Handler
@@ -687,6 +696,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 purescale Install GPL Error. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
   * DB2 pureScale Install Problem Determination. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
   * DB2 11.1 Rebuild TSA Resources. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11436
+  * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
 * PureXML
   * pureXML. Wikipedia. Wiki - https://en.wikipedia.org/wiki/PureXML
 * PVU
@@ -726,6 +736,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Moving Mountains with a Redirected Restore. db2commerce. Michael Krafick. 2016. Blog - http://db2commerce.com/2016/08/04/moving-mountains-with-a-redirected-restore/
 * Release savepoint
   * RELEASE SAVEPOINT statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/release-savepoint/
+* Relocate
+  * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
 * RenameArray
   * Quantity of files in the active log directory (including those from renameArray). Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/03/quantity-of-files-in-active-log.html
 * Reopt
@@ -762,6 +774,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 * Rollforward
   * DB2 Tips n Tricks Part 97 - How To Take Offline Backup of Tablespace. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=tT1K3uamwxc
   * DB2 Tips n Tricks Part 98 - How Conversion of Regular to Large Tablespace Impacts Recovery. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=uJ2_HXMY6A4
+  * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
 * Root installation
   * db2rfe for non-root installations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/01/db2rfe-for-non-root-instalations.html
 * Routines
@@ -990,6 +1003,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * db2look from stored procedure. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/10/db2look-from-stored-procedure.html
 * Support
   * DB2 Distributed end of support (EOS) dates. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21168270
+  * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
 * Suspend write
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
 * SvceName
@@ -1065,6 +1079,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Unit test SQL PL routines by using db2unit framework in DB2 LUW. DeveloperWorks. Andres Gomez. 2015. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1501unittest-sql-db2/index.html
 * Upgrade
   * DB2 Upgrade Detail: Upgrading Event Monitor Tables. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/12/20/db2-upgrade-detail-upgrading-event-monitor-tables/
+  * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
 * User
   * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html
 * Userexit
@@ -1135,4 +1150,5 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 * 11.1
   * DB2 for Linux, UNIX and Windows Version 11 Hightlights. IBM Box. George Baklarz, Enzo Cialini. 2016. Book https://ibm.box.com/v/DB2v11eBook
   * The DB2Night Show #187: FREE Resources to help you succeed with DB2 LUW V11. The DB2Night Show. George Baklarz. 2016. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=713, PDF - http://www.dbisoftware.com/db2nightshow/20161209DB2Night187.pdf
+  * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
   * Strange Problem Installing DB2 11.1, Fix/Mod Pack 1 on Ubuntu. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2017/01/06/strange-problem-installing-db2-11-1-fixmod-pack-1-on-ubuntu/
