@@ -24,6 +24,7 @@ In this section, the main DB2 sources are described:
 * Andres Gomez Casanova - Ideas for DB2 (Blog about technical stuff). https://angocadb2.blogspot.com.co
   * All 2016 has been indexed.
 * raf mathijs - DB2 Knowledge Base Raf (Blog about technical stuff). http://db2-luw-knowledgebase.blogspot.com.co/
+* Vinay Bommana - Vinay's DB2 blog (Blog about technical stuff). http://vinaysdb2blog.blogspot.com.co/
 
 These blogs are not longer updated 😞 
 
