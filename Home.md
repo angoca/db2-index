@@ -539,6 +539,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Big Data Storage & Analytics—IBM DB2 and Graphite. DeveloperWorks. Aaron Baughman, Cameron McAvoy, Brian O'Connell, and Nicholas McCrory. 2016. Article - http://www.ibm.com/developerworks/library/ba-bluemix-predictive-cloud-computing-static-analysis-trs/index.html
 * JSON
   * The DB2Night Show #187: FREE Resources to help you succeed with DB2 LUW V11. The DB2Night Show. George Baklarz. 2016. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=713, PDF - http://www.dbisoftware.com/db2nightshow/20161209DB2Night187.pdf
+  * Extending SQL: Exploring the hidden JSON capabilities in DB2. IBM DataManagement. George Baklarz. 2017. Webminar - http://event.on24.com/wcc/r/1363468/E3E9C8C749686A23195DEE9498A434F2
 
 # L
 
