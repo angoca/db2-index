@@ -25,6 +25,7 @@ In this section, the main DB2 sources are described:
   * All 2016 has been indexed.
 * raf mathijs - DB2 Knowledge Base Raf (Blog about technical stuff). http://db2-luw-knowledgebase.blogspot.com.co/
 * Vinay Bommana - Vinay's DB2 blog (Blog about technical stuff). http://vinaysdb2blog.blogspot.com.co/
+* Thoughts from Support (Blog about technical stuff). https://www.ibm.com/developerworks/community/blogs/IMSupport
 
 These blogs are not longer updated 😞 
 
