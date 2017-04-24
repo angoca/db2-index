@@ -262,6 +262,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * db2look from stored procedure. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/10/db2look-from-stored-procedure.html
 * db2med
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
+* db2mtrk
+  * db2top: Memory screen and db2mtrk (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-and-db2mtrk-video.html
 * db2nodes.cfg
   * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
   * DB2 11.1 Rebuild TSA Resources. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11436
@@ -286,6 +288,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * db2start add member fails. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11419
   * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
 * db2top
+  * db2top: Memory screen and db2mtrk (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-and-db2mtrk-video.html
   * The Role of the DB2 DBA in Load/Performance Testing. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/02/09/the-role-of-the-db2-dba-in-loadperformance-testing/
 * db2trc
   * DB2 Basics: An introduction to the DB2 UDB trace facility. DeveloperWorks. Roman Melnyk. 2004. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0409melnyk/
