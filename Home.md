@@ -999,6 +999,10 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * . SQL-PL Guide. Michael Spoden. Documentation - 
   * . SQL-PL Guide. Michael Spoden. Documentation - 
   * SQL procedure tracing. DeveloperWorks. Serge Rielau. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0409rielau/
+  * Metaprogramming in SQL (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/metaprogramming-in-sql-part-1.html
+  * Metaprogramming in SQL (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/metaprogramming-in-sql-part-2.html
+  * Metaprogramming in SQL (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/metaprogramming-in-sql-part-3.html
+  * Metaprogramming in SQL (Part 4). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/metaprogramming-in-sql-part-4.html
   * How Inception is like metaprogramming. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/how-inception-is-like-metaprogramming.html
   * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
 * SQL PL Profiler
