@@ -16,6 +16,8 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Admin_Cmd
   * ADMIN_CMD Procedure. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/admin_cmd-procedure/
   * Example: Runstats. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-runstats/ 
+* Alias
+  * Why you should program to interfaces in SQL. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/why-you-should-program-to-interfaces-in-sql.html
 * Allocate
   * ALLOCATE CURSOR statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/allocate-cursor/
   * Example: How much reorganisations are recommended on a specific schema. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-reorgchk/
@@ -289,6 +291,21 @@ This is an index where you can search for a DB2 term and get the related Interne
   * db2start add member fails. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11419
   * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
 * db2top
+  * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
+  * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
+  * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
+  * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
+  * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
+  * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
+  * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
+  * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
+  * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
+  * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
+  * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
+  * db2top Display Settings. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-display-settings.html
+  * db2top Performance Report. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-performance-report.html
+  * db2top: How to change column order and preserve it in the next session. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-how-to-change-column-order-and-preserve-it-in-the-next-session.html
+  * db2top: The Watch feature. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-the-watch-feature.html
   * db2top: Memory screen and db2mtrk (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-and-db2mtrk-video.html
   * db2top: Buffer pool hit ratio (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-buffer-pool-hit-ratio-video.html
   * db2top: Regular expressions (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-regular-expressions-video.html
@@ -995,10 +1012,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * SQL access level clause. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/sql-access-level/
   * Supported SQL/PL statements. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/sql-pl-statements/
   * List of statements that can be dynamically prepared. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/statements-that-can-be-dynamically-prepared/
-  * . SQL-PL Guide. Michael Spoden. Documentation - 
-  * . SQL-PL Guide. Michael Spoden. Documentation - 
-  * . SQL-PL Guide. Michael Spoden. Documentation - 
   * SQL procedure tracing. DeveloperWorks. Serge Rielau. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0409rielau/
+  * Why you should program to interfaces in SQL. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/why-you-should-program-to-interfaces-in-sql.html
   * Metaprogramming in SQL (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/metaprogramming-in-sql-part-1.html
   * Metaprogramming in SQL (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/metaprogramming-in-sql-part-2.html
   * Metaprogramming in SQL (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/metaprogramming-in-sql-part-3.html
