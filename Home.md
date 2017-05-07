@@ -808,6 +808,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Up and Running with DB2 on Linux. IBM RedBooks. Whei-Jen Chen, Christian Hideaki Kondo et al. 2008. Book - http://www.redbooks.ibm.com/abstracts/sg246899.html
   * Unleashing DB2 10 for Linux, UNIX, and Windows. IBM RedBooks. Danny Arnold, Steve Diniro et al. 2012. Book - http://www.redbooks.ibm.com/abstracts/sg248032.html
   * Architecting and Deploying DB2 with BLU Acceleration. IBM RedBooks. Whei-Jen Chen, Brigitte Blaser et al. 2015. Book - http://www.redbooks.ibm.com/abstracts/sg248212.html
+* Reddit
+  * DB2. Reddit. Content aggregator - https://www.reddit.com/r/DB2/
 * Redirected restore
   * Moving Mountains with a Redirected Restore. db2commerce. Michael Krafick. 2016. Blog - http://db2commerce.com/2016/08/04/moving-mountains-with-a-redirected-restore/
 * Release savepoint
