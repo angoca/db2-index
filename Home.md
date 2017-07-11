@@ -885,6 +885,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 * Runstats
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
   * Example: Runstats. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-runstats/ 
+  * DB2 Administrative SQL Cookbook: When Were Runstats Done (Beyond STATS_TIME)?. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/03/16/db2-administrative-sql-cookbook-when-were-runstats-done-beyond-stats_time/
 
 # S
 
