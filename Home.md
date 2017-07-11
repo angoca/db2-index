@@ -656,6 +656,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DROP MODULE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/drop-module/
 * Mon_Get_*
   * Comparing dsmtop and db2top. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/03/07/comparing-dsmtop-and-db2top/
+  * DB2 Administrative SQL Cookbook: Generating a Comma Separated List of Columns in a MON_GET Table Function. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/03/30/db2-administrative-sql-cookbook-generating-a-comma-separated-list-of-columns-in-a-mon_get-table-function/
 * Mon_Get_Database
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
   * The Role of the DB2 DBA in Load/Performance Testing. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/02/09/the-role-of-the-db2-dba-in-loadperformance-testing/
@@ -823,6 +824,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * DB2. Reddit. Content aggregator - https://www.reddit.com/r/DB2/
 * Redirected restore
   * Moving Mountains with a Redirected Restore. db2commerce. Michael Krafick. 2016. Blog - http://db2commerce.com/2016/08/04/moving-mountains-with-a-redirected-restore/
+  * SQL0752N on Rollforward After Redirected Restore. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2017/03/28/sql0752n-on-rollforward-after-redirected-restore/
 * Release savepoint
   * RELEASE SAVEPOINT statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/release-savepoint/
 * Relocate
@@ -848,6 +850,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * DB2 Tips n Tricks Part 99 - How To Perform Redirected Restore without REDIRECT Keyword. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=B2OWBhNg_E8
   * Restore database from a backup in Networker. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/restore-database-from-backup-in.html
   * How to identify a backup timestamp in Networker. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/restore-database-from-backup-in.html
+  * SQL0752N on Rollforward After Redirected Restore. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2017/03/28/sql0752n-on-rollforward-after-redirected-restore/
 * Result set
   * RESULT SETS in DB2 Stored Procedures. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/result-sets/
 *  Return
