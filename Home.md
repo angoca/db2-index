@@ -67,6 +67,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Linux permission on directories to administer DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/linux-permission-on-directories-to.html
   * How to identify a backup timestamp in Networker. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/restore-database-from-backup-in.html
   * How to backup and extract the recovery history file from a database backup? IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21994689
+* Bash
+  * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
 * Bind
   * Parameter Wednesday: DB2 Registry DB2_EVALUNCOMMITTED. db2commerce. Ember Crooks. 2012. Blog - http://db2commerce.com/2012/06/27/parameter-wednesday-db2-registry-db2_evaluncommitted/
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
@@ -130,8 +132,13 @@ This is an index where you can search for a DB2 term and get the related Interne
   * PkgCache #28: Easier to use when drunk. The Whole Package Cache. Ian Bjorhovde, Fred Sobotka. 2016. Podcast - http://www.pkgcache.com/28/
 * CLP - Command Line Processor
   * Escape characters in shell for DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/escape-characters-in-shell-for-db2.html
+  * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
+* CLPPlus
+  * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
 * Column Organized Tables
   * Restore Transport option – mix and match your schemas (Part 2). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas-part-2/
+* Command line
+  * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
 * Comment
   * Comments. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/comments/
 * Common Table Expression
@@ -575,6 +582,10 @@ This is an index where you can search for a DB2 term and get the related Interne
   * The DB2Night Show #187: FREE Resources to help you succeed with DB2 LUW V11. The DB2Night Show. George Baklarz. 2016. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=713, PDF - http://www.dbisoftware.com/db2nightshow/20161209DB2Night187.pdf
   * Extending SQL: Exploring the hidden JSON capabilities in DB2. IBM DataManagement. George Baklarz. 2017. Webminar - http://event.on24.com/wcc/r/1363468/E3E9C8C749686A23195DEE9498A434F2, PDF - http://event.lvl3.on24.com/event/13/63/46/8/rt/1/documents/resourceList1487863545737/db2_tech_talk_extending_sql20170223_final.pdf
 
+# K
+
+* Korn
+  * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
 
 # L
 
@@ -764,6 +775,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * How to backup and extract the recovery history file from a database backup? IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21994689
 * PowerShell
   * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/08/30/powershell-script-for-local-db2-database-activation/
+  * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
 * Prepare
   * Dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/dynamic-sql/
   * Example: Select statement in dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-select-statement-in-dynamic-sql/
