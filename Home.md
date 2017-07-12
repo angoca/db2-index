@@ -477,14 +477,18 @@ This is an index where you can search for a DB2 term and get the related Interne
   * comp.databases.ibm-db2. Google. Forum - https://groups.google.com/forum/#!forum/comp.databases.ibm-db2
   * db2. dbforums. Forum - http://www.dbforums.com/db2/
   * DB2. Reddit. Forum - https://www.reddit.com/r/DB2/
+  * db2. Server Fault. Forum - https://serverfault.com/questions/tagged/db2
+  * db2. StackExchange-DBA. Forum - https://dba.stackexchange.com/questions/tagged/db2
   * db2. StackOverFlow. Forum - https://stackoverflow.com/questions/tagged/db2
+  * db2. SuperUser. Forum - https://superuser.com/questions/tagged/db2
+  * db2. Unix & Linux. Forum - https://unix.stackexchange.com/questions/tagged/db2
   * DB2 Database Forum. Bytes. Forum - http://bytes.com/topic/db2/
   * db2-luw. StackOverFlow. Forum - https://stackoverflow.com/questions/tagged/db2-luw
   * DB2 LUW. it.toolbox. Forum - http://database.ittoolbox.com/groups/technical-functional/db2-l/
   * DB2-L. idug. Forum - http://www.idug.org/p/fo/si/topic=19
   * Forum: IBM DB2. Database Journal. Forum - http://forums.databasejournal.com/forumdisplay.php?8-IBM-DB2
   * IBM: DB2 Forum. Tek Tips. Forum - http://www.tek-tips.com/threadminder.cfm?pid=178
-  * IBM DB2 for Linux, Unix, and Windows Forum. DeveloperWorks. Forum - https://www.ibm.com/developerworks/community/forums/html/forum?id=11111111-0000-0000-0000-000000000842&ps=25
+  * IBM DB2 for Linux, Unix, and Windows Forum. DeveloperWorks. Forum (This forum is currently in read only mode) - https://www.ibm.com/developerworks/community/forums/html/forum?id=11111111-0000-0000-0000-000000000842&ps=25
 * Functions
   * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
 
