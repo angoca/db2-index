@@ -1269,9 +1269,10 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * DB2 Database Professionals. DeveloperWorks. Wiki - https://www.ibm.com/developerworks/community/groups/service/html/communityview?lang=en&communityUuid=fc834388-7630-4b28-9abd-2f6e702b7df7
   * IBM DB2 - Wiki. Toad. Wiki - http://www.toadworld.com/platforms/ibmdb2/w/wiki/default.aspx
 * Wikipedia
+  * DB2 SQL return codes. Wikipedia. Wiki - https://en.wikipedia.org/wiki/DB2_SQL_return_codes
+  * DB2 UDB. Wikipedia. Wiki - https://en.wikipedia.org/wiki/DB2_UDB
   * IBM DB2. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2
   * IBM DB2 Express-C. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2_Express-C
-  * DB2 UDB. Wikipedia. Wiki - https://en.wikipedia.org/wiki/DB2_UDB
   * pureXML. Wikipedia. Wiki - https://en.wikipedia.org/wiki/PureXML
 * Windows
   * PkgCache #28: Easier to use when drunk. The Whole Package Cache. Ian Bjorhovde, Fred Sobotka. 2016. Podcast - http://www.pkgcache.com/28/
