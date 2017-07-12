@@ -471,8 +471,9 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Forum
   * Community Discussion. Toad. Forum - http://www.toadworld.com/platforms/ibmdb2/f/55.aspx
   * comp.databases.ibm-db2. Google. Forum - https://groups.google.com/forum/#!forum/comp.databases.ibm-db2
-  * db2. StackOverFlow. Forum - https://stackoverflow.com/questions/tagged/db2
   * db2. dbforums. Forum - http://www.dbforums.com/db2/
+  * DB2. Reddit. Forum - https://www.reddit.com/r/DB2/
+  * db2. StackOverFlow. Forum - https://stackoverflow.com/questions/tagged/db2
   * DB2 Database Forum. Bytes. Forum - http://bytes.com/topic/db2/
   * db2-luw. StackOverFlow. Forum - https://stackoverflow.com/questions/tagged/db2-luw
   * DB2 LUW. it.toolbox. Forum - http://database.ittoolbox.com/groups/technical-functional/db2-l/
