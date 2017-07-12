@@ -171,6 +171,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 Table Row (Tuple) Size. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2-row-size/
 * CPUSpeed
  * Quick Hit Tips – CPUSPEED, RESTRICTIVE, and DB2_WORKLOAD. db2commerce. Michael Krafick. 2016. Blog - http://db2commerce.com/2014/08/19/quick-hit-tips-cpuspeed-restrictive-and-db2_workload/?utm_source=rss&utm_medium=rss&utm_campaign=quick-hit-tips-cpuspeed-restrictive-and-db2_workload
+* Crash recovery
+  * IBM’s June Announcements About DB2. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/06/23/ibms-june-announcements-about-db2/
 * Creation
   * Default directory for DB creations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/default-directory-for-db-creations.html
 * Cross-Platform Development
@@ -353,6 +355,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Default values. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/default-values/
 * Deterministic
   * DETERMINISTIC and NOT DETERMINISTIC option. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/deterministic/
+* Developer-C edition
+  * IBM’s June Announcements About DB2. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/06/23/ibms-june-announcements-about-db2/
 * DFT_QueryOpt
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Crooks. 2013. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
 * DftDBPath
@@ -705,6 +709,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
 * Named-pipe
   * DB2 Tips n Tricks Part 37 - How To Load Compressed Files directly without Extracting to Harddisk. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=FT3UBxpeR9k
+* Naming (Db2)
+  * IBM’s June Announcements About DB2. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/06/23/ibms-june-announcements-about-db2/
 * Native Encryption
   * Enable DB2 native encryption in an HADR environment. DeveloperWorks. Stephen Levett. 2016. Blog - https://www.ibm.com/developerworks/community/blogs/81c130c7-4408-4e01-adf5-658ae0ef5f0c/entry/Enable_DB2_native_encryption_in_an_HADR_environment
 * Network
@@ -721,6 +727,8 @@ This is an index where you can search for a DB2 term and get the related Interne
 
 # O
 
+* Online Crash Recovery
+  * IBM’s June Announcements About DB2. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/06/23/ibms-june-announcements-about-db2/
 * Open
   * FOR statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/for/
   * Example: Select statement in dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-select-statement-in-dynamic-sql/
@@ -1294,3 +1302,4 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * The DB2Night Show #187: FREE Resources to help you succeed with DB2 LUW V11. The DB2Night Show. George Baklarz. 2016. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=713, PDF - http://www.dbisoftware.com/db2nightshow/20161209DB2Night187.pdf
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
   * Strange Problem Installing DB2 11.1, Fix/Mod Pack 1 on Ubuntu. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2017/01/06/strange-problem-installing-db2-11-1-fixmod-pack-1-on-ubuntu/
+  * IBM’s June Announcements About DB2. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/06/23/ibms-june-announcements-about-db2/
