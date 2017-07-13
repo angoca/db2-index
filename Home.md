@@ -14,6 +14,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
   * Quantity of files in the active log directory (including those from renameArray). Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/03/quantity-of-files-in-active-log.html
 * Activity Event Monitor
+  * DB2 monitoring: Tracing SQL statements by using an activity event monitor. developerWorks. Scott Walkty and Mike Springgay. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1401sqltrace/
   * Capturing SQL statements and performance metrics for a single application database-connection in DB2. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/04/capturing-sql-statements-and-activities.html
   * Transitioning from Query Patroller historical tables to WLM & Event Monitors in DB2 LUW. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/06/transitioning-from-query-patroller.html
 * Admin_Cmd
@@ -422,6 +423,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Escape characters in shell for DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/escape-characters-in-shell-for-db2.html
 * Event monitor
   * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues. DeveloperWorks. Dirk Fechner. 2010. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
+  * DB2 monitoring: Tracing SQL statements by using an activity event monitor. developerWorks. Scott Walkty and Mike Springgay. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1401sqltrace/
   * Capturing SQL statements and performance metrics for a single application database-connection in DB2. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/04/capturing-sql-statements-and-activities.html
   * Transitioning from Query Patroller historical tables to WLM & Event Monitors in DB2 LUW. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/06/transitioning-from-query-patroller.html
   * How to reproduce a deadlock. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/how-to-reproduce-deadlock.html
@@ -1023,6 +1025,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
 * SQL
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
+  * DB2 monitoring: Tracing SQL statements by using an activity event monitor. developerWorks. Scott Walkty and Mike Springgay. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1401sqltrace/
   * Funny SQL I Have Seen Lately. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/05/funny-sql-i-have-seen-lately/
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
@@ -1121,6 +1124,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * RESIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/resignal/
   * SIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/signal/
   * SQLCODE & SQLSTATE. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/sqlcode-sqlstate/
+* sqltrace
+  * DB2 monitoring: Tracing SQL statements by using an activity event monitor. developerWorks. Scott Walkty and Mike Springgay. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1401sqltrace/
 * SQLWarning
   * Condition handling. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/condition-handling/
 * Start / Stop instance
@@ -1325,6 +1330,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 * WLM
   * Transitioning from Query Patroller historical tables to WLM & Event Monitors in DB2 LUW. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/06/transitioning-from-query-patroller.html
 * Wlm_Set_Conn_Env
+  * DB2 monitoring: Tracing SQL statements by using an activity event monitor. developerWorks. Scott Walkty and Mike Springgay. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1401sqltrace/
   * Capturing SQL statements and performance metrics for a single application database-connection in DB2. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/04/capturing-sql-statements-and-activities.html
 * wlmhist.pl
   * Transitioning from Query Patroller historical tables to WLM & Event Monitors in DB2 LUW. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/06/transitioning-from-query-patroller.html
