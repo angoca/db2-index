@@ -20,6 +20,10 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Admin_Cmd
   * ADMIN_CMD Procedure. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/admin_cmd-procedure/
   * Example: Runstats. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-runstats/ 
+* Admin_Get_Encryption_Info
+  * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
+* Admin_Rotate_Master_Key
+  * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
 * ADMIN_MOVE_TABLE
   * Reclaimable Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/02/21/reclaimable-table-spaces/
 * Alias
@@ -178,6 +182,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Quick Hit Tips – CPUSPEED, RESTRICTIVE, and DB2_WORKLOAD. db2commerce. Michael Krafick. 2016. Blog - http://db2commerce.com/2014/08/19/quick-hit-tips-cpuspeed-restrictive-and-db2_workload/?utm_source=rss&utm_medium=rss&utm_campaign=quick-hit-tips-cpuspeed-restrictive-and-db2_workload
 * Crash recovery
   * IBM’s June Announcements About DB2. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/06/23/ibms-june-announcements-about-db2/
+* Create database
+  * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
 * Creation
   * Default directory for DB creations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/default-directory-for-db-creations.html
 * Cross-Platform Development
@@ -318,6 +324,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Using db2prereqcheck to Check Prerequisites for DB2 LUW. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2prereqcheck-check-prerequisites-db2-luw/
   * db2setup on Windows – Repair Option. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2017/04/04/db2setup-on-windows-repair-option/
 * db2start
+  * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
   * db2start add member fails. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11419
   * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
 * db2top
@@ -419,6 +426,8 @@ This is an index where you can search for a DB2 term and get the related Interne
 * End of Support - EOS
   * DB2 Distributed end of support (EOS) dates. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21168270
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
+* Encryption
+  * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
 * EOL
   * Problems when executing commands from files in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/09/problems-when-executing-commands-from.html
 * Error code
@@ -529,6 +538,10 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 purescale Install GPL Error. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
 * Grant
   * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html
+* gsk8capicmd
+  * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
+* gskit
+  * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
 
 # H
 
@@ -536,6 +549,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 system topology and configuration for automated multi-site HA and DR. IBM. Aruna De Silva. 2010. Whitepaper - http://public.dhe.ibm.com/software/dw/data/dm-1002automateddb2hadr/Automated_long-distance_HADR_configurations.pdf
   * Automating HADR on DB2 10.1 for Linux, UNIX and Windows Failover Solution Using Tivoli System Automation for Multiplatforms. IBM. 2014. Whitepaper - http://public.dhe.ibm.com/software/dw/im/dm-0907hadrdb2haicu/db2-10-hadr-tsa.pdf
   * Increase DB2 availability. DeveloperWorks. Stephen Holt. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1406db2avail/index.html
+  * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
   * How to Estimate the duration of a TAKEOVER HADR operation in DB2. ThinkingDB2! David Sciaraffa. Blog - http://thinkingdb2.blogspot.com.co/2015/07/how-to-estimate-duration-of-takeover.html
   * How to identify if a table has the not logged initially attribute. Ideas for DB2 (Spanish). Andres Gomez. 2015. Blog - http://angocadb2.blogspot.com.co/2015/12/how-to-identify-if-table-has-not-logged.html
   * Automated cluster controlled HADR configuration setup using the IBM DB2 high availability instance configuration utility. DeveloperWorks. Steve Raspudic, Malaravan Ponnuthurai. 2016. Article - http://www.ibm.com/developerworks/data/library/long/dm-0907hadrdb2haicu/index.html
@@ -617,6 +631,10 @@ This is an index where you can search for a DB2 term and get the related Interne
 
 # K
 
+* Key-store
+  * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
+* KeyStore_Location
+  * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
 * Korn
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
 
@@ -908,6 +926,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 * Resignal
   * RESIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/resignal/
 * Restore
+  * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
   * Understanding and Tuning DB2/LUW Backup and Restore Performance. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/understanding-and-tuning-db2luw-backup.html
   * Restore Transport option – mix and match your schemas (Part 1). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas/
   * Restore Transport option – mix and match your schemas (Part 2). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas-part-2/
@@ -926,6 +945,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 * REXX
   * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
 * RFE - Request For Enhancement
+  * How to submit a DB2 feature/enhancement request using the RFE tool. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/09/how-to-submit-db2-featureenhancement.html
   * PkgCache #28: Easier to use when drunk. The Whole Package Cache. Ian Bjorhovde, Fred Sobotka. 2016. Podcast - http://www.pkgcache.com/28/
   * IBM’s DB2 RFE Program. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/02/14/ibms-db2-rfe-program/
 * Rollback
@@ -988,6 +1008,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
     * DB2 security, Part 8: Twelve DB2 security best practices. DeveloperWorks. Ted J. Wasserman. 2006. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0607wasserman/index.html
     * DB2 security, Part 10: Deploy customized security plug-ins in DB2 9. DeveloperWorks. Kevin Yeung-Kuen See. 2010. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0610see/index.html
     * DB2 Security, Part 11: Develop a security plug-in for DB2 database authentication. DeveloperWorks. Gene Kligerman. 2009. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0802kligerman/
+  * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
   * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html
   * Static SQL vs Dynamic SQL in Stored Procedures. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
   * DB2/dashDB Security: Implicit Privileges Through Group Membership. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/11/db2-security-implicit-privileges.html
