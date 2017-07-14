@@ -9,11 +9,11 @@
 * [H](home#h)
 * [I](home#i)
 * [J](home#j)
-* K
+* [K](home#k)
 * [L](home#l)
 * [M](home#m)
 * [N](home#n)
-* O
+* [O](home#o)
 * [P](home#p)
 * [Q](home#q)
 * [R](home#r)
