@@ -14,7 +14,7 @@ In this section, the main DB2 sources are described:
 * Scott Hayes - DB2 Performance (Articles about performance and DBI software). http://www.dbisoftware.com/blog/db2_performance.php
   * All 2016 has been indexed.
 * Vinay Kumar Bommana - DB Tutorials (Videos of DB2 🎥 ). https://www.youtube.com/channel/UCo0cIzR_TbMzU5wHQmbTjxQ/videos
-* Vikram Khatri - Zinox (Blog of technical stuff). http://www.zinox.com/
+* Vikram Khatri - Zinox (Blog of technical stuff 📷 ). http://www.zinox.com/
   * All 2016 has been indexed.
 * DB2 Geek (Blog of different things about DB2). http://db2geek.triton.co.uk
   * All 2016 has been indexed.
@@ -26,6 +26,7 @@ In this section, the main DB2 sources are described:
 * raf mathijs - DB2 Knowledge Base Raf (Blog about technical stuff). http://db2-luw-knowledgebase.blogspot.com.co/
 * Vinay Bommana - Vinay's DB2 blog (Blog about technical stuff). http://vinaysdb2blog.blogspot.com.co/
 * Thoughts from Support (Blog about technical stuff). https://www.ibm.com/developerworks/community/blogs/IMSupport
+* David Sciaraffa - ThinkingDB2! (Blog about technical stuff written by a Db2 develoeper 💻 ). http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html  
 
 These blogs are not longer updated 😞 
 
