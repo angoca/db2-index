@@ -34,3 +34,8 @@ These blogs are not longer updated 😞
 
 * Chris Eaton - An Expert's Guide to DB2 Technology (Blog from an IBM expert 😢 ). http://it.toolbox.com/blogs/db2luw/
 * Serge Rielau (瑞赛奇) and Rick Swagerman - SQL Tips for DB2 LUW (Blog from DB2 architect 🙈 ). https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/
+
+ToDo
+
+* https://www.brighttalk.com/search?duration=0..&q=db2&rank=entrytime
+* https://www.google.com.co/search?q=site%3Ahttp%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Fdata%2Flibrary%2Ftecharticle+db2&oq=site%3Ahttp%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Fdata%2Flibrary%2Ftecharticle+db2&aqs=chrome..69i57j69i58.2232j0j7&sourceid=chrome&ie=UTF-8#q=site:http://www.ibm.com/developerworks/data/library/techarticle+db2&safe=off&start=40
