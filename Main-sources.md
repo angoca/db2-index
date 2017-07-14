@@ -27,6 +27,7 @@ In this section, the main DB2 sources are described:
 * Vinay Bommana - Vinay's DB2 blog (Blog about technical stuff). http://vinaysdb2blog.blogspot.com.co/
 * Thoughts from Support (Blog about technical stuff). https://www.ibm.com/developerworks/community/blogs/IMSupport
 * David Sciaraffa - ThinkingDB2! (Blog about technical stuff written by a Db2 develoeper 💻 ). http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html  
+  * All articles has been indexed. Last update 201706.
 
 These blogs are not longer updated 😞 
 
