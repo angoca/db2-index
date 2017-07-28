@@ -519,6 +519,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2-L. idug. Forum - http://www.idug.org/p/fo/si/topic=19
   * db2-luw. StackOverFlow. Forum - https://stackoverflow.com/questions/tagged/db2-luw
   * db2-luw. dWanswers - DeveloperWorks. Forum - https://developer.ibm.com/answers/smartspace/db2luw/
+  * db2. Expert Exchange - https://www.experts-exchange.com/topics/db2/
   * Forum: IBM DB2. Database Journal. Forum - http://forums.databasejournal.com/forumdisplay.php?8-IBM-DB2
   * IBM: DB2 Forum. Tek Tips. Forum - http://www.tek-tips.com/threadminder.cfm?pid=178
   * IBM DB2 for Linux, Unix, and Windows Forum. DeveloperWorks. Forum (This forum is currently in read only mode) - https://www.ibm.com/developerworks/community/forums/html/forum?id=11111111-0000-0000-0000-000000000842&ps=25
