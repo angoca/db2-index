@@ -274,6 +274,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Understanding and Tuning DB2/LUW Backup and Restore Performance. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/understanding-and-tuning-db2luw-backup.html
 * db2cat
   * Db2 Catalog - A Guided Tour. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2017/08/db2-catalog-guided-tour.html
+* db2cktsa
+  * db2haicu disable / enable and scripting. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11482
 * db2cluster
   * DB2 pureScale – Online Rolling update. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/490
   * Clean-up pureScale. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/491
@@ -309,6 +311,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Automated cluster controlled HADR configuration setup using the IBM DB2 high availability instance configuration utility. DeveloperWorks. Steve Raspudic, Malaravan Ponnuthurai. 2016. Article - http://www.ibm.com/developerworks/data/library/long/dm-0907hadrdb2haicu/index.html
   * Tie-Breaker Disk for HADR or pureScale. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/499
   * Rebuild TSA Resources in HADR Environment. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11439
+  * db2haicu disable / enable and scripting. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11482
 * db2iauto
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
 * db2icrt
@@ -1046,6 +1049,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * DB2 purescale Install GPL Error. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
   * DB2 pureScale Install Problem Determination. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
   * DB2 11.1 Rebuild TSA Resources. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11436
+  * db2haicu disable / enable and scripting. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11482
 * Runstats
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
   * Example: Runstats. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-runstats/ 
@@ -1359,6 +1363,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * DB2 purescale Install GPL Error. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
   * DB2 11.1 Rebuild TSA Resources. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11436
   * Rebuild TSA Resources in HADR Environment. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11439
+  * db2haicu disable / enable and scripting. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11482
 * TSM
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
 * Twitter
