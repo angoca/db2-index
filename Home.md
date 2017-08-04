@@ -288,6 +288,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Enable Fast I/O Fencing Scipt for Linux. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11412
   * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
   * DB2 11.1 Rebuild TSA Resources. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11436
+  * Kernel upgrade and impact on pureScale. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11463
 * db2diag
   * The Database isn’t Available from Half the Servers – it Must be DB2. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/08/19/the-database-isnt-available-from-half-the-servers-it-must-be-db2/
   * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/08/30/powershell-script-for-local-db2-database-activation/
@@ -586,6 +587,8 @@ This is an index where you can search for a DB2 term and get the related Interne
 * GPFS
   * DB2 purescale Install GPL Error. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
   * DB2 11.1 Rebuild TSA Resources. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11436
+  * Kernel upgrade and impact on pureScale. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11463
+  * How to detect log full condition. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11466
   * DB2 pureScale Health Check. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11467
   * DB2 pureScale instance creation hangs after GPFS. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11469
 * GPL
