@@ -409,6 +409,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * KnowledgeCenter DB2 9.8. IBM. Documentation - http://www.ibm.com/support/knowledgecenter/SSEPGG_9.8.0/com.ibm.db2.luw.kc.doc/welcome.html
   * KnowledgeCenter DB2 9.7. IBM. Documentation - http://www.ibm.com/support/knowledgecenter/SSEPGG_9.7.0/com.ibm.db2.luw.kc.doc/welcome.html
   * KnowledgeCenter DB2 9.5. IBM. Documentation - http://www.ibm.com/support/knowledgecenter/SSEPGG_9.5.0/com.ibm.db2.luw.kc.doc/welcome.html
+  * New IBM Knowledge Center for DB2 and other products. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/05/new-ibm-knowledge-center-for-db2-and.html
 * Double dash --
   * Comments. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/comments/
 * DPF - Data Partitioning Feature
@@ -530,6 +531,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Forum: IBM DB2. Database Journal. Forum - http://forums.databasejournal.com/forumdisplay.php?8-IBM-DB2
   * IBM: DB2 Forum. Tek Tips. Forum - http://www.tek-tips.com/threadminder.cfm?pid=178
   * IBM DB2 for Linux, Unix, and Windows Forum. DeveloperWorks. Forum (This forum is currently in read only mode) - https://www.ibm.com/developerworks/community/forums/html/forum?id=11111111-0000-0000-0000-000000000842&ps=25
+  * Learn DB2 and dashDB with Stack Overflow. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/06/learn-db2-and-dashdb-with-stack-overflow.html
 * Functions
   * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
 
@@ -638,6 +640,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * The DB2Night Show #187: FREE Resources to help you succeed with DB2 LUW V11. The DB2Night Show. George Baklarz. 2016. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=713, PDF - http://www.dbisoftware.com/db2nightshow/20161209DB2Night187.pdf
   * Extending SQL: Exploring the hidden JSON capabilities in DB2. IBM DataManagement. George Baklarz. 2017. Webminar - http://event.on24.com/wcc/r/1363468/E3E9C8C749686A23195DEE9498A434F2, PDF - http://event.lvl3.on24.com/event/13/63/46/8/rt/1/documents/resourceList1487863545737/db2_tech_talk_extending_sql20170223_final.pdf
 * Jupyter Notebook
+  * Coincidence? CeBIT visitors and weather featuring Jupyter Notebooks, Spark and dashDB. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/03/coincidence-cebit-visitors-and-weather.html
   * Notes on Notebooks, Data, DB2, and Bluemix. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/08/notes-on-notebooks-data-db2-and-bluemix.html
   * SQL Magic in Notebooks in the IBM Data Science Experience. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/11/sql-magic-in-notebooks-in-ibm-data.html
   * Connecting to DB2 from Jupyter Notebook. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/05/18/connecting-to-db2-from-jupyter-notebook/
@@ -648,6 +651,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
 * KeyStore_Location
   * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
+* KnowledgeCenter
+  * New IBM Knowledge Center for DB2 and other products. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/05/new-ibm-knowledge-center-for-db2-and.html
 * Korn
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
 
