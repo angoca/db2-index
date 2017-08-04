@@ -16,12 +16,12 @@ In this section, the main DB2 sources are described:
   * Articles since 201301 to 201707
 * Vinay Kumar Bommana - DB Tutorials (Videos of DB2 🎥 ). https://www.youtube.com/channel/UCo0cIzR_TbMzU5wHQmbTjxQ/videos
 * Vikram Khatri - Zinox (Blog of technical stuff 📷 ). http://www.zinox.com/
-  * All 2016 has been indexed.
+  * Articles since 201301 to 201707
 * DB2 Geek (Blog of different things about DB2). http://db2geek.triton.co.uk
   * All 2016 has been indexed.
 * IDUG Content Blog (Blog). http://www.idug.org/p/bl/bl/blogid=278
 * DeveloperWorks (Articles). http://www.ibm.com/developerworks/views/data/libraryview.jsp?sort_by=Date&search_by=db2
-  * Articles since 201604 to 201612
+  * Articles since 201601 to 201702
 * Andres Gomez Casanova - Ideas for DB2 (Blog about technical stuff). https://angocadb2.blogspot.com.co
   * All 2016 has been indexed.
 * raf mathijs - DB2 Knowledge Base Raf (Blog about technical stuff). http://db2-luw-knowledgebase.blogspot.com.co/
