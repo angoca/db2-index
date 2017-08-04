@@ -5,7 +5,7 @@ In this section, the main DB2 sources are described:
   * Also articles from http://www.virtual-dba.com/blog/
 * Harishkumar Pathanga - DB2-LUW-Academy (Videos of db2 tricks 📹 ). https://www.youtube.com/user/DB2LUWAcademy/videos
 * Henrik Loeser - Data Henrik: IT, Life, DB2, and more (Blog about technical stuff). http://blog.4loeser.net/
-  * Articles since 201701 to 201707
+  * Articles since 201601 to 201707
 * Michael Spoden - SQL PL Guide (Programming reference 🔡 ). http://www.sqlpl-guide.com/
   * All sections (some articles were excluded because they do not contain any information)
 * Fred Sobotka and Ian Bjorhovde - The Whole Package Cache (Podcasts about DB2 world 🎤 ). http://www.pkgcache.com/
