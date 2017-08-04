@@ -709,6 +709,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * LANGUAGE SQL clause. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/language-sql/
 * Leave
   * LEAVE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/leave/
+* License
+  * DB2 pureScale – No Product License found. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11476
 * Load
   * DB2 Tips n Tricks Part 37 - How To Load Compressed Files directly without Extracting to Harddisk. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=FT3UBxpeR9k
   * Understanding and Tuning DB2/LUW Backup and Restore Performance. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/understanding-and-tuning-db2luw-backup.html
@@ -829,6 +831,8 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Networker
   * Restore database from a backup in Networker. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/restore-database-from-backup-in.html
   * How to identify a backup timestamp in Networker. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/restore-database-from-backup-in.html
+* nodelock
+  * DB2 pureScale – No Product License found. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11476
 * Not logged initially
   * How to identify if a table has the not logged initially attribute. Ideas for DB2 (Spanish). Andres Gomez. 2015. Blog - http://angocadb2.blogspot.com.co/2015/12/how-to-identify-if-table-has-not-logged.html
 * Non-root installation
@@ -935,6 +939,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * db2start add member fails. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11419
   * DB2 purescale Install GPL Error. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
   * DB2 pureScale Install Problem Determination. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
+  * DB2 pureScale – No Product License found. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11476
   * DB2 11.1 Rebuild TSA Resources. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11436
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
 * PureXML
@@ -1049,6 +1054,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * DB2 purescale Install GPL Error. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
   * DB2 pureScale Install Problem Determination. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
   * DB2 11.1 Rebuild TSA Resources. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11436
+  * DB2 pureScale – No Product License found. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11476
   * db2haicu disable / enable and scripting. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11482
 * Runstats
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
