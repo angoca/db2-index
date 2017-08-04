@@ -1278,6 +1278,9 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Rebuild TSA Resources in HADR Environment. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11439
 * Timeron
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Brooks. 2013. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
+* Tools
+  * PureFeat V6.1. DBI blog. Scott Hayes. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=524
+  * PureFeat V6.2. DBI blog. Scott Hayes. 2015. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=647
 * Trace
   * DB2 Basics: An introduction to the DB2 UDB trace facility. DeveloperWorks. Roman Melnyk. 2014. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0409melnyk/
   * SQL procedure tracing. DeveloperWorks. Serge Rielau. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0409rielau/
