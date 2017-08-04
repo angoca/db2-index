@@ -188,6 +188,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * IBM’s June Announcements About DB2. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/06/23/ibms-june-announcements-about-db2/
 * Create database
   * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
+* Create table
+  * Store and Query XML Data with dashDB on Bluemix. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/07/store-and-query-xml-data-with-dashdb-on.html
 * Creation
   * Default directory for DB creations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/default-directory-for-db-creations.html
 * Cross-Platform Development
@@ -636,6 +638,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * The DB2Night Show #187: FREE Resources to help you succeed with DB2 LUW V11. The DB2Night Show. George Baklarz. 2016. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=713, PDF - http://www.dbisoftware.com/db2nightshow/20161209DB2Night187.pdf
   * Extending SQL: Exploring the hidden JSON capabilities in DB2. IBM DataManagement. George Baklarz. 2017. Webminar - http://event.on24.com/wcc/r/1363468/E3E9C8C749686A23195DEE9498A434F2, PDF - http://event.lvl3.on24.com/event/13/63/46/8/rt/1/documents/resourceList1487863545737/db2_tech_talk_extending_sql20170223_final.pdf
 * Jupyter Notebook
+  * Notes on Notebooks, Data, DB2, and Bluemix. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/08/notes-on-notebooks-data-db2-and-bluemix.html
+  * SQL Magic in Notebooks in the IBM Data Science Experience. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/11/sql-magic-in-notebooks-in-ibm-data.html
   * Connecting to DB2 from Jupyter Notebook. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/05/18/connecting-to-db2-from-jupyter-notebook/
 
 # K
@@ -1398,6 +1402,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * DB2 10.5 with Blu Acceleration (IMM14140USEN). DB2 with BLU Acceleration. Paul Zikopoulus, Sam Lightstone et al. 2014. Book - http://www.ibmbluhub.com/wp-content/uploads/2014/06/IMM14140USEN_DB2_10.5_with_BLU_Acceleration_flash_book.pdf
 * 11.1
   * DB2 for Linux, UNIX and Windows Version 11 Hightlights. IBM Box. George Baklarz, Enzo Cialini. 2016. Book https://ibm.box.com/v/DB2v11eBook
+  * Now available: DB2 Version 11 for Linux, UNIX, and Windows. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/06/now-available-db2-version-11-for-linux.html
   * The DB2Night Show #187: FREE Resources to help you succeed with DB2 LUW V11. The DB2Night Show. George Baklarz. 2016. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=713, PDF - http://www.dbisoftware.com/db2nightshow/20161209DB2Night187.pdf
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
   * Strange Problem Installing DB2 11.1, Fix/Mod Pack 1 on Ubuntu. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2017/01/06/strange-problem-installing-db2-11-1-fixmod-pack-1-on-ubuntu/
