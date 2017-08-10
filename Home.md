@@ -83,6 +83,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * How to identify a backup timestamp in Networker. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/restore-database-from-backup-in.html
   * How to backup and extract the recovery history file from a database backup? IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21994689
   * DB2 Backup Tuning. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/26121
+  * Backup incomplete due to logs. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/02/backup-incomplete-due-to-logs.html
 * Bash
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
 * Bind
@@ -748,6 +749,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Log configuration in HADR environment. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/12/log-configuration-in-hadr-environment.html
   * Determining Log Span. db2commerce. Ian Bjorhovde. 2017. Blog - http://db2commerce.com/2017/03/14/determining-log-span/
   * How to detect log full condition. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11466
+  * Backup incomplete due to logs. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/02/backup-incomplete-due-to-logs.html
 * Log Sequence Number
   * Please check the LSN entry.
 * Log_Utilization
@@ -844,6 +846,8 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Networker
   * Restore database from a backup in Networker. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/restore-database-from-backup-in.html
   * How to identify a backup timestamp in Networker. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/restore-database-from-backup-in.html
+  * Backup incomplete due to logs. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/02/backup-incomplete-due-to-logs.html
+  * Interpretation of DB2 SQL errors with Networker. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/08/interpretation-of-db2-sql-errors-with.html
 * nodelock
   * DB2 pureScale – No Product License found. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11476
 * Not logged initially
@@ -921,6 +925,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487
 * PMR
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
+  * PMR creation. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/02/pmr-creation.html
 * Point in Time Recovery (PIT)
   * DB2 Tips n Tricks Part 98 - How Conversion of Regular to Large Tablespace Impacts Recovery. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=uJ2_HXMY6A4
   * How to backup and extract the recovery history file from a database backup? IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21994689
@@ -1045,6 +1050,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * How to submit a DB2 feature/enhancement request using the RFE tool. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/09/how-to-submit-db2-featureenhancement.html
   * PkgCache #28: Easier to use when drunk. The Whole Package Cache. Ian Bjorhovde, Fred Sobotka. 2016. Podcast - http://www.pkgcache.com/28/
   * IBM’s DB2 RFE Program. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/02/14/ibms-db2-rfe-program/
+  * Votes for DB2 RFEs. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/02/votes-for-db2-rfes.html
 * Rollback
   * RELEASE SAVEPOINT statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/release-savepoint/
   * ROLLBACK statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/rollback/
@@ -1346,6 +1352,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * DB2 Basics: Statement Terminators. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/07/13/db2-basics-statement-terminators/
 * Test
   * Unit test SQL PL routines by using db2unit framework in DB2 LUW. DeveloperWorks. Andres Gomez. 2015. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1501unittest-sql-db2/index.html
+* Tickets
+  * PMR creation. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/02/pmr-creation.html
 * Tie-Breaking
   * Increase DB2 availability. DeveloperWorks. Stephen Holt. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1406db2avail/index.html
   * Tie-Breaker Disk for HADR or pureScale. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/499
