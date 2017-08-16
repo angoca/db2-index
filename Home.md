@@ -28,6 +28,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
 * ADMIN_MOVE_TABLE
   * Reclaimable Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/02/21/reclaimable-table-spaces/
+* Administration
+  * Smart Data Administration e-Kit. DeveloperWorks. 2016. Article - https://www.ibm.com/developerworks/data/kits/dbakit/index.html (List of articles)
 * Alias
   * Why you should program to interfaces in SQL. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/why-you-should-program-to-interfaces-in-sql.html
 * Allocate
@@ -382,20 +384,17 @@ This is an index where you can search for a DB2 term and get the related Interne
   * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
   * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
   * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
-  * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
-  * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
+  * db2top Sort. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sort.html
   * db2top Change Columns Order. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-change-columns-order.html
   * db2top Native Snapshot. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-native-snapshot.html
   * db2top Display Settings. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-display-settings.html
   * db2top Performance Report. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-performance-report.html
   * db2top: How to change column order and preserve it in the next session. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-how-to-change-column-order-and-preserve-it-in-the-next-session.html
   * db2top: The Watch feature. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-the-watch-feature.html
-  * db2top: Memory screen and db2mtrk (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-and-db2mtrk-video.html
-  * db2top: Buffer pool hit ratio (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-buffer-pool-hit-ratio-video.html
-  * db2top: Regular expressions (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-regular-expressions-video.html
   * db2top: The Locks screen (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-the-locks-screen-video.html
   * db2top: Regular expressions (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-regular-expressions-video.html
-  * db2top: Regular expressions (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-regular-expressions-video.html
+  * db2top: Buffer pool hit ratio (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-buffer-pool-hit-ratio-video.html
+  * db2top: Memory screen and db2mtrk (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-and-db2mtrk-video.html
   * The Role of the DB2 DBA in Load/Performance Testing. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/02/09/the-role-of-the-db2-dba-in-loadperformance-testing/
   * Comparing dsmtop and db2top. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/03/07/comparing-dsmtop-and-db2top/
 * db2trc
@@ -631,6 +630,11 @@ This is an index where you can search for a DB2 term and get the related Interne
   * RESIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/resignal/
 * HIPER
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
+* Histograms
+  * DB2 workload management histograms, Part 1: A gentle introduction to histograms. DeveloperWorks. Keith M. McDonald. 2008. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0810mcdonald/dm-0810mcdonald-pdf.pdf - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/dm-0810mcdonald/dm-0810mcdonald-pdf.pdf
+  * DB2 workload management histograms, Part 2: Understanding the six histograms of DB2 workload management. DeveloperWorks. Keith M. McDonald. 2008. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0810mcdonald2/dm-0810mcdonald2-pdf.pdf - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/dm-0810mcdonald2/dm-0810mcdonald2-pdf.pdf
+  * DB2 workload management histograms, Part 3: Visualizing and deriving statistics from DB2 histograms using SQL. DeveloperWorks. Keith M. McDonald. 2008. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0810mcdonald3/dm-0810mcdonald3-pdf.pdf - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/dm-0810mcdonald3/dm-0810mcdonald3-pdf.pdf
+  * Histograms. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/histograms.html
 * History file
   * How to backup and extract the recovery history file from a database backup? IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21994689
 * Hit Ratio
@@ -906,6 +910,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Understanding Return Codes in the DB2 Diagnostic Log. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/01/26/understanding-return-codes-in-the-db2-diagnostic-log/
 * Performance
   * Best Practices for Optimizing DB2 Performance. DatAvail. Webminar - http://www.datavail.com/datavail-resources/webinar-optimizing-db2-performance/
+  * Histograms. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/histograms.html
   * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487
   * Capturing SQL statements and performance metrics for a single application database-connection in DB2. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/04/capturing-sql-statements-and-activities.html
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
@@ -1509,6 +1514,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 
 # Number
 
+* 9.7
+  * New in DB2 for LUW 9.7.2: UDF default parameters. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/new-in-db2-for-luw-9-7-2-udf-default-parameters.html
 * 10.5
   * DB2 10.5 with Blu Acceleration (IMM14140USEN). DB2 with BLU Acceleration. Paul Zikopoulus, Sam Lightstone et al. 2014. Book - http://www.ibmbluhub.com/wp-content/uploads/2014/06/IMM14140USEN_DB2_10.5_with_BLU_Acceleration_flash_book.pdf
 * 11.1
