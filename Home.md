@@ -388,7 +388,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
   * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
   * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
-  * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
+  * db2top Partitions Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-partitions-screen.html
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
   * db2top HADR Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-hadr-screen.html
   * db2top Federation Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-federation-screen.html
@@ -464,6 +464,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Double dash --
   * Comments. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/comments/
 * DPF - Data Partitioning Feature
+  * db2top Partitions Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-partitions-screen.html
   * db2top Skew Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-skew-screen.html
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
   * DB2 11.1 BLU with DPF Monitoring scripts. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11484
