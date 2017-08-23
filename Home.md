@@ -598,6 +598,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * db2. StackOverFlow. Forum - https://stackoverflow.com/questions/tagged/db2
   * db2. SuperUser. Forum - https://superuser.com/questions/tagged/db2
   * db2. Unix & Linux. Forum - https://unix.stackexchange.com/questions/tagged/db2
+  * Db2. Quora. Forum - https://www.quora.com/topic/DB2
   * DB2 Database Forum. Bytes. Forum - http://bytes.com/topic/db2/
   * DB2 LUW. it.toolbox. Forum - http://database.ittoolbox.com/groups/technical-functional/db2-l/
   * DB2-L. idug. Forum - http://www.idug.org/p/fo/si/topic=19
