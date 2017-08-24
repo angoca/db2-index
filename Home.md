@@ -179,6 +179,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Common Table Expression
   * Funny SQL I Have Seen Lately. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/05/funny-sql-i-have-seen-lately/
 * Compression
+  * db2top Tables Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-1.html
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
 * Compound Statement
   * Compound statements. SQL-PL guide. Michael Spoden. 2013. Documentation - http://www.sqlpl-guide.com/compound-statements/
@@ -401,7 +402,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
   * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
   * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
-  * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
+  * db2top Tables Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-1.html
   * db2top Tables Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-2.html
   * db2top Dynamic SQL Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-dynamic-sql-screen.html
   * db2top Locks Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-locks-screen.html
@@ -725,6 +726,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * log4db2 - A logging framework like log4j for IBM DB2 SQL-PL. GitHub. Andres Gomez. Project - https://github.com/angoca/log4db2
 * Integer
   * How to test a count function in a big big table. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog -  http://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.html
+* IO
+  * db2top Tables Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-1.html
 * Iterate
   * ITERATE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/iterate/
 * ISO
@@ -939,6 +942,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Oracle compatibility
   * Db2 Catalog - A Guided Tour. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2017/08/db2-catalog-guided-tour.html
 * Overflow
+  * db2top Tables Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-1.html
   * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487
 
 # P
@@ -1064,6 +1068,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Static SQL vs Dynamic SQL in Stored Procedures. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
 * Read
+  * db2top Tables Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-1.html
   * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487
 * Recover
   * How to backup and extract the recovery history file from a database backup? IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21994689
@@ -1391,6 +1396,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 * Stmt_Conc
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
 * Storage
+  * db2top Tables Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-1.html
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
 * Storage groups
   * DB2 Basics: Storage Groups. db2commerce. Ember Brooks. 2014. Blog - http://db2commerce.com/2014/07/22/db2-basics-storage-groups
@@ -1444,6 +1450,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 * Tech Talks
   * DB2 tech talks. IDUG. Video - http://www.idug.org/p/cm/ld/fid=703
 * Temporal tablespace
+  * db2top Tables Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-1.html
   * db2top Tables Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-2.html
 * Terminator
   * DB2 Basics: Statement Terminators. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/07/13/db2-basics-statement-terminators/
@@ -1610,6 +1617,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Please refer to the WLM entry.
 * Wrapper
   * Mom, I joined the cloud! (or: Use old stuff with new stuff - DB2 federation). Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/03/mom-i-joined-cloud-or-use-old-stuff.html
+* Write
+  * db2top Tables Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-1.html
 
 # Number
 
