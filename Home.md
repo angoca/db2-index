@@ -126,6 +126,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * The DB2Night Show #187: FREE Resources to help you succeed with DB2 LUW V11. The DB2Night Show. George Baklarz. 2016. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=713, PDF - http://www.dbisoftware.com/db2nightshow/20161209DB2Night187.pdf
   * Extending SQL: Exploring the hidden JSON capabilities in DB2. IBM DataManagement. George Baklarz. 2017. Webminar - http://event.on24.com/wcc/r/1363468/E3E9C8C749686A23195DEE9498A434F2, PDF - http://event.lvl3.on24.com/event/13/63/46/8/rt/1/documents/resourceList1487863545737/db2_tech_talk_extending_sql20170223_final.pdf
 * Bufferpool
+  * db2top Bufferpools Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-1.html
   * db2top Bufferpools Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-2.html
   * DB2 Performance Myth Buster 2 - How Increasing Bufferpool Size will not increase LOAD Performance. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=spTrT6-U5Qk
   * DB2 Table Row (Tuple) Size. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2-row-size/
@@ -405,7 +406,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
   * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
   * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
-  * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
+  * db2top Bufferpools Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-1.html
   * db2top Bufferpools Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-2.html
   * db2top Tables Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-1.html
   * db2top Tables Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-2.html
@@ -692,6 +693,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * History file
   * How to backup and extract the recovery history file from a database backup? IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21994689
 * Hit Ratio
+  * db2top Bufferpools Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-1.html
   * db2top Bufferpools Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-2.html
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
 
@@ -711,6 +713,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Incremental backup
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
 * Index
+  * db2top Bufferpools Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-1.html
   * db2top Dynamic SQL Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-dynamic-sql-screen.html
   * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487
   * When Index Scans Attack! db2commerce. Ember Crooks. 2014. Blog - http://db2commerce.com/2014/08/05/when-index-scans-attack/?utm_source=rss&utm_medium=rss&utm_campaign=when-index-scans-attack
@@ -1460,6 +1463,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 * Tech Talks
   * DB2 tech talks. IDUG. Video - http://www.idug.org/p/cm/ld/fid=703
 * Temporal tablespace
+  * db2top Bufferpools Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-1.html
+  * db2top Bufferpools Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-1.html
   * db2top Tables Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-1.html
   * db2top Tables Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-2.html
 * Terminator
@@ -1482,6 +1487,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * DB2 Basics: An introduction to the DB2 UDB trace facility. DeveloperWorks. Roman Melnyk. 2014. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0409melnyk/
   * SQL procedure tracing. DeveloperWorks. Serge Rielau. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0409rielau/
 * Transaction
+  * db2top Bufferpools Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-1.html
   * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
   * How to Estimate the duration of a TAKEOVER HADR operation in DB2. ThinkingDB2! David Sciaraffa. Blog - http://thinkingdb2.blogspot.com.co/2015/07/how-to-estimate-duration-of-takeover.html
   * Determining Log Span. db2commerce. Ian Bjorhovde. 2017. Blog - http://db2commerce.com/2017/03/14/determining-log-span/
