@@ -210,6 +210,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * RESIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/resignal/
   * SIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/signal/
 * Connection
+  * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
 * Container
@@ -419,7 +420,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
   * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
   * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
-  * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
+  * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
   * db2top Agent Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-1.html
   * db2top Agent Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-2.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
@@ -469,6 +470,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Deactivation
   * Database deactivation takes a lot of time. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2017/01/database-deactivation-takes-lot-of-time.html
 * Deadlock
+  * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
   * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues. DeveloperWorks. Dirk Fechner. 2010. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
   * How to reproduce a deadlock. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/how-to-reproduce-deadlock.html
   * Analyze one particular event monitor file in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/analyze-one-particular-event-monitor.html
@@ -498,6 +500,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 Performance Myth Buster 2 - How Increasing Bufferpool Size will not increase LOAD Performance. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=spTrT6-U5Qk
 * Directories
   * Default directory for DB creations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/default-directory-for-db-creations.html
+* Dirty clean
+  * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
 * Dirty Page Steal Clean
   * DB2 Performance Myth Buster 1 - How Bufferpool with 100% Hit Ratio still has Performance Bottleneck. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=BtuUA6V7vmY
 * Docker
@@ -610,7 +614,10 @@ This is an index where you can search for a DB2 term and get the related Interne
   * FOR statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/for/
   * Example: Select statement in dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-select-statement-in-dynamic-sql/
   * Cursors. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/cursor/
+* File closed
+  * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
 * File System
+  * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
   * Log full condition. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/log-full-condition.html
 * File System Caching (FSC)
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
@@ -714,6 +721,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DECLARE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/declare/
   * RESIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/resignal/
 * Hash join
+  * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
   * db2top Agent Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-1.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
 * High watermark
@@ -841,7 +849,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * LOB
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * DB2 Table Spaces – When to use File System Caching. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/489
-* Locks
+* Lock
   * Lock events for DB2. DeveloperWorks Serie 3 articles
     * Lock events for DB2 for Linux, UNIX, and Windows, Part 1: Analyzing lockwait situations in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2007. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0707fechner/index.html
     * Lock events for DB2 for Linux, UNIX, and Windows, Part 2: New options for analyzing lock timeouts in DB2 9.5. DeveloperWorks. Dirk Fechner. 2008. Article  - http://www.ibm.com/developerworks/data/library/techarticle/dm-0804fechner/index.html
@@ -850,12 +858,15 @@ This is an index where you can search for a DB2 term and get the related Interne
   * db2top Locks Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-locks-screen.html
   * db2top: The Locks screen (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-the-locks-screen-video.html
   * SQL Analysis from Locking Event Monitor Collecting History. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/11/03/sql-analysis-from-locking-event-monitor-collecting-history/
+* Lock escalation
+  * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
 * Lock list
   * db2top Memory Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-part-1.html
   * db2top Memory Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-part-2.html
 * LockTimeOut
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
 * Log
+  * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
   * DB2 Logging and HADR Performance Analysis using DB2 Log Scanner and HADR Calculator. DeveloperWorks. Yuke Zhuge. 2014. Wiki - https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/DB2HADR/page/db2logscan 
   * DB2 Tips n Tricks Part 96 - How to run very huge transaction with less active log space file system. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://youtu.be/JCpGwm_ZTv0
   * Quantity of files in the active log directory (including those from renameArray). Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/03/quantity-of-files-in-active-log.html
@@ -1019,6 +1030,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
 * Package Cache Statement Eviction Monitor
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+* Page clean
+  * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
 * Page size
   * DB2 Table Row (Tuple) Size. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2-row-size/
 * Parallelism
@@ -1067,6 +1080,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487
 * Physical read
   * db2top Tablespaces Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-1.html
+* Piped sort ratio
+  * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
 * PMR
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
   * PMR creation. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/02/pmr-creation.html
@@ -1169,6 +1184,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 * Redirected restore
   * Moving Mountains with a Redirected Restore. db2commerce. Michael Krafick. 2016. Blog - http://db2commerce.com/2016/08/04/moving-mountains-with-a-redirected-restore/
   * SQL0752N on Rollforward After Redirected Restore. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2017/03/28/sql0752n-on-rollforward-after-redirected-restore/
+* Redo
+  * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
 * Regular Expressions
   * Advanced Pattern Matching with Regular Expressions in DB2 11.1 for LUW. IDUG Content Blog. Fred Sobotka. 2017. Blog - http://www.idug.org/p/bl/et/blogaid=605
 * Release savepoint
@@ -1344,6 +1361,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * DB2 Tips n Tricks Part 38 - Limitation on Monitor Metrics by Dynamic SQL Snapshot. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=MO-UlXkiRoo
   * Comparing dsmtop and db2top. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/03/07/comparing-dsmtop-and-db2top/
 * Sort
+  * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * db2top Dynamic SQL Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-dynamic-sql-screen.html
 * SORTHEAP
@@ -1492,6 +1510,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
 * Stmt_Conc
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+* Stolen page
+  * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
 * Storage
   * db2top Tables Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-1.html
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
@@ -1579,6 +1599,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * DB2 Basics: An introduction to the DB2 UDB trace facility. DeveloperWorks. Roman Melnyk. 2014. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0409melnyk/
   * SQL procedure tracing. DeveloperWorks. Serge Rielau. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0409rielau/
 * Transaction
+  * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * db2top Bufferpools Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-1.html
   * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
