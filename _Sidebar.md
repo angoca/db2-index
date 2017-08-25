@@ -22,7 +22,7 @@
 * [U](home#u)
 * [V](home#v)
 * [W](home#w)
-* X
+* [X](home#x)
 * Y
 * Z
 * [Number](home#number)
