@@ -30,13 +30,13 @@ In this section, the main DB2 sources are described:
 * David Sciaraffa - ThinkingDB2! (Blog about technical stuff written by a Db2 develoeper 💻 ). http://thinkingdb2.blogspot.com.co/
   * All articles has been indexed. Last update 201706.
 * Dale_McInnis - DB2 for Linux, UNIX and Windows Availability Topics (Blog about technical stuff 🍁 ). https://www.ibm.com/developerworks/community/blogs/DB2LUWAvailability
-* Nagendra - DB2 queries (Blog about technical stuff). http://learndb.blogspot.com.co/
 
 These blogs are not longer updated 😞 
 
 * Chris Eaton - An Expert's Guide to DB2 Technology (Blog from an IBM expert 😢 ). http://it.toolbox.com/blogs/db2luw/
 * Serge Rielau (瑞赛奇) and Rick Swagerman - SQL Tips for DB2 LUW (Blog from DB2 architect 🙈 ). https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/
-
+* Nagendra - DB2 queries (Blog about technical stuff). http://learndb.blogspot.com.co/
+  * Articles to 201708
 ToDo
 
 * https://www.brighttalk.com/search?duration=0..&q=db2&rank=entrytime
