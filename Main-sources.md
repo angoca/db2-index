@@ -36,7 +36,10 @@ These blogs are not longer updated 😞
 * Chris Eaton - An Expert's Guide to DB2 Technology (Blog from an IBM expert 😢 ). http://it.toolbox.com/blogs/db2luw/
 * Serge Rielau (瑞赛奇) and Rick Swagerman - SQL Tips for DB2 LUW (Blog from DB2 architect 🙈 ). https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/
 * Nagendra - DB2 queries (Blog about technical stuff). http://learndb.blogspot.com.co/
-  * Articles to 201708
+  * All articles since 2009 to 201708
+* Keith McDonald - The K guy (Blog about db2top and some SQL PL). http://www.thekguy.com
+  * All articles since 2009 to 201708
+
 ToDo
 
 * https://www.brighttalk.com/search?duration=0..&q=db2&rank=entrytime
