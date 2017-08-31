@@ -437,13 +437,13 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Automatic Client Reroute – Templates. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11453
 * db2top
   * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top
-  * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
-  * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
-  * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
-  * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
-  * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
-  * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
-  * db2top. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com
+  * db2top -d and db2top -h. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-feature-of-the-day-command-line-options-h-and-d.html
+  * db2top -n. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-feature-of-the-day-command-line-options-n.html
+  * db2top -u and db2top -p. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-feature-of-the-day-command-line-options-u-and-p.html
+  * db2top -V. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-feature-of-the-day-command-line-options-v.html
+  * db2top -i. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-feature-of-the-day-command-line-options-i.html
+  * db2top -b. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-feature-of-the-day-command-line-options-b.html
+  * db2top -a. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-feature-of-the-day-command-line-options-a.html
   * db2top -R. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-feature-of-the-day-command-line-options-r.html
   * db2top -k. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-feature-of-the-day-command-line-options-k.html
   * db2top -x. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-feature-of-the-day-command-line-options-x-2.html
