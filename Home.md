@@ -128,6 +128,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * My problem with nonrecoverable load in hadr setup. IDUG. Forum - http://www.idug.org/p/fo/et/thread=43290
 * Blogs. 
   * An Expert's Guide to DB2 Technology. itToolBox. Chris Eaton. Blog - http://it.toolbox.com/blogs/db2luw/
+  * BigData and Analytics Hug. IBM. Blog - http://www.ibmbigdatahub.com/tag/292
   * Expert tips on building and administering DB2 LUW databases. db2commerce. Ember Crooks. Blog - http://db2commerce.com/
   * Getting the Most out of DB2 for z/OS. itToolBox. William Favero. Blog - http://it.toolbox.com/blogs/db2zos/
   * PlanetDB2. PlanetDB2. Planet - http://www.planetdb2.com/
