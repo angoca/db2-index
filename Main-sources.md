@@ -44,3 +44,5 @@ ToDo
 
 * https://www.brighttalk.com/search?duration=0..&q=db2&rank=entrytime
 * https://www.google.com.co/search?q=site%3Ahttp%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Fdata%2Flibrary%2Ftecharticle+db2&oq=site%3Ahttp%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Fdata%2Flibrary%2Ftecharticle+db2&aqs=chrome..69i57j69i58.2232j0j7&sourceid=chrome&ie=UTF-8#q=site:http://www.ibm.com/developerworks/data/library/techarticle+db2&safe=off&start=40
+* BigData and Analytics Hug. IBM. Blog - http://www.ibmbigdatahub.com/tag/292
+* https://www.calebcurry.com/blogs/db2/intro-to-db2
