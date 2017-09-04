@@ -542,6 +542,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DETERMINISTIC and NOT DETERMINISTIC option. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/deterministic/
 * Developer-C edition
   * IBM’s June Announcements About DB2. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/06/23/ibms-june-announcements-about-db2/
+* Development
+  * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * DFT_QueryOpt
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Crooks. 2013. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
 * DftDBPath
@@ -1798,6 +1800,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * IBM DB2 support. Twitter - https://twitter.com/db2_support
   * IBM Data magazine. Twitter - https://twitter.com/IBMdatamag
   * IBM Pure Data. Twitter - https://twitter.com/IBMPDASupport (INVALID)
+  * IDUG. Twitter - https://twitter.com/idugdb2
 
 # U
 
