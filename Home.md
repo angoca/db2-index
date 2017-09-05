@@ -41,6 +41,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * db2top Locks Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-locks-screen.html
 * Agent stolen
   * db2top Sessions Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-2.html
+* Aggredate functions
+  * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Alias
   * Why you should program to interfaces in SQL. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/why-you-should-program-to-interfaces-in-sql.html
 * Allocate
@@ -50,6 +52,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * How to identify if a table has the not logged initially attribute. Ideas for DB2 (Spanish). Andres Gomez. 2015. Blog - http://angocadb2.blogspot.com.co/2015/12/how-to-identify-if-table-has-not-logged.html
 * ANSI
   * Selected common SQL features for developers of portable DB2 applications. DeveloperWorks. 2016. Article - http://www.ibm.com/developerworks/data/library/techarticle/db2common/index.html
+  * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * APAR
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
 * Application
@@ -80,6 +83,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2/dashDB Security: Implicit Privileges Through Group Membership. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/11/db2-security-implicit-privileges.html
 * Authorities
   * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html
+* Authorization
+  * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * AuthorizationIds view
   * DB2/dashDB Security: Implicit Privileges Through Group Membership. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/11/db2-security-implicit-privileges.html
 * Auto resize (automatic resize)
@@ -115,6 +120,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Backup incomplete due to logs. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/02/backup-incomplete-due-to-logs.html
 * Bash
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
+* Big SQL
+  * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Bind
   * Parameter Wednesday: DB2 Registry DB2_EVALUNCOMMITTED. db2commerce. Ember Crooks. 2012. Blog - http://db2commerce.com/2012/06/27/parameter-wednesday-db2-registry-db2_evaluncommitted/
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
@@ -236,6 +243,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
+  * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Consistency
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
 * Container
@@ -273,6 +281,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Default directory for DB creations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/default-directory-for-db-creations.html
 * Cross-Platform Development
   * Selected common SQL features for developers of portable DB2 applications. DeveloperWorks. 2016. Article - http://www.ibm.com/developerworks/data/library/techarticle/db2common/index.html
+  * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * CUR_COMMIT
   * Parameter Wednesday: DB2 Registry DB2_EVALUNCOMMITTED. db2commerce. Ember Crooks. 2012. Blog - http://db2commerce.com/2012/06/27/parameter-wednesday-db2-registry-db2_evaluncommitted/
 * Cursor
@@ -280,11 +289,14 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DECLARE CURSOR statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/declare-cursor/
   * FOR statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/for/
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
+  * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 
 # D
 
 * dashDB
   * PkgCache #28: Easier to use when drunk. The Whole Package Cache. Ian Bjorhovde, Fred Sobotka. 2016. Podcast - http://www.pkgcache.com/28/
+* Data
+  * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Data movement
   * Moving Mountains with a Redirected Restore. db2commerce. Michael Krafick. 2016. Blog - http://db2commerce.com/2016/08/04/moving-mountains-with-a-redirected-restore/
 * Data Partitioning Feature
@@ -294,6 +306,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Data type
   * Variables in SQL PL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/variables/
   * Boolean data type. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/boolean-data-type/
+  * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Database
   * db2top Database Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-1.html
 * DATABASE_MEMORY
@@ -733,6 +746,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 Stored Procedures and Defaults. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2-stored-procedures-and-defaults.html
   * DB2 Stored Procedures and Defaults (Conclusion). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/stored-procedures-and-defaults-conclusion.html
   * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
+  * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 
 # G
 
@@ -868,6 +882,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * ITERATE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/iterate/
 * ISO
   * Selected common SQL features for developers of portable DB2 applications. DeveloperWorks. 2016. Article - http://www.ibm.com/developerworks/data/library/techarticle/db2common/index.html
+  * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Isolation
   * Determine the effective isolation level in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Peter Schurr. 2011. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1107db2isolationlevel/index.html
   * Parameter Wednesday: DB2 Registry DB2_EVALUNCOMMITTED. db2commerce. Ember Crooks. 2012. Blog - http://db2commerce.com/2012/06/27/parameter-wednesday-db2-registry-db2_evaluncommitted/
@@ -1207,9 +1222,11 @@ This is an index where you can search for a DB2 term and get the related Interne
   * How to backup and extract the recovery history file from a database backup? IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21994689
 * Pool
   * db2top Agent Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-1.html
-f* PowerShell
+* PowerShell
   * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/08/30/powershell-script-for-local-db2-database-activation/
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
+* Predicates
+  * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Prefetcher
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
   * db2top Bufferpools Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-2.html
@@ -1221,6 +1238,8 @@ f* PowerShell
   * Easy to identify: Does the table have a primary key?. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/10/easy-to-identify-does-table-have.html
 * Privileges
   * DB2/dashDB Security: Implicit Privileges Through Group Membership. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/11/db2-security-implicit-privileges.html
+* Procedures
+  * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Profile (runstats)
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
 * Problem resolution
@@ -1263,6 +1282,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 * Query
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
+  * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Queue
   * db2top Agent Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-2.html
 
@@ -1417,6 +1437,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * RELEASE SAVEPOINT statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/release-savepoint/
   * ROLLBACK statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/rollback/
   * SAVEPOINT statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/savepoint/
+* Scalar functions
+  * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Schema
   * Backup and restore SQL schemas for DB2 Universal Database. Serge Rielau. 2005. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0602rielau/
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
@@ -1523,6 +1545,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Acquiring spatial data and developing applications. DeveloperWorks. David Adler. 2016. Article - http://www.ibm.com/developerworks/data/tutorials/dm-1202db2spatialdata1/index.html
 * Special Build
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
+* Special Registers
+  * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Spill
   * db2top Agent Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-2.html
 * SQL
@@ -1534,6 +1558,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
   * Selected common SQL features for developers of portable DB2 applications. DeveloperWorks. 2016. Article - http://www.ibm.com/developerworks/data/library/techarticle/db2common/index.html
+  * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * SQL PL
   * SQL-PL Guide. SQL-PL Guide. Michael Spoden. Documentation - http://www.sqlpl-guide.com/
   * log4db2 - A logging framework like log4j for IBM DB2 SQL-PL. GitHub. Andres Gomez. Project - https://github.com/angoca/log4db2
@@ -1647,6 +1672,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * db2top Statements Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-statements-screen.html
   * DB2 Basics: Statement Terminators. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/07/13/db2-basics-statement-terminators/
+  * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Statement concentrator
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
 * Static SQL
@@ -1694,6 +1720,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * SQL access level clause. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/sql-access-level/
   * DB2 Stored Procedures and Defaults. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2-stored-procedures-and-defaults.html
   * DB2 Stored Procedures and Defaults (Conclusion). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/stored-procedures-and-defaults-conclusion.html
+  * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Structure
   * db2look from stored procedure. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/10/db2look-from-stored-procedure.html
 * Summary tables
@@ -1712,6 +1739,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 
 # T
 
+* Table function
+  * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Table queue
   * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html
 * Tablespace
@@ -1768,6 +1797,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
   * How to Estimate the duration of a TAKEOVER HADR operation in DB2. ThinkingDB2! David Sciaraffa. Blog - http://thinkingdb2.blogspot.com.co/2015/07/how-to-estimate-duration-of-takeover.html
   * Determining Log Span. db2commerce. Ian Bjorhovde. 2017. Blog - http://db2commerce.com/2017/03/14/determining-log-span/
+  * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Transaction logs
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
   * Increase the log capacity online in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog -  http://angocadb2.blogspot.com.co/2016/12/increase-log-capacity-online-in-db2.html
