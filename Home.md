@@ -131,8 +131,9 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 Tips n Tricks Part 28 - How to Avoid Non Logged Operations in a Database. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=YkEJRS6sfTQ
   * blocknonlogged - Block creation of tables that allow non-logged activity configuration parameter. IBM. Documentation - http://www.ibm.com/support/knowledgecenter/SSEPGG_11.1.0/com.ibm.db2.luw.admin.config.doc/doc/r0055068.html
   * Safety first with BLOCKNONLOGGED. Berst Blog. Bert van Langen. 2014. Blog - https://blog.bertvanlangen.com/db2/safety-first-with-blocknonlogged/
+  * My problem with nonrecoverable load in hadr setup. IDUG. 2014. Forum - http://www.idug.org/p/fo/et/thread=43290
   * Not logged initially must be forbidden! KBCE. Klaas Brant. 2015. Blog - http://www.kbce.com/articles/not-logged-initially-must-forbidden/
-  * My problem with nonrecoverable load in hadr setup. IDUG. Forum - http://www.idug.org/p/fo/et/thread=43290
+  * Automating HADR on DB2 10.1 for Linux, UNIX and Windows Failover Solution Using Tivoli System Automation for Multiplatforms. IBM. 2014. Whitepaper - http://public.dhe.ibm.com/software/dw/im/dm-0907hadrdb2haicu/db2-10-hadr-tsa.pdf
 * Blogs. 
   * An Expert's Guide to DB2 Technology. itToolBox. Chris Eaton. Blog - http://it.toolbox.com/blogs/db2luw/
   * BigData and Analytics Hug. IBM. Blog - http://www.ibmbigdatahub.com/tag/292
@@ -248,6 +249,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
 * Container
   * DB2 Tips n Tricks Part 99 - How To Perform Redirected Restore without REDIRECT Keyword. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=B2OWBhNg_E8
+  * Considerations for building and deploying DB2 Docker containers. DeveloperWorks. Aruna De Silva. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-docker-trs/index.html
 * Contains SQL
   * DB2 Stored Procedures and Defaults. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2-stored-procedures-and-defaults.html
   * DB2 Stored Procedures and Defaults (Conclusion). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/stored-procedures-and-defaults-conclusion.html
@@ -578,6 +580,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Docker
   * PkgCache #28: Easier to use when drunk. The Whole Package Cache. Ian Bjorhovde, Fred Sobotka. 2016. Podcast - http://www.pkgcache.com/28/
   * Different images from Docker. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/12/different-images-from-docker.html
+  * Considerations for building and deploying DB2 Docker containers. DeveloperWorks. Aruna De Silva. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-docker-trs/index.html
 * Documentation
   * SQL-PL Guide. SQL-PL Guide. Michael Spoden. Documentation - http://www.sqlpl-guide.com/
   * KnowledgeCenter DB2 11.1. IBM. Documentation - http://www.ibm.com/support/knowledgecenter/SSEPGG_11.1.0/com.ibm.db2.luw.kc.doc/welcome.html
@@ -799,6 +802,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Automatic Client Reroute – Templates. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11453
 * HADR Calculator
   * DB2 Logging and HADR Performance Analysis using DB2 Log Scanner and HADR Calculator. DeveloperWorks. Yuke Zhuge. 2014. Wiki - https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/DB2HADR/page/db2logscan 
+* Hadr_Target_List
+  * Automating HADR on DB2 10.1 for Linux, UNIX and Windows Failover Solution Using Tivoli System Automation for Multiplatforms. IBM. 2014. Whitepaper - http://public.dhe.ibm.com/software/dw/im/dm-0907hadrdb2haicu/db2-10-hadr-tsa.pdf
 * Handler
   * Condition handling. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/condition-handling/
   * DECLARE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/declare/
@@ -1789,6 +1794,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
 * Timeron
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Brooks. 2013. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
+* Tivoli System Automation for Multiple Platform
+  * Please check the "TSA, TSAMP - Tivoli System Automation for Multiple Platform" entry.
 * Tools
   * PureFeat V6.1. DBI blog. Scott Hayes. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=524
   * PureFeat V6.2. DBI blog. Scott Hayes. 2015. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=647
