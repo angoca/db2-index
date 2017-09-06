@@ -305,6 +305,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Please check the "DPF" entry.
 * Data Server Management
   * Data Server Manager 2.1.4. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11485
+* Data tag
+  * The multi-temperature data feature. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders, and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part1-trs/index.html
 * Data temperature
   * The multi-temperature data feature. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders, and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part1-trs/index.html
   * Integration strategies. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part3-trs/index.html
