@@ -271,6 +271,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * db2top Agent Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-2.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * db2top Dynamic SQL Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-dynamic-sql-screen.html
+  * Troubleshooting SQL problems in your database. DeveloperWorks. Raghavendra Chiyodu. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-troublshooting-sql-database/index.html
   * Licensing Your Database Software on Virtual Platforms. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/10/04/licensing-your-database-software-on-virtual-platforms/
   * DB2 Table Row (Tuple) Size. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2-row-size/
 * CPUSpeed
@@ -683,6 +684,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * db2top Agent Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-2.html
 * Execution plan
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
+* Execution time
+  * Troubleshooting SQL problems in your database. DeveloperWorks. Raghavendra Chiyodu. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-troublshooting-sql-database/index.html
 * Explain
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Crooks. 2013. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
   * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Ember Crooks. 2013. Blog - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
@@ -1131,6 +1134,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://db2commerce.com/2016/07/12/monitoring-extent-movement-progress/
   * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Scott Walkty. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
   * DB2 monitoring enhancements for BLU Acceleration. DeveloperWorks. Scott Walkty. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitor-bluaccel/index.html
+  * Troubleshooting SQL problems in your database. DeveloperWorks. Raghavendra Chiyodu. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-troublshooting-sql-database/index.html
   * Welcome to Text Based Monitoring for DB2 LUW - dsmtop. DeveloperWorks. KevinLBeck. 2016. Wiki - https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/Text%20Based%20Monitoring%20for%20DB2%20LUW%20-%20dsmtop/
   * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/08/30/powershell-script-for-local-db2-database-activation/
   * How to monitor operations in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/how-to-monitor-operations-in-db2.html
@@ -1250,6 +1254,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Histograms. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/histograms.html
   * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487
   * Capturing SQL statements and performance metrics for a single application database-connection in DB2. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/04/capturing-sql-statements-and-activities.html
+  * Troubleshooting SQL problems in your database. DeveloperWorks. Raghavendra Chiyodu. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-troublshooting-sql-database/index.html
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
   * SQL Analysis from Locking Event Monitor Collecting History. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/11/03/sql-analysis-from-locking-event-monitor-collecting-history/
@@ -1599,6 +1604,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * db2top Database Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-2.html
   * db2top Memory Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-part-1.html
   * db2top Memory Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-part-2.html
+  * Troubleshooting SQL problems in your database. DeveloperWorks. Raghavendra Chiyodu. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-troublshooting-sql-database/index.html
   * DB2 11.1 BLU with DPF Monitoring scripts. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11484
 * SpaceReserved
   * How to Estimate the duration of a TAKEOVER HADR operation in DB2. ThinkingDB2! David Sciaraffa. Blog - http://thinkingdb2.blogspot.com.co/2015/07/how-to-estimate-duration-of-takeover.html
@@ -1852,6 +1858,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 * Time
   * db2top Agent Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-2.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
+* Time
+  * Troubleshooting SQL problems in your database. DeveloperWorks. Raghavendra Chiyodu. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-troublshooting-sql-database/index.html
 * Timeron
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Brooks. 2013. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
 * Tivoli System Automation for Multiple Platform
