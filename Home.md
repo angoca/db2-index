@@ -1324,7 +1324,8 @@ This is an index where you can search for a DB2 term and get the related Interne
 * PDLogMsgs_Last24Hours 
   * Understanding Return Codes in the DB2 Diagnostic Log. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/01/26/understanding-return-codes-in-the-db2-diagnostic-log/
 * Performance
-    * Writing applications with the Java API. DeveolperWorks. Marion Behnen, Henry Chiu, Jyh-Chen Fang, Manish Sehgal, and Tony Sun. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1307nosqlforjson3/index.html
+  * IBM Performance Analysis Suite. DeveloperWorks. Bryan Tsai. Tool - https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=28cb6d68-ab67-4203-96f9-5538e654a5ff
+  * Writing applications with the Java API. DeveolperWorks. Marion Behnen, Henry Chiu, Jyh-Chen Fang, Manish Sehgal, and Tony Sun. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1307nosqlforjson3/index.html
   * Best Practices for Optimizing DB2 Performance. DatAvail. Webminar - http://www.datavail.com/datavail-resources/webinar-optimizing-db2-performance/
   * DB2 problem determination using db2top utility. DeveloperWorks. Tao Wang and Shen Li. 2008. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0812wang/index.html
   * db2top Bottlenecks Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bottlenecks-screen-part-1.html
@@ -1341,6 +1342,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Nothing Changed! A DB2 LUW Performance Investigation. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/06/29/nothing-changed-a-db2-luw-performance-investigation/
   * DB2 pureScale Health Check. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11467
   * DB2 11.1 BLU with DPF Monitoring scripts. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11484
+* Performance Analysis Suite
+  * IBM Performance Analysis Suite. DeveloperWorks. Bryan Tsai. Tool - https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=28cb6d68-ab67-4203-96f9-5538e654a5ff
 * Permission
   * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html
   * Static SQL vs Dynamic SQL in Stored Procedures. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
