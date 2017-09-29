@@ -54,6 +54,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Example: How much reorganisations are recommended on a specific schema. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-reorgchk/
 * Alter table
   * How to identify if a table has the not logged initially attribute. Ideas for DB2 (Spanish). Andres Gomez. 2015. Blog - http://angocadb2.blogspot.com.co/2015/12/how-to-identify-if-table-has-not-logged.html
+* Alternate server
+  * Configure parameters for IBM Data Server Driver for JDBC and SQLJ against HADR for DB2 pureScale. DeveloperWorks. Sujan Ghosh and Vinayak Joshi. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1509hadr-purescale/index.html
 * ANSI
   * Selected common SQL features for developers of portable DB2 applications. DeveloperWorks. 2016. Article - http://www.ibm.com/developerworks/data/library/techarticle/db2common/index.html
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
@@ -96,6 +98,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Auto resize (automatic resize)
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
 * Automatic Client Reroute - ACR
+  * Configure parameters for IBM Data Server Driver for JDBC and SQLJ against HADR for DB2 pureScale. DeveloperWorks. Sujan Ghosh and Vinayak Joshi. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1509hadr-purescale/index.html
   * Configuring SSL for IBM Data Server Driver for ODBC and CLI. DeveloperWorks. Chetan Papaiah, Ashok V. Jose and Chris Meyer. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-ssl-data-server-driver-odbc-cli-trs/index.html
   * Automatic Client Reroute – Templates. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11453
 * Automatic maintenance
@@ -323,6 +326,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Moving Mountains with a Redirected Restore. db2commerce. Michael Krafick. 2016. Blog - http://db2commerce.com/2016/08/04/moving-mountains-with-a-redirected-restore/
 * Data Partitioning Feature
   * Please check the "DPF" entry.
+* Data Server Driver
+  * Configure parameters for IBM Data Server Driver for JDBC and SQLJ against HADR for DB2 pureScale. DeveloperWorks. Sujan Ghosh and Vinayak Joshi. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1509hadr-purescale/index.html
 * Data Server Management
   * Data Server Manager 2.1.4. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11485
 * Data Sutdio
@@ -848,6 +853,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Automating HADR on DB2 10.1 for Linux, UNIX and Windows Failover Solution Using Tivoli System Automation for Multiplatforms. IBM. 2014. Whitepaper - http://public.dhe.ibm.com/software/dw/im/dm-0907hadrdb2haicu/db2-10-hadr-tsa.pdf
   * Increase DB2 availability. DeveloperWorks. Stephen Holt. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1406db2avail/index.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
+  * Configure parameters for IBM Data Server Driver for JDBC and SQLJ against HADR for DB2 pureScale. DeveloperWorks. Sujan Ghosh and Vinayak Joshi. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1509hadr-purescale/index.html
   * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
   * How to Estimate the duration of a TAKEOVER HADR operation in DB2. ThinkingDB2! David Sciaraffa. Blog - http://thinkingdb2.blogspot.com.co/2015/07/how-to-estimate-duration-of-takeover.html
   * How to identify if a table has the not logged initially attribute. Ideas for DB2 (Spanish). Andres Gomez. 2015. Blog - http://angocadb2.blogspot.com.co/2015/12/how-to-identify-if-table-has-not-logged.html
@@ -964,6 +970,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 
 * Java
   * External Stored Procedures. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/external-stored-procedures/
+  * Configure parameters for IBM Data Server Driver for JDBC and SQLJ against HADR for DB2 pureScale. DeveloperWorks. Sujan Ghosh and Vinayak Joshi. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1509hadr-purescale/index.html
   * Automatic Client Reroute – Templates. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11453
 * JDBC drivers
   * DB2 JDBC Driver Versions. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21363866
@@ -1400,6 +1407,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 WSE 9.7 - General Errors. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-error.html
 * PureScale
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
+  * Configure parameters for IBM Data Server Driver for JDBC and SQLJ against HADR for DB2 pureScale. DeveloperWorks. Sujan Ghosh and Vinayak Joshi. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1509hadr-purescale/index.html
   * DB2 pureScale – Online Rolling update. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/490
   * Clean-up pureScale. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/491
   * DB2 pureScale – shared disks using SCSI-3 PR. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/493
@@ -2142,6 +2150,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * db2setup on Windows – Repair Option. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2017/04/04/db2setup-on-windows-repair-option/
 * Wire Listener
   * Using the IBM NoSQL Wire Listener for DB2. DeveolperWorks. Ioannis Papapanagiotou, Marion Behnen, John Paul Parkin, and Jyh-Chen Fang. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson4/index.html
+* WLB - Workload Balancing
+  * Configure parameters for IBM Data Server Driver for JDBC and SQLJ against HADR for DB2 pureScale. DeveloperWorks. Sujan Ghosh and Vinayak Joshi. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1509hadr-purescale/index.html
 * WLM - Workload Manager
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * Transitioning from Query Patroller historical tables to WLM & Event Monitors in DB2 LUW. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/06/transitioning-from-query-patroller.html
