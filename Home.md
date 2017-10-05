@@ -1697,6 +1697,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * db2top Agent Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-2.html
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
   * db2top Skew Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-skew-screen.html
+* Shadow table
+  * Leverage DB2 BLU Acceleration technology for tables involving unsupported data types. DeveloperWorks. Masahiro Ohkawa and Abhishek Chourasia. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507db2-blu-tables/index.html
 * Shape file
   * Acquiring spatial data and developing applications. DeveloperWorks. David Adler. 2016. Article - http://www.ibm.com/developerworks/data/tutorials/dm-1202db2spatialdata1/index.html
 * Shared memory
