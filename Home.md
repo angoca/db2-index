@@ -21,6 +21,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Quantity of files in the active log directory (including those from renameArray). Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/03/quantity-of-files-in-active-log.html
 * Activity Event Monitor
   * DB2 monitoring: Tracing SQL statements by using an activity event monitor. developerWorks. Scott Walkty and Mike Springgay. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1401sqltrace/
+  * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html
   * Capturing SQL statements and performance metrics for a single application database-connection in DB2. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/04/capturing-sql-statements-and-activities.html
   * Transitioning from Query Patroller historical tables to WLM & Event Monitors in DB2 LUW. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/06/transitioning-from-query-patroller.html
 * Add-ins
@@ -703,6 +704,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Event monitor
   * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues. DeveloperWorks. Dirk Fechner. 2010. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
   * DB2 monitoring: Tracing SQL statements by using an activity event monitor. developerWorks. Scott Walkty and Mike Springgay. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1401sqltrace/
+  * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html
   * Solve IBM BPM performance issues with IBM DB2 examples. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz2-trs/1509_volz2.html
   * Capturing SQL statements and performance metrics for a single application database-connection in DB2. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/04/capturing-sql-statements-and-activities.html
   * Transitioning from Query Patroller historical tables to WLM & Event Monitors in DB2 LUW. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/06/transitioning-from-query-patroller.html
@@ -1182,6 +1184,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Comparing dsmtop and db2top. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/03/07/comparing-dsmtop-and-db2top/
   * DB2 Administrative SQL Cookbook: Generating a Comma Separated List of Columns in a MON_GET Table Function. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/03/30/db2-administrative-sql-cookbook-generating-a-comma-separated-list-of-columns-in-a-mon_get-table-function/
 * Mon_Get_Bufferpool
+  * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html
   * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
 * Mon_Get_Database
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
@@ -1198,6 +1201,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * The Role of the DB2 DBA in Load/Performance Testing. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/02/09/the-role-of-the-db2-dba-in-loadperformance-testing/
 * Mon_Get_Tablespace
   * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://db2commerce.com/2016/07/12/monitoring-extent-movement-progress/
+  * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html
   * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
 * Mon_Get_Transaction_Log
   * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
@@ -1719,6 +1723,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * DB2 pureScale instance creation hangs after GPFS. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11469
 * Snap_Get_Tab_Reorg
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
+* SnapDB_Memory_Pool
+  * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html
 * Snapshots
   * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Scott Walkty. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
   * DB2 Tips n Tricks Part 38 - Limitation on Monitor Metrics by Dynamic SQL Snapshot. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=MO-UlXkiRoo
@@ -2006,6 +2012,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Troubleshooting SQL problems in your database. DeveloperWorks. Raghavendra Chiyodu. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-troublshooting-sql-database/index.html
 * Timeron
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Brooks. 2013. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
+  * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html
 * TimeTravel
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
 * Tivoli System Automation for Multiple Platform
@@ -2175,6 +2182,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 * WLB - Workload Balancing
   * Configure parameters for IBM Data Server Driver for JDBC and SQLJ against HADR for DB2 pureScale. DeveloperWorks. Sujan Ghosh and Vinayak Joshi. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1509hadr-purescale/index.html
 * WLM - Workload Manager
+  * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * Transitioning from Query Patroller historical tables to WLM & Event Monitors in DB2 LUW. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/06/transitioning-from-query-patroller.html
   * The multi-temperature data feature. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders, and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part1-trs/index.html
