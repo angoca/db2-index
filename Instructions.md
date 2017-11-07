@@ -36,3 +36,5 @@ Example:
 
 * db2diag
   * Backup terminated vs Backup complete. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/04/backup-terminated-vs-backup-complete.html
+
+The raw content of the wiki can be found in this page: https://raw.githubusercontent.com/wiki/angoca/db2-index/Home.md
