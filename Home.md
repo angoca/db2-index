@@ -292,7 +292,8 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Corruption
   * Diagnosing corruption when using IBM DB2. DeveloperWorks. Amitkumar Bamane. 2012. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1208corruptiondb2/index.html
 * Count_big
-  * How to test a count function in a big big table. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog -  http://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.html
+  * How to test a count function in a big big table. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog -  
+http://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.html
   * COUNT function is slower than COUNT_BIG. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2017/01/count-function-is-slower-than-countbig.html
 * CPU
   * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html
@@ -741,7 +742,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Capturing SQL statements and performance metrics for a single application database-connection in DB2. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/04/capturing-sql-statements-and-activities.html
 * Export
   * DB2 Export and Load Using Compression & Named Pipes. dbawesome. Elder Lira. 2013. Blog -
- http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.html
+http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.html
 * Express-C
   * IBM DB2 Express-C. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2_Express-C
 * Extended row size
@@ -946,7 +947,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Implicit_Schema
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
 * Import
-  * DB2 Export and Load Using Compression & Named Pipes. dbawesome. Elder Lira. 2013. Blog. http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.html
+  * DB2 Export and Load Using Compression & Named Pipes. dbawesome. Elder Lira. 2013. Blog - http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.html
   * DB2 Tips n Tricks Part 37 - How To Load Compressed Files directly without Extracting to Harddisk. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=FT3UBxpeR9k
 * Incremental backup
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
@@ -982,7 +983,8 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Instrumentation
   * log4db2 - A logging framework like log4j for IBM DB2 SQL-PL. GitHub. Andres Gomez. Project - https://github.com/angoca/log4db2
 * Integer
-  * How to test a count function in a big big table. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog -http://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.html
+  * How to test a count function in a big big table. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog -
+http://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.html
 * Iterate
   * ITERATE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/iterate/
 * ISO
@@ -1053,7 +1055,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
 * Load
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
-  * DB2 Export and Load Using Compression & Named Pipes. dbawesome. Elder Lira. 2013. Blog. http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.html
+  * DB2 Export and Load Using Compression & Named Pipes. dbawesome. Elder Lira. 2013. Blog - http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.html
   * DB2 Tips n Tricks Part 37 - How To Load Compressed Files directly without Extracting to Harddisk. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=FT3UBxpeR9k
   * Understanding and Tuning DB2/LUW Backup and Restore Performance. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/understanding-and-tuning-db2luw-backup.html
   * DB2 Performance Myth Buster 2 - How Increasing Bufferpool Size will not increase LOAD Performance. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=spTrT6-U5Qk
@@ -1135,7 +1137,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * LogSecond
   * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
   * Increase the log capacity online in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog -
- http://angocadb2.blogspot.com.co/2016/12/increase-log-capacity-online-in-db2.html
+http://angocadb2.blogspot.com.co/2016/12/increase-log-capacity-online-in-db2.html
 * LongField
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
 * LongLobData
@@ -1253,7 +1255,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * .NET
   * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
 * Named-pipe
-  * DB2 Export and Load Using Compression & Named Pipes. dbawesome. Elder Lira. 2013. Blog. http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.html
+  * DB2 Export and Load Using Compression & Named Pipes. dbawesome. Elder Lira. 2013. Blog - http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.html
   * DB2 Tips n Tricks Part 37 - How To Load Compressed Files directly without Extracting to Harddisk. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=FT3UBxpeR9k
 * Named syntax
   * Using SQL parameter names and default values, DeveloperWorks. Nick Lawrence. 2015. Article - https://www.ibm.com/developerworks/ibmi/library/i-sql-parameter-name-default-value/index.html
@@ -2262,7 +2264,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
 * 11.1
   * DB2 for Linux, UNIX and Windows Version 11 Hightlights. IBM Box. George Baklarz, Enzo Cialini. 2016. Book -
- https://ibm.box.com/v/DB2v11eBook
+https://ibm.box.com/v/DB2v11eBook
   * Now available: DB2 Version 11 for Linux, UNIX, and Windows. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/06/now-available-db2-version-11-for-linux.html
   * The DB2Night Show #187: FREE Resources to help you succeed with DB2 LUW V11. The DB2Night Show. George Baklarz. 2016. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=713, PDF - http://www.dbisoftware.com/db2nightshow/20161209DB2Night187.pdf
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
