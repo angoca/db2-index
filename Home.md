@@ -366,7 +366,7 @@ http://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.h
 * DB2 Log Scanner
   * DB2 Logging and HADR Performance Analysis using DB2 Log Scanner and HADR Calculator. DeveloperWorks. Yuke Zhuge. 2014. Wiki - https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/DB2HADR/page/db2logscan 
 * Db2 Persistent Data Collection Scripts
-  * Db2 Persistent Data Collection Scripts - Collect and Retain Historical Diagnostic Data to Reduce Problem Determination Times. IBM. Support. http://www-01.ibm.com/support/docview.wss?uid=swg22005477
+  * Db2 Persistent Data Collection Scripts - Collect and Retain Historical Diagnostic Data to Reduce Problem Determination Times. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg22005477
   * Db2 Persistent Data Collection Scripts - Public Community. DeveloperWorks. Wiki - https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=a294bddb-9ded-4757-8d5e-ca5ba173e2cd
   * Reduce Problem Resolution Times with Persistent Db2 Diagnostic Data Collection. ThinkingDB2! David Sciaraffa. 2017 - http://thinkingdb2.blogspot.com.co/2017/07/reduce-problem-resolution-times-with.html
 * Db2_Bar_Stats
@@ -1136,8 +1136,7 @@ http://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.h
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
 * LogSecond
   * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
-  * Increase the log capacity online in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog -
-http://angocadb2.blogspot.com.co/2016/12/increase-log-capacity-online-in-db2.html
+  * Increase the log capacity online in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/12/increase-log-capacity-online-in-db2.html
 * LongField
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
 * LongLobData
