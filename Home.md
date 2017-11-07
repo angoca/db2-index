@@ -1864,19 +1864,19 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * How Inception is like metaprogramming. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/how-inception-is-like-metaprogramming.html
   * Using SQL parameter names and default values, DeveloperWorks. Nick Lawrence, 2015. Article - https://www.ibm.com/developerworks/ibmi/library/i-sql-parameter-name-default-value/index.html
   * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
-* SQL Replication
-  * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
-* SQLDBCON
-  * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
 * SQL PL Profiler
   * Reality Check: SQL PL Profiler and plan explain with actual row counts. SQL Tips for DB2 LUW. Serge Rielau. 2011. Blog - https://www.ibm.com/developerworks/mydeveloperworks/blogs/SQLTips4DB2LUW/entry/sql_pl_profiler_and_plan_explain_with_actual_row_counts23
   * More than a TRACE. Extending the SQL PL Profiler to do tracing. SQL Tips for DB2 LUW. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/mydeveloperworks/blogs/SQLTips4DB2LUW/entry/tracing
   * Profiling SQL procedures. DeveloperWorks. Sundip Pradhan, Serge Rielau. 2004. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0406rielau/
   * SQL PL Profiler - Again, better than ever. SQL Tips for DB2 LUW. Serge Rielau. 2011. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/sql_pl_profiler_again_better_than_ever25
+* SQL Replication
+  * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
 * SQLCode
   * RESIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/resignal/
   * SQLCODE & SQLSTATE. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/sqlcode-sqlstate/
   * Interpretation of DB2 SQL errors with Networker. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - http://angocadb2.blogspot.com.co/2017/08/interpretation-of-db2-sql-errors-with.html
+* SQLDBCON
+  * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
 * SQLError
   * Condition handling. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/condition-handling/
 * SQLj
