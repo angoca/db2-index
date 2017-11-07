@@ -111,7 +111,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Automatic Client Reroute – Templates. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11453
 * Automatic maintenance
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
-  * Environment during auto stats - Open Files. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2017/01/environment-during-auto-stats-open-files.html
+  * Environment during auto stats - Open Files. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/environment-during-auto-stats-open-files.html
 * Automatic memory management
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
 * Automatic storage
@@ -293,8 +293,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Diagnosing corruption when using IBM DB2. DeveloperWorks. Amitkumar Bamane. 2012. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1208corruptiondb2/index.html
 * Count_big
   * How to test a count function in a big big table. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog -  
-http://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.html
-  * COUNT function is slower than COUNT_BIG. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2017/01/count-function-is-slower-than-countbig.html
+https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.html
+  * COUNT function is slower than COUNT_BIG. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/count-function-is-slower-than-countbig.html
 * CPU
   * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html
   * db2top Agent Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-1.html
@@ -591,7 +591,7 @@ http://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.h
 * DDL
   * db2look from stored procedure. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/10/db2look-from-stored-procedure.html
 * Deactivation
-  * Database deactivation takes a lot of time. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2017/01/database-deactivation-takes-lot-of-time.html
+  * Database deactivation takes a lot of time. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/database-deactivation-takes-lot-of-time.html
 * Deadlock
   * db2top Database Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-2.html
   * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
@@ -691,7 +691,7 @@ http://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.h
   * The multi-temperature data feature. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders, and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part1-trs/index.html
   * Integration strategies. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part3-trs/index.html
   * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
-  * Interpretation of DB2 SQL errors with Networker. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - http://angocadb2.blogspot.com.co/2017/08/interpretation-of-db2-sql-errors-with.html
+  * Interpretation of DB2 SQL errors with Networker. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/08/interpretation-of-db2-sql-errors-with.html
 * Encoding
   * Problems when executing commands from files in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/09/problems-when-executing-commands-from.html
 * End of Support - EOS
@@ -984,7 +984,7 @@ http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.h
   * log4db2 - A logging framework like log4j for IBM DB2 SQL-PL. GitHub. Andres Gomez. Project - https://github.com/angoca/log4db2
 * Integer
   * How to test a count function in a big big table. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog -
-http://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.html
+https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.html
 * Iterate
   * ITERATE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/iterate/
 * ISO
@@ -1152,7 +1152,7 @@ http://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.h
 # M
 
 * Mac OS
-  * Install DB2 on OS X Sierra. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2017/01/install-db2-on-os-x-sierra.html
+  * Install DB2 on OS X Sierra. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/install-db2-on-os-x-sierra.html
 * Magazine
   * DataMagazine. DataMagazine. Magazine - http://ibmdatamag.com/
 * Maintenance
@@ -1237,8 +1237,8 @@ http://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.h
   * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/08/30/powershell-script-for-local-db2-database-activation/
   * How to monitor operations in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/how-to-monitor-operations-in-db2.html
   * Log full condition. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/log-full-condition.html
-  * Historical values to record. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2017/01/historical-values-to-record.html
-  * Change detection. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2017/01/change-detection.html
+  * Historical values to record. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/historical-values-to-record.html
+  * Change detection. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/change-detection.html
   * The multi-temperature data feature. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders, and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part1-trs/index.html
   * Integration strategies. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part3-trs/index.html
   * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
@@ -1877,7 +1877,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 * SQLCode
   * RESIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/resignal/
   * SQLCODE & SQLSTATE. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/sqlcode-sqlstate/
-  * Interpretation of DB2 SQL errors with Networker. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - http://angocadb2.blogspot.com.co/2017/08/interpretation-of-db2-sql-errors-with.html
+  * Interpretation of DB2 SQL errors with Networker. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/08/interpretation-of-db2-sql-errors-with.html
 * SQLDBCON
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
 * SQLError
@@ -1927,7 +1927,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
 * Statistics
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
-  * Environment during auto stats - Open Files. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2017/01/environment-during-auto-stats-open-files.html
+  * Environment during auto stats - Open Files. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/environment-during-auto-stats-open-files.html
 * Status
   * db2top Database Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-2.html
 * STMM - Self-Tunning Memory Manager
