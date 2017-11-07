@@ -107,6 +107,10 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2/dashDB Security: Implicit Privileges Through Group Membership. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/11/db2-security-implicit-privileges.html
 * Auto resize (automatic resize)
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
+* Automaint_Get_PolicyFile
+  * Excluding a Table from Db2’s Automatic Runstats. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/09/05/excluding-a-table-from-db2s-automatic-runstats/
+* Automaint_Set_PolicyFile
+  * Excluding a Table from Db2’s Automatic Runstats. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/09/05/excluding-a-table-from-db2s-automatic-runstats/
 * Automatic Client Reroute - ACR
   * Configure parameters for IBM Data Server Driver for JDBC and SQLJ against HADR for DB2 pureScale. DeveloperWorks. Sujan Ghosh and Vinayak Joshi. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1509hadr-purescale/index.html
   * Configuring SSL for IBM Data Server Driver for ODBC and CLI. DeveloperWorks. Chetan Papaiah, Ashok V. Jose and Chris Meyer. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-ssl-data-server-driver-odbc-cli-trs/index.html
@@ -114,6 +118,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Automatic maintenance
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
   * Environment during auto stats - Open Files. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/environment-during-auto-stats-open-files.html
+  * Excluding a Table from Db2’s Automatic Runstats. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/09/05/excluding-a-table-from-db2s-automatic-runstats/
 * Automatic memory management
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
 * Automatic storage
@@ -1092,6 +1097,7 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * db2top Locks Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-locks-screen.html
   * db2top: The Locks screen (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-the-locks-screen-video.html
   * SQL Analysis from Locking Event Monitor Collecting History. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/11/03/sql-analysis-from-locking-event-monitor-collecting-history/
+  * Excluding a Table from Db2’s Automatic Runstats. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/09/05/excluding-a-table-from-db2s-automatic-runstats/
 * Lock escalation
   * DB2 problem determination using db2top utility. DeveloperWorks. Tao Wang and Shen Li. 2008. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0812wang/index.html
   * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
