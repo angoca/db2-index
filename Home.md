@@ -156,13 +156,14 @@ This is an index where you can search for a DB2 term and get the related Interne
   * The DB2Night Show #196: Db2 LUW Transaction Log Expedition w/ Ember Crooks. The DB2Night Show. Ember Crooks. 2017. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=730
 * Block IO
   * db2top Bufferpools Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-2.html
-* BlockedNonLogged
+* BlockNonLogged
   * DB2 Tips n Tricks Part 28 - How to Avoid Non Logged Operations in a Database. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=YkEJRS6sfTQ
   * blocknonlogged - Block creation of tables that allow non-logged activity configuration parameter. IBM. Documentation - http://www.ibm.com/support/knowledgecenter/SSEPGG_11.1.0/com.ibm.db2.luw.admin.config.doc/doc/r0055068.html
   * Safety first with BLOCKNONLOGGED. Berst Blog. Bert van Langen. 2014. Blog - https://blog.bertvanlangen.com/db2/safety-first-with-blocknonlogged/
   * My problem with nonrecoverable load in hadr setup. IDUG. 2014. Forum - http://www.idug.org/p/fo/et/thread=43290
   * Not logged initially must be forbidden! KBCE. Klaas Brant. 2015. Blog - http://www.kbce.com/articles/not-logged-initially-must-forbidden/
   * Automating HADR on DB2 10.1 for Linux, UNIX and Windows Failover Solution Using Tivoli System Automation for Multiplatforms. IBM. 2014. Whitepaper - http://public.dhe.ibm.com/software/dw/im/dm-0907hadrdb2haicu/db2-10-hadr-tsa.pdf
+  * Comparing Two Db2 Systems. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/09/12/comparing-two-db2-systems/
 * Blogs. 
   * An Expert's Guide to DB2 Technology. itToolBox. Chris Eaton. Blog - http://it.toolbox.com/blogs/db2luw/
   * BigData and Analytics Hug. IBM. Blog - http://www.ibmbigdatahub.com/tag/292
@@ -201,6 +202,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * db2top Bufferpools Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-2.html
   * DB2 Performance Myth Buster 2 - How Increasing Bufferpool Size will not increase LOAD Performance. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=spTrT6-U5Qk
   * DB2 Table Row (Tuple) Size. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2-row-size/
+  * Comparing Two Db2 Systems. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/09/12/comparing-two-db2-systems/
 * BufferPool Hit Ratio
   * db2top Tablespaces Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-1.html
   * db2top: Buffer pool hit ratio (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-buffer-pool-hit-ratio-video.html
@@ -277,6 +279,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * SIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/signal/
 * Configuration
   * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/22/db2-basics-levels-of-configuration/
+  * Comparing Two Db2 Systems. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/09/12/comparing-two-db2-systems/
 * Configuration file
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
 * Connection
@@ -802,6 +805,7 @@ http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.h
 * File System
   * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
   * Log full condition. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/log-full-condition.html
+  * Comparing Two Db2 Systems. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/09/12/comparing-two-db2-systems/
 * File System Caching (FSC)
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
   * DB2 Table Spaces – When to use File System Caching. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/489
@@ -910,8 +914,11 @@ http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.h
   * Rebuild TSA Resources in HADR Environment. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11439
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
   * Automatic Client Reroute – Templates. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11453
+  * Comparing Two Db2 Systems. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/09/12/comparing-two-db2-systems/
 * HADR Calculator
   * DB2 Logging and HADR Performance Analysis using DB2 Log Scanner and HADR Calculator. DeveloperWorks. Yuke Zhuge. 2014. Wiki - https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/DB2HADR/page/db2logscan 
+* Hadr_Spool_Limit
+  * Comparing Two Db2 Systems. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/09/12/comparing-two-db2-systems/
 * Hadr_Target_List
   * Automating HADR on DB2 10.1 for Linux, UNIX and Windows Failover Solution Using Tivoli System Automation for Multiplatforms. IBM. 2014. Whitepaper - http://public.dhe.ibm.com/software/dw/im/dm-0907hadrdb2haicu/db2-10-hadr-tsa.pdf
 * Handler
@@ -983,6 +990,8 @@ http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.h
   * Easy to identify: Does the table have a primary key?. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/10/easy-to-identify-does-table-have.html
 * Index (Resources on Internet)
   * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2016. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487
+* IndexRec
+  * Comparing Two Db2 Systems. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/09/12/comparing-two-db2-systems/
 * InfoSphere Data Architect
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
 * Inline - LOB
@@ -1153,6 +1162,7 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * db2top Tablespaces Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-1.html
 * LogIndexRebuild
   * The DB2Night Show #196: Db2 LUW Transaction Log Expedition w/ Ember Crooks. The DB2Night Show. Ember Crooks. 2017. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=730
+  * Comparing Two Db2 Systems. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/09/12/comparing-two-db2-systems/
 * LogRetain
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
 * LogSecond
@@ -1712,8 +1722,6 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Carnival: Even DB2 Wears a Mask (Database Security). Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/02/carnival-even-db2-wears-mask-database.html
   * DB2 Security Mysteries, Surrogates and Trusted Contexts. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/05/db2-security-mysteries-surrogates-and.html
   * DB2 Security: Privilege(d) Insight. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/06/db2-security-privileged-insight.html
-* Self-Tunning Memory Manager
-  * Please visit the "STMM" entry.
 * Select
   * FOR statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/for/
   * Example: Select statement in dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-select-statement-in-dynamic-sql/
@@ -1722,6 +1730,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 * Selectivity
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
+* Self-Tunning Memory Manager
+  * Please visit the "STMM" entry.
 * Sequence
   * A Cache of Identities and a Sequence of Events. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/01/a-cache-of-identities-and-sequence-of.html
 * Server (Federation)
@@ -1960,6 +1970,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * db2top Database Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-2.html
 * STMM - Self-Tunning Memory Manager
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+  * Comparing Two Db2 Systems. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/09/12/comparing-two-db2-systems/
 * Stmt_Conc
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
 * Stolen page
@@ -2295,6 +2306,8 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
 * XDA
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
   * db2top Bufferpools Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-2.html
+* XML Policy file
+  * Excluding a Table from Db2’s Automatic Runstats. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/09/05/excluding-a-table-from-db2s-automatic-runstats/
 
 # Number
 
