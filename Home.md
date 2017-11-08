@@ -145,6 +145,9 @@ This is an index where you can search for a DB2 term and get the related Interne
   * How to backup and extract the recovery history file from a database backup? IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21994689
   * DB2 Backup Tuning. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/26121
   * Backup incomplete due to logs. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/02/backup-incomplete-due-to-logs.html
+  * Backup Performance Investigation. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/10/03/backup-performance-investigation/
+* BAR
+  * Backup Performance Investigation. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/10/03/backup-performance-investigation/
 * Bash
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
 * Big SQL
