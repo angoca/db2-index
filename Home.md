@@ -412,13 +412,18 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * Perform LOB inlining in an HADR environment for a standby database. DeveloperWorks. Somraj Chakrabarty and Suvradeep Sensarma. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1508lob-hadr-standby/index.html
   * Solve IBM BPM performance issues with IBM DB2 examples. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz2-trs/1509_volz2.html
   * SQL Analysis from Locking Event Monitor Collecting History. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/11/03/sql-analysis-from-locking-event-monitor-collecting-history/
+  * Query Performance Analysis. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/09/19/query-performance-analysis/
 * db2agent
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
 * DB2AutoStart
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
+* db2batch
+  * Query Performance Analysis. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/09/19/query-performance-analysis/
 * db2bm
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * Understanding and Tuning DB2/LUW Backup and Restore Performance. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/understanding-and-tuning-db2luw-backup.html
+* db2caem
+  * Query Performance Analysis. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/09/19/query-performance-analysis/
 * db2cat
   * Db2 Catalog - A Guided Tour. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2017/08/db2-catalog-guided-tour.html
 * db2cktsa
@@ -448,6 +453,7 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Ember Crooks. 2013. Blog - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
   * Solve IBM BPM performance issues with IBM DB2 examples. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz2-trs/1509_volz2.html
   * Capturing SQL statements and performance metrics for a single application database-connection in DB2. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/04/capturing-sql-statements-and-activities.html
+  * Query Performance Analysis. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/09/19/query-performance-analysis/
 * db2flsn
   * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
 * db2fm
@@ -1418,6 +1424,7 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * Nothing Changed! A DB2 LUW Performance Investigation. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/06/29/nothing-changed-a-db2-luw-performance-investigation/
   * DB2 pureScale Health Check. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11467
   * DB2 11.1 BLU with DPF Monitoring scripts. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11484
+  * Query Performance Analysis. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/09/19/query-performance-analysis/
 * Performance Analysis Suite
   * IBM Performance Analysis Suite. DeveloperWorks. Bryan Tsai. Tool - https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=28cb6d68-ab67-4203-96f9-5538e654a5ff
 * Permission
@@ -1516,6 +1523,7 @@ http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
+  * Query Performance Analysis. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/09/19/query-performance-analysis/
 * Queue
   * db2top Agent Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-2.html
 
