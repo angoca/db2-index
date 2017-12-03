@@ -372,6 +372,7 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * Configure parameters for IBM Data Server Driver for JDBC and SQLJ against HADR for DB2 pureScale. DeveloperWorks. Sujan Ghosh and Vinayak Joshi. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1509hadr-purescale/index.html
 * Data Server Management
   * Data Server Manager 2.1.4. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11485
+  * Db2 SQL Tutorial 2 - Getting Started with Db2 and DSM. CaleTheVideoMaker2. Caleb Curry. 2017. Video - https://www.youtube.com/watch?v=DXDAX2t953c
 * Data source
   * Reducing Contention: Changing Default Isolation Level for Websphere Commerce (WCS). db2commerce. Michael Krafick. 2017. Blog - http://db2commerce.com/2017/11/02/reducing-contention-changing-default-isolation-level-for-websphere-commerce-wcs/
 * Data Studio
@@ -673,6 +674,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
 * Deterministic
   * DETERMINISTIC and NOT DETERMINISTIC option. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/deterministic/
+* Developer Community Edition
+  * Db2 SQL Tutorial 2 - Getting Started with Db2 and DSM. CaleTheVideoMaker2. Caleb Curry. 2017. Video - https://www.youtube.com/watch?v=DXDAX2t953c
 * Developer-C edition
   * IBM’s June Announcements About DB2. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/06/23/ibms-june-announcements-about-db2/
 * Development
@@ -701,6 +704,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * PkgCache #28: Easier to use when drunk. The Whole Package Cache. Ian Bjorhovde, Fred Sobotka. 2016. Podcast - http://www.pkgcache.com/28/
   * Different images from Docker. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/12/different-images-from-docker.html
   * Considerations for building and deploying DB2 Docker containers. DeveloperWorks. Aruna De Silva. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-docker-trs/index.html
+  * Db2 SQL Tutorial 2 - Getting Started with Db2 and DSM. CaleTheVideoMaker2. Caleb Curry. 2017. Video - https://www.youtube.com/watch?v=DXDAX2t953c
 * Documentation
   * SQL-PL Guide. SQL-PL Guide. Michael Spoden. Documentation - http://www.sqlpl-guide.com/
   * KnowledgeCenter DB2 11.1. IBM. Documentation - http://www.ibm.com/support/knowledgecenter/SSEPGG_11.1.0/com.ibm.db2.luw.kc.doc/welcome.html
@@ -1047,6 +1051,9 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Perform LOB inlining in an HADR environment for a standby database. DeveloperWorks. Somraj Chakrabarty and Suvradeep Sensarma. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1508lob-hadr-standby/index.html
 * Inline SQL PL
   * Inline SQL PL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/inline-sql-pl/
+* Introduction
+  * Db2 SQL Tutorial 1 - Intro to Db2. CaleTheVideoMaker2. Caleb Curry. 2017. Video - https://www.youtube.com/watch?v=aMnBCOq9qrk
+  * Db2 SQL Tutorial 2 - Getting Started with Db2 and DSM. CaleTheVideoMaker2. Caleb Curry. 2017. Video - https://www.youtube.com/watch?v=DXDAX2t953c
 * Insert
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
 * Install
@@ -2219,6 +2226,10 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * db2haicu disable / enable and scripting. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11482
 * TSM
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
+* Tutorial
+  * DB2 Tutorials. CaleTheVideoMaker2. Caleb Curry. 2017. Video - https://www.youtube.com/playlist?list=PL_c9BZzLwBRLiGEdFSOvCOr-V0kSs_hQM
+  * Db2 SQL Tutorial 1 - Intro to Db2. CaleTheVideoMaker2. Caleb Curry. 2017. Video - https://www.youtube.com/watch?v=aMnBCOq9qrk
+  * Db2 SQL Tutorial 2 - Getting Started with Db2 and DSM. CaleTheVideoMaker2. Caleb Curry. 2017. Video - https://www.youtube.com/watch?v=DXDAX2t953c
 * Twitter
   * DeveloperWorks. Twitter - https://twitter.com/developerWorks
   * IBM_DB2. Twitter - https://twitter.com/IBM_DB2
