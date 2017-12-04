@@ -529,6 +529,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * db2med
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * Understanding and Tuning DB2/LUW Backup and Restore Performance. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/understanding-and-tuning-db2luw-backup.html
+* db2mon.pl
+  * db2mon script for monitoring performance. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21993956
 * db2mtrk
   * db2top: Memory screen and db2mtrk (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-and-db2mtrk-video.html
 * db2nodes.cfg
