@@ -1821,6 +1821,9 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Schema
   * Backup and restore SQL schemas for DB2 Universal Database. Serge Rielau. 2005. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0602rielau/
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
+* Scripts
+  * Db2 Persistent Data Collection Scripts
+    * Reduce Problem Resolution Times with Persistent Db2 Diagnostic Data Collection. ThinkingDB2! David Sciaraffa. 2017 - http://thinkingdb2.blogspot.com.co/2017/07/reduce-problem-resolution-times-with.html
 * Scripting
   * Do your uninstall scripts leave something behind? The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/testing-that-your-uninstall-scripts-leave-nothing-behind.html
   * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/08/30/powershell-script-for-local-db2-database-activation/
