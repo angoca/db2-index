@@ -27,7 +27,7 @@ In this section, the main DB2 sources are described:
 * Vinay Bommana - Vinay's DB2 blog (Blog about technical stuff). http://vinaysdb2blog.blogspot.com.co/
 * Thoughts from Support (Blog about technical stuff). https://www.ibm.com/developerworks/community/blogs/IMSupport
 * David Sciaraffa - ThinkingDB2! (Blog about technical stuff written by a Db2 develoeper 💻 ). http://thinkingdb2.blogspot.com.co/
-  * All articles has been indexed. Last update 201706.
+  * All articles has been indexed. Last update 2017011.
 * Dale McInnis - DB2 for Linux, UNIX and Windows Availability Topics (Blog about technical stuff 🍁 ). https://www.ibm.com/developerworks/community/blogs/DB2LUWAvailability
 
 These blogs are not longer updated 😞 
