@@ -2299,7 +2299,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Twitter - People
   * Adam Storm. Twitter. Adam Storm - https://twitter.com/stormadamj
   * Daniel Luksetich. Twitter. Daniel Luksetich - https://twitter.com/DanL_Database
-  * DB2LUW Academy. Twitter. Harish - https://twitter.com/DB2LUWAcademy
+  * DB2LUW Academy. Twitter. Harishkumar Pathangay - https://twitter.com/DB2LUWAcademy
   * Dean Compher. Twitter. Dean Compher - https://twitter.com/db2Dean
   * Ember Crooks. Twitter. Ember Crooks - https://twitter.com/ember_crooks
   * Erwin Hattingh. Twitter. Erwin Hattingh - https://twitter.com/erwin_hattingh
