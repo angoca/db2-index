@@ -970,6 +970,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Comparing Two Db2 Systems. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/09/12/comparing-two-db2-systems/
   * Avoiding Inoperative Tables on the HADR Standby. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/10/19/avoiding-inoperative-tables-on-the-hadr-standby/
   * Access your database sooner after a system failure -- introducing DB2_ONLINERECOVERY! ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/08/access-your-database-sooner-after.html
+  * Don't Get Caught Unprepared - Monitor Invalid Tablespaces on your HADR Standby database and Repair Them Efficiently. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/dont-get-caught-unprepared-monitor.html
 * HADR Calculator
   * DB2 Logging and HADR Performance Analysis using DB2 Log Scanner and HADR Calculator. DeveloperWorks. Yuke Zhuge. 2014. Wiki - https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/DB2HADR/page/db2logscan 
 * Hadr_Spool_Limit
@@ -1309,6 +1310,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * The Role of the DB2 DBA in Load/Performance Testing. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/02/09/the-role-of-the-db2-dba-in-loadperformance-testing/
 * Mon_Get_Extent_Movement_Status
   * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://db2commerce.com/2016/07/12/monitoring-extent-movement-progress/
+* Mon_Get_HADR
+  * Don't Get Caught Unprepared - Monitor Invalid Tablespaces on your HADR Standby database and Repair Them Efficiently. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/dont-get-caught-unprepared-monitor.html
 * Mon_Get_Index
   * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
 * Mon_Get_Pkg_Cache_Stmt
@@ -2032,6 +2035,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * An introduction to materialized query tables. DeveloperWorks. Roman Melnyk. 2005. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0509melnyk/
 * Stand by
   * Perform LOB inlining in an HADR environment for a standby database. DeveloperWorks. Somraj Chakrabarty and Suvradeep Sensarma. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1508lob-hadr-standby/index.html
+* STANDBY_TABLESPACE_ERROR
+  * Don't Get Caught Unprepared - Monitor Invalid Tablespaces on your HADR Standby database and Repair Them Efficiently. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/dont-get-caught-unprepared-monitor.html
 * Start / Stop instance
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
 * State, tablespace
@@ -2145,6 +2150,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Takeover
   * How to Estimate the duration of a TAKEOVER HADR operation in DB2. ThinkingDB2! David Sciaraffa. Blog - http://thinkingdb2.blogspot.com.co/2015/07/how-to-estimate-duration-of-takeover.html
   * Access your database sooner after a system failure -- introducing DB2_ONLINERECOVERY! ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/08/access-your-database-sooner-after.html
+  * Don't Get Caught Unprepared - Monitor Invalid Tablespaces on your HADR Standby database and Repair Them Efficiently. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/dont-get-caught-unprepared-monitor.html
 * Tech Talks
   * DB2 tech talks. IDUG. Video - http://www.idug.org/p/cm/ld/fid=703
 * Temporal tablespace
