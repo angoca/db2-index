@@ -2281,13 +2281,44 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * DB2 Tutorials. CaleTheVideoMaker2. Caleb Curry. 2017. Video - https://www.youtube.com/playlist?list=PL_c9BZzLwBRLiGEdFSOvCOr-V0kSs_hQM
   * Db2 SQL Tutorial 1 - Intro to Db2. CaleTheVideoMaker2. Caleb Curry. 2017. Video - https://www.youtube.com/watch?v=aMnBCOq9qrk
   * Db2 SQL Tutorial 2 - Getting Started with Db2 and DSM. CaleTheVideoMaker2. Caleb Curry. 2017. Video - https://www.youtube.com/watch?v=DXDAX2t953c
-* Twitter
+* Twitter - IBM, organizations
   * DeveloperWorks. Twitter - https://twitter.com/developerWorks
   * IBM_DB2. Twitter - https://twitter.com/IBM_DB2
   * IBM DB2 support. Twitter - https://twitter.com/db2_support
   * IBM Data magazine. Twitter - https://twitter.com/IBMdatamag
   * IBM Pure Data. Twitter - https://twitter.com/IBMPDASupport (INVALID)
   * IDUG. Twitter - https://twitter.com/idugdb2
+  * SpDUG. Twitter - https://twitter.com/SpDUG
+  * DBI Software. Twitter - https://twitter.com/dbisoftware
+  * The DB2Night show. Twitter - https://twitter.com/db2nightshow
+  * Db2 Performance. Twitter - https://twitter.com/db2performance
+  * Triton Consulting. Twitter - https://twitter.com/triton1
+  * DB2 Geek. Twitter - https://twitter.com/DB2Geek
+  * planetdb2. Twitter - https://twitter.com/planetdb2
+  * Create Database Podcast. Twitter - https://twitter.com/_createDB
+* Twitter - People
+  * Adam Storm. Twitter. Adam Storm - https://twitter.com/stormadamj
+  * Daniel Luksetich. Twitter. Daniel Luksetich - https://twitter.com/DanL_Database
+  * DB2LUW Academy. Twitter. Harish - https://twitter.com/DB2LUWAcademy
+  * Dean Compher. Twitter. Dean Compher - https://twitter.com/db2Dean
+  * Ember Crooks. Twitter. Ember Crooks - https://twitter.com/ember_crooks
+  * Erwin Hattingh. Twitter. Erwin Hattingh - https://twitter.com/erwin_hattingh
+  * Fred Sobotka. Twitter. Fred Sobotka - https://twitter.com/db2fred
+  * Frederik Engelen. Twitter. Frederik Engelen - https://twitter.com/FreEngelen
+  * Henrik Loeser. Twitter. Henrik Loeser - https://twitter.com/data_henrik
+  * Ian Bjorhovde. Twitter. Ian Bjorhovde - https://twitter.com/idbjorh
+  * Iqbal Goralwalla. Twitter. Iqbal Goralwalla - https://twitter.com/iqbalgoralwalla
+  * Jessica Rockwood. Twitter. Jessica Rockwood - https://twitter.com/jrockwood
+  * Julian Stuhler. Twitter. Julian Stuhler - https://twitter.com/jstuhler
+  * Kelly Schlamb. Twitter. Kelly Schlamb - https://twitter.com/KSchlamb
+  * Matthew Huras. Twitter. Matthew Huras - https://twitter.com/db2guy
+  * mhubel. Twitter. Martin Hubel - https://twitter.com/mhubel
+  * Michael Tiefenbacher. Twitter. Michael Tiefenbacher - https://twitter.com/globomike
+  * Mike Krafick. Twitter. Mike Krafick - https://twitter.com/MKrafick
+  * Roland Schock. Twitter. Roland Schock - https://twitter.com/ARSDB2
+  * Scott Hayes. Twitter. Scott Hayes - https://twitter.com/srhayes
+  * Steve Rees. Twitter. Steve Rees - https://twitter.com/db2steve
+  * Vinay's db2 blog. Twitter. Vinay Kumar Bommana - https://twitter.com/vinaysdb2blog
 
 # U
 
