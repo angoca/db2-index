@@ -155,6 +155,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Backup Performance Investigation. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/10/03/backup-performance-investigation/
 * Bash
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
+* Best Practice
+  * Best Practice. db2geek. Mark Gillis. 2017 - http://db2geek.triton.co.uk/best-practice/
 * Big SQL
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Bind
