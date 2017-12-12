@@ -269,6 +269,12 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Please check the "CF" entry.
 * Column Organized Tables
   * Restore Transport option – mix and match your schemas (Part 2). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas-part-2/
+  * Finding the access path for Columnar queries. db2geek. Mark Gillis. 2017 - http://db2geek.triton.co.uk/finding-access-path-columnar-queries/
+  * Finding the access path for Columnar queries #2. db2geek. Mark Gillis. 2017 - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-2/
+* Columnar Page Map - CPMA
+  * Finding the access path for Columnar queries. db2geek. Mark Gillis. 2017 - http://db2geek.triton.co.uk/finding-access-path-columnar-queries/
+* Columnar Table Queue
+  * Finding the access path for Columnar queries. db2geek. Mark Gillis. 2017 - http://db2geek.triton.co.uk/finding-access-path-columnar-queries/
 * Command line
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
 * Comment
@@ -380,6 +386,8 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * Db2 SQL Tutorial 2 - Getting Started with Db2 and DSM. CaleTheVideoMaker2. Caleb Curry. 2017. Video - https://www.youtube.com/watch?v=DXDAX2t953c
 * Data source
   * Reducing Contention: Changing Default Isolation Level for Websphere Commerce (WCS). db2commerce. Michael Krafick. 2017. Blog - http://db2commerce.com/2017/11/02/reducing-contention-changing-default-isolation-level-for-websphere-commerce-wcs/
+* Data skipping
+  * Finding the access path for Columnar queries. db2geek. Mark Gillis. 2017 - http://db2geek.triton.co.uk/finding-access-path-columnar-queries/
 * Data Studio
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
 * Data tag
@@ -2185,6 +2193,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
 * SvceName
   * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
+* Synopsis table
+  * Finding the access path for Columnar queries. db2geek. Mark Gillis. 2017 - http://db2geek.triton.co.uk/finding-access-path-columnar-queries/
 * SysAdm
   * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
 * SysIBMAdm
