@@ -723,6 +723,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
 * Dirty Page Steal Clean
   * DB2 Performance Myth Buster 1 - How Bufferpool with 100% Hit Ratio still has Performance Bottleneck. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=BtuUA6V7vmY
+* DML - Data Manipulation Language
+  * Finding the access path for Columnar queries #2. db2geek. Mark Gillis. 2017 - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-2/
 * DMS - tablespace
   * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/29/db2-temporary-table-spaces/
 * Docker
@@ -1359,6 +1361,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Don't Get Caught Unprepared - Monitor Invalid Tablespaces on your HADR Standby database and Repair Them Efficiently. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/dont-get-caught-unprepared-monitor.html
 * Mon_Get_Index
   * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
+* Mon_Get_Index_Usage_List
+  * Finding the access path for Columnar queries #2. db2geek. Mark Gillis. 2017 - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-2/
 * Mon_Get_Locks
   * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html
 * Mon_Get_Pkg_Cache_Stmt
@@ -1367,6 +1371,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Mon_Get_Table
   * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
   * The Role of the DB2 DBA in Load/Performance Testing. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/02/09/the-role-of-the-db2-dba-in-loadperformance-testing/
+* Mon_Get_Table_Usage_List
+  * Finding the access path for Columnar queries #2. db2geek. Mark Gillis. 2017 - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-2/
 * Mon_Get_Tablespace
   * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://db2commerce.com/2016/07/12/monitoring-extent-movement-progress/
   * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html
@@ -1653,6 +1659,7 @@ http://blog.4loeser.net/2017/10/use-db2-as-cloud-sql-database-with.html
   * Query Performance Analysis. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/09/19/query-performance-analysis/
   * Db2 with External Tables: First Tests. Data Henrik. Henrik Loeser. 2017. Blog - 
 http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
+  * Finding the access path for Columnar queries #2. db2geek. Mark Gillis. 2017 - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-2/
 * Queue
   * db2top Agent Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-2.html
 
@@ -2207,6 +2214,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
 * Table queue
   * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html
+* Tablescan
+  * Finding the access path for Columnar queries #2. db2geek. Mark Gillis. 2017 - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-2/
 * Tablespace
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
   * db2top Tablespaces Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-1.html
@@ -2383,6 +2392,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Upgrade
   * DB2 Upgrade Detail: Upgrading Event Monitor Tables. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/12/20/db2-upgrade-detail-upgrading-event-monitor-tables/
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
+* Usage list
+  * Finding the access path for Columnar queries #2. db2geek. Mark Gillis. 2017 - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-2/
 * User
   * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
