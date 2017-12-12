@@ -64,6 +64,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * How to identify if a table has the not logged initially attribute. Ideas for DB2 (Spanish). Andres Gomez. 2015. Blog - http://angocadb2.blogspot.com.co/2015/12/how-to-identify-if-table-has-not-logged.html
 * Alternate server
   * Configure parameters for IBM Data Server Driver for JDBC and SQLJ against HADR for DB2 pureScale. DeveloperWorks. Sujan Ghosh and Vinayak Joshi. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1509hadr-purescale/index.html
+  * Client Connections in a TSA/HADR cluster- Part 4. db2geek. Damir Wilder. 2017 - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-4/
 * ANSI
   * Selected common SQL features for developers of portable DB2 applications. DeveloperWorks. 2016. Article - http://www.ibm.com/developerworks/data/library/techarticle/db2common/index.html
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
@@ -1010,6 +1011,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Access your database sooner after a system failure -- introducing DB2_ONLINERECOVERY! ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/08/access-your-database-sooner-after.html
   * Improve Db2 HADR Resilience of Network Transmission Corruptions. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/improve-db2-hadr-resilience-of-network.html
   * Don't Get Caught Unprepared - Monitor Invalid Tablespaces on your HADR Standby database and Repair Them Efficiently. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/dont-get-caught-unprepared-monitor.html
+  * Client Connections in a TSA/HADR cluster- Part 4. db2geek. Damir Wilder. 2017 - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-4/
 * HADR Calculator
   * DB2 Logging and HADR Performance Analysis using DB2 Log Scanner and HADR Calculator. DeveloperWorks. Yuke Zhuge. 2014. Wiki - https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/DB2HADR/page/db2logscan 
 * Hadr_Spool_Limit
@@ -2328,6 +2330,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * DB2 11.1 Rebuild TSA Resources. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11436
   * Rebuild TSA Resources in HADR Environment. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11439
   * db2haicu disable / enable and scripting. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11482
+  * Client Connections in a TSA/HADR cluster- Part 4. db2geek. Damir Wilder. 2017 - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-4/
 * TSM
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
 * Tutorial
@@ -2458,6 +2461,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * IDUG DB2 Tech. IDUG. Channel - http://www.idug-db2.com/
   * IDUG: International DB2 Users Group. YouTube. Channel - https://www.youtube.com/channel/UCVY6PWpd9No0zNEQvKIVGhw
   * The DB2Night Show. DBI software. Channel - http://www.dbisoftware.com/blog/db2nightshow.php
+* Virtual IP - VIP
+  * Client Connections in a TSA/HADR cluster- Part 4. db2geek. Damir Wilder. 2017 - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-4/
 * Virtualization
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * Licensing Your Database Software on Virtual Platforms. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/10/04/licensing-your-database-software-on-virtual-platforms/
