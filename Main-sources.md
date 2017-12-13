@@ -20,7 +20,7 @@ In this section, the main DB2 sources are described:
 * Vikram Khatri - Zinox (Blog of technical stuff 📷 ). http://www.zinox.com/
   * Articles since 201301 to 201711
 * DB2 Geek (Blog of different things about DB2). http://db2geek.triton.co.uk
-  * All 2016 has been indexed.
+  * Articles since 201601 to 201711
 * IDUG Content Blog (Blog). http://www.idug.org/p/bl/bl/blogid=278
 * DeveloperWorks (Articles). http://www.ibm.com/developerworks/views/data/libraryview.jsp?sort_by=Date&search_by=db2
   * Articles since 201601 to 201702
