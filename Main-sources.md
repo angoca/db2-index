@@ -1,7 +1,7 @@
 In this section, the main DB2 sources are described:
 
 * Ember Crooks - DB2Commence (Blog about technical stuff 💃 ). http://db2commerce.com/
-  * Articles since 201607 to 201710
+  * Articles since 201607 to 201711
   * Also articles from http://www.virtual-dba.com/blog/
 * Harishkumar Pathanga - DB2-LUW-Academy (Videos of db2 tricks 📹 ). 
   * https://www.youtube.com/user/DB2LUWAcademy/videos
