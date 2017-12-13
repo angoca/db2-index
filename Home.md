@@ -2,11 +2,12 @@ This is an index where you can search for a DB2 term and get the related Interne
 
 # A
 
-* Access Plan
+* Access Plan / Path
   * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Ember Crooks. 2013. Blog - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
   * Static SQL vs Dynamic SQL in Stored Procedures. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
+  * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017 - http://db2geek.triton.co.uk/line-optimization-v11-1/
 * Access_Ctrl
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
 * ACR
@@ -711,6 +712,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Delete
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html
+  * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017 - http://db2geek.triton.co.uk/line-optimization-v11-1/
 * Deterministic
   * DETERMINISTIC and NOT DETERMINISTIC option. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/deterministic/
 * Developer Community Edition
@@ -1107,6 +1109,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Insert
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html
+  * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017 - http://db2geek.triton.co.uk/line-optimization-v11-1/
 * Install
   * db2setup on Windows – Repair Option. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2017/04/04/db2setup-on-windows-repair-option/
 * installFixPack
@@ -1491,12 +1494,16 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
 * Optim Query Workload
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
+* Optimization guidelines
+  * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017 - http://db2geek.triton.co.uk/line-optimization-v11-1/
 * Optimization profile
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
+  * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017 - http://db2geek.triton.co.uk/line-optimization-v11-1/
 * Optimizer
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+  * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017 - http://db2geek.triton.co.uk/line-optimization-v11-1/
 * Oracle compatibility
   * Db2 Catalog - A Guided Tour. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2017/08/db2-catalog-guided-tour.html
 * Out of Memory (OOM) condition
@@ -1845,6 +1852,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
   * Example: Runstats. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-runstats/ 
   * DB2 Administrative SQL Cookbook: When Were Runstats Done (Beyond STATS_TIME)?. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/03/16/db2-administrative-sql-cookbook-when-were-runstats-done-beyond-stats_time/
+  * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017 - http://db2geek.triton.co.uk/line-optimization-v11-1/
 
 # S
 
@@ -1935,6 +1943,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * SET statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/set/
 * Set Integrity
   * An introduction to materialized query tables. DeveloperWorks. Roman Melnyk. 2005. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0509melnyk/
+* Set Current Optimization
+  * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017 - http://db2geek.triton.co.uk/line-optimization-v11-1/
 * Set_Routine_Opts
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
 * Settings
@@ -2213,6 +2223,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/22/db2-basics-levels-of-configuration/
 * SysIBMAdm.DBmCfg
   * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/22/db2-basics-levels-of-configuration/
+* SysInstallObjects
+  * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017 - http://db2geek.triton.co.uk/line-optimization-v11-1/
 * SysProc
   * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
 * SysProc.Admin_Get_Tab_Info
@@ -2221,6 +2233,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
 * System temporary tablespace
   * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/29/db2-temporary-table-spaces/
+* Systools.Opt_Profile
+  * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017 - http://db2geek.triton.co.uk/line-optimization-v11-1/
 * Systools.Stmg_DbSize_Info
   * Database Size and Table Sizes. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30319
 
