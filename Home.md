@@ -21,8 +21,11 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Active Logs
   * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
   * Quantity of files in the active log directory (including those from renameArray). Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/03/quantity-of-files-in-active-log.html
+* Activity tables
+  * Querying Tables for an Activity Event Monitor. db2commerce. Ember Brooks. 2014. Blog - http://db2commerce.com/2014/10/14/querying-tables-for-an-activity-event-monitor/
 * Activity Event Monitor
   * DB2 monitoring: Tracing SQL statements by using an activity event monitor. developerWorks. Scott Walkty and Mike Springgay. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1401sqltrace/
+  * Querying Tables for an Activity Event Monitor. db2commerce. Ember Brooks. 2014. Blog - http://db2commerce.com/2014/10/14/querying-tables-for-an-activity-event-monitor/
   * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html
   * Capturing SQL statements and performance metrics for a single application database-connection in DB2. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/04/capturing-sql-statements-and-activities.html
   * Transitioning from Query Patroller historical tables to WLM & Event Monitors in DB2 LUW. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/06/transitioning-from-query-patroller.html
@@ -826,6 +829,7 @@ http://blog.4loeser.net/2017/10/use-db2-as-cloud-sql-database-with.html
 * Event monitor
   * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues. DeveloperWorks. Dirk Fechner. 2010. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
   * DB2 monitoring: Tracing SQL statements by using an activity event monitor. developerWorks. Scott Walkty and Mike Springgay. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1401sqltrace/
+  * Querying Tables for an Activity Event Monitor. db2commerce. Ember Brooks. 2014. Blog - http://db2commerce.com/2014/10/14/querying-tables-for-an-activity-event-monitor/
   * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html
   * Solve IBM BPM performance issues with IBM DB2 examples. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz2-trs/1509_volz2.html
   * Capturing SQL statements and performance metrics for a single application database-connection in DB2. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/04/capturing-sql-statements-and-activities.html
@@ -2035,6 +2039,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * db2top Agent Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-1.html
   * db2top Dynamic SQL Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-dynamic-sql-screen.html
   * DB2 monitoring: Tracing SQL statements by using an activity event monitor. developerWorks. Scott Walkty and Mike Springgay. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1401sqltrace/
+  * Querying Tables for an Activity Event Monitor. db2commerce. Ember Brooks. 2014. Blog - http://db2commerce.com/2014/10/14/querying-tables-for-an-activity-event-monitor/
   * Funny SQL I Have Seen Lately. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/05/funny-sql-i-have-seen-lately/
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
@@ -2234,6 +2239,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Finding the access path for Columnar queries. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries/
 * SysAdm
   * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
+* SysDefaultAdmWorkload
+  * Querying Tables for an Activity Event Monitor. db2commerce. Ember Brooks. 2014. Blog - http://db2commerce.com/2014/10/14/querying-tables-for-an-activity-event-monitor/
 * SysIBMAdm
   * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
 * SysIBMAdm.DBCfg
@@ -2551,6 +2558,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * WLB - Workload Balancing
   * Configure parameters for IBM Data Server Driver for JDBC and SQLJ against HADR for DB2 pureScale. DeveloperWorks. Sujan Ghosh and Vinayak Joshi. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1509hadr-purescale/index.html
 * WLM - Workload Manager
+  * Querying Tables for an Activity Event Monitor. db2commerce. Ember Brooks. 2014. Blog - http://db2commerce.com/2014/10/14/querying-tables-for-an-activity-event-monitor/
   * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * Transitioning from Query Patroller historical tables to WLM & Event Monitors in DB2 LUW. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/06/transitioning-from-query-patroller.html
