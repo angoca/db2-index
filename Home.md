@@ -2422,6 +2422,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * mhubel. Twitter. Martin Hubel - https://twitter.com/mhubel
   * Michael Tiefenbacher. Twitter. Michael Tiefenbacher - https://twitter.com/globomike
   * Mike Krafick. Twitter. Mike Krafick - https://twitter.com/MKrafick
+  * Philip Carrington. Twitter. Philip Carrington - https://twitter.com/dangerousDBA
   * Roland Schock. Twitter. Roland Schock - https://twitter.com/ARSDB2
   * Scott Hayes. Twitter. Scott Hayes - https://twitter.com/srhayes
   * Steve Rees. Twitter. Steve Rees - https://twitter.com/db2steve
