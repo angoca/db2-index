@@ -43,7 +43,7 @@ These blogs are not longer updated 😞
   * All articles since 2009 to 201708
 * Raf Mathijs - DB2 Knowledge Base Raf (Blog about technical stuff). http://db2-luw-knowledgebase.blogspot.com.co/
 * Philip Carrington - Dangerous DBA (Blog about technical stuff). http://www.dangerousdba.com/
-
+  * Articles since 201211 to 201712
 ToDo
 
 * https://www.brighttalk.com/search?duration=0..&q=db2&rank=entrytime
