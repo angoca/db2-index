@@ -1574,11 +1574,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/07/the-self-tuning-memory-manager-stmm/
 * PD_Get_Log_Msgs
   * Please check the SysIBMAdm.PD_Get_Log_Msgs entry.
-  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
-  * Understanding Return Codes in the DB2 Diagnostic Log. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/01/26/understanding-return-codes-in-the-db2-diagnostic-log/
 * PDLogMsgs_Last24Hours 
   * Please check the SysIBMAdm.PDLogMsgs_Last24Hours entry.
-  * Understanding Return Codes in the DB2 Diagnostic Log. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/01/26/understanding-return-codes-in-the-db2-diagnostic-log/
 * Performance
   * IBM Performance Analysis Suite. DeveloperWorks. Bryan Tsai. Tool - https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=28cb6d68-ab67-4203-96f9-5538e654a5ff
   * Writing applications with the Java API. DeveolperWorks. Marion Behnen, Henry Chiu, Jyh-Chen Fang, Manish Sehgal, and Tony Sun. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1307nosqlforjson3/index.html
