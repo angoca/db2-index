@@ -34,18 +34,17 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Add-ins
   * Using IBM Database Add-ins for Visual Studio 2013 in DB2 Cancun (10.5 Fix Pack 4). DeveloperWorks. Rajendra Kamath, Malarvizhi Kaliyakrishnan, and Archana Soni. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507addins-db2cancun/index.html
 * Admin_Cmd
-  * ADMIN_CMD Procedure. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/admin_cmd-procedure/
-  * Example: Runstats. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-runstats/ 
+  * Please check the SysProc.Admin_Cmd entry. 
 * Admin_Est_Inline_Length
-  * Perform LOB inlining in an HADR environment for a standby database. DeveloperWorks. Somraj Chakrabarty and Suvradeep Sensarma. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1508lob-hadr-standby/index.html
+  * Please check the SysIBM.Admin_Est_Inline_Length entry.
 * Admin_Get_Encryption_Info
-  * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
+  * Please check the SysProc.Admin_Get_Encryption_Info entry.
 * Admin_Is_Inlined
-  * Perform LOB inlining in an HADR environment for a standby database. DeveloperWorks. Somraj Chakrabarty and Suvradeep Sensarma. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1508lob-hadr-standby/index.html
+  * Please check the SysIBM.Admin_Is_Inlined entry.
 * Admin_Rotate_Master_Key
-  * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
-* ADMIN_MOVE_TABLE
-  * Reclaimable Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/02/21/reclaimable-table-spaces/
+  * Please check the SysProc.Admin_Rotate_Master_Key entry.
+* Admin_Move_Table
+  * Please check the SysProc.Admin_Move_Table entry.
 * Administration
   * Smart Data Administration e-Kit. DeveloperWorks. 2016. Article - https://www.ibm.com/developerworks/data/kits/dbakit/index.html (List of articles)
 * Advanced Copy Services
@@ -2260,6 +2259,11 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
 * SysDefaultAdmWorkload
   * Querying Tables for an Activity Event Monitor. db2commerce. Ember Brooks. 2014. Blog - http://db2commerce.com/2014/10/14/querying-tables-for-an-activity-event-monitor/
+* SysIBM schema
+  * SysIBM.Admin_Est_Inline_Length
+    * Perform LOB inlining in an HADR environment for a standby database. DeveloperWorks. Somraj Chakrabarty and Suvradeep Sensarma. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1508lob-hadr-standby/index.html
+  * SysIBM.Admin_Is_Inlined
+    * Perform LOB inlining in an HADR environment for a standby database. DeveloperWorks. Somraj Chakrabarty and Suvradeep Sensarma. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1508lob-hadr-standby/index.html
 * SysIBMAdm
   * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
 * SysIBMAdm.DBCfg
@@ -2270,10 +2274,20 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/line-optimization-v11-1/
 * SysProc
   * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
-* SysProc.Admin_Get_Tab_Compress_Info
-  * Getting an estimate – DB2 LUW V10.1 Compression. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/getting-an-estimate-db2-luw-v10-1-compression/
-* SysProc.Admin_Get_Tab_Info
-  * Database Size and Table Sizes. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30319
+* SysProc schema
+  * SysProc.Admin_Cmd
+    * ADMIN_CMD Procedure. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/admin_cmd-procedure/
+    * Example: Runstats. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-runstats/ 
+  * SysProc.Admin_Get_Encryption_Info
+    * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
+  * SysProc.Admin_Get_Tab_Compress_Info
+    * Getting an estimate – DB2 LUW V10.1 Compression. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/getting-an-estimate-db2-luw-v10-1-compression/
+  * SysProc.Admin_Get_Tab_Info
+    * Database Size and Table Sizes. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30319
+  * SysProc.Admin_Move_Table
+    * Reclaimable Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/02/21/reclaimable-table-spaces/
+  * SysProc.Admin_Rotate_Master_Key
+    * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
 * System tables
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
 * System temporary tablespace
