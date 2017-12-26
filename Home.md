@@ -436,7 +436,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Reduce Problem Resolution Times with Persistent Db2 Diagnostic Data Collection. ThinkingDB2! David Sciaraffa. 2017 - http://thinkingdb2.blogspot.com.co/2017/07/reduce-problem-resolution-times-with.html
 * DB2_AVOID_LOCK_ESCALATION
   * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html
-* Db2_Bar_Stats
+* DB2_BAR_STATS
   * Understanding and Tuning DB2/LUW Backup and Restore Performance. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/understanding-and-tuning-db2luw-backup.html
 * DB2_CA_TRANSPORT_METHOD
   * SQL6030N START or STOP DATABASE MANAGER failed. Reason code “38”. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/488
@@ -457,15 +457,15 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Access your database sooner after a system failure -- introducing DB2_ONLINERECOVERY! ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/08/access-your-database-sooner-after.html
 * DB2_OPTPROFILE
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
-* DB2_Reduced_Optimization
+* DB2_REDUCED_OPTIMIZATION
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Crooks. 2013. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
-* DB2_Restore_Grant_Admin_Authorities
+* DB2_RESTORE_GRANT_ADMIN_AUTHORITIES
   * DB2 Tips n Tricks Part 41 - How to get Admin Authorities on a Restored Database. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=IPM15F23VYA
-* DB2_Selectivity
+* DB2_SELECTIVITY
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
 * DB2_USE_ALTERNATE_PAGE_CLEANING
   * Access your database sooner after a system failure -- introducing DB2_ONLINERECOVERY! ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/08/access-your-database-sooner-after.html
-* DB2_Workload
+* DB2_WORKLOAD
   * Registry Variables and DB2_WORKLOAD=WC. db2commerce. Ember Crooks. 2010. Blog - http://db2commerce.com/2010/06/07/registry-variables-and-db2_workloadwc/
   * Quick Hit Tips – CPUSPEED, RESTRICTIVE, and DB2_WORKLOAD. db2commerce. Michael Krafick. 2014. Blog - http://db2commerce.com/2014/08/19/quick-hit-tips-cpuspeed-restrictive-and-db2_workload/?utm_source=rss&utm_medium=rss&utm_campaign=quick-hit-tips-cpuspeed-restrictive-and-db2_workload
 * db2adutl
@@ -733,7 +733,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Device Read Rate
   * The multi-temperature data feature. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders, and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part1-trs/index.html
-* DFT_QueryOpt
+* DFT_QUERYOPT
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Crooks. 2013. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
 * DftDBPath
   * Default directory for DB creations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/default-directory-for-db-creations.html
