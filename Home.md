@@ -1871,6 +1871,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * db2haicu disable / enable and scripting. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11482
 * Runstats
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
+  * Lazy RUNSTATS using SYSPROC.ADMIN_CMD. Dangerous DBA. Philip Carrington. 2012. Blog - http://www.dangerousdba.com/lazy-runstats-using-sysproc-admin_cmd/
   * Improve IBM BPM performance with an IBM DB2 database. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz1-trs/1509_volz1.html
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
   * Example: Runstats. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-runstats/ 
@@ -2289,7 +2290,7 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * SysProc.Admin_Cmd
     * ADMIN_CMD Procedure. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/admin_cmd-procedure/
     * Example: Runstats. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-runstats/ 
-    * Lazy RUNSTATS using SYSPROC.ADMIN_CMD. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/lazy-runstats-using-sysproc-admin_cmd/
+    * Lazy RUNSTATS using SYSPROC.ADMIN_CMD. Dangerous DBA. Philip Carrington. 2012. Blog - http://www.dangerousdba.com/lazy-runstats-using-sysproc-admin_cmd/
   * SysProc.Admin_Get_Encryption_Info
     * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
   * SysProc.Admin_Get_Tab_Compress_Info
