@@ -52,3 +52,4 @@ ToDo
 https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&contentarea_by=global&sort_by=Date&sort_order=2&start=1&end=100&topic_by=&product_by=&type_by=All%20Types&show_abstract=true&search_by=db2&industry_by=&series_title_by=
 * BigData and Analytics Hug. IBM. Blog - http://www.ibmbigdatahub.com/tag/292
 * https://www.calebcurry.com/blogs/db2/intro-to-db2
+* DB2 for Linux, UNIX, and Windows Best Practices - https://ibm.biz/Bdx2ew
