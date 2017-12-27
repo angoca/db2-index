@@ -42,7 +42,7 @@ These blogs are not longer updated 😞
 * Keith McDonald - The K guy (Blog about db2top and some SQL PL). http://www.thekguy.com
   * All articles since 2009 to 201708
 * Raf Mathijs - DB2 Knowledge Base Raf (Blog about technical stuff). http://db2-luw-knowledgebase.blogspot.com.co/
-  * Article since 201301 to 201412
+  * All articles since 201301 to 201512
 * Philip Carrington - Dangerous DBA (Blog about technical stuff). http://www.dangerousdba.com/
   * Articles since 201211 to 201712
 ToDo
