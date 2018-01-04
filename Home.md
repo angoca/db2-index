@@ -1088,6 +1088,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * DB2 workload management histograms, Part 2: Understanding the six histograms of DB2 workload management. DeveloperWorks. Keith M. McDonald. 2008. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0810mcdonald2/dm-0810mcdonald2-pdf.pdf - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/dm-0810mcdonald2/dm-0810mcdonald2-pdf.pdf
   * DB2 workload management histograms, Part 3: Visualizing and deriving statistics from DB2 histograms using SQL. DeveloperWorks. Keith M. McDonald. 2008. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0810mcdonald3/dm-0810mcdonald3-pdf.pdf - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/dm-0810mcdonald3/dm-0810mcdonald3-pdf.pdf
   * Histograms. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/histograms.html
+* History
+  * Four DB2 Code Bases? Perspectives. James Hamilton. 2017. Blog - http://perspectives.mvdirona.com/2017/12/1187/
 * History file
   * How to backup and extract the recovery history file from a database backup? IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21994689
 * Hit Ratio
