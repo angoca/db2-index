@@ -22,7 +22,7 @@ In this section, the main DB2 sources are described:
 * Vinay Kumar Bommana - DB Tutorials (Videos of DB2 🎥 ).
   * https://www.youtube.com/channel/UCo0cIzR_TbMzU5wHQmbTjxQ/videos
   * Vinay's DB2 blog (Blog about technical stuff). http://vinaysdb2blog.blogspot.com.co/
-    * Articles since 201601 to 201601
+    * Articles since 201601 to 201602
 * IDUG Content Blog (Blog). http://www.idug.org/p/bl/bl/blogid=278
 * DeveloperWorks (Articles). http://www.ibm.com/developerworks/views/data/libraryview.jsp?sort_by=Date&search_by=db2
   * Articles since 201601 to 201702
