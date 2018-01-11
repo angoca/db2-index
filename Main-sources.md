@@ -46,7 +46,8 @@ These blogs are not longer updated 😞
   * All articles since 201301 to 201512
 * Philip Carrington - Dangerous DBA (Blog about technical stuff). http://www.dangerousdba.com/
   * Articles since 201211 to 201712
-ToDo
+
+# ToDo
 
 * https://www.brighttalk.com/search?duration=0..&q=db2&rank=entrytime
 * https://www.google.com.co/search?q=site%3Ahttp%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Fdata%2Flibrary%2Ftecharticle+db2&oq=site%3Ahttp%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Fdata%2Flibrary%2Ftecharticle+db2&aqs=chrome..69i57j69i58.2232j0j7&sourceid=chrome&ie=UTF-8#q=site:http://www.ibm.com/developerworks/data/library/techarticle+db2&safe=off&start=40
@@ -54,3 +55,4 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * BigData and Analytics Hug. IBM. Blog - http://www.ibmbigdatahub.com/tag/292
 * https://www.calebcurry.com/blogs/db2/intro-to-db2
 * DB2 for Linux, UNIX, and Windows Best Practices - https://ibm.biz/Bdx2ew
+* http://www.dbatodba.com/db2
