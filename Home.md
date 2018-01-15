@@ -554,6 +554,10 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Query Performance Analysis. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/09/19/query-performance-analysis/
 * db2cat
   * Db2 Catalog - A Guided Tour. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2017/08/db2-catalog-guided-tour.html
+* db2cfimp
+  * How to replicate instance configuration parameters in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-replicate-instance-configurations-db2.html
+* db2cfexp
+  * How to replicate instance configuration parameters in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-replicate-instance-configurations-db2.html
 * db2cktsa
   * db2haicu disable / enable and scripting. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11482
 * db2cklog
@@ -1249,6 +1253,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Security considerations when installing and using the DB2 database manager. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/security-considerations-when-installing-DB2.html
 * installFixPack
   * Using db2prereqcheck to Check Prerequisites for DB2 LUW. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2prereqcheck-check-prerequisites-db2-luw/
+* Instance
+  * How to replicate instance configuration parameters in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-replicate-instance-configurations-db2.html
 * INSTANCE_MEMORY
   * DB2 11.1 BLU with DPF Monitoring scripts. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11484
   * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/07/the-self-tuning-memory-manager-stmm/
