@@ -8,6 +8,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
   * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/line-optimization-v11-1/
+* Access to Uncommitted data
+  * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * Access_Ctrl
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
 * ACR
@@ -826,6 +828,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Dirty Page Steal Clean
   * DB2 Performance Myth Buster 1 - How Bufferpool with 100% Hit Ratio still has Performance Bottleneck. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=BtuUA6V7vmY
   * Performance monitoring tools and methodology. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/performance-monitoring-tools-and-methodology.html
+* Dirty Read
+  * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * DLChkTime
   * Overview of LOCK ISSUES in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/07/overview-of-lock-issues-in-db2.html
 * DML - Data Manipulation Language
@@ -1431,6 +1435,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * ITERATE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/iterate/
   * LEAVE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/leave/
   * Loop. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/loop/
+* Lost updates
+  * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * LSN - Log Sequence Number
   * Determining Log Span. db2commerce. Ian Bjorhovde. 2017. Blog - http://db2commerce.com/2017/03/14/determining-log-span/
 * lssam
@@ -1532,6 +1538,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * MongoDB
     * Introduction to DB2 JSON. DeveolperWorks. Bobbie Cochrane and Kathy McKnight. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson1/index.html
 * Monitoring
+  * Monitoring DB2 with Nagios. Blog dot lusis. John E. Vicent. 2006. Article - http://dev.lusis.org/nagios/usable/monitoring_db2_with_nagios.html
   * Usage Lists – Big Brother is watching, but only where he is looking. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/usage-lists-big-brother-is-watching-but-only-where-he-is-looking/
   * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://db2commerce.com/2016/07/12/monitoring-extent-movement-progress/
   * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Scott Walkty. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
@@ -1564,6 +1571,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 
 * .NET
   * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
+* Nagios
+  * Monitoring DB2 with Nagios. Blog dot lusis. John E. Vicent. 2006. Article - http://dev.lusis.org/nagios/usable/monitoring_db2_with_nagios.html
 * Named-pipe
   * DB2 Export and Load Using Compression & Named Pipes. dbawesome. Elder Lira. 2013. Blog - http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.html
   * DB2 Tips n Tricks Part 37 - How To Load Compressed Files directly without Extracting to Harddisk. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=FT3UBxpeR9k
@@ -1596,6 +1605,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * DB2 pureScale – No Product License found. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11476
 * NoSQL
     * Introduction to DB2 JSON. DeveolperWorks. Bobbie Cochrane and Kathy McKnight. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson1/index.html
+* Non-repeatable reads
+  * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * Not logged initially
   * How to identify if a table has the not logged initially attribute. Ideas for DB2 (Spanish). Andres Gomez. 2015. Blog - http://angocadb2.blogspot.com.co/2015/12/how-to-identify-if-table-has-not-logged.html
 * Non-root installation
@@ -1730,6 +1741,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Static SQL vs Dynamic SQL in Stored Procedures. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
   * DB2 Database Security Model. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/db2-database-security-model.html
   * File Permimission Requirements for the Instance and Database Directories. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/file-permimission-requirements-for-instance-database.html
+* Phantom reads
+  * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * PHP
   * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
 * Physical design
@@ -2632,6 +2645,7 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * Overview of LOCK ISSUES in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/07/overview-of-lock-issues-in-db2.html
   * Determining Log Span. db2commerce. Ian Bjorhovde. 2017. Blog - http://db2commerce.com/2017/03/14/determining-log-span/
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
+  * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * Transaction logs
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
   * Increase the log capacity online in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog -  http://angocadb2.blogspot.com.co/2016/12/increase-log-capacity-online-in-db2.html
@@ -2722,6 +2736,8 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
 * UDF - User Defined Functions
   * Using SQL parameter names and default values, DeveloperWorks. Nick Lawrence, 2015. Article - https://www.ibm.com/developerworks/ibmi/library/i-sql-parameter-name-default-value/index.html
   * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
+* Uncommitted Read - ur
+  * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * Uncommited rows
   * Parameter Wednesday: DB2 Registry DB2_EVALUNCOMMITTED. db2commerce. Ember Crooks. 2012. Blog - http://db2commerce.com/2012/06/27/parameter-wednesday-db2-registry-db2_evaluncommitted/
 * Uncommited transactions
