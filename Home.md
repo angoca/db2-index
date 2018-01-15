@@ -660,6 +660,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * fcm_parallelism + sql6031n. DB2 Knowledge Base Raf. Raf Mathijs. 2013. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2013/10/fcmparallelism-sql6031n.html
   * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
   * DB2 11.1 Rebuild TSA Resources. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11436
+  * How to setup logical data partitioning in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/how-to-setup-logical-data-partitioning-in-db2.html
 * db2nosql
   * Using the command-line processor. DeveolperWorks. Marion Behnen and Tony Sun. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson2/index.html
 * db2nosql.bat
@@ -684,6 +685,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * db2rfe for non-root installations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/01/db2rfe-for-non-root-instalations.html
 * DB2RSHCMD
   * Security considerations when installing and using the DB2 database manager. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/security-considerations-when-installing-DB2.html
+  * How to setup logical data partitioning in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/how-to-setup-logical-data-partitioning-in-db2.html
 * db2se
   * Acquiring spatial data and developing applications. DeveloperWorks. David Adler. 2016. Article - http://www.ibm.com/developerworks/data/tutorials/dm-1202db2spatialdata1/index.html
 * db2set
@@ -693,6 +695,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * db2setup
   * Using db2prereqcheck to Check Prerequisites for DB2 LUW. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2prereqcheck-check-prerequisites-db2-luw/
   * db2setup on Windows – Repair Option. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2017/04/04/db2setup-on-windows-repair-option/
+  * How to setup logical data partitioning in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/how-to-setup-logical-data-partitioning-in-db2.html
 * db2shred
   * Improve Db2 HADR Resilience of Network Transmission Corruptions. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/improve-db2-hadr-resilience-of-network.html
 * db2start
@@ -700,6 +703,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * db2start add member fails. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11419
   * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
+  * How to setup logical data partitioning in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/how-to-setup-logical-data-partitioning-in-db2.html
   * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/22/db2-basics-levels-of-configuration/
 * db2support
   * Solve IBM BPM performance issues with IBM DB2 examples. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz2-trs/1509_volz2.html
@@ -877,6 +881,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * fcm_parallelism + sql6031n. DB2 Knowledge Base Raf. Raf Mathijs. 2013. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2013/10/fcmparallelism-sql6031n.html
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
   * Self-tuning memory in partitioned database environments. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/self-tuning-memory-in-partitioned-database-environment.html
+  * How to setup logical data partitioning in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/how-to-setup-logical-data-partitioning-in-db2.html
   * DB2 11.1 BLU with DPF Monitoring scripts. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11484
 * Driver
   * Use Db2 as Cloud SQL Database with Python. Data Henrik. Henrik Loeser. 2017. Blog - 
@@ -1432,6 +1437,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
 * LogArchOpt1
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
+* Logical Data Paritition
+  * How to setup logical data partitioning in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/how-to-setup-logical-data-partitioning-in-db2.html
 * Logical read
   * db2top Tablespaces Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-1.html
 * LogIndexRebuild
@@ -1768,6 +1775,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * DB2 10.1 LUW Certification 611 notes 1 : Physical Design. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/db2-10-1-luw-exam-611-notes-physical-design/
   * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487
   * DB2 Advanced Copy Services: The scripted interface, Part 4, Implementation for DB2 ACS. DeveloperWorks. Martin Jungfer and Holger Hellmuth. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1506scriptdb2copy4/index.html
+* Physical partition
+  * How to setup logical data partitioning in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/how-to-setup-logical-data-partitioning-in-db2.html
 * Physical read
   * db2top Tablespaces Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-1.html
   * Performance monitoring tools and methodology. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/performance-monitoring-tools-and-methodology.html
