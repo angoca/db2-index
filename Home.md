@@ -185,6 +185,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 Backup Tuning. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/26121
   * Backup incomplete due to logs. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/02/backup-incomplete-due-to-logs.html
   * Backup Performance Investigation. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/10/03/backup-performance-investigation/
+  * Basic concepts that are useful to design and implement a successful backup strategy in db2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2017/09/Basic-concepts-that-are-useful-to-design-and-implement-a-successful-backup-strategy-in-db2.html
 * Backup Pending
   * How to take data Online Backup in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-take-data-online-backup-in-db2.html
 * Backward-phase
@@ -559,6 +560,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * db2bm
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * Understanding and Tuning DB2/LUW Backup and Restore Performance. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/understanding-and-tuning-db2luw-backup.html
+  * Basic concepts that are useful to design and implement a successful backup strategy in db2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2017/09/Basic-concepts-that-are-useful-to-design-and-implement-a-successful-backup-strategy-in-db2.html
 * db2caem
   * Query Performance Analysis. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/09/19/query-performance-analysis/
 * db2cat
@@ -665,6 +667,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * db2med
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * Understanding and Tuning DB2/LUW Backup and Restore Performance. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/understanding-and-tuning-db2luw-backup.html
+  * Basic concepts that are useful to design and implement a successful backup strategy in db2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2017/09/Basic-concepts-that-are-useful-to-design-and-implement-a-successful-backup-strategy-in-db2.html
 * db2mon.pl
   * db2mon script for monitoring performance. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21993956
 * db2mtrk
@@ -835,6 +838,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/line-optimization-v11-1/
 * Delta, Incremental Delta Backup
   * How to take data Online Backup in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-take-data-online-backup-in-db2.html
+  * Basic concepts that are useful to design and implement a successful backup strategy in db2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2017/09/Basic-concepts-that-are-useful-to-design-and-implement-a-successful-backup-strategy-in-db2.html
 * Deterministic
   * DETERMINISTIC and NOT DETERMINISTIC option. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/deterministic/
 * Developer Community Edition
@@ -1232,6 +1236,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Incremental backup
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * How to take data Online Backup in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-take-data-online-backup-in-db2.html
+  * Basic concepts that are useful to design and implement a successful backup strategy in db2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2017/09/Basic-concepts-that-are-useful-to-design-and-implement-a-successful-backup-strategy-in-db2.html
 * Index
   * db2top Tablespaces Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-1.html
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
@@ -2683,6 +2688,7 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * The multi-temperature data feature. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders, and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part1-trs/index.html
   * Reclaimable Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/02/21/reclaimable-table-spaces/
   * Database Size and Table Sizes. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30319
+  * Basic concepts that are useful to design and implement a successful backup strategy in db2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2017/09/Basic-concepts-that-are-useful-to-design-and-implement-a-successful-backup-strategy-in-db2.html
 * Tablespace status
   * db2top Tablespaces Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-1.html
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
