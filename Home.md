@@ -2164,6 +2164,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * DB2 11.1 BLU with DPF Monitoring scripts. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11484
   * Utility Scripts for pureScale. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30277
   * Count Rows When Loading.  Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30318
+  * Script to Reduce the tablespace size and reduce the free pages. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/10/script-to-reduce-tablespace-size-and-reduce-free-pages.html
 * Scripting
   * Do your uninstall scripts leave something behind? The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/testing-that-your-uninstall-scripts-leave-nothing-behind.html
   * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/08/30/powershell-script-for-local-db2-database-activation/
