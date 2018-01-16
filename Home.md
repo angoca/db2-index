@@ -709,6 +709,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Using db2prereqcheck to Check Prerequisites for DB2 LUW. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2prereqcheck-check-prerequisites-db2-luw/
   * db2setup on Windows – Repair Option. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2017/04/04/db2setup-on-windows-repair-option/
   * How to setup logical data partitioning in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/how-to-setup-logical-data-partitioning-in-db2.html
+  * Step by Step installation of DB2 V10.5 on Linux. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/04/step-by-step-installation-of-db2-v105-Linux.html
 * db2shred
   * Improve Db2 HADR Resilience of Network Transmission Corruptions. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/improve-db2-hadr-resilience-of-network.html
 * db2start
@@ -1272,6 +1273,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Using db2prereqcheck to Check Prerequisites for DB2 LUW. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2prereqcheck-check-prerequisites-db2-luw/
 * Instance
   * How to replicate instance configuration parameters in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-replicate-instance-configurations-db2.html
+  * Step by Step installation of DB2 V10.5 on Linux. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/04/step-by-step-installation-of-db2-v105-Linux.html
 * INSTANCE_MEMORY
   * DB2 11.1 BLU with DPF Monitoring scripts. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11484
   * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/07/the-self-tuning-memory-manager-stmm/
@@ -1537,6 +1539,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * DB2 Table Row (Tuple) Size. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2-row-size/
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
   * Overview of LOCK ISSUES in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/07/overview-of-lock-issues-in-db2.html
+  * Step by Step installation of DB2 V10.5 on Linux. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/04/step-by-step-installation-of-db2-v105-Linux.html
+
 * Metrics
   * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
   * Performance monitoring tools and methodology. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/performance-monitoring-tools-and-methodology.html
@@ -1757,6 +1761,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Page_Age_Trgt_Mcr
   * The DB2Night Show #196: Db2 LUW Transaction Log Expedition w/ Ember Crooks. The DB2Night Show. Ember Crooks. 2017. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=730
   * Access your database sooner after a system failure -- introducing DB2_ONLINERECOVERY! ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/08/access-your-database-sooner-after.html
+* Paging
+  * Step by Step installation of DB2 V10.5 on Linux. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/04/step-by-step-installation-of-db2-v105-Linux.html
 * Parallelism
   * db2top Agent Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-1.html
 * Parameters
@@ -2029,10 +2035,14 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * What are the different phases of Online & Offline Reorg in DB2 ?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/what-are-different-phases-of-online-and-offline-reorg-db2.html
 * RR
   * Please check the Repetable read entry.
+* Requiriments
+  * Step by Step installation of DB2 V10.5 on Linux. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/04/step-by-step-installation-of-db2-v105-Linux.html
 * Resignal
   * RESIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/resignal/
 * Resize
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
+* Response file
+  * Step by Step installation of DB2 V10.5 on Linux. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/04/step-by-step-installation-of-db2-v105-Linux.html
 * Restore
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
   * DB2 Advanced Copy Services: The scripted interface, Part 4, Implementation for DB2 ACS. DeveloperWorks. Martin Jungfer and Holger Hellmuth. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1506scriptdb2copy4/index.html
@@ -2498,6 +2508,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
 * SvceName
   * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
+* Swap
+  * Step by Step installation of DB2 V10.5 on Linux. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/04/step-by-step-installation-of-db2-v105-Linux.html
 * Synchronous read
   * DB2 LUW Performance: Table Read I/O and Overflows. dbi software - DB2 Performance. Scott Hayes. 2009. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=116
 * Synopsis table
