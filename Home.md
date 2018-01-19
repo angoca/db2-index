@@ -875,6 +875,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Performance monitoring tools and methodology. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/performance-monitoring-tools-and-methodology.html
 * Dirty Read
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
+* Disaster Recovery - DR
+  * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2018/01/18/high-availability-options-for-db2-luw/
 * Disk layout
   * Space disks for DB2. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/12/space-disks-for-db2.html
 * DLChkTime
@@ -1150,6 +1152,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 
 * HA
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
+  * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2018/01/18/high-availability-options-for-db2-luw/
 * HADR - High Availability Disaster Recovery
   * db2top HADR Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-hadr-screen.html
   * DB2 system topology and configuration for automated multi-site HA and DR. IBM. Aruna De Silva. 2010. Whitepaper - http://public.dhe.ibm.com/software/dw/data/dm-1002automateddb2hadr/Automated_long-distance_HADR_configurations.pdf
@@ -1181,6 +1184,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Client Connections in a TSA/HADR cluster – Part 2. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-2/
   * Client Connections in a TSA/HADR cluster- Part 3. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-3/
   * Client Connections in a TSA/HADR cluster- Part 4. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-4/
+  * High Availability Options for Db2 LUW. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - http://db2commerce.com/2018/01/18/high-availability-options-for-db2-luw/
 * HADR Calculator
   * DB2 Logging and HADR Performance Analysis using DB2 Log Scanner and HADR Calculator. DeveloperWorks. Yuke Zhuge. 2014. Wiki - https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/DB2HADR/page/db2logscan 
 * HADR_SPOOL_LIMIT
@@ -1992,6 +1996,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * db2top Bufferpools Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-2.html
   * db2top Tables Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-1.html
   * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487
+* Reads on Standby - ROS
+  * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2018/01/18/high-availability-options-for-db2-luw/
 * Read Stability - RS
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
   * Reducing Contention: Changing Default Isolation Level for Websphere Commerce (WCS). db2commerce. Michael Krafick. 2017. Blog - http://db2commerce.com/2017/11/02/reducing-contention-changing-default-isolation-level-for-websphere-commerce-wcs/
@@ -2061,10 +2067,6 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Repeatable read - RR
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
   * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html
-* RID - Row Identification
-  * What are the different phases of Online & Offline Reorg in DB2 ?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/what-are-different-phases-of-online-and-offline-reorg-db2.html
-* RR
-  * Please check the Repetable read entry.
 * Requiriments
   * Step by Step installation of DB2 V10.5 on Linux. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/04/step-by-step-installation-of-db2-v105-Linux.html
 * Resignal
@@ -2101,6 +2103,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * PkgCache #28: Easier to use when drunk. The Whole Package Cache. Ian Bjorhovde, Fred Sobotka. 2016. Podcast - http://www.pkgcache.com/28/
   * IBM’s DB2 RFE Program. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/02/14/ibms-db2-rfe-program/
   * Votes for DB2 RFEs. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/02/votes-for-db2-rfes.html
+* RID - Row Identification
+  * What are the different phases of Online & Offline Reorg in DB2 ?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/what-are-different-phases-of-online-and-offline-reorg-db2.html
 * Role
   * Secure Your Db2 Data Base - Using Trusted Contexts. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/08/secure-your-db2-data-base-using-trusted.html
 * Rollback
@@ -2129,8 +2133,10 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html
 * Row size
   * DB2 Table Row (Tuple) Size. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2-row-size/
-* RTO - Recovery Time Objetive
-  * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
+* RPO - Recovery Point Objective
+  * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2018/01/18/high-availability-options-for-db2-luw/
+* RR
+  * Please check the Repetable read entry.
 * RS
   * Please check the "Read stability" entry.
 * RSCT
@@ -2142,6 +2148,9 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * DB2 11.1 Rebuild TSA Resources. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11436
   * DB2 pureScale – No Product License found. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11476
   * db2haicu disable / enable and scripting. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11482
+* RTO - Recovery Time Objetive
+  * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
+  * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2018/01/18/high-availability-options-for-db2-luw/
 * Runstats
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
   * Lazy RUNSTATS using SYSPROC.ADMIN_CMD. Dangerous DBA. Philip Carrington. 2012. Blog - http://www.dangerousdba.com/lazy-runstats-using-sysproc-admin_cmd/
@@ -2827,6 +2836,7 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * Client Connections in a TSA/HADR cluster – Part 1. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-1/
   * Client Connections in a TSA/HADR cluster- Part 3. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-3/
   * Client Connections in a TSA/HADR cluster- Part 4. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-4/
+  * High Availability Options for Db2 LUW. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - http://db2commerce.com/2018/01/18/high-availability-options-for-db2-luw/
 * TSM
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
   * Restart vendor process for archive logging. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/12/restart-vendor-process-for-archive.html
