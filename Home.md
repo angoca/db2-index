@@ -467,6 +467,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Database
   * db2top Database Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-1.html
+  * Database Up Time. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30323
 * Database global memory
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
 * Database heap
@@ -1287,6 +1288,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Instance
   * How to replicate instance configuration parameters in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-replicate-instance-configurations-db2.html
   * Step by Step installation of DB2 V10.5 on Linux. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/04/step-by-step-installation-of-db2-v105-Linux.html
+  * Database Up Time. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30323
 * INSTANCE_MEMORY
   * DB2 11.1 BLU with DPF Monitoring scripts. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11484
   * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/07/the-self-tuning-memory-manager-stmm/
@@ -2884,6 +2886,8 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * DB2 Upgrade Detail: Upgrading Event Monitor Tables. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/12/20/db2-upgrade-detail-upgrading-event-monitor-tables/
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
   * We’re Risk Averse. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/were-risk-averse/
+* Uptime
+  * Database Up Time. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30323
 * Usage list
   * Usage Lists – Big Brother is watching, but only where he is looking. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/usage-lists-big-brother-is-watching-but-only-where-he-is-looking/
   * Finding the access path for Columnar queries #2. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-2/
