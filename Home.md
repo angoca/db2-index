@@ -129,6 +129,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Authorities
   * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html
   * Authentication & Authorization process in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/authentication-and-authorization-process-in-db2.html
+  * Db2 Basics: Investigating Permissions in an Existing Database. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
 * Authorization
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
   * DB2 Database Security Model. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/db2-database-security-model.html
@@ -1852,6 +1853,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Static SQL vs Dynamic SQL in Stored Procedures. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
   * DB2 Database Security Model. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/db2-database-security-model.html
   * File Permimission Requirements for the Instance and Database Directories. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/file-permimission-requirements-for-instance-database.html
+  * Db2 Basics: Investigating Permissions in an Existing Database. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
 * Phantom reads
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * PHP
@@ -2569,6 +2571,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * SysDefaultAdmWorkload
   * Querying Tables for an Activity Event Monitor. db2commerce. Ember Brooks. 2014. Blog - http://db2commerce.com/2014/10/14/querying-tables-for-an-activity-event-monitor/
 * SysCat schema
+  * SysCat.dbAuth
+    * Db2 Basics: Investigating Permissions in an Existing Database. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
   * SysCat.dbPartitionGroupDef
     * Partitions held by a table. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30325
 * SysIBM schema
@@ -2585,6 +2589,8 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
 * SysIBMAdm schema.
   * SysIBMAdm.AdminTabInfo
     * Record the size of your DB2 tables – SYSIBMADM.ADMINTABINFO. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/record-the-size-of-your-db2-tables-sysibmadm-admintabinfo/
+  * SysIBMAdm.AuthorizationIDs
+    * Db2 Basics: Investigating Permissions in an Existing Database. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
   * SysIBMAdm.DBCfg
     * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/22/db2-basics-levels-of-configuration/
   * SysIBMAdm.DBmCfg
@@ -2601,6 +2607,8 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
     * Understanding Return Codes in the DB2 Diagnostic Log. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/01/26/understanding-return-codes-in-the-db2-diagnostic-log/
   * SysIBMAdm.PDLogMsgs_Last24Hours 
     * Understanding Return Codes in the DB2 Diagnostic Log. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/01/26/understanding-return-codes-in-the-db2-diagnostic-log/
+  * SysIBMAdm.Privileges
+    * Db2 Basics: Investigating Permissions in an Existing Database. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
   * SysIBMAdm.Snap_Get_Tab_Reorg
     * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
   * SysIBMAdm.SnapDB
@@ -2632,6 +2640,8 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
     * Reclaimable Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/02/21/reclaimable-table-spaces/
   * SysProc.Admin_Rotate_Master_Key
     * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
+  * SysProc.Auth_List_Authorities_For_AuthID
+    * Db2 Basics: Investigating Permissions in an Existing Database. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
   * SysProc.Automaint_Get_PolicyFile
     * Excluding a Table from Db2’s Automatic Runstats. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/09/05/excluding-a-table-from-db2s-automatic-runstats/
   * SysProc.Automaint_Set_PolicyFile
@@ -2931,6 +2941,7 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html
+  * Db2 Basics: Investigating Permissions in an Existing Database. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
 * User mapping (federation)
   * Mom, I joined the cloud! (or: Use old stuff with new stuff - DB2 federation). Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/03/mom-i-joined-cloud-or-use-old-stuff.html
 * User temporary tablespace
