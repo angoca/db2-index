@@ -851,9 +851,11 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Deterministic
   * DETERMINISTIC and NOT DETERMINISTIC option. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/deterministic/
 * Developer Community Edition
-  * Db2 SQL Tutorial 2 - Getting Started with Db2 and DSM. CaleTheVideoMaker2. Caleb Curry. 2017. Video - https://www.youtube.com/watch?v=DXDAX2t953c
+  * Please check the "Developer-C edition" entry.
 * Developer-C edition
+  * Db2 SQL Tutorial 2 - Getting Started with Db2 and DSM. CaleTheVideoMaker2. Caleb Curry. 2017. Video - https://www.youtube.com/watch?v=DXDAX2t953c
   * IBM’s June Announcements About DB2. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/06/23/ibms-june-announcements-about-db2/
+  * Enterprise Database Software for Free – IBM Db2. db2commerce. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/ibm-db2-software-free/
 * Development
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Device Read Rate
@@ -947,6 +949,7 @@ http://blog.4loeser.net/2017/10/use-db2-as-cloud-sql-database-with.html
 
 * Edition
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
+  * Enterprise Database Software for Free – IBM Db2. db2commerce. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/ibm-db2-software-free/
 * EMC2
   * Restore database from a backup in Networker. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/how-to-identify-backup-timestamp-in.html
   * How to identify a backup timestamp in Networker. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/restore-database-from-backup-in.html
@@ -1010,6 +1013,7 @@ http://blog.4loeser.net/2017/10/use-db2-as-cloud-sql-database-with.html
 http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.html
 * Express-C
   * IBM DB2 Express-C. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2_Express-C
+  * Enterprise Database Software for Free – IBM Db2. db2commerce. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/ibm-db2-software-free/
 * Extended row size
   * DB2 Table Row (Tuple) Size. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2-row-size/
 * Extent
@@ -1077,9 +1081,10 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * New Mod Pack and Fix Pack for DB2 V11 available now. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/12/new-mod-pack-and-fix-pack-for-db2-v11.html
   * Understanding Fallback Compatibility of Db2 Version 11.1 Fix Packs and Mod Packs. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/understanding-fallback-compatibility-of.html
   * Db2 Basics: Using FTPS to get a Fixpack Directly to a Db2 Server. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/02/01/db2-basics-using-ftps-to-get-a-fixpack-directly-to-a-db2-server/
+  * DB2 Table Row (Tuple) Size. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2-row-size/
 * Flash copy
   * DB2 Advanced Copy Services: The scripted interface, Part 4, Implementation for DB2 ACS. DeveloperWorks. Martin Jungfer and Holger Hellmuth. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1506scriptdb2copy4/index.html
-  * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
+  * Enterprise Database Software for Free – IBM Db2. db2commerce. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/ibm-db2-software-free/
 * Flush package cache
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
 * For
