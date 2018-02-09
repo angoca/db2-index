@@ -458,6 +458,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Data skipping
   * Finding the access path for Columnar queries. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries/
 * Data Studio
+  * UBUNTU 10.04 AND IBM DATA STUDIO 2.2. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/ubuntu-10-04-and-ibm-data-studio-2-2/
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
 * Data tag
   * The multi-temperature data feature. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders, and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part1-trs/index.html
