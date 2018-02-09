@@ -682,6 +682,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Monitoring database backup performance in db2. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/10/monitoring-database-backup-performance-db2.html
 * db2mon.pl
   * db2mon script for monitoring performance. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21993956
+* db2move
+  * Little addendum for db2move. Joachims Small World. Joachims Tuchel. 2013. Blog - https://joachimtuchel.wordpress.com/2013/02/25/little-addendum-for-db2move/
 * db2mtrk
   * db2top: Memory screen and db2mtrk (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-and-db2mtrk-video.html
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
@@ -2060,6 +2062,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Reorg
   * DB2 LUW Performance: Table Read I/O and Overflows. dbi software - DB2 Performance. Scott Hayes. 2009. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=116
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
+  * Issuing a REORG TABLE command to DB2 from VA Smalltalk (and Glorp). Joachims Small World. Joachims Tuchel. 2013. Blog - https://joachimtuchel.wordpress.com/2013/04/24/issuing-a-reorg-table-command-to-db2-from-va-smalltalk-and-glorp/
   * monitor DB2 reorg with db2pd + awk. DB2 Knowledge Base Raf. Raf Mathijs. 2014. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2014/12/monitor-db2-reorg-with-db2pd-awk.html
   * Improve IBM BPM performance with an IBM DB2 database. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz1-trs/1509_volz1.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
