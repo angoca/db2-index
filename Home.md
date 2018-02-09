@@ -673,6 +673,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * DB2 Logging and HADR Performance Analysis using DB2 Log Scanner and HADR Calculator. DeveloperWorks. Yuke Zhuge. 2014. Wiki - https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/DB2HADR/page/db2logscan 
 * db2look
   * Do your uninstall scripts leave something behind? The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/testing-that-your-uninstall-scripts-leave-nothing-behind.html
+  * TRANSFER, COPY OR MOVE DB2 DATABASE FROM LINUX TO WINDOWS. TeknoMagus. 2011. Blog - https://technomagus.wordpress.com/database/ibm-db2/transfer-db2-database-from-linux-to-windows/
   * db2look from stored procedure. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/10/db2look-from-stored-procedure.html
   * DB2 Basics: Statement Terminators. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/07/13/db2-basics-statement-terminators/
 * db2med
@@ -683,6 +684,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * db2mon.pl
   * db2mon script for monitoring performance. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21993956
 * db2move
+  * TRANSFER, COPY OR MOVE DB2 DATABASE FROM LINUX TO WINDOWS. TeknoMagus. 2011. Blog - https://technomagus.wordpress.com/database/ibm-db2/transfer-db2-database-from-linux-to-windows/
   * Little addendum for db2move. Joachims Small World. Joachims Tuchel. 2013. Blog - https://joachimtuchel.wordpress.com/2013/02/25/little-addendum-for-db2move/
 * db2mtrk
   * db2top: Memory screen and db2mtrk (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-and-db2mtrk-video.html
@@ -715,6 +717,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
 * db2rfe
   * db2rfe for non-root installations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/01/db2rfe-for-non-root-instalations.html
+* db2rmln
+  * DB2 – UNINSTALL. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-uninstall/
 * DB2RSHCMD
   * Security considerations when installing and using the DB2 database manager. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/security-considerations-when-installing-DB2.html
   * How to setup logical data partitioning in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/how-to-setup-logical-data-partitioning-in-db2.html
@@ -2277,6 +2281,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * Set Integrity
   * An introduction to materialized query tables. DeveloperWorks. Roman Melnyk. 2005. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0509melnyk/
+  * TRANSFER, COPY OR MOVE DB2 DATABASE FROM LINUX TO WINDOWS. TeknoMagus. 2011. Blog - https://technomagus.wordpress.com/database/ibm-db2/transfer-db2-database-from-linux-to-windows/
 * Set Current Optimization
   * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/line-optimization-v11-1/
 * Set_Routine_Opts
@@ -2945,6 +2950,8 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * Parameter Wednesday: DB2 Registry DB2_EVALUNCOMMITTED. db2commerce. Ember Crooks. 2012. Blog - http://db2commerce.com/2012/06/27/parameter-wednesday-db2-registry-db2_evaluncommitted/
 * Uncommited transactions
   * How to Estimate the duration of a TAKEOVER HADR operation in DB2. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/07/how-to-estimate-duration-of-takeover.html
+* Uninstall
+  * DB2 – UNINSTALL. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-uninstall/
 * Unit of work
   * Please check the Unit of work entry.
 * UOW - Unit Of Work
