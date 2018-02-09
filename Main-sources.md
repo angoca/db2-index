@@ -36,6 +36,7 @@ In this section, the main DB2 sources are described:
 * Fred Sobotka and Ian Bjorhovde - The Whole Package Cache (Podcasts about DB2 world 🎤 ). http://www.pkgcache.com/
   * Podcast since 201607 to 201707
 * Ian Bjorhovde - Create Database podcast (Podcast about DB2 persons 🔉 ). http://createdatabase.fm
+* Joachims Tuchel - Joachims Small World. https://joachimtuchel.wordpress.com
 
 These blogs are not longer updated 😞 
 
@@ -49,6 +50,7 @@ These blogs are not longer updated 😞
   * All articles since 201301 to 201512
 * Philip Carrington - Dangerous DBA (Blog about technical stuff). http://www.dangerousdba.com/
   * Articles since 201211 to 201712
+* TeknoMagus. https://technomagus.wordpress.com
 
 # ToDo
 
