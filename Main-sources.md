@@ -51,6 +51,7 @@ These blogs are not longer updated 😞
 * Philip Carrington - Dangerous DBA (Blog about technical stuff). http://www.dangerousdba.com/
   * Articles since 201211 to 201712
 * TeknoMagus. https://technomagus.wordpress.com
+  * Articles related to Db2 since 2010 to 2013.
 
 # ToDo
 
