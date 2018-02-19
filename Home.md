@@ -2152,6 +2152,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * PkgCache #28: Easier to use when drunk. The Whole Package Cache. Ian Bjorhovde, Fred Sobotka. 2016. Podcast - http://www.pkgcache.com/28/
   * IBM’s DB2 RFE Program. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/02/14/ibms-db2-rfe-program/
   * Votes for DB2 RFEs. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/02/votes-for-db2-rfes.html
+  * More on IBM’s RFE Program for Db2 on LUW. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/02/08/more-on-ibms-rfe-program-for-db2-on-luw/
 * RID - Row Identification
   * What are the different phases of Online & Offline Reorg in DB2 ?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/what-are-different-phases-of-online-and-offline-reorg-db2.html
 * Role
