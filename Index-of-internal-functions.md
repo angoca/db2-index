@@ -19,7 +19,7 @@
     * Se está haciendo una solicitud de cambio de estado, pero el estado actual no lo permite. Puede ser debido a un backup ejecutado mientras hay un reorg en ejecución.
   * sqlbTestSetDatapoolState
     * Se está haciendo una solicitud de cambio de estado, pero el estado actual no lo permite. Puede ser debido a un backup ejecutado mientras hay un reorg en ejecución.
-catalog services
+* catalog services
   * sqlrlCatalogScan::postUpdateCacheHandling
     * ? se recibió una interrupción.
   * sqlrlCatalogScan::update
