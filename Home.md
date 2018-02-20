@@ -190,6 +190,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Backup Performance Investigation. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/10/03/backup-performance-investigation/
   * Basic concepts that are useful to design and implement a successful backup strategy in db2. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/09/Basic-concepts-that-are-useful-to-design-and-implement-a-successful-backup-strategy-in-db2.html
   * Monitoring database backup performance in db2. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/10/monitoring-database-backup-performance-db2.html
+  * (Invalid state change) Cambio de estado inválido en Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/02/cambio-de-estado-invalido-en-db2.html
 * Backup Pending
   * How to take data Online Backup in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-take-data-online-backup-in-db2.html
 * Backward-phase
@@ -616,6 +617,9 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Troubleshooting tools for Performance Tuning: Analyzing db2diag log files using db2diag tool. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/05/troubleshooting-tools-for-performance-tuning-db2diag.html
   * Understanding Return Codes in the DB2 Diagnostic Log. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/01/26/understanding-return-codes-in-the-db2-diagnostic-log/
   * How to use db2diag command line option for time. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/04/how-to-use-db2diag-command-line-option-for-time.html
+  * What is happening in the Db2 instance. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/02/what-is-happening-in-db2-instance.html
+  * Db2 Internal Functions in db2diag. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/02/db2-internal-functions-in-db2diag.html
+  * (Invalid state change) Cambio de estado inválido en Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/02/cambio-de-estado-invalido-en-db2.html
 * db2dsdriver.cfg and DB2DSDRIVER_CFG_PATH
   * Configuring SSL for IBM Data Server Driver for ODBC and CLI. DeveloperWorks. Chetan Papaiah, Ashok V. Jose and Chris Meyer. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-ssl-data-server-driver-odbc-cli-trs/index.html
   * Automatic Client Reroute – Templates. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11453
@@ -758,6 +762,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * db2support
   * Solve IBM BPM performance issues with IBM DB2 examples. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz2-trs/1509_volz2.html
   * Improve IBM BPM performance with an IBM DB2 database. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz1-trs/1509_volz1.html
+* db2tbst
+  * (Invalid state change) Cambio de estado inválido en Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/02/cambio-de-estado-invalido-en-db2.html
 * DB2TCP_CLIENT_CONTIMEOUT
   * Automatic Client Reroute – Templates. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11453
 * DB2TCP_CLIENT_KEEPALIVE_TIMEOUT
@@ -1342,6 +1348,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * How to replicate instance configuration parameters in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-replicate-instance-configurations-db2.html
   * Step by Step installation of DB2 V10.5 on Linux. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/04/step-by-step-installation-of-db2-v105-Linux.html
   * Database Up Time. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30323
+  * What is happening in the Db2 instance. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/02/what-is-happening-in-db2-instance.html
 * INSTANCE_MEMORY
   * DB2 11.1 BLU with DPF Monitoring scripts. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11484
   * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/07/the-self-tuning-memory-manager-stmm/
@@ -2102,6 +2109,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * What are the different phases of Online & Offline Reorg in DB2 ?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/what-are-different-phases-of-online-and-offline-reorg-db2.html
   * Difference between Online Reorg and Offline Reorg in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/difference-between-online-and-offline-reorg-db2.html
   * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/29/db2-temporary-table-spaces/
+  * (Invalid state change) Cambio de estado inválido en Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/02/cambio-de-estado-invalido-en-db2.html
 * Reorg Pointer
   * What are the different phases of Online & Offline Reorg in DB2 ?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/what-are-different-phases-of-online-and-offline-reorg-db2.html
 * ReorgChk
@@ -2533,6 +2541,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
 * State, tablespace
   * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://db2commerce.com/2016/07/12/monitoring-extent-movement-progress/
+  * (Invalid state change) Cambio de estado inválido en Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/02/cambio-de-estado-invalido-en-db2.html
 * Statement
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * db2top Statements Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-statements-screen.html
@@ -2806,6 +2815,7 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * Basic concepts that are useful to design and implement a successful backup strategy in db2. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/09/Basic-concepts-that-are-useful-to-design-and-implement-a-successful-backup-strategy-in-db2.html
   * Monitoring database backup performance in db2. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/10/monitoring-database-backup-performance-db2.html
   * Space disks for DB2. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/12/space-disks-for-db2.html
+  * (Invalid state change) Cambio de estado inválido en Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/02/cambio-de-estado-invalido-en-db2.html
 * Tablespace status
   * db2top Tablespaces Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-1.html
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
