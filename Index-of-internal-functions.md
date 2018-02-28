@@ -112,6 +112,8 @@
 * RAS/PD component
   * pdDiagArchiveDiagnosticLog
     * Generación de un nuevo archivo de log - db2diag.log
+  * pdDiagReadFromFileIntoBufferBS
+    * Problema asociado la lectura del db2diag.
   * pdDumpFencedVendorProcessInfo
     * Reinicio de fenced process. Cuando se reinicia la librería de logarchmeth.
   * pdLogInternal
