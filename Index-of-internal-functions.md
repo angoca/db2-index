@@ -97,6 +97,9 @@
     * Afinamiento del buffer para backup.
   * sqluxLogDataStats
     * Cálculo del tamaño del backup.
+* DRDA Application Server
+  * sqljsTermAgentReply
+    * Se mataron las conexiones, sql1224.
 * Health Monitor
   * db2HmonEvalReorg
     * ?
