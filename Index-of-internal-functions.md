@@ -20,10 +20,14 @@
   * sqlbTestSetDatapoolState
     * Se está haciendo una solicitud de cambio de estado, pero el estado actual no lo permite. Puede ser debido a un backup ejecutado mientras hay un reorg en ejecución.
 * catalog services
+  * sqlrlCatalogScan::fetch
+    * ? Después de un deadlock, donde se hace rollback.
   * sqlrlCatalogScan::postUpdateCacheHandling
     * ? se recibió una interrupción.
   * sqlrlCatalogScan::update
     * ? se recibió una interrupción.
+  * sqlrlDropIndex
+    * ?
 * common communication
   * sqlcctcptest
     * Se desconectó el client.
@@ -55,7 +59,7 @@
   * sqlpgReadXhdrFromFile
     * Problema con log de transacciones.
   * sqlpgRenameFileDuringLogReclaim
-    * ?
+    * ? Borrando archivo por ser pequeño (log, se supone)
   * sqlpgRetrieveLogFile
     * Inicio y finalización de recuperación de log de transacciones desde el sistema de archivado.
   * sqlpgRetrieveLogVendor
@@ -102,7 +106,7 @@
     * Se mataron las conexiones, sql1224.
 * Health Monitor
   * db2HmonEvalReorg
-    * ?
+    * Chequeo de health monitor para reorganización
   * HealthIndicator::update
     * Actualización de estado del Health Center.
 * oper system services
@@ -128,16 +132,16 @@
   * sqlr_init_tstat
     * Analiza los valores actuales de ciertos parámetros.
   * sqlrr_rds_common_post
-    * ?
+    * ? sql1224
   * sqlrreorg_table
     * Reorganización de tablas.
 * routine_infrastructure
   * sqlerGetFmpThread
-    * ?
+    * ? Error inesperado
   * sqlerMasterThreadListener
     * Manejado de threads. Cuando no hay espacio no puede crearlo para java.
   * sqlerMasterThreadReq
-    * ?
+    * ? Problema creando thread
 * Self tuning memory manager
   * stmmLog
     * Borrado del archivo de log del STMM.
