@@ -7,12 +7,28 @@
   * sqlra_statement_concentrator
     * Hay una situación con el statement concentrator.
 * base sys utilities
+  * DB2main
+    * ?
+  * DB2StartMain
+    * ?
   * sqeAgent::AgentBreathingPoint
     * ?
   * sqeLocalDatabase::FirstConnect
     * Estado activado de la base de datos.
+  * sqeLocalDatabase::StartBackgroundAgents
+    * ?
   * sqeLocalDatabase::TermDbConnect
     * Estado desactivado de la base de datos.
+  * sqleCalculateDbHeaps
+    * ?
+  * sqleChildCrashHandler
+    * ?
+  * sqledint
+    * ?
+  * sqleGetStStLockFile
+    * ?
+  * sqleReleaseStStLockFile
+    * ?
 * bsu security
   * sqlexLogPluginMessage
     * Intento de conexión con password inválido.
@@ -70,10 +86,20 @@
     * Problema recuperando logs desde el sistema de archivado.
   * sqlpgRetryFailedArchive
     * Problema con el sistema de archivado.
+  * sqlpgSwitchProcessAllLogStreams
+    * ?
   * sqlpOpenLogForBackup
     * El backup fue cancelado.
+  * sqlpProgMonRecEndLastPhaseAndCompleteJob
+    * ?
   * sqlpRestartVendorAPI
     * Libreria de archivado reiniciada.
+  * sqlpSetRecoveryStartingPoint
+    * ?
+  * sqlpshrProcessLogChainsInXHDR
+    * ?
+  * sqlpshrSetInitialLogChain
+    * ?
   * sqlpWriteToVendorDevice
     * Problema archivando logs.
 * database utilities
@@ -93,12 +119,26 @@
     * Comienzo de un backup.
   * sqlubTuneBuffers
     * Afinamiento del buffer para backup.
+  * sqluCheckIfAgentInterrupted
+    * ?
+  * sqluFencedVendorCBTerminate
+    * ?
+  * sqluMapVend2MediaRCWithLog
+    * ?
   * sqluMCWriteToDevice
     * Problema escribiendo a mecanismo de archivado.
   * sqluMapVend2MediaRCWithLog
     * Mapeado de librería de mecanismo de archivado.
+  * sqluReadBufferFromQueue
+    * ?
+  * sqluReadMessageFromQueue
+    * ?
   * sqluVendorCallWrapper
     * Envoltura de mecanismo externo.
+  * sqluVendorTermProcess
+    * ?
+  * sqluWriteToQueue
+    * ?
   * sqluxGetAvailableHeapPages
     * Afinamiento del buffer para backup.
   * sqluxGetDegreeParallelism
@@ -108,6 +148,15 @@
 * DRDA Application Server
   * sqljsTermAgentReply
     * Se mataron las conexiones, sql1224.
+* fast comm manager
+  * sqkfBufferManager::initBufferManager
+    * ?
+  * sqkfChannelManager::initChannelManager
+    * ?
+  * sqkfSessionManager::initSessionManager
+    * ?
+  * sqlkf_init_allocate_shared
+    * ?
 * Health Monitor
   * db2HmonEvalReorg
     * Chequeo de health monitor para reorganización
@@ -116,8 +165,14 @@
 * oper system services
   * sqloInvokeVendorFunction
     * Reiniciando mecanismo fenced.
+  * sqloKAAnalyze
+    * ?
   * sqloReadVendorRC
     * Reiniciando mecanismo fenced.
+  * SqloOSEnvConfig::logChangesAndErrors
+    * ?
+  * sqloReadVendorRC
+    * ?
   * sqlossig
     * Matando proceso actual de mecanismo fenced.
 * RAS/PD component
@@ -130,9 +185,25 @@
   * pdLogInternal
     * Encabezado del archivo de logs - db2diag.log
 * recovery manager
+  * sqlpgSwitchCopyPongToPing
+    * ?
   * sqlplfrFMReadLog
     * Se encontró cadena de logs más reciente. Después de un backup.
   * sqlplfrScanNext
+    * ?
+  * sqlplfrVerifyLogPages
+    * ?
+  * sqlpPRecReadLog
+    * ?
+  * sqlprDbBackwardPhase
+    * ?
+  * sqlprecm
+    * ?
+  * sqlpRecoveryPhasePostProcessing
+    * ?
+  * sqlpresr
+    * ?
+  * sqlpshrSetStartLsoFromLsnOrLfsLsn
     * ?
 * relation data serv
   * sqlr_init_tstat
@@ -149,12 +220,17 @@
   * sqlerMasterThreadReq
     * ? Problema creando thread
 * Self tuning memory manager
+  * stmmAttachToShmAtStartup
+    * ?
   * stmmCalcAutoScaleFactor
     * Los valores de memoria solicitada exceden la memoria física.
   * stmmLog
     * Borrado del archivo de log del STMM.
   * stmmLogGetFileStats
     * Creación de un archivo para los logs de STMM.
+* SQO Memory Management
+  * sqloMemLogPoolConditions
+    * ?
 * trace services
   * sqlt_logerr_data (secondary logging func
     * ?
