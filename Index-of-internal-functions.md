@@ -9,6 +9,10 @@
 * base sys utilities
   * sqeAgent::AgentBreathingPoint
     * ?
+  * sqeLocalDatabase::FirstConnect
+    * Estado activado de la base de datos.
+  * sqeLocalDatabase::TermDbConnect
+    * Estado desactivado de la base de datos.
 * bsu security
   * sqlexLogPluginMessage
     * Intento de conexión con password inválido.
@@ -126,6 +130,8 @@
   * pdLogInternal
     * Encabezado del archivo de logs - db2diag.log
 * recovery manager
+  * sqlplfrFMReadLog
+    * Se encontró cadena de logs más reciente. Después de un backup.
   * sqlplfrScanNext
     * ?
 * relation data serv
@@ -143,6 +149,8 @@
   * sqlerMasterThreadReq
     * ? Problema creando thread
 * Self tuning memory manager
+  * stmmCalcAutoScaleFactor
+    * Los valores de memoria solicitada exceden la memoria física.
   * stmmLog
     * Borrado del archivo de log del STMM.
   * stmmLogGetFileStats
