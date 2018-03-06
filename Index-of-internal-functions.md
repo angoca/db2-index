@@ -99,6 +99,8 @@
     * ?
   * sqlpgolf
     * Problema con log de transacciones.
+  * sqlpgOpenLogExtent
+    * ?
   * sqlpgReadXhdrFromFile
     * Problema con log de transacciones.
   * sqlpgRenameFileDuringLogReclaim
@@ -110,6 +112,8 @@
   * sqlpgRetryFailedArchive
     * Problema con el sistema de archivado.
   * sqlpgSwitchProcessAllLogStreams
+    * ?
+  * sqlpinit
     * ?
   * sqlpOpenLogForBackup
     * El backup fue cancelado.
@@ -192,6 +196,8 @@
   * HealthIndicator::update
     * Actualización de estado del Health Center.
 * oper system services
+  * DB2VEND_main
+    * ?
   * sqloInvokeVendorFunction
     * Reiniciando mecanismo fenced.
   * sqloKAAnalyze
@@ -216,7 +222,11 @@
 * recovery manager
   * SQLP_PR_ASYNC_FLUSH_TABLE::initialize
     * ?
+  * sqlpAllocatePRCB
+    * ?
   * sqlpgSwitchCopyPongToPing
+    * ?
+  * sqlplfrDoScanNext
     * ?
   * sqlplfrFMReadLog
     * Se encontró cadena de logs más reciente. Después de un backup.
@@ -233,6 +243,8 @@
   * sqlpRecoveryPhasePostProcessing
     * ?
   * sqlpresr
+    * ?
+  * sqlprudm
     * ?
   * sqlprReportRedoEndProcessingStatus
     * ?
