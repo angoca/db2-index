@@ -70,10 +70,14 @@
   * sqldIndexCreate
     * Aviso de notificación de reconstrucción de índice en curso.
 * data protection services
+  * sqlpCloseVendorDevice
+    * ?
   * sqlpgArchiveLogFile
     * Inicio y finalización de archivado de log de transacciones.
   * sqlpgArchiveLogVendor
     * Problema para archivar log en sistema de archivado.
+  * sqlpgArchivePendingLogs
+    * ?
   * sqlpgolf
     * Problema con log de transacciones.
   * sqlpgReadXhdrFromFile
@@ -208,6 +212,8 @@
 * relation data serv
   * sqlr_init_tstat
     * Analiza los valores actuales de ciertos parámetros.
+  * sqlrr_array_input
+    * ?
   * sqlrr_rds_common_post
     * ? sql1224
   * sqlrreorg_table
