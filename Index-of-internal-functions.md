@@ -13,8 +13,12 @@
     * ?
   * sqeAgent::AgentBreathingPoint
     * ?
+  * sqeApplication::AppStartUsing
+    * ?
   * sqeLocalDatabase::FirstConnect
     * Estado activado de la base de datos.
+  * sqeLocalDatabase::FreeResourcesOnDBShutdown
+    * ?
   * sqeLocalDatabase::StartBackgroundAgents
     * ?
   * sqeLocalDatabase::TermDbConnect
@@ -27,7 +31,13 @@
     * ?
   * sqleGetStStLockFile
     * ?
+  * sqleIssueStartStop
+    * ?
   * sqleReleaseStStLockFile
+    * ?
+  * sqleRollupCacheALInfo
+    * ?
+  * sqleStartStopSingleNode
     * ?
 * bsu security
   * sqlexLogPluginMessage
@@ -37,6 +47,10 @@
     * Modificación de buffer automática.
   * sqlbCheckStateTransition
     * Se está haciendo una solicitud de cambio de estado, pero el estado actual no lo permite. Puede ser debido a un backup ejecutado mientras hay un reorg en ejecución.
+  * sqlbCleanupBeforeTerm
+    * ?
+  * sqlbDumpEventRecorder
+    * ?
   * sqlbTestSetDatapoolState
     * Se está haciendo una solicitud de cambio de estado, pero el estado actual no lo permite. Puede ser debido a un backup ejecutado mientras hay un reorg en ejecución.
 * catalog services
@@ -47,6 +61,9 @@
   * sqlrlCatalogScan::update
     * ? se recibió una interrupción.
   * sqlrlDropIndex
+    * ?
+* Columnar Data Engine
+  * cdeStartup
     * ?
 * common communication
   * sqlcctcptest
@@ -78,6 +95,8 @@
     * Problema para archivar log en sistema de archivado.
   * sqlpgArchivePendingLogs
     * ?
+  * sqlpghck
+    * ?
   * sqlpgolf
     * Problema con log de transacciones.
   * sqlpgReadXhdrFromFile
@@ -94,6 +113,8 @@
     * ?
   * sqlpOpenLogForBackup
     * El backup fue cancelado.
+  * sqlpParallelRecoveryCalculateShredderScanMemory
+    * ?
   * sqlpProgMonRecEndLastPhaseAndCompleteJob
     * ?
   * sqlpRestartVendorAPI
@@ -103,6 +124,8 @@
   * sqlpshrProcessLogChainsInXHDR
     * ?
   * sqlpshrSetInitialLogChain
+    * ?
+  * sqlptintMore
     * ?
   * sqlpWriteToVendorDevice
     * Problema archivando logs.
@@ -157,6 +180,8 @@
     * ?
   * sqkfChannelManager::initChannelManager
     * ?
+  * sqkfNodeManager::initNodeManager
+    * ?
   * sqkfSessionManager::initSessionManager
     * ?
   * sqlkf_init_allocate_shared
@@ -189,6 +214,8 @@
   * pdLogInternal
     * Encabezado del archivo de logs - db2diag.log
 * recovery manager
+  * SQLP_PR_ASYNC_FLUSH_TABLE::initialize
+    * ?
   * sqlpgSwitchCopyPongToPing
     * ?
   * sqlplfrFMReadLog
@@ -207,11 +234,19 @@
     * ?
   * sqlpresr
     * ?
+  * sqlprReportRedoEndProcessingStatus
+    * ?
+  * sqlpshrEdu
+    * ?
+  * sqlpshrScanOpen
+    * ?
   * sqlpshrSetStartLsoFromLsnOrLfsLsn
     * ?
 * relation data serv
   * sqlr_init_tstat
     * Analiza los valores actuales de ciertos parámetros.
+  * sqlrr_appl_init
+    * ?
   * sqlrr_array_input
     * ?
   * sqlrr_rds_common_post
