@@ -54,6 +54,8 @@
   * sqlbTestSetDatapoolState
     * Se está haciendo una solicitud de cambio de estado, pero el estado actual no lo permite. Puede ser debido a un backup ejecutado mientras hay un reorg en ejecución.
 * catalog services
+  * sqlrlCatalogScan::deleteRows
+    * ?
   * sqlrlCatalogScan::fetch
     * ? Después de un deadlock, donde se hace rollback.
   * sqlrlCatalogScan::postUpdateCacheHandling
