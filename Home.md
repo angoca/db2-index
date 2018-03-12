@@ -840,6 +840,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
 * DBA
   * What are the DB2 LUW DBA daily activities?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/what-are-db2-luw-dba-daily-activities.html
+  * Db2 Basics: Introduction to IBM Db2. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/03/06/db2-basics-introduction-to-ibm-db2/
 * dbheap
   * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/07/the-self-tuning-memory-manager-stmm/
 * dbm - Database Manager - Instance
@@ -2948,8 +2949,9 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * Db2 SQL Tutorial 1 - Intro to Db2. CaleTheVideoMaker2. Caleb Curry. 2017. Video - https://www.youtube.com/watch?v=aMnBCOq9qrk
   * Db2 SQL Tutorial 2 - Getting Started with Db2 and DSM. CaleTheVideoMaker2. Caleb Curry. 2017. Video - https://www.youtube.com/watch?v=DXDAX2t953c
 * Twitter - IBM, organizations
+  * AskIBMAnalytics. Twitter - https://twitter.com/AskIBMAnalytics
   * DeveloperWorks. Twitter - https://twitter.com/developerWorks
-  * IBM_DB2. Twitter - https://twitter.com/IBM_DB2
+  * IBMDB2. Twitter - https://twitter.com/IBMDb2
   * IBM DB2 support. Twitter - https://twitter.com/db2_support
   * IBM Data magazine. Twitter - https://twitter.com/IBMdatamag
   * IBM Pure Data. Twitter - https://twitter.com/IBMPDASupport (INVALID)
@@ -2974,6 +2976,7 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * Henrik Loeser. Twitter. Henrik Loeser - https://twitter.com/data_henrik
   * Ian Bjorhovde. Twitter. Ian Bjorhovde - https://twitter.com/idbjorh
   * Iqbal Goralwalla. Twitter. Iqbal Goralwalla - https://twitter.com/iqbalgoralwalla
+  * Ivan LV Wong. Twitter. Ivan LV Wong - https://twitter.com/IvanLVWong
   * Jessica Rockwood. Twitter. Jessica Rockwood - https://twitter.com/jrockwood
   * Julian Stuhler. Twitter. Julian Stuhler - https://twitter.com/jstuhler
   * Kelly Schlamb. Twitter. Kelly Schlamb - https://twitter.com/KSchlamb
