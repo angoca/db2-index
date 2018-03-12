@@ -186,6 +186,8 @@
     * ?
   * sqkfChannelManager::initChannelManager
     * ?
+  * sqkfDynamicResourceMgr::AdjustResources
+    * ?
   * sqkfNodeManager::initNodeManager
     * ?
   * sqkfSessionManager::initSessionManager
