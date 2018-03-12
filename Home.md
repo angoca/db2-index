@@ -200,6 +200,11 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Bash
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
 * Basics
+  * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
+  * DB2 Basics: Statement Terminators. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/07/13/db2-basics-statement-terminators/
+  * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/22/db2-basics-levels-of-configuration/
+  * Db2 Basics: Investigating Permissions in an Existing Database. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
+  * Db2 Basics: Using FTPS to get a Fixpack Directly to a Db2 Server. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/02/01/db2-basics-using-ftps-to-get-a-fixpack-directly-to-a-db2-server/
   * Db2 Basics: Introduction to IBM Db2. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/03/06/db2-basics-introduction-to-ibm-db2/
 * Benchmark
   * BenchmarkSQL for Db2. GitHub. Andres Gomez. Project - https://github.com/angoca/BenchmarkSQL
@@ -840,6 +845,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
 * DBA
   * What are the DB2 LUW DBA daily activities?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/what-are-db2-luw-dba-daily-activities.html
+  * The Role of a DB2 DBA and of the DB2 Consultant. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/02/02/the-role-of-a-db2-dba-and-of-the-db2-consultant/
   * Db2 Basics: Introduction to IBM Db2. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/03/06/db2-basics-introduction-to-ibm-db2/
 * dbheap
   * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/07/the-self-tuning-memory-manager-stmm/
