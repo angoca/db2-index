@@ -64,6 +64,9 @@
     * ? se recibió una interrupción.
   * sqlrlDropIndex
     * ?
+* catcache support
+  * sqlrlc_systables_fetch_from_disk
+    * ?
 * Columnar Data Engine
   * cdeStartup
     * ?
@@ -135,6 +138,10 @@
     * ?
   * sqlpWriteToVendorDevice
     * Problema archivando logs.
+  * sqpLoggrEdu::sqlpLogReclaimRuntime
+    * ?
+  * sqpLogMgrEdu::sqlpgRetrieveLogFile
+    * ?
 * database utilities
   * sqlubBuildAppTbsp
     * Problema accediendo un tablespace. Probablemente hay una operación de mantenimiento sobre este (reorg) y otra operación no puede comenzar (backup).
