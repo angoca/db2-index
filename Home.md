@@ -1753,6 +1753,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Node.js
   * Access Db2 from IBM Cloud Functions the Easy Way (Node.js). Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2018. Blog - http://blog.4loeser.net/2018/01/access-db2-from-ibm-cloud-functions_25.html
   * Application Development Using node.js by Bimal Jha. IDUG Content Blog. Bimal Jha. 2018. Blog - https://www.idug.org/p/bl/et/blogaid=725 - https://youtu.be/-VHOFc-UkBg
+  * A RESTful Introduction. IDUG Content Blog. Philip Nelson. 2018. Blog - https://www.idug.org/p/bl/et/blogaid=720
 * nodelock
   * DB2 pureScale – No Product License found. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11476
 * NoSQL
