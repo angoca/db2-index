@@ -228,6 +228,10 @@
     * Problema asociado la lectura del db2diag.
   * pdDumpFencedVendorProcessInfo
     * Reinicio de fenced process. Cuando se reinicia la librería de logarchmeth.
+  * pdDumpTempTableStats
+    * ?
+  * pdLoadEDU
+    * ?
   * pdLogInternal
     * Encabezado del archivo de logs - db2diag.log
 * recovery manager
