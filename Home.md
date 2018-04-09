@@ -341,6 +341,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Restore Transport option – mix and match your schemas (Part 2). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas-part-2/
   * Finding the access path for Columnar queries. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries/
   * Finding the access path for Columnar queries #2. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-2/
+  * Finding the access path for Columnar queries #3. db2geek. Mark Gillis. 2018. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-3/
 * Columnar Page Map - CPMA
   * Finding the access path for Columnar queries. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries/
 * Columnar Table Queue
@@ -2768,6 +2769,7 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
     * Determing whether a reorg could benefit performance without using reorgchk. DB2 Knowledge Base Raf. Raf Mathijs. 2015. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2015/03/determing-whether-reorg-could-benefit.html
     * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
     * The Role of the DB2 DBA in Load/Performance Testing. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/02/09/the-role-of-the-db2-dba-in-loadperformance-testing/
+  * Finding the access path for Columnar queries #3. db2geek. Mark Gillis. 2018. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-3/
   * SysProc.Mon_Get_Table_Usage_List
     * Usage Lists – Big Brother is watching, but only where he is looking. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/usage-lists-big-brother-is-watching-but-only-where-he-is-looking/
     * Finding the access path for Columnar queries #2. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-2/
@@ -2812,6 +2814,7 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
     * Record the size of your DB2 tables – SYSIBMADM.ADMINTABINFO. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/record-the-size-of-your-db2-tables-sysibmadm-admintabinfo/
 * Tablescan
   * Finding the access path for Columnar queries #2. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-2/
+  * Finding the access path for Columnar queries #3. db2geek. Mark Gillis. 2018. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-3/
 * Tablespace
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
   * db2top Tablespaces Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-1.html
