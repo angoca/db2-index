@@ -126,6 +126,8 @@
     * ?
   * sqlpProgMonRecEndLastPhaseAndCompleteJob
     * ?
+  * sqlpReadFromVendorDevice
+    * ?
   * sqlpRestartVendorAPI
     * Libreria de archivado reiniciada.
   * sqlpSetRecoveryStartingPoint
@@ -145,6 +147,8 @@
 * database utilities
   * sqlubBuildAppTbsp
     * Problema accediendo un tablespace. Probablemente hay una operación de mantenimiento sobre este (reorg) y otra operación no puede comenzar (backup).
+  * sqlubbuf
+    ?
   * sqlubcka
     * Backup terminado.
   * sqlubCleanupPartialBackup
@@ -160,6 +164,8 @@
   * sqlubTuneBuffers
     * Afinamiento del buffer para backup.
   * sqluCheckIfAgentInterrupted
+    * ?
+  * sqlue_datatypes
     * ?
   * sqluFencedVendorCBTerminate
     * ?
@@ -213,6 +219,8 @@
     * Reiniciando mecanismo fenced.
   * sqloKAAnalyze
     * ?
+  * sqloopenp
+    * ?
   * sqloReadVendorRC
     * Reiniciando mecanismo fenced.
   * SqloOSEnvConfig::logChangesAndErrors
@@ -243,8 +251,12 @@
     * ?
   * sqlplfrDoScanNext
     * ?
+  * sqlplfrFMOpenLog
+    * ?
   * sqlplfrFMReadLog
     * Se encontró cadena de logs más reciente. Después de un backup.
+  * sqlplfrOpenExtentRetrieve
+    * ?
   * sqlplfrScanNext
     * ?
   * sqlplfrVerifyLogPages
