@@ -209,6 +209,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Db2 Basics: Investigating Permissions in an Existing Database. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
   * Db2 Basics: Using FTPS to get a Fixpack Directly to a Db2 Server. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/02/01/db2-basics-using-ftps-to-get-a-fixpack-directly-to-a-db2-server/
   * Db2 Basics: Introduction to IBM Db2. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/03/06/db2-basics-introduction-to-ibm-db2/
+  * Db2 Basics: Error Messages. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/03/13/db2-basics-error-messages/
 * Benchmark
   * BenchmarkSQL for Db2. GitHub. Andres Gomez. Project - https://github.com/angoca/BenchmarkSQL
   * Performance tuning tools and methodology. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/performance-tuning-tools-and-methodology_31.html
@@ -350,6 +351,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Finding the access path for Columnar queries. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries/
 * Command line
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
+  * Db2 Basics: Error Messages. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/03/13/db2-basics-error-messages/
 * Comment
   * Comments. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/comments/
 * Commit
@@ -1012,8 +1014,11 @@ http://blog.4loeser.net/2017/10/use-db2-as-cloud-sql-database-with.html
   * Problems when executing commands from files in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/09/problems-when-executing-commands-from.html
 * Error code
   * Restore database from a backup in Networker. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/restore-database-from-backup-in.html
+  * Db2 Basics: Error Messages. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/03/13/db2-basics-error-messages/
 * Error Handling
   * Condition handling. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/condition-handling/
+* Error message
+  * Db2 Basics: Error Messages. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/03/13/db2-basics-error-messages/
 * Escalation, lock
   * How to troubleshoot DB2 lock waits. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/02/how-to-troubleshoot-db2-lock-waits.html
   * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html
@@ -1259,6 +1264,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
 * Help
   * A file with one character-name can make the difference when asking for help. Ideas for Db2. Andres Gomez. 2017. Blog - http://angocadb2.blogspot.com.co/2017/12/a-file-with-one-character-name-can-make.html
+  * Db2 Basics: Error Messages. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/03/13/db2-basics-error-messages/
 * Hidden tablespaces
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
 * High Availability
