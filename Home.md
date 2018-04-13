@@ -1334,6 +1334,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Index Read Efficiency – A Key Performance Indicator for Db2. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/index-read-efficiency-db2/
 * Index (Resources on Internet)
   * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2016. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487
+  * Index of Introductory Db2 Topics. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/03/22/index-of-introductory-db2-topics/
 * IndexRec
   * Comparing Two Db2 Systems. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/09/12/comparing-two-db2-systems/
 * Informational Constraints
