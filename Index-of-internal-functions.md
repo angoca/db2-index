@@ -170,11 +170,9 @@
   * sqluFencedVendorCBTerminate
     * ?
   * sqluMapVend2MediaRCWithLog
-    * ?
+    * Mapeado de librería de mecanismo de archivado.
   * sqluMCWriteToDevice
     * Problema escribiendo a mecanismo de archivado.
-  * sqluMapVend2MediaRCWithLog
-    * Mapeado de librería de mecanismo de archivado.
   * sqluReadBufferFromQueue
     * ?
   * sqluReadMessageFromQueue
