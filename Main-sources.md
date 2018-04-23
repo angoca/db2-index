@@ -62,3 +62,4 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * https://www.calebcurry.com/blogs/db2/intro-to-db2
 * DB2 for Linux, UNIX, and Windows Best Practices - https://ibm.biz/Bdx2ew
 * http://www.dbatodba.com/db2
+* https://it.toolbox.com/user/about/ChrisEaton-000002
