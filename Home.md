@@ -2451,6 +2451,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * SQL PL
   * SQL-PL Guide. SQL-PL Guide. Michael Spoden. Documentation - http://www.sqlpl-guide.com/
+  * SQL PL. Rosetta Code. Wiki - http://rosettacode.org/wiki/Category:SQL_PL
   * log4db2 - A logging framework like log4j for IBM DB2 SQL-PL. GitHub. Andres Gomez. Project - https://github.com/angoca/log4db2
   * Benefits of Stored Procedures. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/benefits-of-stored-procedures/
   * SQL Procedural Language. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/sql-procedural-language/
