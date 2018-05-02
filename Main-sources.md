@@ -63,3 +63,5 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * DB2 for Linux, UNIX, and Windows Best Practices - https://ibm.biz/Bdx2ew
 * http://www.dbatodba.com/db2
 * https://it.toolbox.com/user/about/ChrisEaton-000002
+* https://community.toadworld.com/platforms/ibmdb2/w/wiki
+* https://community.toadworld.com/platforms/ibmdb2/b/weblog
