@@ -1392,6 +1392,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Integer
   * How to test a count function in a big big table. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog -
 https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.html
+* IP address
+  * Determining Which IP Address Db2 Connections are Connecting To. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/05/03/determining-which-ip-address-db2-connections-are-connecting-to/
 * Iterate
   * ITERATE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/iterate/
 * ISO
@@ -1483,6 +1485,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * DB2 LINUX CONFIGURATION. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-configuration/
   * 3 signs of low Linux memory. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/03/3-signs-of-low-linux-memory.html
   * RSCT APAR Affecting TSAMP. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/03/29/rsct-apar-affecting-tsamp/
+* List applications
+  * Determining Which IP Address Db2 Connections are Connecting To. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/05/03/determining-which-ip-address-db2-connections-are-connecting-to/
 * List storage
   * Combining Db2 and Cloud Object Storage. Data Henrik. Henrik Loeser. 2017. Blog - 
 http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
@@ -1758,6 +1762,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
 * Netstat
   * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
+  * Determining Which IP Address Db2 Connections are Connecting To. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/05/03/determining-which-ip-address-db2-connections-are-connecting-to/
 * Network
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * Solve IBM BPM performance issues with IBM DB2 examples. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz2-trs/1509_volz2.html
