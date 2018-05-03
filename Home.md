@@ -364,9 +364,10 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Overview of LOCK ISSUES in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/07/overview-of-lock-issues-in-db2.html
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
   * How Will Logging Process happen in DB2?. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/01/how-logging-process-will-happen-in-db2.html
-* Common Table Expression
+* Common Table Expression - CTE
   * Funny SQL I Have Seen Lately. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/05/funny-sql-i-have-seen-lately/
   * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/29/db2-temporary-table-spaces/
+  * Db2: CTE and CONNECT BY - two kinds of recursion. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2018/04/db2-cte-and-connect-by-two-kinds-of.html
 * Compression
   * db2top Tables Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-1.html
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
@@ -390,6 +391,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Comparing Two Db2 Systems. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/09/12/comparing-two-db2-systems/
 * Configuration file
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
+* Connect by
+  * Db2: CTE and CONNECT BY - two kinds of recursion. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2018/04/db2-cte-and-connect-by-two-kinds-of.html
 * Connection
   * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
@@ -2141,6 +2144,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
 * Recovery Time Objetive
   * Please check the "RTO" entry.
+* Recursion
+  * Db2: CTE and CONNECT BY - two kinds of recursion. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2018/04/db2-cte-and-connect-by-two-kinds-of.html
 * Recycle
   * Increase the log capacity online in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog -  http://angocadb2.blogspot.com.co/2016/12/increase-log-capacity-online-in-db2.html
 * RedBooks
