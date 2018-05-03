@@ -131,6 +131,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html
   * Authentication & Authorization process in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/authentication-and-authorization-process-in-db2.html
   * Db2 Basics: Investigating Permissions in an Existing Database. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
+  * DB2 Administrative SQL Cookbook: Listing Database Authorities that an ID/Group Holds. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/04/19/db2-administrative-sql-cookbook-listing-database-authorities-that-an-idgroup-holds/
 * Authorization
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
   * DB2 Database Security Model. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/db2-database-security-model.html
@@ -1931,6 +1932,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * DB2 Database Security Model. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/db2-database-security-model.html
   * File Permimission Requirements for the Instance and Database Directories. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/file-permimission-requirements-for-instance-database.html
   * Db2 Basics: Investigating Permissions in an Existing Database. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
+  * DB2 Administrative SQL Cookbook: Listing Database Authorities that an ID/Group Holds. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/04/19/db2-administrative-sql-cookbook-listing-database-authorities-that-an-idgroup-holds/
 * Phantom reads
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * PHP
@@ -1984,6 +1986,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Privileges
   * DB2/dashDB Security: Implicit Privileges Through Group Membership. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/11/db2-security-implicit-privileges.html
   * Authentication & Authorization process in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/authentication-and-authorization-process-in-db2.html
+  * DB2 Administrative SQL Cookbook: Listing Database Authorities that an ID/Group Holds. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/04/19/db2-administrative-sql-cookbook-listing-database-authorities-that-an-idgroup-holds/
 * Procedures
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Profile (runstats)
