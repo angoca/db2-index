@@ -1144,7 +1144,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Stored Procedure wlm_set_client_info gives error sql1131n. DB2 Knowledge Base Raf. Raf Mathijs. 2014. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2014/05/stored-procedure-wlmsetclientinfo-gives.html
   * Restart vendor process for archive logging. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/12/restart-vendor-process-for-archive.html
 * Fetch
-  * DB2 LUW Execution Plan Operations. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/explain-plan/db2/operations
+  * Querying Top-N Rows. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/partial-results/top-n-queries
+  * Seven Surprising Findings About DB2. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/blog/2014-11/seven-surprising-findings-about-DB2
   * FOR statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/for/
   * Example: Select statement in dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-select-statement-in-dynamic-sql/
   * Cursors. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/cursor/
@@ -1371,6 +1372,11 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Getting an Execution Plan. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/explain-plan/db2/getting-an-execution-plan
   * DB2 LUW Execution Plan Operations. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/explain-plan/db2/operations
   * Working With Execution Plans in DB2 LUW Express-C. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/explain-plan/db2
+  * Indexing ASC, DESC and NULLS FIRST/LAST. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/sorting-grouping/order-by-asc-desc-nulls-last
+  * DB2 Example Scripts for “The Where Clause”. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/example-schema/db2/where-clause
+  * DB2 Example Scripts for “Testing and Scalability”. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/example-schema/db2/performance-testing-scalability
+  * DB2 Example Scripts for “The Join Operation”. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/example-schema/db2/join
+  * DB2 Example Scripts for “3-Minute Test”. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/example-schema/db2/3-minute-test
   * db2top Tablespaces Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-1.html
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
   * db2top Bufferpools Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-1.html
