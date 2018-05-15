@@ -2705,7 +2705,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * IBM Db2 Tech Talk: Db2 Security and Compliance Support. Db2 Tech Talk. Roger Sanders. 2018. Webminar - https://www.ibm.com/events/Z56SMPES
 * SSL_SVCENAME
   * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
-* ST_*
+* ST_%
   * Acquiring spatial data and developing applications. DeveloperWorks. David Adler. 2016. Article - http://www.ibm.com/developerworks/data/tutorials/dm-1202db2spatialdata1/index.html
 * Staging tables
   * An introduction to materialized query tables. DeveloperWorks. Roman Melnyk. 2005. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0509melnyk/
