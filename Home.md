@@ -415,7 +415,6 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
   * "db2 connect" does not check the connection - Test an active connection. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/05/db2-connect-does-not-check-connection.html
-  * How to install Db2 11.1 in Ubuntu 18.04. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/05/how-to-install-db2-111-in-ubuntu-1804.html
 * Cross-Platform Development
   * ¿¿??
 * Connection concentrator
