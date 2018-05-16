@@ -2023,6 +2023,16 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Please check the SysIBMAdm.PD_Get_Log_Msgs entry.
 * PDLogMsgs_Last24Hours 
   * Please check the SysIBMAdm.PDLogMsgs_Last24Hours entry.
+* People
+  * Adam Storm. create database podcast. Ian Bjorhovde. 2016. Podcast - http://createdatabase.fm/3
+  * Calisto Zuzarte. create database podcast. Ian Bjorhovde. 2016. Podcast - http://createdatabase.fm/9
+  * Dan Luksetich. create database podcast. Ian Bjorhovde. 2016. Podcast - http://createdatabase.fm/6
+  * Fred Sobotka. create database podcast. Ian Bjorhovde. 2016. Podcast - http://createdatabase.fm/2
+  * Guy Lohman. create database podcast. Ian Bjorhovde. 2016. Podcast - http://createdatabase.fm/11
+  * Iqbal Goralwalla. create database podcast. Ian Bjorhovde. 2016. Podcast - http://createdatabase.fm/4
+  * Melanie Stopfer. create database podcast. Ian Bjorhovde. 2016. Podcast - http://createdatabase.fm/1
+  * Mike Krafick. create database podcast. Ian Bjorhovde. 2016. Podcast - http://createdatabase.fm/5
+  * Saghi Amirsoleymani. create database podcast. Ian Bjorhovde. 2016. Podcast - http://createdatabase.fm/7
 * Performance
   * IBM Performance Analysis Suite. DeveloperWorks. Bryan Tsai. Tool - https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=28cb6d68-ab67-4203-96f9-5538e654a5ff
   * Writing applications with the Java API. DeveolperWorks. Marion Behnen, Henry Chiu, Jyh-Chen Fang, Manish Sehgal, and Tony Sun. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1307nosqlforjson3/index.html
