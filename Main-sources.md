@@ -1,13 +1,13 @@
 In this section, the main DB2 sources are described:
 
 * Ember Crooks - DB2Commence (Blog about technical stuff 💃 ). http://db2commerce.com/
-  * Articles since 201607 to 201801
+  * Articles since 201607 to 201804
   * Also articles from http://www.virtual-dba.com/blog/
-    * Articles since 201701 to 201801
+    * Articles since 201701 to 201804
 * DB2 Geek (Blog of different things about DB2). http://db2geek.triton.co.uk
-  * Articles since 201601 to 201801
+  * Articles since 201601 to 201804
 * David Sciaraffa - ThinkingDB2! (Blog about technical stuff written by a Db2 develoeper 💻 ). http://thinkingdb2.blogspot.com.co/
-  * All articles has been indexed. Last update 201801
+  * All articles has been indexed. Last update 201804
 * Raghu Cherukuru - Raghu On Tech (Blog about different stuff of Db2). https://www.raghu-on-tech.com/
   * All articles has been indexed. Last update 201804
 * Vikram Khatri - Zinox (Blog of technical stuff 📷 ). http://www.zinox.com/
