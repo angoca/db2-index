@@ -8,6 +8,8 @@ In this section, the main DB2 sources are described:
   * Articles since 201601 to 201801
 * David Sciaraffa - ThinkingDB2! (Blog about technical stuff written by a Db2 develoeper 💻 ). http://thinkingdb2.blogspot.com.co/
   * All articles has been indexed. Last update 201801
+* Raghu Cherukuru - Raghu On Tech (Blog about different stuff of Db2). https://www.raghu-on-tech.com/
+  * All articles has been indexed. Last update 201804
 * Vikram Khatri - Zinox (Blog of technical stuff 📷 ). http://www.zinox.com/
   * Articles since 201301 to 201801
 * Henrik Loeser - Data Henrik: IT, Life, DB2, and more (Blog about technical stuff). http://blog.4loeser.net/
