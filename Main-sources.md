@@ -35,10 +35,6 @@ In this section, the main DB2 sources are described:
 * Dale McInnis - DB2 for Linux, UNIX and Windows Availability Topics (Blog about technical stuff 🍁 ). https://www.ibm.com/developerworks/community/blogs/DB2LUWAvailability
 * Michael Spoden - SQL PL Guide (Programming reference 🔡 ). http://www.sqlpl-guide.com/
   * All sections (some articles were excluded because they do not contain any information)
-* Fred Sobotka and Ian Bjorhovde - The Whole Package Cache (Podcasts about DB2 world 🎤 ). http://www.pkgcache.com/
-  * Podcast since 201607 to 201707
-* Ian Bjorhovde - Create Database podcast (Podcast about DB2 persons 🔉 ). http://createdatabase.fm
-* Joachims Tuchel - Joachims Small World. https://joachimtuchel.wordpress.com
 
 These blogs are not longer updated 😞 
 
@@ -53,6 +49,12 @@ These blogs are not longer updated 😞
 * Philip Carrington - Dangerous DBA (Blog about technical stuff). http://www.dangerousdba.com/
   * Articles since 201211 to 201712
 * TeknoMagus. https://technomagus.wordpress.com
+  * Articles related to Db2 since 2010 to 2013.
+* Ian Bjorhovde - Create Database podcast (Podcast about DB2 persons 🔉 ). http://createdatabase.fm
+  * Articles related to Db2 since 2016 to 2017.
+* Fred Sobotka and Ian Bjorhovde - The Whole Package Cache (Podcasts about DB2 world 🎤 ). http://www.pkgcache.com/
+  * Podcast since 201607 to 201707
+* Joachims Tuchel - Joachims Small World. https://joachimtuchel.wordpress.com
   * Articles related to Db2 since 2010 to 2013.
 
 # ToDo
