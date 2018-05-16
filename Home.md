@@ -1350,6 +1350,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * High watermark
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
   * Do db2top High Watermarks Give Wrong Answers? The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/do-db2top-high-watermarks-give-wrong-answers.html
+  * DB2 How to Lower High Water Mark For DMS Tablespaces ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/01/19/db2-lower-high-water-mark-dms-tablespaces/
 * HIPER
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
 * Histograms
@@ -1826,6 +1827,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Performance monitoring tools and methodology. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/performance-monitoring-tools-and-methodology.html
   * Ember’s Take on Monitoring DB2 LUW. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/06/22/embers-take-on-monitoring-db2-luw/
   * How to check DB2 LUW load status. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/12/how-to-check-db2-luw-load-status.html
+  * DB2 How to Lower High Water Mark For DMS Tablespaces ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/01/19/db2-lower-high-water-mark-dms-tablespaces/
 * MQT - Materialized Query Table
   * An introduction to materialized query tables. DeveloperWorks. Roman Melnyk. 2005. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0509melnyk/
   * Establishing a performance tuning strategy. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/establishing-performance-tuning-strategy.html
@@ -3013,6 +3015,7 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * Monitoring database backup performance in db2. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/10/monitoring-database-backup-performance-db2.html
   * Space disks for DB2. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/12/space-disks-for-db2.html
   * (Invalid state change) Cambio de estado inválido en Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/02/cambio-de-estado-invalido-en-db2.html
+  * DB2 How to Lower High Water Mark For DMS Tablespaces ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/01/19/db2-lower-high-water-mark-dms-tablespaces/
 * Tablespace status
   * db2top Tablespaces Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-1.html
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
