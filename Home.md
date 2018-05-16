@@ -917,6 +917,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Default directory for DB creations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/default-directory-for-db-creations.html
 * DDL
   * db2look from stored procedure. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/10/db2look-from-stored-procedure.html
+  * How To Deep Compare Two Db2 Environments? Raghu On Tech. Raghu Cherukuru. 2017. Blog - https://www.raghu-on-tech.com/2017/12/19/how-to-deep-compare-two-db2-environments/
 * Deactivation
   * Database deactivation takes a lot of time. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/database-deactivation-takes-lot-of-time.html
 * Deadlock
@@ -3067,6 +3068,7 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
 * Tools
   * PureFeat V6.1. DBI blog. Scott Hayes. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=524
   * PureFeat V6.2. DBI blog. Scott Hayes. 2015. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=647
+  * How To Deep Compare Two Db2 Environments? Raghu On Tech. Raghu Cherukuru. 2017. Blog - https://www.raghu-on-tech.com/2017/12/19/how-to-deep-compare-two-db2-environments/
 * Trace
   * DB2 Basics: An introduction to the DB2 UDB trace facility. DeveloperWorks. Roman Melnyk. 2014. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0409melnyk/
   * SQL procedure tracing. DeveloperWorks. Serge Rielau. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0409rielau/
