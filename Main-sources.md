@@ -69,3 +69,8 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * https://it.toolbox.com/user/about/ChrisEaton-000002
 * https://community.toadworld.com/platforms/ibmdb2/w/wiki
 * https://community.toadworld.com/platforms/ibmdb2/b/weblog
+* http://db2dean.com/
+* https://www.withdata.com/blog/db2
+* http://db2reflections.blogspot.com.co/?m=1
+* https://db2forum.wordpress.com/
+* http://db2forum.blogspot.com.co
