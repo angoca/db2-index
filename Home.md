@@ -1421,6 +1421,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Establishing a performance tuning strategy. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/establishing-performance-tuning-strategy.html
   * Easy to identify: Does the table have a primary key?. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/10/easy-to-identify-does-table-have.html
   * Index Read Efficiency – A Key Performance Indicator for Db2. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/index-read-efficiency-db2/
+  * Dropping Indexes to Improve Db2 Performance. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/dropping-indexes-improve-db2-performance/
 * Index (Resources on Internet)
   * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2016. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487
   * Index of Introductory Db2 Topics. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/03/22/index-of-introductory-db2-topics/
@@ -2826,6 +2827,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
     * Db2 Basics: Investigating Permissions in an Existing Database. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
   * SysCat.dbPartitionGroupDef
     * Partitions held by a table. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30325
+  * SysCat.Indexes
+    * Dropping Indexes to Improve Db2 Performance. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/dropping-indexes-improve-db2-performance/
 * SysDefaultAdmWorkload
   * Querying Tables for an Activity Event Monitor. db2commerce. Ember Brooks. 2014. Blog - http://db2commerce.com/2014/10/14/querying-tables-for-an-activity-event-monitor/
 * SysDummy
