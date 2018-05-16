@@ -11,11 +11,11 @@ In this section, the main DB2 sources are described:
 * Raghu Cherukuru - Raghu On Tech (Blog about different stuff of Db2). https://www.raghu-on-tech.com/
   * All articles has been indexed. Last update 201804
 * Vikram Khatri - Zinox (Blog of technical stuff 📷 ). http://www.zinox.com/
-  * Articles since 201301 to 201801
+  * Articles since 201301 to 201804
 * Henrik Loeser - Data Henrik: IT, Life, DB2, and more (Blog about technical stuff). http://blog.4loeser.net/
-  * Articles since 201601 to 201801
+  * Articles since 201601 to 201804
 * Jack Vamvas - DBA-DB2. http://www.dba-db2.com/
-  * Articles since 201708 to 201801
+  * Articles since 201708 to 201804
 * Andres Gomez Casanova - Ideas for DB2 (Blog about technical stuff). https://angocadb2.blogspot.com.co
   * Articles since 201601 to 201801
 * Harishkumar Pathanga - DB2-LUW-Academy (Videos of db2 tricks 📹 ). 
