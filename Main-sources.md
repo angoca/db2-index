@@ -17,7 +17,7 @@ In this section, the main DB2 sources are described:
 * Jack Vamvas - DBA-DB2. http://www.dba-db2.com/
   * Articles since 201708 to 201804
 * Andres Gomez Casanova - Ideas for DB2 (Blog about technical stuff). https://angocadb2.blogspot.com.co
-  * Articles since 201601 to 201801
+  * Articles since 201601 to 201804
 * Harishkumar Pathanga - DB2-LUW-Academy (Videos of db2 tricks 📹 ). 
   * https://www.youtube.com/user/DB2LUWAcademy/videos
   * http://db2luwacademy.blogspot.com.co/
