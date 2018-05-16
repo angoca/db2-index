@@ -205,6 +205,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Basic concepts that are useful to design and implement a successful backup strategy in db2. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/09/Basic-concepts-that-are-useful-to-design-and-implement-a-successful-backup-strategy-in-db2.html
   * Monitoring database backup performance in db2. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/10/monitoring-database-backup-performance-db2.html
   * (Invalid state change) Cambio de estado inválido en Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/02/cambio-de-estado-invalido-en-db2.html
+  * How To Configure DB2 To Use NetBackup ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/03/16/configure-db2-use-netbackup/
+  * Troubleshoot Db2 Backup Issues With Veritas NetBackup. Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/03/16/troubleshoot-db2-backup-issues-veritas-netbackup/
   * How To Perform Db2 Alternate Restore Using NetBackup ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/03/20/how-to-perform-db2-cross-node-restore-using-netbackup/
 * Backup Pending
   * How to take data Online Backup in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-take-data-online-backup-in-db2.html
@@ -1854,6 +1856,10 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * DB2 LUW Execution Plan Operations. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/explain-plan/db2/operations
 * Net search extender
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
+* NetBackup
+  * How To Configure DB2 To Use NetBackup ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/03/16/configure-db2-use-netbackup/
+  * Troubleshoot Db2 Backup Issues With Veritas NetBackup. Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/03/16/troubleshoot-db2-backup-issues-veritas-netbackup/
+  * How To Perform Db2 Alternate Restore Using NetBackup ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/03/20/how-to-perform-db2-cross-node-restore-using-netbackup/
 * Netstat
   * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
   * Determining Which IP Address Db2 Connections are Connecting To. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/05/03/determining-which-ip-address-db2-connections-are-connecting-to/
