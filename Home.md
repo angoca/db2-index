@@ -324,6 +324,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
 * Case
   * CASE. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/case/
+* Cast
+  * Distinctly weak type rules with a constrained twist. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/weak_type?lang=en
 * Catalog
   * Combining Db2 and Cloud Object Storage. Data Henrik. Henrik Loeser. 2017. Blog - 
 http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
@@ -1035,6 +1037,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Driver
   * Use Db2 as Cloud SQL Database with Python. Data Henrik. Henrik Loeser. 2017. Blog - 
 http://blog.4loeser.net/2017/10/use-db2-as-cloud-sql-database-with.html
+* DRDA
+  * Finding and releasing the handbrakes on JDBC: enableExtendedDescribe. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/enableextendeddescribe.?lang=en
 * Drop database
   * Cannot drop database SQL1035N The operation failed because the specified database cannot be connected to in the mode requested. SQLSTATE=57019. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/06/cannot-drop-database-sql1035n-the-operation-failed-because-the-specified-database-cannot-be-connecte.html
 * dsmtop
@@ -1502,6 +1506,7 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * Automatic Client Reroute – Templates. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11453
   * Establishing a DB2 JDBC Connection. db2commerce. Michael Krafick. 2017. Blog - http://db2commerce.com/2017/10/26/establishing-a-db2-jdbc-connection/
 * JDBC
+  * Finding and releasing the handbrakes on JDBC: enableExtendedDescribe. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/enableextendeddescribe.?lang=en
   * Establishing a DB2 JDBC Connection. db2commerce. Michael Krafick. 2017. Blog - http://db2commerce.com/2017/10/26/establishing-a-db2-jdbc-connection/
 * JDBC drivers
   * DB2 JDBC Driver Versions. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21363866
@@ -1878,6 +1883,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Determining Which IP Address Db2 Connections are Connecting To. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/05/03/determining-which-ip-address-db2-connections-are-connecting-to/
 * Network
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
+  * Finding and releasing the handbrakes on JDBC: enableExtendedDescribe. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/enableextendeddescribe.?lang=en
   * Solve IBM BPM performance issues with IBM DB2 examples. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz2-trs/1509_volz2.html
 * Networker
   * nsrdb2rlog => Initialized session but failed to get object : due to file system full. DB2 Knowledge Base Raf. Raf Mathijs. 2013. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2013/09/when-using-nsrdb2rlog-to-retrieve.html
@@ -1913,6 +1919,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * nsrdb2rlog
   * nsrdb2rlog => Initialized session but failed to get object : due to file system full. DB2 Knowledge Base Raf. Raf Mathijs. 2013. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2013/09/when-using-nsrdb2rlog-to-retrieve.html
   * nsrdb2rlog does not work with error message related to file privileges. DB2 Knowledge Base Raf. Raf Mathijs. 2013. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2013/10/nsrdb2rlog-doe-snot-work-with-error.html
+* Null value
+  * Distinctly weak type rules with a constrained twist. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/weak_type?lang=en
 * NullID
   * DB2 WSE 9.7 - General Errors. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-error.html
 * Num_InitFenced
@@ -2045,8 +2053,9 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * db2top Bottlenecks Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bottlenecks-screen-part-1.html
   * db2top Bottlenecks Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bottlenecks-screen-part-2.html
   * Histograms. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/histograms.html
-  * DB2 Performance Queries: Stolen from Scott hayes and changed to use mon_get_functions. DB2 Knowledge Base Raf. Raf Mathijs. 2015. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2015/03/db2-performance-queries-stolen-from.html
+  * Finding and releasing the handbrakes on JDBC: enableExtendedDescribe. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/enableextendeddescribe.?lang=en
   * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487
+  * DB2 Performance Queries: Stolen from Scott hayes and changed to use mon_get_functions. DB2 Knowledge Base Raf. Raf Mathijs. 2015. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2015/03/db2-performance-queries-stolen-from.html
   * Capturing SQL statements and performance metrics for a single application database-connection in DB2. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/04/capturing-sql-statements-and-activities.html
   * Troubleshooting SQL problems in your database. DeveloperWorks. Raghavendra Chiyodu. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-troublshooting-sql-database/index.html
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
@@ -2697,20 +2706,20 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Metaprogramming in SQL (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/metaprogramming-in-sql-part-3.html
   * Metaprogramming in SQL (Part 4). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/metaprogramming-in-sql-part-4.html
   * How Inception is like metaprogramming. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/how-inception-is-like-metaprogramming.html
-  * Now, where did that come from? Getting more out of your error messages. SQL Tips for DB2 LUW. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/runtimeerrororigins
+  * Now, where did that come from? Getting more out of your error messages. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2014. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/runtimeerrororigins
   * Using SQL parameter names and default values, DeveloperWorks. Nick Lawrence, 2015. Article - https://www.ibm.com/developerworks/ibmi/library/i-sql-parameter-name-default-value/index.html
   * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
   * Db2's SQL PL description in Rosetta Code. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/04/db2s-sql-pl-description-in-rosetta-code.html
 * SQL PL Profiler
-  * Reality Check: SQL PL Profiler and plan explain with actual row counts. SQL Tips for DB2 LUW. Serge Rielau. 2011. Blog - https://www.ibm.com/developerworks/mydeveloperworks/blogs/SQLTips4DB2LUW/entry/sql_pl_profiler_and_plan_explain_with_actual_row_counts23
-  * More than a TRACE. Extending the SQL PL Profiler to do tracing. SQL Tips for DB2 LUW. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/mydeveloperworks/blogs/SQLTips4DB2LUW/entry/tracing
+  * Reality Check: SQL PL Profiler and plan explain with actual row counts. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2011. Blog - https://www.ibm.com/developerworks/mydeveloperworks/blogs/SQLTips4DB2LUW/entry/sql_pl_profiler_and_plan_explain_with_actual_row_counts23
+  * More than a TRACE. Extending the SQL PL Profiler to do tracing. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/mydeveloperworks/blogs/SQLTips4DB2LUW/entry/tracing
   * Profiling SQL procedures. DeveloperWorks. Sundip Pradhan, Serge Rielau. 2004. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0406rielau/
-  * SQL PL Profiler - Again, better than ever. SQL Tips for DB2 LUW. Serge Rielau. 2011. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/sql_pl_profiler_again_better_than_ever25
+  * SQL PL Profiler - Again, better than ever. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2011. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/sql_pl_profiler_again_better_than_ever25
 * SQL Replication
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/01/18/high-availability-options-for-db2-luw/
 * SQLCA - SQL Communications Area
-  * Now, where did that come from? Getting more out of your error messages. SQL Tips for DB2 LUW. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/runtimeerrororigins
+  * Now, where did that come from? Getting more out of your error messages. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2014. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/runtimeerrororigins
 * SQLCode
   * RESIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/resignal/
   * SQLCODE & SQLSTATE. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/sqlcode-sqlstate/
@@ -2751,6 +2760,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * STANDBY_TABLESPACE_ERROR
   * Don't Get Caught Unprepared - Monitor Invalid Tablespaces on your HADR Standby database and Repair Them Efficiently. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/dont-get-caught-unprepared-monitor.html
 * Starburst
+  * Distinctly weak type rules with a constrained twist. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/weak_type?lang=en
   * Four DB2 Code Bases? Perspectives. James Hamilton. 2017. Blog - http://perspectives.mvdirona.com/2017/12/1187/
 * Start / Stop instance
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
@@ -3225,6 +3235,8 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
 * UDF - User Defined Functions
   * Using SQL parameter names and default values, DeveloperWorks. Nick Lawrence, 2015. Article - https://www.ibm.com/developerworks/ibmi/library/i-sql-parameter-name-default-value/index.html
   * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
+* UDT - User Defined Distinct Type
+  * Distinctly weak type rules with a constrained twist. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/weak_type?lang=en
 * Uncommitted Read - ur
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * Uncommited rows
@@ -3302,6 +3314,7 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * SELECT INTO statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/select-into/
 * Vectored read
   * db2top Bufferpools Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-2.html
+  * Distinctly weak type rules with a constrained twist. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/weak_type?lang=en
   * Using SQL parameter names and default values, DeveloperWorks. Nick Lawrence, 2015. Article - https://www.ibm.com/developerworks/ibmi/library/i-sql-parameter-name-default-value/index.html
 * Vendor
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
