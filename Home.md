@@ -2697,6 +2697,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Metaprogramming in SQL (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/metaprogramming-in-sql-part-3.html
   * Metaprogramming in SQL (Part 4). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/metaprogramming-in-sql-part-4.html
   * How Inception is like metaprogramming. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/how-inception-is-like-metaprogramming.html
+  * Now, where did that come from? Getting more out of your error messages. SQL Tips for DB2 LUW. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/runtimeerrororigins
   * Using SQL parameter names and default values, DeveloperWorks. Nick Lawrence, 2015. Article - https://www.ibm.com/developerworks/ibmi/library/i-sql-parameter-name-default-value/index.html
   * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
   * Db2's SQL PL description in Rosetta Code. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/04/db2s-sql-pl-description-in-rosetta-code.html
@@ -2708,6 +2709,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * SQL Replication
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/01/18/high-availability-options-for-db2-luw/
+* SQLCA - SQL Communications Area
+  * Now, where did that come from? Getting more out of your error messages. SQL Tips for DB2 LUW. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/runtimeerrororigins
 * SQLCode
   * RESIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/resignal/
   * SQLCODE & SQLSTATE. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/sqlcode-sqlstate/
