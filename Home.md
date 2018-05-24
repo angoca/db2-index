@@ -503,7 +503,10 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Finding the access path for Columnar queries. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries/
 * Data Studio
   * UBUNTU 10.04 AND IBM DATA STUDIO 2.2. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/ubuntu-10-04-and-ibm-data-studio-2-2/
+  * DB2/Data Studio/Data Studio Web Console. Sean's. Sean. 2013. Blog - http://twoseans.blogspot.com.co/2013/08/db2data-studiodata-studio-web-console.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
+* Data Studio Web Console
+  * DB2/Data Studio/Data Studio Web Console. Sean's. Sean. 2013. Blog - http://twoseans.blogspot.com.co/2013/08/db2data-studiodata-studio-web-console.html
 * Data tag
   * The multi-temperature data feature. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders, and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part1-trs/index.html
 * Data temperature
@@ -1458,6 +1461,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * DB2 LINUX INSTALLATION. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-installation/
   * DB2 LINUX CONFIGURATION. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-configuration/
   * DB2, LINUX AND MEMORY. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-and-memory/
+  * DB2/Data Studio/Data Studio Web Console. Sean's. Sean. 2013. Blog - http://twoseans.blogspot.com.co/2013/08/db2data-studiodata-studio-web-console.html
   * db2setup on Windows – Repair Option. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2017/04/04/db2setup-on-windows-repair-option/
   * Security considerations when installing and using the DB2 database manager. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/security-considerations-when-installing-DB2.html
   * Step by Step installation of DB2 V10.5 on Linux. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/04/step-by-step-installation-of-db2-v105-Linux.html
