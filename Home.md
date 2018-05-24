@@ -306,6 +306,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * C
   * External Stored Procedures. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/external-stored-procedures/
   * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
+  * Full reverse: A REVERSE function that handles unicode. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/reverse
 * C comments /* */
   * Comments. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/comments/
 * Cache
@@ -363,6 +364,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Please check the MDC entry.
 * Cluster Facility
   * Please check the "CF" entry.
+* Code page
+  * Full reverse: A REVERSE function that handles unicode. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/reverse
 * Column Organized Tables
   * Restore Transport option – mix and match your schemas (Part 2). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas-part-2/
   * Finding the access path for Columnar queries. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries/
@@ -1030,6 +1033,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
   * db2top Partitions Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-partitions-screen.html
   * db2top Skew Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-skew-screen.html
+  * Full reverse: A REVERSE function that handles unicode. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/reverse
   * fcm_parallelism + sql6031n. DB2 Knowledge Base Raf. Raf Mathijs. 2013. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2013/10/fcmparallelism-sql6031n.html
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
   * Self-tuning memory in partitioned database environments. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/self-tuning-memory-in-partitioned-database-environment.html
@@ -1151,6 +1155,7 @@ http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.h
   * Using SQL parameter names and default values, DeveloperWorks. Nick Lawrence, 2015. Article - https://www.ibm.com/developerworks/ibmi/library/i-sql-parameter-name-default-value/index.html
 * External Stored Procedures
   * External Stored Procedures. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/external-stored-procedures/
+  * Full reverse: A REVERSE function that handles unicode. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/reverse
 * External table
   * Db2 with External Tables: First Tests. Data Henrik. Henrik Loeser. 2017. Blog - 
 http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
@@ -1980,6 +1985,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
   * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/line-optimization-v11-1/
 * Oracle compatibility
+  * Full reverse: A REVERSE function that handles unicode. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/reverse
+  * SQL PL Profiler - Again, better than ever. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2011. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/sql_pl_profiler_again_better_than_ever25
   * Db2 Catalog - A Guided Tour. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2017/08/db2-catalog-guided-tour.html
 * Out of Memory (OOM) condition
   * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/07/the-self-tuning-memory-manager-stmm/
