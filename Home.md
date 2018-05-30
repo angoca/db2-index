@@ -1178,6 +1178,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Failover
   * Client Connections in a TSA/HADR cluster – Part 1. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-1/
 * Family, Db2
+  * Family matters: The SQL Reference for Cross-Platform Development. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/crossplatformsqlrefv4
   * More family matters: Selected common SQL features for developers of portable DB2 applications. DeveloperWorks - SQL Tips for DB2 LUW. Rick Swagerman. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/db2common101
  * Four DB2 Code Bases? Perspectives. James Hamilton. 2017. Blog - http://perspectives.mvdirona.com/2017/12/1187/
 * Fast VP
@@ -2676,6 +2677,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * How to make Db2 scripts executable (shebang for Db2). Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/04/how-to-make-db2-scripts-executable.html
   * Db2's SQL PL description in Rosetta Code. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/04/db2s-sql-pl-description-in-rosetta-code.html
 * SQL Language Council - SLC
+  * Family matters: The SQL Reference for Cross-Platform Development. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/crossplatformsqlrefv4
   * More family matters: Selected common SQL features for developers of portable DB2 applications. DeveloperWorks - SQL Tips for DB2 LUW. Rick Swagerman. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/db2common101
 * SQL PL
   * SQL-PL Guide. SQL-PL Guide. Michael Spoden. Documentation - http://www.sqlpl-guide.com/
