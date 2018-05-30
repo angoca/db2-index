@@ -415,6 +415,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Configuration file
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
 * Connect by
+  * Creating recursive functions and procedures in SQL PL. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/recursive_sql_pl
   * Db2: CTE and CONNECT BY - two kinds of recursion. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2018/04/db2-cte-and-connect-by-two-kinds-of.html
 * Connect_Proc
   * Migrating from TSQL: The DATEADD function. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/dateadd
@@ -1273,6 +1274,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * DB2 Stored Procedures and Defaults. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2-stored-procedures-and-defaults.html
   * DB2 Stored Procedures and Defaults. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2-stored-procedures-and-defaults.html
   * DB2 Stored Procedures and Defaults (Conclusion). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/stored-procedures-and-defaults-conclusion.html
+  * DROP MODULE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/drop-module/
   * Fractions of time: A PostgreSQL compatible DATE_PART function. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/date_part
   * Using SQL parameter names and default values, DeveloperWorks. Nick Lawrence, 2015. Article - https://www.ibm.com/developerworks/ibmi/library/i-sql-parameter-name-default-value/index.html
   * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
@@ -1804,8 +1806,9 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Understanding Fallback Compatibility of Db2 Version 11.1 Fix Packs and Mod Packs. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/understanding-fallback-compatibility-of.html
 * Module
   * Module. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/module/
-  * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
   * DROP MODULE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/drop-module/
+  * Creating recursive functions and procedures in SQL PL. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/recursive_sql_pl
+  * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
 * Mon_DB_Summary
   * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
 * Mon_Get_%
@@ -2179,6 +2182,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * DB2 Administrative SQL Cookbook: Listing Database Authorities that an ID/Group Holds. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/04/19/db2-administrative-sql-cookbook-listing-database-authorities-that-an-idgroup-holds/
   * IBM Db2 Tech Talk: Db2 Security and Compliance Support. Db2 Tech Talk. Roger Sanders. 2018. Webminar - https://www.ibm.com/events/Z56SMPES
 * Procedures
+  * DROP MODULE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/drop-module/
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Profile (runstats)
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
@@ -2299,6 +2303,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Recovery Time Objetive
   * Please check the "RTO" entry.
 * Recursion
+  * Creating recursive functions and procedures in SQL PL. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/recursive_sql_pl
   * Db2: CTE and CONNECT BY - two kinds of recursion. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2018/04/db2-cte-and-connect-by-two-kinds-of.html
 * Recycle
   * Increase the log capacity online in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog -  http://angocadb2.blogspot.com.co/2016/12/increase-log-capacity-online-in-db2.html
@@ -3310,6 +3315,8 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * Identify invalid characters in a script. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/04/identify-invalid-characters-in-script.html
 * Uninstall
   * DB2 – UNINSTALL. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-uninstall/
+* Union all
+  * Creating recursive functions and procedures in SQL PL. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/recursive_sql_pl
 * Unique
   * DB2 LUW Execution Plan Operations. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/explain-plan/db2/operations
 * Unit of work
