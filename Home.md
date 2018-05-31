@@ -80,6 +80,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Client Connections in a TSA/HADR cluster – Part 2. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-2/
   * Client Connections in a TSA/HADR cluster– Part 3. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-3/
   * Client Connections in a TSA/HADR cluster- Part 4. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-4/
+* Anonymous block
+  * DB2 10: Using locally defined types and procedures. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/local_types_and_procedures
 * ANSI
   * Selected common SQL features for developers of portable DB2 applications. DeveloperWorks. 2016. Article - http://www.ibm.com/developerworks/data/library/techarticle/db2common/index.html
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
@@ -109,6 +111,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * How To Perform Db2 Alternate Restore Using NetBackup ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/03/20/how-to-perform-db2-cross-node-restore-using-netbackup/
 * ArchRetryDelay
   * The DB2Night Show #196: Db2 LUW Transaction Log Expedition w/ Ember Crooks. The DB2Night Show. Ember Crooks. 2017. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=730
+* Array
+  * DB2 10: Using locally defined types and procedures. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/local_types_and_procedures
 * Article
   * Please check the Technical Article entry.
 * ASCII
@@ -1633,8 +1637,12 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * DB2 Table Spaces – When to use File System Caching. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/489
   * How Will Logging Process happen in DB2?. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/01/how-logging-process-will-happen-in-db2.html
+* Local procedures
+  * DB2 10: Using locally defined types and procedures. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/local_types_and_procedures
 * Local session
   * db2top Sessions Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-2.html
+* Local types
+  * DB2 10: Using locally defined types and procedures. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/local_types_and_procedures
 * Lock
   * Lock events for DB2. DeveloperWorks Serie 3 articles
     * Lock events for DB2 for Linux, UNIX, and Windows, Part 1: Analyzing lockwait situations in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2007. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0707fechner/index.html
@@ -2198,6 +2206,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * IBM Db2 Tech Talk: Db2 Security and Compliance Support. Db2 Tech Talk. Roger Sanders. 2018. Webminar - https://www.ibm.com/events/Z56SMPES
 * Procedures
   * DROP MODULE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/drop-module/
+  * DB2 10: Using locally defined types and procedures. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/local_types_and_procedures
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Profile (runstats)
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
