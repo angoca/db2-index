@@ -3199,6 +3199,8 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * PureFeat V6.1. DBI blog. Scott Hayes. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=524
   * PureFeat V6.2. DBI blog. Scott Hayes. 2015. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=647
   * How To Deep Compare Two Db2 Environments? Raghu On Tech. Raghu Cherukuru. 2017. Blog - https://www.raghu-on-tech.com/2017/12/19/how-to-deep-compare-two-db2-environments/
+* TPC-c - Transaction Processing Performance Council
+  * BenchmarkSQL for Db2. GitHub. Andres Gomez. Project - https://github.com/angoca/BenchmarkSQL
 * Trace
   * DB2 Basics: An introduction to the DB2 UDB trace facility. DeveloperWorks. Roman Melnyk. 2014. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0409melnyk/
   * SQL procedure tracing. DeveloperWorks. Serge Rielau. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0409rielau/
