@@ -78,3 +78,4 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * https://db2forum.wordpress.com/
 * http://db2forum.blogspot.com.co
 * https://www.brighttalk.com/channel/7637/idug-db2-tech-channel
+* http://www.db2util.es/
