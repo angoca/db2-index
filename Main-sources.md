@@ -20,9 +20,6 @@ In this section, the main DB2 sources are described:
   * Articles since 201804 to 201804
 * Andres Gomez Casanova - Ideas for DB2 (Blog about technical stuff). https://angocadb2.blogspot.com.co
   * Articles since 201601 to 201804
-* Harishkumar Pathanga - DB2-LUW-Academy (Videos of db2 tricks 📹 ). 
-  * https://www.youtube.com/user/DB2LUWAcademy/videos
-  * http://db2luwacademy.blogspot.com.co/
 * Vinay Kumar Bommana - DB Tutorials (Videos of DB2 🎥 ).
   * https://www.youtube.com/channel/UCo0cIzR_TbMzU5wHQmbTjxQ/videos
   * Vinay's DB2 blog (Blog about technical stuff). http://vinaysdb2blog.blogspot.com.co/
@@ -30,18 +27,16 @@ In this section, the main DB2 sources are described:
 * Scott Hayes - The DB2night show ( 📺  Videos and Webminars of DB2, also contests 😀 ). http://www.dbisoftware.com/db2nightshow/ - http://www.dbisoftware.com/blog/db2nightshow.php
 * Scott Hayes - DB2 Performance (Articles about performance and DBI software). http://www.dbisoftware.com/blog/db2_performance.php
   * Articles since 201301 to 201801
-* IDUG Content Blog (Blog). http://www.idug.org/p/bl/bl/blogid=278
 * DeveloperWorks (Articles). http://www.ibm.com/developerworks/views/data/libraryview.jsp?sort_by=Date&search_by=db2
   * Articles since 201601 to 201702
-* Thoughts from Support (Blog about technical stuff). https://www.ibm.com/developerworks/community/blogs/IMSupport
-* Dale McInnis - DB2 for Linux, UNIX and Windows Availability Topics (Blog about technical stuff 🍁 ). https://www.ibm.com/developerworks/community/blogs/DB2LUWAvailability
 * Michael Spoden - SQL PL Guide (Programming reference 🔡 ). http://www.sqlpl-guide.com/
   * All sections (some articles were excluded because they do not contain any information)
 
 These blogs are not longer updated 😞 
 
-* Chris Eaton - An Expert's Guide to DB2 Technology (Blog from an IBM expert 😢 ). http://it.toolbox.com/blogs/db2luw/ - Not longer available.
-* TODO - Serge Rielau (瑞赛奇) and Rick Swagerman - SQL Tips for DB2 LUW (Blog from DB2 architect 🙈 ). https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/
+* Chris Eaton - An Expert's Guide to DB2 Technology (Blog from an IBM expert 😢 ). http://it.toolbox.com/blogs/db2luw/
+  * Not longer available.
+* Serge Rielau (瑞赛奇) and Rick Swagerman - SQL Tips for DB2 LUW (Blog from DB2 architect 🙈 ). https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/
   * Articles since 201205 to 201403
 * Nagendra - DB2 queries (Blog about technical stuff). http://learndb.blogspot.com.co/
   * All articles since 2009 to 201708
@@ -79,3 +74,9 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * http://db2forum.blogspot.com.co
 * https://www.brighttalk.com/channel/7637/idug-db2-tech-channel
 * http://www.db2util.es/
+* IDUG Content Blog (Blog). http://www.idug.org/p/bl/bl/blogid=278
+* Thoughts from Support (Blog about technical stuff). https://www.ibm.com/developerworks/community/blogs/IMSupport
+* Dale McInnis - DB2 for Linux, UNIX and Windows Availability Topics (Blog about technical stuff 🍁 ). https://www.ibm.com/developerworks/community/blogs/DB2LUWAvailability
+* Harishkumar Pathanga - DB2-LUW-Academy (Videos of db2 tricks 📹 ). 
+  * https://www.youtube.com/user/DB2LUWAcademy/videos
+  * http://db2luwacademy.blogspot.com.co/
