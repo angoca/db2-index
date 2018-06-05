@@ -1046,6 +1046,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Comments. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/comments/
 * Download
   * Db2 Basics: Using FTPS to get a Fixpack Directly to a Db2 Server. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/02/01/db2-basics-using-ftps-to-get-a-fixpack-directly-to-a-db2-server/
+  * Product identifier when installing Db2 (productShortName). Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/06/product-identifier-when-installing-db2.html
 * DPF - Data Partitioning Feature
   * db2top -P. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-feature-of-the-day-command-line-options-p.html
   * db2top Agent Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-1.html
@@ -1240,6 +1241,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Understanding Fallback Compatibility of Db2 Version 11.1 Fix Packs and Mod Packs. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/understanding-fallback-compatibility-of.html
   * Db2 Basics: Using FTPS to get a Fixpack Directly to a Db2 Server. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/02/01/db2-basics-using-ftps-to-get-a-fixpack-directly-to-a-db2-server/
   * DB2 Table Row (Tuple) Size. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2-row-size/
+  * Evaluation license when installing a Fixpack. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/06/evaluation-license-when-installing.html
 * Flash copy
   * DB2 Advanced Copy Services: The scripted interface, Part 4, Implementation for DB2 ACS. DeveloperWorks. Martin Jungfer and Holger Hellmuth. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1506scriptdb2copy4/index.html
   * Enterprise Database Software for Free – IBM Db2. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/ibm-db2-software-free/
@@ -1504,6 +1506,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Db2 Basics: Using FTPS to get a Fixpack Directly to a Db2 Server. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/02/01/db2-basics-using-ftps-to-get-a-fixpack-directly-to-a-db2-server/
   * How to install Db2 11.1 in Ubuntu 18.04. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/05/how-to-install-db2-111-in-ubuntu-1804.html
   * DBI1131E error when installing Db2 clie. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/05/dbi1131e-error-when-installing-db2.html
+  * Product identifier when installing Db2 (productShortName). Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/06/product-identifier-when-installing-db2.html
+  * Evaluation license when installing a Fixpack. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/06/evaluation-license-when-installing.html
 * installFixPack
   * Using db2prereqcheck to Check Prerequisites for DB2 LUW. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2prereqcheck-check-prerequisites-db2-luw/
 * Instance
