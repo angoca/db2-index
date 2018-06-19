@@ -355,7 +355,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * Client
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
-  * DBI1131E error when installing Db2 clie. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/05/dbi1131e-error-when-installing-db2.html
+  * DBI1131E error when installing Db2 client. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/05/dbi1131e-error-when-installing-db2.html
 * Client_PrdID
   * DB2 Tips n Tricks Part 42 - How to Identify DB2 Client Release Version from Server. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=XG8k5prZ7yA
 * Close
@@ -390,6 +390,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Db2 Basics: Error Messages. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/03/13/db2-basics-error-messages/
 * Comment
   * Comments. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/comments/
+  * How to modify current comments on table and columns in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com/2018/06/how-to-modify-current-comments-on-table.html
 * Commit
   * Overview of LOCK ISSUES in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/07/overview-of-lock-issues-in-db2.html
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
@@ -1390,7 +1391,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * db2top Agent Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-1.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
 * Help
-  * A file with one character-name can make the difference when asking for help. Ideas for Db2. Andres Gomez. 2017. Blog - http://angocadb2.blogspot.com.co/2017/12/a-file-with-one-character-name-can-make.html
+  * A file with one character-name can make the difference when asking for help. Ideas for Db2 (Spanish). Andres Gomez. 2017. Blog - http://angocadb2.blogspot.com.co/2017/12/a-file-with-one-character-name-can-make.html
   * Db2 Basics: Error Messages. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/03/13/db2-basics-error-messages/
 * Hidden tablespaces
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
@@ -2960,7 +2961,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Synopsis table
   * Finding the access path for Columnar queries. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries/
 * Syntax
-  * A file with one character-name can make the difference when asking for help. Ideas for Db2. Andres Gomez. 2017. Blog - http://angocadb2.blogspot.com.co/2017/12/a-file-with-one-character-name-can-make.html
+  * A file with one character-name can make the difference when asking for help. Ideas for Db2 (Spanish). Andres Gomez. 2017. Blog - http://angocadb2.blogspot.com.co/2017/12/a-file-with-one-character-name-can-make.html
 * SysAdm
   * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
   * Security considerations when installing and using the DB2 database manager. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/security-considerations-when-installing-DB2.html
@@ -3460,6 +3461,7 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
 * Version
   * How to Identify the version and service level of DB2 product?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/05/how-to-identify-version-and-service.html
+  * Db2: release number, service level and build level (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com/2018/06/db2-release-number-service-level-and.html
 * Victim buffer
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
 * Victim page
