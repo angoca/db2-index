@@ -82,3 +82,4 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * Harishkumar Pathanga - DB2-LUW-Academy (Videos of db2 tricks 📹 ). 
   * https://www.youtube.com/user/DB2LUWAcademy/videos
   * http://db2luwacademy.blogspot.com.co/
+* https://dbthread.wordpress.com/
