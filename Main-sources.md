@@ -87,3 +87,4 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * http://www.dbazine.com/resources/orgs/in
 * https://www.databasejournal.com/features/article.php/3593431/DB2-Series.htm
 * http://www.ebenner.com/db2dba_blog/
+* https://www.tutorialspoint.com/db2/index.htm
