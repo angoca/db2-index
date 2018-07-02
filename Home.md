@@ -324,6 +324,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * CALL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/call/
   * CALLED ON NULL INPUT option. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/called-on-null-input/
   * Default values. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/default-values/
+* Cartesian product
+  * Seven SQL Performance-Killers to Avoid in Db2. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/seven-sql-performance-killers-avoid-db2/
 * Catalog
   * db2top Memory Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-part-1.html
   * db2top Memory Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-part-2.html
@@ -356,6 +358,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Client
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * DBI1131E error when installing Db2 client. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/05/dbi1131e-error-when-installing-db2.html
+  * Hello, Db2 World! – How to Connect to a Db2 (LUW) Database. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/21/hello-db2-world-how-to-connect-to-a-db2-luw-database/
 * Client_PrdID
   * DB2 Tips n Tricks Part 42 - How to Identify DB2 Client Release Version from Server. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=XG8k5prZ7yA
 * Close
@@ -368,6 +371,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * CLP - Command Line Processor
   * Escape characters in shell for DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/escape-characters-in-shell-for-db2.html
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
+  * Hello, Db2 World! – How to Connect to a Db2 (LUW) Database. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/21/hello-db2-world-how-to-connect-to-a-db2-luw-database/
 * CLPPlus
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
 * Clustering dimensions
@@ -388,6 +392,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Command line
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
   * Db2 Basics: Error Messages. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/03/13/db2-basics-error-messages/
+  * Hello, Db2 World! – How to Connect to a Db2 (LUW) Database. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/21/hello-db2-world-how-to-connect-to-a-db2-luw-database/
 * Comment
   * Comments. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/comments/
   * How to modify current comments on table and columns in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com/2018/06/how-to-modify-current-comments-on-table.html
@@ -427,6 +432,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Db2: CTE and CONNECT BY - two kinds of recursion. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2018/04/db2-cte-and-connect-by-two-kinds-of.html
 * Connect_Proc
   * Migrating from TSQL: The DATEADD function. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/dateadd
+  * Hello, Db2 World! – How to Connect to a Db2 (LUW) Database. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/21/hello-db2-world-how-to-connect-to-a-db2-luw-database/
 * Connection
   * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
@@ -434,8 +440,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
   * "db2 connect" does not check the connection - Test an active connection. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/05/db2-connect-does-not-check-connection.html
-* Cross-Platform Development
-  * ¿¿??
+  * Hello, Db2 World! – How to Connect to a Db2 (LUW) Database. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/21/hello-db2-world-how-to-connect-to-a-db2-luw-database/
 * Connection concentrator
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
 * Consistency
@@ -450,6 +455,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
 * Conversion, tablespace
   * DB2 Tips n Tricks Part 98 - How Conversion of Regular to Large Tablespace Impacts Recovery. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=uJ2_HXMY6A4
+* Coordinating agent
+  * Hello, Db2 World! – How to Connect to a Db2 (LUW) Database. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/21/hello-db2-world-how-to-connect-to-a-db2-luw-database/
 * Coordinator node
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
 * Corruption
@@ -823,6 +830,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Building a Sandbox VM for DB2. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/01/19/building-a-sandbox-vm-for-db2/
 * db2profile
   * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/22/db2-basics-levels-of-configuration/
+  * Hello, Db2 World! – How to Connect to a Db2 (LUW) Database. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/21/hello-db2-world-how-to-connect-to-a-db2-luw-database/
 * db2rbind
   * Static SQL vs Dynamic SQL in Stored Procedures. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
@@ -1298,6 +1306,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Using SQL parameter names and default values, DeveloperWorks. Nick Lawrence, 2015. Article - https://www.ibm.com/developerworks/ibmi/library/i-sql-parameter-name-default-value/index.html
   * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
+  * Seven SQL Performance-Killers to Avoid in Db2. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/seven-sql-performance-killers-avoid-db2/
 
 # G
 
@@ -1549,6 +1558,7 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
   * Reducing Contention: Changing Default Isolation Level for Websphere Commerce (WCS). db2commerce. Michael Krafick. 2017. Blog - http://db2commerce.com/2017/11/02/reducing-contention-changing-default-isolation-level-for-websphere-commerce-wcs/
   * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html
+  * Seven SQL Performance-Killers to Avoid in Db2. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/seven-sql-performance-killers-avoid-db2/
 
 # J
 
@@ -2102,6 +2112,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
   * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/07/the-self-tuning-memory-manager-stmm/
   * Why are there Question Marks in my Db2 Queries?. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/why-are-there-question-marks-in-my-db2-queries/
+  * Seven SQL Performance-Killers to Avoid in Db2. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/seven-sql-performance-killers-avoid-db2/
 * Partial index
   * Seven Surprising Findings About DB2. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/blog/2014-11/seven-surprising-findings-about-DB2
 * Partitions
@@ -2597,6 +2608,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Example: Select statement in dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-select-statement-in-dynamic-sql/
   * RESULT SETS in DB2 Stored Procedures. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/result-sets/
   * SELECT INTO statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/select-into/
+  * Seven SQL Performance-Killers to Avoid in Db2. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/seven-sql-performance-killers-avoid-db2/
 * Selectivity
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
@@ -2694,6 +2706,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * db2top Dynamic SQL Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-dynamic-sql-screen.html
   * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/29/db2-temporary-table-spaces/
+  * Seven SQL Performance-Killers to Avoid in Db2. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/seven-sql-performance-killers-avoid-db2/
 * SortHeap
   * db2top Database Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-2.html
   * db2top Memory Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-part-1.html
@@ -3355,6 +3368,8 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * Scott Hayes. Twitter. Scott Hayes - https://twitter.com/srhayes
   * Steve Rees. Twitter. Steve Rees - https://twitter.com/db2steve
   * Vinay's db2 blog. Twitter. Vinay Kumar Bommana - https://twitter.com/vinaysdb2blog
+* Type conversion
+  * Seven SQL Performance-Killers to Avoid in Db2. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/seven-sql-performance-killers-avoid-db2/
 
 # U
 
