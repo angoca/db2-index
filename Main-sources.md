@@ -1,6 +1,7 @@
 In this section, the main DB2 sources are described:
 
-* Ember Crooks - DB2Commence (Blog about technical stuff 💃 ). http://db2commerce.com/
+* Ember Crooks - DataGeek (Blog about technical stuff 💃 ). https://datageek.blog/
+  * Before DB2Commerce. http://db2commerce.com/
   * Articles since 201607 to 201804
   * Also articles from http://www.virtual-dba.com/blog/
     * Articles since 201701 to 201804
