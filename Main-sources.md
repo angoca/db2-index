@@ -91,3 +91,4 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * http://www.ebenner.com/db2dba_blog/
 * https://www.tutorialspoint.com/db2/index.htm
 * https://www.ibm.com/developerworks/community/wikis/home?lang=en_us#!/wiki/Big%20Data%20University/page/FREE%20ebook%20-%20Getting%20Started%20with%20Open%20Source%20Development
+* https://www.ibm.com/developerworks/community/blogs/idm?sortby=0&maxresults=50&order=desc&lang=en
