@@ -193,6 +193,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * "db2 connect" does not check the connection - Test an active connection. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/05/db2-connect-does-not-check-connection.html
 * Backup
   * How to backup and extract the recovery history file from a database backup? IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21994689
+  * DB2 backup script on Linux. Berthou.com. 2008. Blog - http://www.berthou.com/us/2008/01/31/db2-backup-script-on-linux/
+  * DB2 backup script on Linux. Berthou.com. 2008. Blog - http://www.berthou.com/us/2008/01/10/windows-script-for-a-db2-backup/
   * DB2, LINUX AND MEMORY. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-and-memory/
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
@@ -2460,6 +2462,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Response file
   * Step by Step installation of DB2 V10.5 on Linux. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/04/step-by-step-installation-of-db2-v105-Linux.html
 * Restore
+  * Script de restauration DB2. Berthou.com. 2009. Blog - http://www.berthou.com/fr/2009/10/13/script-de-restauration-db2/
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
   * DB2, LINUX AND MEMORY. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-and-memory/
   * DB2 Advanced Copy Services: The scripted interface, Part 4, Implementation for DB2 ACS. DeveloperWorks. Martin Jungfer and Holger Hellmuth. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1506scriptdb2copy4/index.html
