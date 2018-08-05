@@ -155,6 +155,8 @@ This is an index where you can search for a DB2 term and get the related Interne
   * db2 Auto commit option. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-auto-commit-option/
 * Auto resize (automatic resize)
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
+* Auto_Del_Rec_Obj
+  * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - hhttps://datageek.blog/2018/07/17/the-db2-recovery-history-file/
 * Automatic
   * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/07/the-self-tuning-memory-manager-stmm/
 * Automaint_Get_PolicyFile
@@ -216,6 +218,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * How To Configure DB2 To Use NetBackup ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/03/16/configure-db2-use-netbackup/
   * Troubleshoot Db2 Backup Issues With Veritas NetBackup. Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/03/16/troubleshoot-db2-backup-issues-veritas-netbackup/
   * How To Perform Db2 Alternate Restore Using NetBackup ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/03/20/how-to-perform-db2-cross-node-restore-using-netbackup/
+  * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - hhttps://datageek.blog/2018/07/17/the-db2-recovery-history-file/
 * Backup Pending
   * How to take data Online Backup in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-take-data-online-backup-in-db2.html
 * Backward-phase
@@ -1439,6 +1442,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Four DB2 Code Bases? Perspectives. James Hamilton. 2017. Blog - http://perspectives.mvdirona.com/2017/12/1187/
 * History file
   * How to backup and extract the recovery history file from a database backup? IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21994689
+  * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - hhttps://datageek.blog/2018/07/17/the-db2-recovery-history-file/
 * Hit Ratio
   * db2top Database Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-2.html
   * db2top Tablespaces Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-1.html
@@ -2018,6 +2022,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Distinctly weak type rules with a constrained twist. DeveloperWorks - SQL Tips for DB2 LUW. Rick Swagerman. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/weak_type?lang=en
 * NullID
   * DB2 WSE 9.7 - General Errors. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-error.html
+* Num_Db_Backups
+  * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - hhttps://datageek.blog/2018/07/17/the-db2-recovery-history-file/
 * Num_InitFenced
   * DB2 Tips n Tricks Part 46 - How to Find Fenced User ID for an Instance. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=tFonyCpVisU
 * Num_Log_Span
@@ -2274,6 +2280,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Reduce Problem Resolution Times with Persistent Db2 Diagnostic Data Collection. ThinkingDB2! David Sciaraffa. 2017 - http://thinkingdb2.blogspot.com.co/2017/07/reduce-problem-resolution-times-with.html
 * Procedure
   * Please check the Stored procedure entry.
+* Prune
+  * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - hhttps://datageek.blog/2018/07/17/the-db2-recovery-history-file/
 * Pruning
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
 * Public
@@ -2385,9 +2393,12 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Static SQL vs Dynamic SQL in Stored Procedures. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
   * How to resolve SQL20249N The statement was not processed error?. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/11/how-to-resolve-sql20249n-statement-was-not-processed-error.html
+* Rec_His_Retentn
+  * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - hhttps://datageek.blog/2018/07/17/the-db2-recovery-history-file/
 * Recover
   * How to backup and extract the recovery history file from a database backup? IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21994689
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
+  * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - hhttps://datageek.blog/2018/07/17/the-db2-recovery-history-file/
 * Recovery Time Objetive
   * Please check the "RTO" entry.
 * Recursion
@@ -2437,6 +2448,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Difference between Online Reorg and Offline Reorg in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/difference-between-online-and-offline-reorg-db2.html
   * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/29/db2-temporary-table-spaces/
   * (Invalid state change) Cambio de estado inválido en Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/02/cambio-de-estado-invalido-en-db2.html
+  * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - hhttps://datageek.blog/2018/07/17/the-db2-recovery-history-file/
 * Reorg Pointer
   * What are the different phases of Online & Offline Reorg in DB2 ?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/what-are-different-phases-of-online-and-offline-reorg-db2.html
 * ReorgChk
@@ -2477,6 +2489,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * SQL0752N on Rollforward After Redirected Restore. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2017/03/28/sql0752n-on-rollforward-after-redirected-restore/
   * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
   * How To Perform Db2 Alternate Restore Using NetBackup ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/03/20/how-to-perform-db2-cross-node-restore-using-netbackup/
+  * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - hhttps://datageek.blog/2018/07/17/the-db2-recovery-history-file/
 * Restrictive
   * DB2 WSE 9.7 - General Errors. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-error.html
 * Result set
@@ -3041,6 +3054,8 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
     * Record the size of your DB2 tables – SYSIBMADM.ADMINTABINFO. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/record-the-size-of-your-db2-tables-sysibmadm-admintabinfo/
   * SysIBMAdm.AuthorizationIDs
     * Db2 Basics: Investigating Permissions in an Existing Database. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
+  * SysIBMAdm.Db_History
+    * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - hhttps://datageek.blog/2018/07/17/the-db2-recovery-history-file/
   * SysIBMAdm.DBCfg
     * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/22/db2-basics-levels-of-configuration/
   * SysIBMAdm.DBmCfg
@@ -3219,6 +3234,7 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * Space disks for DB2. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/12/space-disks-for-db2.html
   * (Invalid state change) Cambio de estado inválido en Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/02/cambio-de-estado-invalido-en-db2.html
   * DB2 How to Lower High Water Mark For DMS Tablespaces ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/01/19/db2-lower-high-water-mark-dms-tablespaces/
+  * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - hhttps://datageek.blog/2018/07/17/the-db2-recovery-history-file/
 * Tablespace status
   * db2top Tablespaces Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-1.html
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
@@ -3318,6 +3334,7 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * Access your database sooner after a system failure -- introducing DB2_ONLINERECOVERY! ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/08/access-your-database-sooner-after.html
   * Faster rollback processing of very large transactions in Db2 v11.1.3.3. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/faster-rollback-processing-of-very.html
   * Format and display Db2 log file information using db2fmtlog. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/format-and-display-db2-log-file.html
+  * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - hhttps://datageek.blog/2018/07/17/the-db2-recovery-history-file/
 * Transfer ownership
   * Transfer Ownership. it.toolbox.com. Chris Eaton. 2006. Blog - http://it.toolbox.com/blogs/db2luw/transfer-ownership-10771
   * Transferring Ownership of Objects (ACC3). Toad - IBM DB2 Community. Steve Hilker. 2013. Wiki - https://www.toadworld.com/platforms/ibmdb2/w/wiki/7575.transferring-ownership-of-objects-acc3
