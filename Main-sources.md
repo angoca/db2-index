@@ -99,3 +99,6 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * http://radheshk.blogspot.com/
 * http://db2tutorial.net/
 * https://vimeo.com/user1637644
+* http://dbmsguy.com/
+* https://it.toolbox.com/users/content/scotdb
+* http://db2performance.blogspot.com/
