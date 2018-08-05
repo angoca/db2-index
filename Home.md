@@ -236,6 +236,14 @@ This is an index where you can search for a DB2 term and get the related Interne
   * BenchmarkSQL for Db2. GitHub. Andres Gomez. Project - https://github.com/angoca/BenchmarkSQL
   * Performance tuning tools and methodology. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/performance-tuning-tools-and-methodology_31.html
 * Best Practice
+  * Best Practices - Physical Database Design. IBM. Sam Lightstone, Christopher Tsounis, Agatha Colangelo, Steven Tsounis. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_Physical_Design_0508I.pdf
+  * Best Practices - Minimizing Planned Outages. IBM. Matthew Huras, Chris Eaton, Jens Seifert, Rob Causley. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_Planned_Outages_0508I.pdf
+  * Best Practices - IBM Data Server Security. IBM. Belal Tassi, Walid Rhaibi, Paul Caliandro. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_Security_0508I.pdf
+  * Best Practices - Deploying IBM DB2 Products. IBM. Andrew Hilden, Darin McBride, Jason Shayer. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_Deploying_0508I.pdf
+  * Best Practices - Writing and Tuning Queries for Optimal Performance. IBM. John Hornibrook, Nina Kolunovsky. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_Query_Tuning_0508I.pdf
+  * Best Practices - Managing XML Data. IBM. Matthias Nicola, Susanne Englert. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_XML_0508I.pdf
+  * Best Practices - Improving Data Server Utilization and Management through Virtualization. IBM. Sunil Kamath, Punit Shah, Basker Shanmugam, Rimas P. Kalesnykas. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_Virtualization_0508I.pdf
+  * Best Practices - Frequently Asked Questions from Problem Management Reports. IBM. Saurabh Jain, Vikram Murali, Mark Wilding. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_PMRFAQ_0508I.pdf
   * DB2 for Linux, UNIX, and Windows Best Practices. DeveloperWorks. Wiki - https://ibm.biz/Bdx2ew
   * Best Practice. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/best-practice/
 * Big SQL
