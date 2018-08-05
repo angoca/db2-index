@@ -3625,7 +3625,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
   * db2top Bufferpools Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-2.html
 * XML
-  * How to order query results based on XML values. Native XML Database. Blog - http://nativexmldatabase.com/2010/08/11/how-to-order-query-results-based-on-xml-values/
+  * How to order query results based on XML values. Native XML Database. Matthias Nicola. Blog - http://nativexmldatabase.com/2010/08/11/how-to-order-query-results-based-on-xml-values/
   * Best Practices - Managing XML Data. IBM. Matthias Nicola, Susanne Englert. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_XML_0508I.pdf
   * Performance differences between upper-case (XQuery) and UPPER scalar function. db2geek. Mark Gillisr. 2018. Blog - http://db2geek.triton.co.uk/performance-differences-upper-case-xquery-upper-scalar-function/
 * XML Policy file
