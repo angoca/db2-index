@@ -82,6 +82,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Client Connections in a TSA/HADR cluster- Part 4. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-4/
 * Anonymous block
   * DB2 10: Using locally defined types and procedures. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/local_types_and_procedures
+  * Writing to a file from a Stored Procedure or Annonymous Block (sql pl). Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/writing-in-file-from-stored-procedure.html
 * ANSI
   * Selected common SQL features for developers of portable DB2 applications. DeveloperWorks. 2016. Article - http://www.ibm.com/developerworks/data/library/techarticle/db2common/index.html
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
@@ -117,6 +118,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Please check the Technical Article entry.
 * ASCII
   * Identify invalid characters in a script. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/04/identify-invalid-characters-in-script.html
+  * Using UNICODE characters, no matter the encoding of the script in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/using-unicode-characters-no-matter.html
 * Associate
   * ASSOCIATE LOCATOR statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/associate-locator/
   * Example: How much reorganisations are recommended on a specific schema. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-reorgchk/
@@ -362,9 +364,12 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * DB2 pureScale Health Check. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11467
 * Changes
   * Runstats on data change percentage. Berst Blog. Bert van Langen. 2014. Blog - https://web.archive.org/web/20160308061053/https://blog.bertvanlangen.com/db2/runstats-data-change-percentage/
+* Char
+  * Char Vs. Varchar in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/char-vs-varchar-in-db2.html
 * Characters
   * Escape characters in shell for DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/escape-characters-in-shell-for-db2.html
   * Identify invalid characters in a script. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/04/identify-invalid-characters-in-script.html
+  * Using UNICODE characters, no matter the encoding of the script in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/using-unicode-characters-no-matter.html
 * Circular Logging
   * How Will Logging Process happen in DB2?. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/01/how-logging-process-will-happen-in-db2.html
 * CLI
@@ -589,6 +594,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Migrating from TSQL: The DATEADD function. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/dateadd
   * Fractions of time: A PostgreSQL compatible DATE_PART function. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/date_part
   * How to create a Date Series in DB2. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/12/how-to-create-a-date-series-in-db2-.html
+  * Dealing with dates and formats. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/dealing-with-dates-and-formats.html
 * DB2
   * IBM DB2. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2
   * IBM DB2 Express-C. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2_Express-C
@@ -1006,6 +1012,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Returning inserted rows (and updated and deleted). DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/select_from_insert
   * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html
   * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/line-optimization-v11-1/
+  * How to prevent a delete without where clause in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/how-to-prevent-delete-without-where.html
 * Delete On Cascade
   * Import data from a table with generated id in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/import-data-from-table-with-generated.html
 * Delta, Incremental Delta Backup
@@ -1013,6 +1020,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Basic concepts that are useful to design and implement a successful backup strategy in db2. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/09/Basic-concepts-that-are-useful-to-design-and-implement-a-successful-backup-strategy-in-db2.html
 * Design
   * Size matters: A handy routine to compute the defined row size of a table. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/getrowsize
+  * Char Vs. Varchar in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/char-vs-varchar-in-db2.html
 * Deterministic
   * DETERMINISTIC and NOT DETERMINISTIC option. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/deterministic/
 * Developer Community Edition
@@ -1137,6 +1145,7 @@ http://blog.4loeser.net/2017/10/use-db2-as-cloud-sql-database-with.html
   * Interpretation of DB2 SQL errors with Networker. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/08/interpretation-of-db2-sql-errors-with.html
 * Encoding
   * Problems when executing commands from files in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/09/problems-when-executing-commands-from.html
+  * Using UNICODE characters, no matter the encoding of the script in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/using-unicode-characters-no-matter.html
 * End of Support - EOS
   * DB2 Distributed end of support (EOS) dates. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21168270
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
@@ -1253,6 +1262,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Example: Select statement in dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-select-statement-in-dynamic-sql/
   * Cursors. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/cursor/
   * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html
+* File
+  * Writing to a file from a Stored Procedure or Annonymous Block (sql pl). Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/writing-in-file-from-stored-procedure.html
 * File closed
   * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
 * File System
@@ -1294,6 +1305,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Cannot drop database SQL1035N The operation failed because the specified database cannot be connected to in the mode requested. SQLSTATE=57019. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/06/cannot-drop-database-sql1035n-the-operation-failed-because-the-specified-database-cannot-be-connecte.html
 * Foreign key
   * How To Find Missing Indexes On Foreign Key Columns ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/07/10/how-to-find-missing-indexes-for-foreign-key-columns/
+* Format
+  * Dealing with dates and formats. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/dealing-with-dates-and-formats.html
 * Forum
   * Community Discussion. Toad. Forum - http://www.toadworld.com/platforms/ibmdb2/f/55.aspx
   * comp.databases.ibm-db2. Google. Forum - https://groups.google.com/forum/#!forum/comp.databases.ibm-db2
@@ -1540,6 +1553,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Returning inserted rows (and updated and deleted). DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/select_from_insert
   * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html
   * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/line-optimization-v11-1/
+  * Dealing with dates and formats. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/dealing-with-dates-and-formats.html
+  * Using UNICODE characters, no matter the encoding of the script in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/using-unicode-characters-no-matter.html
 * Install
   * DB2 LINUX INSTALLATION. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-installation/
   * DB2 LINUX CONFIGURATION. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-configuration/
@@ -2352,6 +2367,7 @@ http://blog.4loeser.net/2017/10/use-db2-as-cloud-sql-database-with.html
 http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Finding the access path for Columnar queries #2. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-2/
   * Why are there Question Marks in my Db2 Queries?. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/why-are-there-question-marks-in-my-db2-queries/
+  * Dealing with dates and formats. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/dealing-with-dates-and-formats.html
 * Queue
   * db2top Agent Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-2.html
 
@@ -2668,6 +2684,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * RESULT SETS in DB2 Stored Procedures. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/result-sets/
   * SELECT INTO statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/select-into/
   * Seven SQL Performance-Killers to Avoid in Db2. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/seven-sql-performance-killers-avoid-db2/
+  * Dealing with dates and formats. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/dealing-with-dates-and-formats.html
 * Selectivity
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
@@ -2895,6 +2912,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Using SQL parameter names and default values, DeveloperWorks. Nick Lawrence, 2015. Article - https://www.ibm.com/developerworks/ibmi/library/i-sql-parameter-name-default-value/index.html
   * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
   * Db2's SQL PL description in Rosetta Code. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/04/db2s-sql-pl-description-in-rosetta-code.html
+  * Writing to a file from a Stored Procedure or Annonymous Block (sql pl). Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/writing-in-file-from-stored-procedure.html
 * SQL PL Profiler
   * Profiling SQL procedures. DeveloperWorks. Sundip Pradhan, Serge Rielau. 2004. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0406rielau/
   * SQL PL Profiler - Again, better than ever. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2011. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/sql_pl_profiler_again_better_than_ever25
@@ -3099,6 +3117,10 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
     * DB2 LUW Performance: Table Read I/O and Overflows. dbi software - DB2 Performance. Scott Hayes. 2009. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=116
   * SysIBMAdm.SnapDB_Memory_Pool
     * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html
+  * SysIBMAdm.Utl_Dir
+    * Writing to a file from a Stored Procedure or Annonymous Block (sql pl). Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/writing-in-file-from-stored-procedure.html
+  * SysIBMAdm.Utl_File
+    * Writing to a file from a Stored Procedure or Annonymous Block (sql pl). Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/writing-in-file-from-stored-procedure.html
 * SysProc
   * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
 * SysProc schema
@@ -3299,6 +3321,7 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html
 * Timestamp
   * Migrating from TSQL: The DATEADD function. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/dateadd
+  * Dealing with dates and formats. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/dealing-with-dates-and-formats.html
 * TimeTravel
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
 * Tivoli System Automation for Multiple Platform
@@ -3455,6 +3478,7 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * How to Estimate the duration of a TAKEOVER HADR operation in DB2. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/07/how-to-estimate-duration-of-takeover.html
 * UNICODE
   * Identify invalid characters in a script. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/04/identify-invalid-characters-in-script.html
+  * Using UNICODE characters, no matter the encoding of the script in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/using-unicode-characters-no-matter.html
 * Uninstall
   * DB2 – UNINSTALL. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-uninstall/
 * Union all
@@ -3478,6 +3502,8 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * Returning inserted rows (and updated and deleted). DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/select_from_insert
   * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html
+  * Dealing with dates and formats. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/dealing-with-dates-and-formats.html
+  * Using UNICODE characters, no matter the encoding of the script in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/using-unicode-characters-no-matter.html
 * Upgrade
   * DB2 Upgrade Detail: Upgrading Event Monitor Tables. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/12/20/db2-upgrade-detail-upgrading-event-monitor-tables/
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
@@ -3504,6 +3530,8 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
 * userprofile
   * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/22/db2-basics-levels-of-configuration/
+* UTF-8
+  * Using UNICODE characters, no matter the encoding of the script in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/using-unicode-characters-no-matter.html
 * Util_Heap_Sz
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * Understanding and Tuning DB2/LUW Backup and Restore Performance. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/understanding-and-tuning-db2luw-backup.html
@@ -3522,6 +3550,8 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * V.R.M.F Maintenance Stream Delivery Vehicle terminology explanation. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg27008656
 * Value compression
   * Size matters: A handy routine to compute the defined row size of a table. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/getrowsize
+* Varchar
+  * Char Vs. Varchar in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/char-vs-varchar-in-db2.html
 * Variables
   * Variables in SQL PL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/variables/
   * DECLARE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/declare/
