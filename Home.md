@@ -1288,6 +1288,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
   * Overview of LOCK ISSUES in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/07/overview-of-lock-issues-in-db2.html
   * Cannot drop database SQL1035N The operation failed because the specified database cannot be connected to in the mode requested. SQLSTATE=57019. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/06/cannot-drop-database-sql1035n-the-operation-failed-because-the-specified-database-cannot-be-connecte.html
+* Foreign key
+  * How To Find Missing Indexes On Foreign Key Columns ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/07/10/how-to-find-missing-indexes-for-foreign-key-columns/
 * Forum
   * Community Discussion. Toad. Forum - http://www.toadworld.com/platforms/ibmdb2/f/55.aspx
   * comp.databases.ibm-db2. Google. Forum - https://groups.google.com/forum/#!forum/comp.databases.ibm-db2
