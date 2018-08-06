@@ -35,10 +35,7 @@ In this section, the main DB2 sources are described:
 
 These blogs are not longer updated 😞 
 
-* Chris Eaton - An Expert's Guide to DB2 Technology (Blog from an IBM expert 😢 ). http://it.toolbox.com/blogs/db2luw/
-  * Not longer available.
-  * https://it.toolbox.com/users/content/ChrisEaton-000002?contentType=0000015d-ec7b-db86-ad7f-ef7bcfc30000
-  * https://it.toolbox.com/users/content/ChrisEaton-000002
+* Chris Eaton - An Expert's Guide to DB2 Technology (Blog from an IBM expert 😢 ). https://it.toolbox.com/users/content/ChrisEaton-000002
 * Serge Rielau (瑞赛奇) and Rick Swagerman - SQL Tips for DB2 LUW (Blog from DB2 architect 🙈 ). https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/
   * Articles since 201205 to 201403
 * Nagendra - DB2 queries (Blog about technical stuff). http://learndb.blogspot.com.co/
