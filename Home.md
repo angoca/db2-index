@@ -285,6 +285,10 @@ This is an index where you can search for a DB2 term and get the related Interne
 * BLU
   * DB2 monitoring enhancements for BLU Acceleration. DeveloperWorks. Scott Walkty, Mike Springgay, Dan Behman, David Kalmuk. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitor-bluaccel/index.html
   * DB2 10.5 with Blu Acceleration (IMM14140USEN). DB2 with BLU Acceleration. Paul Zikopoulus, Sam Lightstone et al. Book. 2014 - http://www.ibmbluhub.com/wp-content/uploads/2014/06/IMM14140USEN_DB2_10.5_with_BLU_Acceleration_flash_book.pdf (INVALID)
+  * Automatic Workload Management with BLU Acceleration. IT Toolbox. Chris Eaton. 2014. Blog - https://it.toolbox.com/blogs/ceaton55/automatic-workload-management-with-blu-acceleration-031114
+  * How Data Skipping works in BLU Acceleration - Part 1. IT Toolbox. Chris Eaton. 2014. Blog - https://it.toolbox.com/blogs/ceaton55/how-data-skipping-works-in-blu-acceleration-part-1-031814
+  * How Data Skipping works in BLU Acceleration - Part 2. IT Toolbox. Chris Eaton. 2014. Blog - https://it.toolbox.com/blogs/ceaton55/how-data-skipping-works-in-blu-acceleration-part-2-041514
+  * How Data Skipping works in BLU Acceleration - Part 3. IT Toolbox. Chris Eaton. 2014. Blog - https://it.toolbox.com/blogs/ceaton55/how-data-skipping-works-in-blu-acceleration-part-3-042514
   * Leverage DB2 BLU Acceleration technology for tables involving unsupported data types. DeveloperWorks. Masahiro Ohkawa and Abhishek Chourasia. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507db2-blu-tables/index.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * Architecting and Deploying DB2 with BLU Acceleration. IBM RedBooks. Whei-Jen Chen, Brigitte Blaser et al. 2015. Book - http://www.redbooks.ibm.com/abstracts/sg248212.html
@@ -548,6 +552,9 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Data source
   * Reducing Contention: Changing Default Isolation Level for Websphere Commerce (WCS). db2commerce. Michael Krafick. 2017. Blog - http://db2commerce.com/2017/11/02/reducing-contention-changing-default-isolation-level-for-websphere-commerce-wcs/
 * Data skipping
+  * How Data Skipping works in BLU Acceleration - Part 1. IT Toolbox. Chris Eaton. 2014. Blog - https://it.toolbox.com/blogs/ceaton55/how-data-skipping-works-in-blu-acceleration-part-1-031814
+  * How Data Skipping works in BLU Acceleration - Part 2. IT Toolbox. Chris Eaton. 2014. Blog - https://it.toolbox.com/blogs/ceaton55/how-data-skipping-works-in-blu-acceleration-part-2-041514
+  * How Data Skipping works in BLU Acceleration - Part 3. IT Toolbox. Chris Eaton. 2014. Blog - https://it.toolbox.com/blogs/ceaton55/how-data-skipping-works-in-blu-acceleration-part-3-042514
   * Finding the access path for Columnar queries. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries/
 * Data Studio
   * UBUNTU 10.04 AND IBM DATA STUDIO 2.2. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/ubuntu-10-04-and-ibm-data-studio-2-2/
@@ -3639,6 +3646,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * WLB - Workload Balancing
   * Configure parameters for IBM Data Server Driver for JDBC and SQLJ against HADR for DB2 pureScale. DeveloperWorks. Sujan Ghosh and Vinayak Joshi. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1509hadr-purescale/index.html
 * WLM - Workload Manager
+  * Automatic Workload Management with BLU Acceleration. IT Toolbox. Chris Eaton. 2014. Blog - https://it.toolbox.com/blogs/ceaton55/automatic-workload-management-with-blu-acceleration-031114
   * Querying Tables for an Activity Event Monitor. db2commerce. Ember Brooks. 2014. Blog - http://db2commerce.com/2014/10/14/querying-tables-for-an-activity-event-monitor/
   * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
