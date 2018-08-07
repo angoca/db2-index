@@ -156,6 +156,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2/dashDB Security: Implicit Privileges Through Group Membership. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/11/db2-security-implicit-privileges.html
 * Auto Commit
   * db2 Auto commit option. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-auto-commit-option/
+  * (Db2 command line options - Remove autocommit) Opciones db2 command line – Eliminar autocommit. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/administracion/opciones-db2-command-line-eliminar-autocommit/
 * Auto resize (automatic resize)
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
 * Auto_Del_Rec_Obj
@@ -372,8 +373,10 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * DB2 pureScale Health Check. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11467
 * Changes
   * Runstats on data change percentage. Berst Blog. Bert van Langen. 2014. Blog - https://web.archive.org/web/20160308061053/https://blog.bertvanlangen.com/db2/runstats-data-change-percentage/
-* Char
+* Char (Data type)
   * Char Vs. Varchar in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/char-vs-varchar-in-db2.html
+* Char (Function)
+  * (Date format according to time zone) Formato de fechas según modo horario. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/trucos/formato-de-fechas-zona/
 * Characters
   * Escape characters in shell for DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/escape-characters-in-shell-for-db2.html
   * Identify invalid characters in a script. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/04/identify-invalid-characters-in-script.html
@@ -410,6 +413,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Please check the "CF" entry.
 * Code page
   * Full reverse: A REVERSE function that handles unicode. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/reverse
+* Column
+  * (Definition of autoincremental columns a identity) Definición de columnas autoincrementales “identity” en DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/administracion/definicion-de-columnas-autoincrementales-identity-en-db2/
 * Column Organized Tables
   * Restore Transport option – mix and match your schemas (Part 2). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas-part-2/
   * Finding the access path for Columnar queries. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries/
@@ -423,6 +428,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
   * Db2 Basics: Error Messages. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/03/13/db2-basics-error-messages/
   * Hello, Db2 World! – How to Connect to a Db2 (LUW) Database. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/21/hello-db2-world-how-to-connect-to-a-db2-luw-database/
+* Command options
+  * (Db2 command line options - Remove autocommit) Opciones db2 command line – Eliminar autocommit. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/administracion/opciones-db2-command-line-eliminar-autocommit/
 * Comment
   * Comments. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/comments/
   * How to modify current comments on table and columns in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com/2018/06/how-to-modify-current-comments-on-table.html
@@ -528,6 +535,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Please check the "Cursor stability" entry.
 * CUR_COMMIT
   * Parameter Wednesday: DB2 Registry DB2_EVALUNCOMMITTED. db2commerce. Ember Crooks. 2012. Blog - http://db2commerce.com/2012/06/27/parameter-wednesday-db2-registry-db2_evaluncommitted/
+* Current date
+  * (Date format according to time zone) Formato de fechas según modo horario. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/trucos/formato-de-fechas-zona/
 * Cursor
   * Cursors. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/cursor/
   * DECLARE CURSOR statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/declare-cursor/
@@ -604,10 +613,11 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * SQL1643C on Rollforward. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/14/sql1643c-on-rollforward/
 * Date
   * Make my day. 154 PM. Bernd Kuennen. 2008. Blog - http://154pm.blogspot.com/2008/02/make-my-day.html
-  * (Getting dat and time in Db2) Obtener fecha y hora en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/inicio_automatico_instancia_db2_db2iauto/
+  * (Getting date and time in Db2) Obtener fecha y hora en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/inicio_automatico_instancia_db2_db2iauto/
   * (Operations with dates in Db2) Operaciones con fechas en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/trucos/operaciones-con-fechas-db2/
   * Migrating from TSQL: The DATEADD function. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/dateadd
   * Fractions of time: A PostgreSQL compatible DATE_PART function. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/date_part
+  * (Date format according to time zone) Formato de fechas según modo horario. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/trucos/formato-de-fechas-zona/
   * How to create a Date Series in DB2. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/12/how-to-create-a-date-series-in-db2-.html
   * Dealing with dates and formats. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/dealing-with-dates-and-formats.html
 * DB2
@@ -863,6 +873,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Using the IBM NoSQL Wire Listener for DB2. DeveolperWorks. Ioannis Papapanagiotou, Marion Behnen, John Paul Parkin, and Jyh-Chen Fang. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson4/index.html
 * db2nosql.sh
   * Using the IBM NoSQL Wire Listener for DB2. DeveolperWorks. Ioannis Papapanagiotou, Marion Behnen, John Paul Parkin, and Jyh-Chen Fang. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson4/index.html
+* DB2OPTIONS
+  * (Db2 command line options - Remove autocommit) Opciones db2 command line – Eliminar autocommit. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/administracion/opciones-db2-command-line-eliminar-autocommit/
 * db2pd
   * DB2 Lock. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-lock/
   * New options for analyzing lock timeouts in DB2 9.5. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/new-options-for-analyzing-lock-timeouts-in-db2-9-5/
@@ -995,6 +1007,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * db2top: Buffer pool hit ratio (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-buffer-pool-hit-ratio-video.html
   * db2top: Memory screen and db2mtrk (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-and-db2mtrk-video.html
   * (Seeking the tables with more accesses in Db2) Búsqueda de la tablas con más accesos en DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/busqueda-de-la-tablas-con-mas-accesos-en-db2/
+  * (Collect and replay with db2top) Graba y haz replay con DB2TOP. DB2 Util (Spanish). Oscar Paredes. 2013. Blog - http://www.db2util.es/administracion/graba-y-haz-replay-con-db2top/
   * find the complete sql of a really long sql and explain it. DB2 Knowledge Base Raf. Raf Mathijs. 2015. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2015/04/find-complete-sql-of-really-long-sql.html
   * The Role of the DB2 DBA in Load/Performance Testing. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/02/09/the-role-of-the-db2-dba-in-loadperformance-testing/
   * Comparing dsmtop and db2top. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/03/07/comparing-dsmtop-and-db2top/
@@ -1165,6 +1178,7 @@ http://blog.4loeser.net/2017/10/use-db2-as-cloud-sql-database-with.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * db2top Dynamic SQL Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-dynamic-sql-screen.html
   * db2top Statements Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-statements-screen.html
+  * (Top 10 SQL by number of executions) DB2 Top 10 SQL por número de ejecuciones. DB2 Util (Spanish). Oscar Paredes. 2013. Blog - http://www.db2util.es/administracion/db2-top-10-sql-por-numero-de-ejecuciones/
   * Static SQL vs Dynamic SQL in Stored Procedures. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
 * Dual
@@ -1541,6 +1555,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * DB2 Export and Load Using Compression & Named Pipes. dbawesome. Elder Lira. 2013. Blog - http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.html
   * DB2 Tips n Tricks Part 37 - How To Load Compressed Files directly without Extracting to Harddisk. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=FT3UBxpeR9k
   * Import data from a table with generated id in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/import-data-from-table-with-generated.html
+* Auto incremental column
+  * (Definition of autoincremental columns a identity) Definición de columnas autoincrementales “identity” en DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/administracion/definicion-de-columnas-autoincrementales-identity-en-db2/
 * Incremental backup
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * How to take data Online Backup in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-take-data-online-backup-in-db2.html
@@ -1995,6 +2011,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
     * Introduction to DB2 JSON. DeveolperWorks. Bobbie Cochrane and Kathy McKnight. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson1/index.html
 * Monitor Switches
   * (Average time of read/write access to disc in Db2) Tiempos medios de acceso lectura/escritura a disco a nivel de DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/tuning/tiempos-medios-de-acceso-lecturaescritura-a-disco-a-nivel-de-db2/
+  * (Snapshot for Db2 tunning) Snapshots para tuning DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/tuning/snapshots-para-tuning-db2/
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * Monitoring
   * Monitoring DB2 with Nagios. Blog dot lusis. John E. Vicent. 2006. Article - http://dev.lusis.org/nagios/usable/monitoring_db2_with_nagios.html
@@ -2547,6 +2564,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Repeatable read - RR
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
   * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html
+* Replay (db2top)
+  * (Collect and replay with db2top) Graba y haz replay con DB2TOP. DB2 Util (Spanish). Oscar Paredes. 2013. Blog - http://www.db2util.es/administracion/graba-y-haz-replay-con-db2top/
 * Replay only window
   * Format and display Db2 log file information using db2fmtlog. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/format-and-display-db2-log-file.html
   * Monitoring the replay-only-window on a Db2 HADR standby database. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/monitoring-replay-only-window-on-db2_28.html
@@ -2755,6 +2774,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * A Cache of Identities and a Sequence of Events. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/01/a-cache-of-identities-and-sequence-of.html
 * Serie
   * How to create a Date Series in DB2. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/12/how-to-create-a-date-series-in-db2-.html
+* Server
+  * (Obtaining current server) Obtener servidor actual utilizando sysdummy1. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/administracion/obtener-servidor-actual-desde-sysdummy1/
 * Server (Federation)
   * Mom, I joined the cloud! (or: Use old stuff with new stuff - DB2 federation). Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/03/mom-i-joined-cloud-or-use-old-stuff.html
 * Services - /etc/services
@@ -2823,6 +2844,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * SnapDB_Memory_Pool
   * Please check the SysIBMAdm.SnapDB_Memory_Pool entry.
 * Snapshots
+  * (Snapshot for Db2 tunning) Snapshots para tuning DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/tuning/snapshots-para-tuning-db2/
   * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Scott Walkty. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
   * DB2 Tips n Tricks Part 38 - Limitation on Monitor Metrics by Dynamic SQL Snapshot. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=MO-UlXkiRoo
   * Solve IBM BPM performance issues with IBM DB2 examples. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz2-trs/1509_volz2.html
@@ -3185,6 +3207,9 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
     * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html
   * SysIBMAdm.SpanTbsp
     * (Average time of read/write access to disc in Db2) Tiempos medios de acceso lectura/escritura a disco a nivel de DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/tuning/tiempos-medios-de-acceso-lecturaescritura-a-disco-a-nivel-de-db2/
+  * SysIBMAdm.Top_Dynamic_Sql
+    * (Top 10 SQL by number of executions) DB2 Top 10 SQL por número de ejecuciones. DB2 Util (Spanish). Oscar Paredes. 2013. Blog - http://www.db2util.es/administracion/db2-top-10-sql-por-numero-de-ejecuciones/
+    * (Top 10 SQL by time of executions) DB2 Top 10 SQL por Tiempo de Ejecución. DB2 Util (Spanish). Oscar Paredes. 2013. Blog - http://www.db2util.es/administracion/db2-top-10-sql-por-tiempo-de-ejecucion/
   * SysIBMAdm.Utl_Dir
     * Writing to a file from a Stored Procedure or Annonymous Block (sql pl). Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/writing-in-file-from-stored-procedure.html
   * SysIBMAdm.Utl_File
@@ -3385,7 +3410,7 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * db2top Agent Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-2.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
 * Time
-  * (Getting dat and time in Db2) Obtener fecha y hora en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/inicio_automatico_instancia_db2_db2iauto/
+  * (Getting date and time in Db2) Obtener fecha y hora en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/inicio_automatico_instancia_db2_db2iauto/
   * Fractions of time: A PostgreSQL compatible DATE_PART function. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/date_part
   * Troubleshooting SQL problems in your database. DeveloperWorks. Raghavendra Chiyodu. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-troublshooting-sql-database/index.html
 * Timeron
