@@ -99,3 +99,4 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * http://dbmsguy.com/
 * https://it.toolbox.com/users/content/scotdb
 * http://db2performance.blogspot.com/
+* https://www.youtube.com/user/channeldb2/videos
