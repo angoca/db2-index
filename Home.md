@@ -415,6 +415,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Full reverse: A REVERSE function that handles unicode. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/reverse
 * Column
   * (Definition of autoincremental columns a identity) Definición de columnas autoincrementales “identity” en DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/administracion/definicion-de-columnas-autoincrementales-identity-en-db2/
+  * How to get column names from DB2 table. With Data. Shiji Pan. 2013. Blog - https://www.withdata.com/blog/db2/how-to-get-column-names-from-db2-table.html
 * Column Organized Tables
   * Restore Transport option – mix and match your schemas (Part 2). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas-part-2/
   * Finding the access path for Columnar queries. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries/
@@ -425,6 +426,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Columnar Table Queue
   * Finding the access path for Columnar queries. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries/
 * Command line
+  * How to execute sql file via command line for DB2. With Data. Shiji Pan. 2013. Blog - https://www.withdata.com/blog/db2/how-to-execute-sql-file-via-command-line-for-db2.html
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
   * Db2 Basics: Error Messages. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/03/13/db2-basics-error-messages/
   * Hello, Db2 World! – How to Connect to a Db2 (LUW) Database. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/21/hello-db2-world-how-to-connect-to-a-db2-luw-database/
@@ -1319,6 +1321,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Cursors. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/cursor/
   * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html
   * (Top rows in Db2) TOP registros en DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/trucos/top-registros-en-db2/
+  * The DB2 equivalent for the MySQL Limit. With Data. Shiji Pan. 2013. Blog - https://www.withdata.com/blog/db2/the-db2-equivalent-for-the-mysql-limit.html
 * File
   * Writing to a file from a Stored Procedure or Annonymous Block (sql pl). Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/writing-in-file-from-stored-procedure.html
 * File closed
@@ -1614,6 +1617,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Insert
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * Returning inserted rows (and updated and deleted). DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/select_from_insert
+  * Replace (Update/Insert) a row into DB2 table – Merge into. With Data. Shiji Pan. 2013. Blog - https://www.withdata.com/blog/db2/replace-update-or-insert-a-row-into-db2-table-merge-into.html
   * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html
   * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/line-optimization-v11-1/
   * Dealing with dates and formats. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/dealing-with-dates-and-formats.html
@@ -1950,6 +1954,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * 3 signs of low Linux memory. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/03/3-signs-of-low-linux-memory.html
 * Merge
   * SQL on Fire! Part 2. WAIUG. Serge Rielau. 2006. Presentation - http://www.waiug.org/present/Forum2006/Presentations/SQLonFire_2_Serge_Rielau.ppt
+  * Replace (Update/Insert) a row into DB2 table – Merge into. With Data. Shiji Pan. 2013. Blog - https://www.withdata.com/blog/db2/replace-update-or-insert-a-row-into-db2-table-merge-into.html
 * Merge Scan Join - MSJOIN
   * DB2 LUW Execution Plan Operations. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/explain-plan/db2/operations
 * Metrics
@@ -2358,6 +2363,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Pricing
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
 * Primary key
+  * How to get primary key of a table from DB2. With Data. Shiji Pan. 2013. Blog - https://www.withdata.com/blog/db2/how-to-get-primary-key-of-a-table-from-db2.html
   * Easy to identify: Does the table have a primary key?. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/10/easy-to-identify-does-table-have.html
 * Primary log
   * Please check the Log entry.
@@ -2447,6 +2453,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Spatial Analytics with Db2 Warehouse. DeveloperWorks. Deepak Rangarao. 2018. Article - https://www.ibm.com/developerworks/library/bd-spatial-analytics-db2warehouse-mapbox/index.html
 * RAID
   * Integration strategies. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part3-trs/index.html
+* Random
+  * How to select N random records from a DB2 table. With Data. Shiji Pan. 2017. Blog - https://www.withdata.com/blog/tips/how-to-select-n-random-records-from-a-db2-table.html
 * Range Clustered Tables
   * DB2 10.1 LUW Certification 611 notes 1 : Physical Design. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/db2-10-1-luw-exam-611-notes-physical-design/
 * Range Partitioned Tables
@@ -2705,6 +2713,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Backup and restore SQL schemas for DB2 Universal Database. Serge Rielau. 2005. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0602rielau/
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
 * Scripts
+  * How to execute sql file via command line for DB2. With Data. Shiji Pan. 2013. Blog - https://www.withdata.com/blog/db2/how-to-execute-sql-file-via-command-line-for-db2.html
   * Runstats on data change percentage. Berst Blog. Bert van Langen. 2014. Blog - https://web.archive.org/web/20160308061053/https://blog.bertvanlangen.com/db2/runstats-data-change-percentage/
   * Db2 Persistent Data Collection Scripts
     * Reduce Problem Resolution Times with Persistent Db2 Diagnostic Data Collection. ThinkingDB2! David Sciaraffa. 2017 - http://thinkingdb2.blogspot.com.co/2017/07/reduce-problem-resolution-times-with.html
@@ -3147,6 +3156,9 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
     * Partitions held by a table. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30325
   * SysCat.Indexes
     * Dropping Indexes to Improve Db2 Performance. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/dropping-indexes-improve-db2-performance/
+  * SysCat.Columns
+    * How to get column names from DB2 table. With Data. Shiji Pan. 2013. Blog - https://www.withdata.com/blog/db2/how-to-get-column-names-from-db2-table.html
+    * How to get primary key of a table from DB2. With Data. Shiji Pan. 2013. Blog - https://www.withdata.com/blog/db2/how-to-get-primary-key-of-a-table-from-db2.html
 * SysDefaultAdmWorkload
   * Querying Tables for an Activity Event Monitor. db2commerce. Ember Brooks. 2014. Blog - http://db2commerce.com/2014/10/14/querying-tables-for-an-activity-event-monitor/
 * SysDummy
@@ -3601,6 +3613,7 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
 * Update
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * Returning inserted rows (and updated and deleted). DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/select_from_insert
+  * Replace (Update/Insert) a row into DB2 table – Merge into. With Data. Shiji Pan. 2013. Blog - https://www.withdata.com/blog/db2/replace-update-or-insert-a-row-into-db2-table-merge-into.html
   * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html
   * Dealing with dates and formats. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/dealing-with-dates-and-formats.html
   * Using UNICODE characters, no matter the encoding of the script in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/using-unicode-characters-no-matter.html
