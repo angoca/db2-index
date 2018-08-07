@@ -30,8 +30,8 @@ In this section, the main DB2 sources are described:
   * Articles since 201301 to 201801
 * DeveloperWorks (Articles). http://www.ibm.com/developerworks/views/data/libraryview.jsp?sort_by=Date&search_by=db2
   * Articles since 201601 to 201702
-* Michael Spoden - SQL PL Guide (Programming reference 🔡 ). http://www.sqlpl-guide.com/
-  * All sections (some articles were excluded because they do not contain any information)
+* Shiji Pan - With Data (Blog related to a data software). https://www.withdata.com/blog/
+  * All articles related to Db2 (Between 2013 to 201805)
 
 These blogs are not longer updated 😞 
 
@@ -44,8 +44,8 @@ These blogs are not longer updated 😞
 * Philip Carrington - Dangerous DBA (Blog about technical stuff). http://www.dangerousdba.com/
   * All articles related to Db2 (Between 201211 to 201306)
   * Older article should be indexed.
-* Shiji Pan - With Data (Blog related to a data software). https://www.withdata.com/blog/
-  * All articles related to Db2 (Between 2013 to 201805)
+* Michael Spoden - SQL PL Guide (Programming reference 🔡 ). http://www.sqlpl-guide.com/
+  * All sections (some articles were excluded because they do not contain any information)
 * Ian Bjorhovde - Create Database podcast (Podcast about DB2 persons 🔉 ). http://createdatabase.fm
   * All podcast (Between 2016 and 2017 - Complete).
 * Fred Sobotka and Ian Bjorhovde - The Whole Package Cache (Podcasts about DB2 world 🎤 ). http://www.pkgcache.com/
