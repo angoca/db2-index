@@ -44,6 +44,8 @@ These blogs are not longer updated 😞
 * Philip Carrington - Dangerous DBA (Blog about technical stuff). http://www.dangerousdba.com/
   * All articles related to Db2 (Between 201211 to 201306)
   * Older article should be indexed.
+* Shiji Pan - With Data (Blog related to a data software). https://www.withdata.com/blog/
+  * All articles related to Db2 (Between 2013 to 201805)
 * Ian Bjorhovde - Create Database podcast (Podcast about DB2 persons 🔉 ). http://createdatabase.fm
   * All podcast (Between 2016 and 2017 - Complete).
 * Fred Sobotka and Ian Bjorhovde - The Whole Package Cache (Podcasts about DB2 world 🎤 ). http://www.pkgcache.com/
@@ -75,7 +77,6 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * https://community.toadworld.com/platforms/ibmdb2/w/wiki
 * https://community.toadworld.com/platforms/ibmdb2/b/weblog
 * http://db2dean.com/
-* https://www.withdata.com/blog/db2
 * https://db2forum.wordpress.com/
 * http://db2forum.blogspot.com.co
 * https://www.brighttalk.com/channel/7637/idug-db2-tech-channel
