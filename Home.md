@@ -348,6 +348,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Catalog
   * db2top Memory Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-part-1.html
   * db2top Memory Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-part-2.html
+  * (Basic management of the Db2 catalog) Gestión básica Catálogo DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/gestion-basica-catalogo-db2/
   * How to connect remote Database in DB2. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/16/how-to-connect-remote-database-in-db2/
   * Db2 Catalog - A Guided Tour. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2017/08/db2-catalog-guided-tour.html
   * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
@@ -800,6 +801,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * How to Identify the version and service level of DB2 product?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/05/how-to-identify-version-and-service.html
   * Establishing a DB2 JDBC Connection. db2commerce. Michael Krafick. 2017. Blog - http://db2commerce.com/2017/10/26/establishing-a-db2-jdbc-connection/
 * db2level
+  * (Identify the version and level of fixpack of Db2) Conocer la versión y el nivel de parcheo de DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/conocer-la-version-y-el-nivel-de-parcheo-de-db2/
   * How to Identify the version and service level of DB2 product?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/05/how-to-identify-version-and-service.html
   * Db2: release number, service level and build level. Ideas for Db2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com/2018/06/db2-release-number-service-level-and.html
 * db2ln
@@ -1052,6 +1054,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * DB2 Performance Myth Buster 2 - How Increasing Bufferpool Size will not increase LOAD Performance. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=spTrT6-U5Qk
 * Direct I/O
   * Faster rollback processing of very large transactions in Db2 v11.1.3.3. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/faster-rollback-processing-of-very.html
+* Directory
+  * (Basic management of the Db2 catalog) Gestión básica Catálogo DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/gestion-basica-catalogo-db2/
 * Directories
   * Default directory for DB creations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/default-directory-for-db-creations.html
 * Dirty clean
@@ -1212,6 +1216,7 @@ http://blog.4loeser.net/2017/10/use-db2-as-cloud-sql-database-with.html
 * Explain_From_Activity
   * Please checkt the SysProc.Explain_From_Activity entry.
 * Export
+  * (Simple data export of a table in Db2) Export simple datos de una tabla en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/export-simple-datos-de-una-tabla-en-db2/
   * DB2 Export and Load Using Compression & Named Pipes. dbawesome. Elder Lira. 2013. Blog -
 http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.html
 * Express-C
@@ -3159,6 +3164,8 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
     * Excluding a Table from Db2’s Automatic Runstats. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/09/05/excluding-a-table-from-db2s-automatic-runstats/
   * SysProc.Auth_List_Groups_For_AuthId
     * DB2/dashDB Security: Implicit Privileges Through Group Membership. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/11/db2-security-implicit-privileges.html
+  * SysProc. Env_Get_Hist_Info
+    * (Identify the version and level of fixpack of Db2) Conocer la versión y el nivel de parcheo de DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/conocer-la-version-y-el-nivel-de-parcheo-de-db2/
   * SysProc.EvMon_Upgrade_Tables
     * DB2 Upgrade Detail: Upgrading Event Monitor Tables. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/12/20/db2-upgrade-detail-upgrading-event-monitor-tables/
   * SysProc.Explain_From_Activity
@@ -3477,6 +3484,8 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
 * UDT - User Defined Distinct Type
   * Distinctly weak type rules with a constrained twist. DeveloperWorks - SQL Tips for DB2 LUW. Rick Swagerman. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/weak_type?lang=en
+* Uncatalog
+  * (Basic management of the Db2 catalog) Gestión básica Catálogo DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/gestion-basica-catalogo-db2/
 * Uncommitted Read - ur
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * Uncommited rows
@@ -3543,6 +3552,10 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * Understanding and Tuning DB2/LUW Backup and Restore Performance. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/understanding-and-tuning-db2luw-backup.html
   * DB2 11.1 BLU with DPF Monitoring scripts. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11484
+* Util_Impact_Limit
+  * (Session priority in Db2) Prioridad de sesiones en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/prioridad-de-sesiones-en-db2/
+* Util_Impact_Priority
+  * (Session priority in Db2) Prioridad de sesiones en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/prioridad-de-sesiones-en-db2/
 * Utility heap
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
   * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/07/the-self-tuning-memory-manager-stmm/
@@ -3580,6 +3593,7 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
 * Vendor Certification
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
 * Version
+  * (Identify the version and level of fixpack of Db2) Conocer la versión y el nivel de parcheo de DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/conocer-la-version-y-el-nivel-de-parcheo-de-db2/
   * How to Identify the version and service level of DB2 product?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/05/how-to-identify-version-and-service.html
   * Db2: release number, service level and build level. Ideas for Db2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com/2018/06/db2-release-number-service-level-and.html
   * How to know if Java clients in Db2 are using an updated driver. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/how-to-know-if-java-clients-in-db2-are.html
