@@ -36,24 +36,30 @@ In this section, the main DB2 sources are described:
 These blogs are not longer updated 😞 
 
 * Chris Eaton - An Expert's Guide to DB2 Technology (Blog from an IBM expert 😢 ). https://it.toolbox.com/users/content/ChrisEaton-000002
+  * Articles since 2014 to 2015.
+  * Older article should be indexed.
 * Serge Rielau (瑞赛奇) and Rick Swagerman - SQL Tips for DB2 LUW (Blog from DB2 architect 🙈 ). https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/
   * Articles since 201205 to 201403
-* Nagendra - DB2 queries (Blog about technical stuff). http://learndb.blogspot.com.co/
-  * All articles since 2009 to 201708
-* Keith McDonald - The K guy (Blog about db2top and some SQL PL). http://www.thekguy.com
-  * All articles since 2009 to 201708
-* Raf Mathijs - DB2 Knowledge Base Raf (Blog about technical stuff). http://db2-luw-knowledgebase.blogspot.com.co/
-  * All articles since 201301 to 201512
+  * Older article should be indexed.
 * Philip Carrington - Dangerous DBA (Blog about technical stuff). http://www.dangerousdba.com/
-  * Articles since 201211 to 201712
-* TeknoMagus. https://technomagus.wordpress.com
-  * Articles related to Db2 since 2010 to 2013.
+  * All articles related to Db2 (Between 201211 to 201306)
+  * Older article should be indexed.
 * Ian Bjorhovde - Create Database podcast (Podcast about DB2 persons 🔉 ). http://createdatabase.fm
-  * Articles related to Db2 since 2016 to 2017.
+  * All podcast (Between 2016 and 2017 - Complete).
 * Fred Sobotka and Ian Bjorhovde - The Whole Package Cache (Podcasts about DB2 world 🎤 ). http://www.pkgcache.com/
-  * Podcast since 201607 to 201707
+  * All podcast (Between 2013 and 2017 - Complete).
+* Raf Mathijs - DB2 Knowledge Base Raf (Blog about technical stuff). http://db2-luw-knowledgebase.blogspot.com.co/
+  * All articles (Between 201301 and 201512 - Complete).
+* Oscar Paredes - DB2 Util. http://www.db2util.es/
+  * All articles (Between 2010 and 2014 - Complete).
+* TeknoMagus. https://technomagus.wordpress.com
+  * All articles related to Db2 (Between 2010 to 2013 - Complete).
 * Joachims Tuchel - Joachims Small World. https://joachimtuchel.wordpress.com
-  * Articles related to Db2 since 2010 to 2013.
+  * All articles related to Db2 (Between 2010 to 2013 - Complete).
+* Keith McDonald - The K guy (Blog about db2top and some SQL PL). http://www.thekguy.com
+  * All articles about Db2 (Between 2009 and 2010 - Complete).
+* Nagendra - DB2 queries (Blog about technical stuff). http://learndb.blogspot.com.co/
+  * All articles (2009 - Complete).
 
 # ToDo
 
@@ -66,7 +72,6 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * https://www.calebcurry.com/blogs/db2/intro-to-db2
 * DB2 for Linux, UNIX, and Windows Best Practices - https://ibm.biz/Bdx2ew
 * http://www.dbatodba.com/db2
-* https://it.toolbox.com/user/about/ChrisEaton-000002
 * https://community.toadworld.com/platforms/ibmdb2/w/wiki
 * https://community.toadworld.com/platforms/ibmdb2/b/weblog
 * http://db2dean.com/
@@ -74,7 +79,6 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * https://db2forum.wordpress.com/
 * http://db2forum.blogspot.com.co
 * https://www.brighttalk.com/channel/7637/idug-db2-tech-channel
-* http://www.db2util.es/
 * IDUG Content Blog (Blog). http://www.idug.org/p/bl/bl/blogid=278
 * Thoughts from Support (Blog about technical stuff). https://www.ibm.com/developerworks/community/blogs/IMSupport
 * Dale McInnis - DB2 for Linux, UNIX and Windows Availability Topics (Blog about technical stuff 🍁 ). https://www.ibm.com/developerworks/community/blogs/DB2LUWAvailability
