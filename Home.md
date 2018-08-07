@@ -63,6 +63,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * db2top Locks Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-locks-screen.html
 * Agent stolen
   * db2top Sessions Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-2.html
+  * (db2top utility) Utilidad DB2TOP. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/utilidades/utilidad-db2top/
 * Aggregate
   * SQL on Fire! Part 1. WAIUG. Serge Rielau. 2006. Presentation - http://www.waiug.org/present/Forum2006/Presentations/SQLonFire_1_Serge_Rielau.ppt
 * Aggregate functions
@@ -2774,10 +2775,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/29/db2-temporary-table-spaces/
 * Snap_Get_Tab_Reorg
   * Please check the SysIBMAdm.Snap_Get_Tab_Reorg entry.
-  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
 * SnapDB_Memory_Pool
-  * Please check the SysIBMAdm.SnapDB_Memory_Pool entry
-  * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html
+  * Please check the SysIBMAdm.SnapDB_Memory_Pool entry.
 * Snapshots
   * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Scott Walkty. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
   * DB2 Tips n Tricks Part 38 - Limitation on Monitor Metrics by Dynamic SQL Snapshot. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=MO-UlXkiRoo
@@ -3119,6 +3118,8 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
     * Understanding Return Codes in the DB2 Diagnostic Log. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/01/26/understanding-return-codes-in-the-db2-diagnostic-log/
   * SysIBMAdm.Privileges
     * Db2 Basics: Investigating Permissions in an Existing Database. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
+  * SysIBMAdm.Snap_Get_Tab
+    * (Space occupancy of Db2 tables) Ocupación espacio de tablas DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/ocupacion-espacio-de-tablas-db2/
   * SysIBMAdm.Snap_Get_Tab_Reorg
     * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
   * SysIBMAdm.SnapAppl
