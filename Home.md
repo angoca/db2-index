@@ -401,6 +401,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
   * Hello, Db2 World! – How to Connect to a Db2 (LUW) Database. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/21/hello-db2-world-how-to-connect-to-a-db2-luw-database/
 * CLPPlus
+  * (Compatibility of Db2 with Oracle: DB2 9.7 CLP PLUS (1/2)) Compatibilidad de DB2 con ORACLE: DB2 9.7 CLP PLUS (1/2). DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/compatibilidad-de-db2-con-oracle-db2-9-7-clp-plus-12/
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
 * Clustering dimensions
   * Please check the MDC entry.
@@ -603,6 +604,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Date
   * Make my day. 154 PM. Bernd Kuennen. 2008. Blog - http://154pm.blogspot.com/2008/02/make-my-day.html
   * (Getting dat and time in Db2) Obtener fecha y hora en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/inicio_automatico_instancia_db2_db2iauto/
+  * (Operations with dates in Db2) Operaciones con fechas en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/trucos/operaciones-con-fechas-db2/
   * Migrating from TSQL: The DATEADD function. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/dateadd
   * Fractions of time: A PostgreSQL compatible DATE_PART function. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/date_part
   * How to create a Date Series in DB2. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/12/how-to-create-a-date-series-in-db2-.html
@@ -630,6 +632,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * SQL6030N START or STOP DATABASE MANAGER failed. Reason code “38”. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/488
 * DB2_CAPTURE_LOCKTIMEOUT
   * New options for analyzing lock timeouts in DB2 9.5. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/new-options-for-analyzing-lock-timeouts-in-db2-9-5/
+* DB2_COMPATIBILITY_VECTOR
+  * (Compatibility of Db2 with Oracle: DB2 9.7 CLP PLUS (1/2)) Compatibilidad de DB2 con ORACLE: DB2 9.7 CLP PLUS (1/2). DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/compatibilidad-de-db2-con-oracle-db2-9-7-clp-plus-12/
 * DB2_ENABLE_HADR_LOG_PAGE_INTEGRITY_CHECK
   * Improve Db2 HADR Resilience of Network Transmission Corruptions. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/improve-db2-hadr-resilience-of-network.html
 * DB2_EVALUNCOMMITTED
@@ -985,6 +989,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * db2top: Regular expressions (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-regular-expressions-video.html
   * db2top: Buffer pool hit ratio (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-buffer-pool-hit-ratio-video.html
   * db2top: Memory screen and db2mtrk (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-and-db2mtrk-video.html
+  * (Seeking the tables with more accesses in Db2) Búsqueda de la tablas con más accesos en DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/busqueda-de-la-tablas-con-mas-accesos-en-db2/
   * find the complete sql of a really long sql and explain it. DB2 Knowledge Base Raf. Raf Mathijs. 2015. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2015/04/find-complete-sql-of-really-long-sql.html
   * The Role of the DB2 DBA in Load/Performance Testing. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/02/09/the-role-of-the-db2-dba-in-loadperformance-testing/
   * Comparing dsmtop and db2top. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/03/07/comparing-dsmtop-and-db2top/
@@ -1157,6 +1162,10 @@ http://blog.4loeser.net/2017/10/use-db2-as-cloud-sql-database-with.html
   * db2top Statements Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-statements-screen.html
   * Static SQL vs Dynamic SQL in Stored Procedures. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+* Dual
+  * (DUAL table in Db2: sysibm.sysdummy1) Tabla DUAL en DB2: sysibm.sysdummy1. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/trucos/tabla-dual-en-db2-sysibm-sysdummy1/
+* Dummy
+  * (DUAL table in Db2: sysibm.sysdummy1) Tabla DUAL en DB2: sysibm.sysdummy1. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/trucos/tabla-dual-en-db2-sysibm-sysdummy1/
 
 # E
 
@@ -1544,6 +1553,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
   * db2top Bufferpools Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-1.html
   * db2top Dynamic SQL Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-dynamic-sql-screen.html
+  * (Detection of no used indexes, tables and packages in Db2 9.7) Detección de índices, tablas y packages no usados en DB2 9.7. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/deteccion-de-indices-tablas-packages-no-usados-en-db2-9-7/
   * Tips on Using db2advis with Multiple Queries db2commerce. Ember Brooks. 2013. Blog - http://db2commerce.com/2013/06/25/tips-on-using-db2advis-with-multiple-queries/
   * Writing applications with the Java API. DeveolperWorks. Marion Behnen, Henry Chiu, Jyh-Chen Fang, Manish Sehgal, and Tony Sun. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1307nosqlforjson3/index.html
   * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487
@@ -2141,6 +2151,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
   * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/line-optimization-v11-1/
+* Oracle terminology
+  * (Oracle - Db2 terms translation) Traducción terminología Oracle – DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/curiosidades/traduccion-terminologia-oracle-db2/
 * Oracle compatibility
   * 98% Compatibility with Oracle Apps - "Proof". DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/ninetyeightpercent
   * Full reverse: A REVERSE function that handles unicode. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/reverse
@@ -3113,6 +3125,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
     * How to test a count function in a big big table. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog -  
 https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.html
     * COUNT function is slower than COUNT_BIG. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/count-function-is-slower-than-countbig.html
+  * SysIBM.SysDummy1
+    * (DUAL table in Db2: sysibm.sysdummy1) Tabla DUAL en DB2: sysibm.sysdummy1. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/trucos/tabla-dual-en-db2-sysibm-sysdummy1/
 * SysIBMAdm
   * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
 * SysIBMAdm schema.
@@ -3420,6 +3434,7 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * Restore Transport option – mix and match your schemas (Part 2). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas-part-2/
 * Trigger
   * Example: Before Trigger who’s checking a new value. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-trigger-with-signal/
+  * (Trigger code example of Db2) Código ejemplo trigger en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/ejemplos/codigo-ejemplo-trigger-en-db2/
   * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
 * Troubleshooting
   * Troubleshooting tools for Performance Tuning: Analyzing db2diag log files using db2diag tool. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/05/troubleshooting-tools-for-performance-tuning-db2diag.html
@@ -3553,6 +3568,7 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
 * Upsert
   * SQL on Fire! Part 2. WAIUG. Serge Rielau. 2006. Presentation - http://www.waiug.org/present/Forum2006/Presentations/SQLonFire_2_Serge_Rielau.ppt
 * Uptime
+  * (Uptime in Db2) Uptime / Último reinicio DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/uptime-ultimo-reinicio-db2/
   * Database Up Time. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30323
 * Usage list
   * Usage Lists – Big Brother is watching, but only where he is looking. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/usage-lists-big-brother-is-watching-but-only-where-he-is-looking/
