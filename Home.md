@@ -142,6 +142,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Authentication
   * DB2 Database Security Model. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/db2-database-security-model.html
   * Authentication & Authorization process in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/authentication-and-authorization-process-in-db2.html
+  * DB2 EXTERNAL COMM ERROR ZRC=0X81360012=-2127167470=SQLZ_RC_CMERR, SQLT_SQLJC. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/db2-external-comm-error-zrc0x81360012-2127167470sqlz_rc_cmerr-sqlt_sqljc/
   * IBM Db2 Tech Talk: Db2 Security and Compliance Support. Db2 Tech Talk. Roger Sanders. 2018. Webminar - https://www.ibm.com/events/Z56SMPES
 * Authorities
   * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html
@@ -445,6 +446,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Funny SQL I Have Seen Lately. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/05/funny-sql-i-have-seen-lately/
   * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/29/db2-temporary-table-spaces/
   * Db2: CTE and CONNECT BY - two kinds of recursion. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2018/04/db2-cte-and-connect-by-two-kinds-of.html
+* Communication
+  * DB2 EXTERNAL COMM ERROR ZRC=0X81360012=-2127167470=SQLZ_RC_CMERR, SQLT_SQLJC. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/db2-external-comm-error-zrc0x81360012-2127167470sqlz_rc_cmerr-sqlt_sqljc/
 * Compression
   * db2top Tables Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-1.html
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
@@ -1484,6 +1487,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Client Connections in a TSA/HADR cluster- Part 3. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-3/
   * Client Connections in a TSA/HADR cluster- Part 4. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-4/
   * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/01/18/high-availability-options-for-db2-luw/
+  * HADR ROS (READ ON STANDBY) MAJOR LIMITATION. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/hadr-ros-read-only-standby-limitation/
   * RSCT APAR Affecting TSAMP. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/03/29/rsct-apar-affecting-tsamp/
   * Monitoring the replay-only-window on a Db2 HADR standby database. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/monitoring-replay-only-window-on-db2_28.html
   * How To Perform DB2 Loads in HADR Environment ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/01/24/perform-loads-in-db2-hadr-environment/
@@ -2620,6 +2624,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * RETURN statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/return/
 * Return code
   * Understanding Return Codes in the DB2 Diagnostic Log. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/01/26/understanding-return-codes-in-the-db2-diagnostic-log/
+* Revalidate
+  * DB2 ADMIN_REVALIDATE_DB_OBJECTS PROCEDURE – REVALIDATE INVALID DATABASE OBJECTS. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/db2-admin_revalidate_db_objects-procedure-revalidate-invalid-database-objects/
 * REXX
   * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
 * RFE - Request For Enhancement
@@ -2652,6 +2658,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Checking archive log files with the db2cklog tool. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/03/Checking-archive-log-files-with-the-db2cklog-tool.html
 * Root installation
   * db2rfe for non-root installations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/01/db2rfe-for-non-root-instalations.html
+* ROS - Read On Stand by
+  * HADR ROS (READ ON STANDBY) MAJOR LIMITATION. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/hadr-ros-read-only-standby-limitation/
 * Routines
   * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
 * Row
@@ -2694,6 +2702,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Example: Runstats. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-runstats/ 
   * DB2 Administrative SQL Cookbook: When Were Runstats Done (Beyond STATS_TIME)?. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/03/16/db2-administrative-sql-cookbook-when-were-runstats-done-beyond-stats_time/
   * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/line-optimization-v11-1/
+  * DB2 SQL2314W SOME STATISTICS ARE IN AN INCONSISTENT STATE. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/db2-sql2314w-some-statistics-are-in-an-inconsistent-state/
   * Runstats Best Practices for Db2 on LUW. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/runstats-best-practices-db2-luw/
 
 # S
@@ -3057,6 +3066,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Perform LOB inlining in an HADR environment for a standby database. DeveloperWorks. Somraj Chakrabarty and Suvradeep Sensarma. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1508lob-hadr-standby/index.html
   * Improve Db2 HADR Resilience of Network Transmission Corruptions. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/improve-db2-hadr-resilience-of-network.html
   * Client Connections in a TSA/HADR cluster – Part 1. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-1/
+  * HADR ROS (READ ON STANDBY) MAJOR LIMITATION. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/hadr-ros-read-only-standby-limitation/
 * STANDBY_TABLESPACE_ERROR
   * Don't Get Caught Unprepared - Monitor Invalid Tablespaces on your HADR Standby database and Repair Them Efficiently. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/dont-get-caught-unprepared-monitor.html
 * Starburst
@@ -3089,6 +3099,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Making SQL PL and PL/SQL sensitive to changes in statistics, and more. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/statistics_sensitive_sql_pl
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
   * Environment during auto stats - Open Files. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/environment-during-auto-stats-open-files.html
+  * DB2 SQL2314W SOME STATISTICS ARE IN AN INCONSISTENT STATE. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/db2-sql2314w-some-statistics-are-in-an-inconsistent-state/
 * Status
   * db2top Database Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-2.html
 * STMM - Self-Tunning Memory Manager
@@ -3159,6 +3170,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
   * Security considerations when installing and using the DB2 database manager. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/security-considerations-when-installing-DB2.html
 * SysCat schema
+  * SysCat.DataPartitions
+    * DB2 TABLE PARTITIONING. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/db2-table-partitioning/
   * SysCat.dbAuth
     * Db2 Basics: Investigating Permissions in an Existing Database. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
   * SysCat.dbPartitionGroupDef
@@ -3325,6 +3338,8 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * SysProc.Mon_Get_Transaction_Log
     * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
     * Access your database sooner after a system failure -- introducing DB2_ONLINERECOVERY! ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/08/access-your-database-sooner-after.html
+  * SysProc.Admin_Revalidata_Db_Objects
+    * DB2 ADMIN_REVALIDATE_DB_OBJECTS PROCEDURE – REVALIDATE INVALID DATABASE OBJECTS. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/db2-admin_revalidate_db_objects-procedure-revalidate-invalid-database-objects/
   * SysProc.Set_Routine_Opts
     * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. 
 Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
@@ -3358,6 +3373,7 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html
 * Table partitioning
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
+  * DB2 TABLE PARTITIONING. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/db2-table-partitioning/
 * Table queue
   * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html
 * Table size
