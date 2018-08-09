@@ -110,6 +110,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
   * DB2 Tips n Tricks Part 100 - How To Save Space in Archive Log File System. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=dmhImiLeYoo
   * How Will Logging Process happen in DB2?. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/01/how-logging-process-will-happen-in-db2.html
+  * CONFIGURE ARCHIVE LOGGING IN DB2 LUW DATABASE. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/configure-archive-logging-in-db2-luw-database/
   * How To Perform Db2 Alternate Restore Using NetBackup ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/03/20/how-to-perform-db2-cross-node-restore-using-netbackup/
 * ArchRetryDelay
   * The DB2Night Show #196: Db2 LUW Transaction Log Expedition w/ Ember Crooks. The DB2Night Show. Ember Crooks. 2017. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=730
@@ -228,6 +229,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * How to take data Online Backup in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-take-data-online-backup-in-db2.html
 * Backward-phase
   * Access your database sooner after a system failure -- introducing DB2_ONLINERECOVERY! ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/08/access-your-database-sooner-after.html
+  * CONFIGURE ARCHIVE LOGGING IN DB2 LUW DATABASE. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/configure-archive-logging-in-db2-luw-database/
 * BAR
   * Backup Performance Investigation. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/10/03/backup-performance-investigation/
 * Bash
@@ -802,6 +804,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Rebuild TSA Resources in HADR Environment. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11439
   * db2haicu disable / enable and scripting. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11482
   * Client Connections in a TSA/HADR cluster- Part 3. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-3/
+  * DB2 TSA RESOURCE GROUPS REMAIN IN LOCK STATE AFTER ENABLED. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/09/13/db2-tsa-resource-groups-remain-in-lock-state-after-enabled/
   * RSCT APAR Affecting TSAMP. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/03/29/rsct-apar-affecting-tsamp/
 * db2hadr
   * DB2HADR-Checking for unavailable tables on the HADR standby. DeveloperWorks. Amy Tang. 2014. Blog - https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/Checking%20for%20unavailable%20tables%20on%20the%20HADR%20standby
@@ -1289,6 +1292,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 
 # F
 
+* Fail Archive Path - FailArchPath
+  * CONFIGURE ARCHIVE LOGGING IN DB2 LUW DATABASE. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/configure-archive-logging-in-db2-luw-database/
 * Failover
   * Client Connections in a TSA/HADR cluster – Part 1. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-1/
 * Family, Db2
@@ -1658,6 +1663,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.html
 * IP address
   * Determining Which IP Address Db2 Connections are Connecting To. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/05/03/determining-which-ip-address-db2-connections-are-connecting-to/
+* IPC - Inter-Process Communication
+  * DB2 UNEXPECTED OS ERROR. THIS MOST LIKELY MEANS THAT RESOURCES HAVE BEEN TORN DOWN FROM UNDERNEATH THE PREFETCHER. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/08/05/db2-unexpected-os-error-this-most-likely-means-that-resources-have-been-torn-down-from-underneath-the-prefetcher/
 * ipcs
   * (DB2_KILL - What to do when a Db2 instance does not stop) DB2_KILL – ¿Qué hacer si una instancia DB2 no se para?. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/db2_kill-%c2%bfque-hacer-si-una-instancia-db2-no-se-para/
 * Iterate
@@ -1856,6 +1863,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * How to take data Online Backup in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-take-data-online-backup-in-db2.html
   * The DB2Night Show #196: Db2 LUW Transaction Log Expedition w/ Ember Crooks. The DB2Night Show. Ember Crooks. 2017. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=730
   * Restart vendor process for archive logging. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/12/restart-vendor-process-for-archive.html
+  * CONFIGURE ARCHIVE LOGGING IN DB2 LUW DATABASE. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/configure-archive-logging-in-db2-luw-database/
 * LogArchCompr
   * DB2 Archived Log Compression. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/09/db2-archived-log-compression-1.html
 * Log4db2
@@ -2075,6 +2083,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Net search extender
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
 * NetBackup
+  * CONFIGURE ARCHIVE LOGGING IN DB2 LUW DATABASE. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/configure-archive-logging-in-db2-luw-database/
   * How To Configure DB2 To Use NetBackup ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/03/16/configure-db2-use-netbackup/
   * Troubleshoot Db2 Backup Issues With Veritas NetBackup. Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/03/16/troubleshoot-db2-backup-issues-veritas-netbackup/
   * How To Perform Db2 Alternate Restore Using NetBackup ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/03/20/how-to-perform-db2-cross-node-restore-using-netbackup/
@@ -3479,6 +3488,7 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * Space disks for DB2. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/12/space-disks-for-db2.html
   * DB2 Archived Log Compression. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/09/db2-archived-log-compression-1.html
   * Access your database sooner after a system failure -- introducing DB2_ONLINERECOVERY! ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/08/access-your-database-sooner-after.html
+  * CONFIGURE ARCHIVE LOGGING IN DB2 LUW DATABASE. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/configure-archive-logging-in-db2-luw-database/
   * Faster rollback processing of very large transactions in Db2 v11.1.3.3. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/faster-rollback-processing-of-very.html
   * Format and display Db2 log file information using db2fmtlog. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/format-and-display-db2-log-file.html
   * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - hhttps://datageek.blog/2018/07/17/the-db2-recovery-history-file/
@@ -3516,6 +3526,7 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * Client Connections in a TSA/HADR cluster – Part 1. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-1/
   * Client Connections in a TSA/HADR cluster- Part 3. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-3/
   * Client Connections in a TSA/HADR cluster- Part 4. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-4/
+  * DB2 TSA RESOURCE GROUPS REMAIN IN LOCK STATE AFTER ENABLED. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/09/13/db2-tsa-resource-groups-remain-in-lock-state-after-enabled/
   * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/01/18/high-availability-options-for-db2-luw/
   * RSCT APAR Affecting TSAMP. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/03/29/rsct-apar-affecting-tsamp/
 * TSM
