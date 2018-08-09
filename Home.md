@@ -1034,6 +1034,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/22/db2-basics-levels-of-configuration/
 * dbpath
   * Default directory for DB creations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/default-directory-for-db-creations.html
+* DCS - Database Connection Services
+  * HOW TO SETUP FEDERATION BETWEEN TWO DB2 LUW DATABASES. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/how-to-setup-federation-between-two-db2-luw-databases/
 * DDL
   * db2look from stored procedure. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/10/db2look-from-stored-procedure.html
   * How To Deep Compare Two Db2 Environments? Raghu On Tech. Raghu Cherukuru. 2017. Blog - https://www.raghu-on-tech.com/2017/12/19/how-to-deep-compare-two-db2-environments/
@@ -1312,11 +1314,14 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * db2top Database Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-2.html
   * db2top Sessions Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-2.html
   * fcm_parallelism + sql6031n. DB2 Knowledge Base Raf. Raf Mathijs. 2013. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2013/10/fcmparallelism-sql6031n.html
+* Federated
+  * HOW TO SETUP FEDERATION BETWEEN TWO DB2 LUW DATABASES. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/how-to-setup-federation-between-two-db2-luw-databases/
 * Federation
   * db2top Federation Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-federation-screen.html
   * IBM federated database technology. DeveloperWorks. Eileen Lin and Laura Haas. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/0203haas/0203haas.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * Mom, I joined the cloud! (or: Use old stuff with new stuff - DB2 federation). Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/03/mom-i-joined-cloud-or-use-old-stuff.html
+  * HOW TO SETUP FEDERATION BETWEEN TWO DB2 LUW DATABASES. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/how-to-setup-federation-between-two-db2-luw-databases/
 * Fenced
   * sysibmadm.dbmcfg gives error sql0444n reason code 4. DB2 Knowledge Base Raf. Raf Mathijs. 2013. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2013/10/sysibmadmdbmcfg-gives-error-sql0444n.html
   * Stored Procedure wlm_set_client_info gives error sql1131n. DB2 Knowledge Base Raf. Raf Mathijs. 2014. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2014/05/stored-procedure-wlmsetclientinfo-gives.html
@@ -2030,6 +2035,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * (Average time of read/write access to disc in Db2) Tiempos medios de acceso lectura/escritura a disco a nivel de DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/tuning/tiempos-medios-de-acceso-lecturaescritura-a-disco-a-nivel-de-db2/
   * (Snapshot for Db2 tunning) Snapshots para tuning DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/tuning/snapshots-para-tuning-db2/
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
+  * DB2 SNAPSHOT MONITOR SWITCHES. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/db2-snapshot-monitor-switches/
+  * ENABLE DB2 DEFAULT MONITOR SWITCHES DBM PARAMETER WITHOUT DB2STOP/DB2START. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/enable-db2-snapshot-monitor-switches-permanently-without-db2stopdb2start/
 * Monitoring
   * Monitoring DB2 with Nagios. Blog dot lusis. John E. Vicent. 2006. Article - http://dev.lusis.org/nagios/usable/monitoring_db2_with_nagios.html
   * Usage Lists – Big Brother is watching, but only where he is looking. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/usage-lists-big-brother-is-watching-but-only-where-he-is-looking/
@@ -2261,6 +2268,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Please check the "Database partition" entry.
 * Partition (OLAP)
   * Who's the most popular kid on the block?. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/stats_mode
+* Passthru
+  * HOW TO SETUP FEDERATION BETWEEN TWO DB2 LUW DATABASES. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/how-to-setup-federation-between-two-db2-luw-databases/
 * Password
   * The Database isn’t Available from Half the Servers – it Must be DB2. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/08/19/the-database-isnt-available-from-half-the-servers-it-must-be-db2/
 * Patches
@@ -2805,6 +2814,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * (Obtaining current server) Obtener servidor actual utilizando sysdummy1. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/administracion/obtener-servidor-actual-desde-sysdummy1/
 * Server (Federation)
   * Mom, I joined the cloud! (or: Use old stuff with new stuff - DB2 federation). Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/03/mom-i-joined-cloud-or-use-old-stuff.html
+  * HOW TO SETUP FEDERATION BETWEEN TWO DB2 LUW DATABASES. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/how-to-setup-federation-between-two-db2-luw-databases/
 * Services - /etc/services
   * (How to identify the Db2 connection port) Cómo conocer el puerto de conexión de DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/como-conocer-el-puerto-de-conexion-de-db2/
   * SQL6030N START or STOP DATABASE MANAGER failed. Reason code “38”. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/488
@@ -2879,6 +2889,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * Softmax (Deprecated)
   * The DB2Night Show #196: Db2 LUW Transaction Log Expedition w/ Ember Crooks. The DB2Night Show. Ember Crooks. 2017. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=730
+  * DB2 SNAPSHOT MONITOR SWITCHES. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/db2-snapshot-monitor-switches/
 * Sort
   * DB2 LUW Execution Plan Operations. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/explain-plan/db2/operations
   * DB2 problem determination using db2top utility. DeveloperWorks. Tao Wang and Shen Li. 2008. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0812wang/index.html
@@ -3269,6 +3280,7 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
     * Database Size and Table Sizes. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30319
   * SysProc.Admin_Move_Table
     * Reclaimable Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/02/21/reclaimable-table-spaces/
+    * DB2 SQL2104N THE ADMIN_MOVE_TABLE PROCEDURE COULD NOT BE COMPLETED AT THIS TIME BY THIS USER. REASON CODE: “9”. SQLSTATE=5UA0M. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/sql2104n-the-admin_move_table-procedure-could-not-be-completed-at-this-time-by-this-user-reason-code-9-sqlstate5ua0m/
   * SysProc.Admin_Rotate_Master_Key
     * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
   * SysProc.Auth_List_Authorities_For_AuthID
@@ -3357,6 +3369,8 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
 * System temporary tablespace
   * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/29/db2-temporary-table-spaces/
 * SysTools schema
+  * SysTools.Admin_Move_Table
+    * DB2 SQL2104N THE ADMIN_MOVE_TABLE PROCEDURE COULD NOT BE COMPLETED AT THIS TIME BY THIS USER. REASON CODE: “9”. SQLSTATE=5UA0M. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/sql2104n-the-admin_move_table-procedure-could-not-be-completed-at-this-time-by-this-user-reason-code-9-sqlstate5ua0m/
   * SysTools.Opt_Profile
     * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/line-optimization-v11-1/
   * SysTools.Stmg_DbSize_Info
@@ -3816,6 +3830,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Using the IBM NoSQL Wire Listener for DB2. DeveolperWorks. Ioannis Papapanagiotou, Marion Behnen, John Paul Parkin, and Jyh-Chen Fang. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson4/index.html
 * Wrapper
   * Mom, I joined the cloud! (or: Use old stuff with new stuff - DB2 federation). Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/03/mom-i-joined-cloud-or-use-old-stuff.html
+  * HOW TO SETUP FEDERATION BETWEEN TWO DB2 LUW DATABASES. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/how-to-setup-federation-between-two-db2-luw-databases/
 * Write
   * DB2 problem determination using db2top utility. DeveloperWorks. Tao Wang and Shen Li. 2008. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0812wang/index.html
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
