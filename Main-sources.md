@@ -50,6 +50,8 @@ These blogs are not longer updated 😞
   * All podcast (Between 2016 and 2017 - Complete).
 * Fred Sobotka and Ian Bjorhovde - The Whole Package Cache (Podcasts about DB2 world 🎤 ). http://www.pkgcache.com/
   * All podcast (Between 2013 and 2017 - Complete).
+* Bansari Prajapati - Remote DB Support. https://dbthread.wordpress.com/
+  * All articles (Between 201707 - 201709 - Complete).
 * Raf Mathijs - DB2 Knowledge Base Raf (Blog about technical stuff). http://db2-luw-knowledgebase.blogspot.com.co/
   * All articles (Between 201301 and 201512 - Complete).
 * Oscar Paredes - DB2 Util. http://www.db2util.es/
@@ -86,7 +88,6 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * Harishkumar Pathanga - DB2-LUW-Academy (Videos of db2 tricks 📹 ). 
   * https://www.youtube.com/user/DB2LUWAcademy/videos
   * http://db2luwacademy.blogspot.com.co/
-* https://dbthread.wordpress.com/
 * https://www.db2gdba.com
 * http://www.dbazine.com/resources/orgs/in
 * https://www.databasejournal.com/features/article.php/3593431/DB2-Series.htm
