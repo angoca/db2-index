@@ -107,3 +107,5 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * https://it.toolbox.com/users/content/scotdb
 * http://db2performance.blogspot.com/
 * https://www.youtube.com/user/channeldb2/videos
+* https://db2talk.wordpress.com/
+* https://saurabhska.wordpress.com/tag/db2-luw/
