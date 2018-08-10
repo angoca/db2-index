@@ -471,6 +471,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Comparing Two Db2 Systems. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/09/12/comparing-two-db2-systems/
 * Configuration file
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
+* Connect
+  * Slow DB2 connect problem from client. DBMSguy.com. Paul Mayhew. 2009. Blog - http://dbmsguy.com/blog/2009/05/slow-db2-connect-problem-from-client/
 * Connect by
   * Creating recursive functions and procedures in SQL PL. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/recursive_sql_pl
   * Db2: CTE and CONNECT BY - two kinds of recursion. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2018/04/db2-cte-and-connect-by-two-kinds-of.html
@@ -542,7 +544,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Please check the "Cursor stability" entry.
 * CUR_COMMIT
   * Parameter Wednesday: DB2 Registry DB2_EVALUNCOMMITTED. db2commerce. Ember Crooks. 2012. Blog - http://db2commerce.com/2012/06/27/parameter-wednesday-db2-registry-db2_evaluncommitted/
-  * DB2 LUW V9.7 CUR_COMMIT database configuration option – buyer beware. DBMSguy.com. Paul Mayhew. 2013. Blog - http://dbmsguy.com/blog/2011/01/cur_commit_db_option/
+  * DB2 LUW V9.7 CUR_COMMIT database configuration option – buyer beware. DBMSguy.com. Paul Mayhew. 2011. Blog - http://dbmsguy.com/blog/2011/01/cur_commit_db_option/
 * Current date
   * (Date format according to time zone) Formato de fechas según modo horario. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/trucos/formato-de-fechas-zona/
 * Cursor
@@ -620,6 +622,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/07/the-self-tuning-memory-manager-stmm/
   * SQL1643C on Rollforward. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/14/sql1643c-on-rollforward/
 * Date
+  * Getting records based on the first and last days of a month. DBMSguy.com. Paul Mayhew. 2009. Blog - http://dbmsguy.com/blog/2009/12/getting-records-based-on-the-first-and-last-days-of-a-month/
   * Make my day. 154 PM. Bernd Kuennen. 2008. Blog - http://154pm.blogspot.com/2008/02/make-my-day.html
   * (Getting date and time in Db2) Obtener fecha y hora en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/inicio_automatico_instancia_db2_db2iauto/
   * (Operations with dates in Db2) Operaciones con fechas en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/trucos/operaciones-con-fechas-db2/
@@ -883,12 +886,14 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * db2nosql.sh
   * Using the IBM NoSQL Wire Listener for DB2. DeveolperWorks. Ioannis Papapanagiotou, Marion Behnen, John Paul Parkin, and Jyh-Chen Fang. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson4/index.html
 * DB2OPTIONS
+  * db2 batch scripts – tips and tricks – part 1. DBMSguy.com. Paul Mayhew. 2010. Blog - http://dbmsguy.com/blog/2010/07/db2-batch-scripts-tips-and-tricks-part-1/
+  * db2 batch scripts – tips and tricks – part 2. DBMSguy.com. Paul Mayhew. 2010. Blog - http://dbmsguy.com/blog/2010/08/db2-batch-scripts-tips-and-tricks-part-2/
   * (Db2 command line options - Remove autocommit) Opciones db2 command line – Eliminar autocommit. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/administracion/opciones-db2-command-line-eliminar-autocommit/
 * db2pd
   * DB2 Lock. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-lock/
   * New options for analyzing lock timeouts in DB2 9.5. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/new-options-for-analyzing-lock-timeouts-in-db2-9-5/
   * (Another method to identify unused indexes in Db2) Otro método para detectar índices no usados en DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/otro-metodo-para-detectar-indices-no-usados-en-db2/
-  * db2pd command – get info about db2. DBMSguy.com. Paul Mayhew. 2013. Blog - http://dbmsguy.com/blog/2010/09/db2pd-command/
+  * db2pd command – get info about db2. DBMSguy.com. Paul Mayhew. 2010. Blog - http://dbmsguy.com/blog/2010/09/db2pd-command/
   * db2pd command script – busiest tables. DBMSguy.com. Paul Mayhew. 2013. Blog - http://dbmsguy.com/blog/2013/01/db2pd-command-script-busiest-tables/
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
@@ -1464,6 +1469,9 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/01/18/high-availability-options-for-db2-luw/
 * HADR - High Availability Disaster Recovery
+  * DB2 HADR for dummies – Part 1. DBMSguy.com. Paul Mayhew. 2009. Blog - http://dbmsguy.com/blog/2009/11/db2-hadr-for-dummies-part-1/
+  * DB2 HADR for dummies – Part 2. DBMSguy.com. Paul Mayhew. 2009. Blog - http://dbmsguy.com/blog/2009/11/hadr-for-dummies-part-2/
+  * DB2 HADR for dummies – Part 3. DBMSguy.com. Paul Mayhew. 2009. Blog - http://dbmsguy.com/blog/2009/12/db2-hadr-for-dummies-part-3/
   * db2top HADR Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-hadr-screen.html
   * DB2 system topology and configuration for automated multi-site HA and DR. IBM. Aruna De Silva. 2010. Whitepaper - http://public.dhe.ibm.com/software/dw/data/dm-1002automateddb2hadr/Automated_long-distance_HADR_configurations.pdf
   * Automating HADR on DB2 10.1 for Linux, UNIX and Windows Failover Solution Using Tivoli System Automation for Multiplatforms. IBM. 2014. Whitepaper - http://public.dhe.ibm.com/software/dw/im/dm-0907hadrdb2haicu/db2-10-hadr-tsa.pdf
@@ -1890,7 +1898,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * LogArchOpt1
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
 * LogBufSz
-  * DB2 LUW V9.7 CUR_COMMIT database configuration option – buyer beware. DBMSguy.com. Paul Mayhew. 2013. Blog - http://dbmsguy.com/blog/2011/01/cur_commit_db_option/
+  * DB2 LUW V9.7 CUR_COMMIT database configuration option – buyer beware. DBMSguy.com. Paul Mayhew. 2011. Blog - http://dbmsguy.com/blog/2011/01/cur_commit_db_option/
 * Logger Process
   * How Will Logging Process happen in DB2?. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/01/how-logging-process-will-happen-in-db2.html
 * Logical Data Paritition
@@ -2136,6 +2144,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Non-repeatable reads
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * Not logged
+  * DB2 HADR for dummies – Part 3. DBMSguy.com. Paul Mayhew. 2009. Blog - http://dbmsguy.com/blog/2009/11/hadr-for-dummies-part-2/
   * How Will Logging Process happen in DB2?. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/01/how-logging-process-will-happen-in-db2.html
 * Not logged initially
   * How to identify if a table has the not logged initially attribute. Ideas for DB2 (Spanish). Andres Gomez. 2015. Blog - http://angocadb2.blogspot.com.co/2015/12/how-to-identify-if-table-has-not-logged.html
@@ -2170,6 +2179,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Offset
   * Seven Surprising Findings About DB2. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/blog/2014-11/seven-surprising-findings-about-DB2
 * OLAP
+  * How to number your sql results. DBMSguy.com. Paul Mayhew. 2009. Blog - http://dbmsguy.com/blog/2009/05/how-to-number-your-sql-results/
   * The trouble of combining DISTINCT with ORDER BY. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/distinct_order_by
   * Who's the most popular kid on the block?. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/stats_mode
 * OLAP Function
@@ -2690,6 +2700,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * IBM Db2 Tech Talk: Db2 Security and Compliance Support. Db2 Tech Talk. Roger Sanders. 2018. Webminar - https://www.ibm.com/events/Z56SMPES
 * Row size
   * DB2 Table Row (Tuple) Size. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2-row-size/
+* Row_Number
+  * How to number your sql results. DBMSguy.com. Paul Mayhew. 2009. Blog - http://dbmsguy.com/blog/2009/05/how-to-number-your-sql-results/
 * RPO - Recovery Point Objective
   * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/01/18/high-availability-options-for-db2-luw/
 * RR
@@ -2746,6 +2758,9 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Backup and restore SQL schemas for DB2 Universal Database. Serge Rielau. 2005. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0602rielau/
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
 * Scripts
+  * db2 batch scripts – tips and tricks – part 1. DBMSguy.com. Paul Mayhew. 2010. Blog - http://dbmsguy.com/blog/2010/07/db2-batch-scripts-tips-and-tricks-part-1/
+  * db2 batch scripts – tips and tricks – part 2. DBMSguy.com. Paul Mayhew. 2010. Blog - http://dbmsguy.com/blog/2010/08/db2-batch-scripts-tips-and-tricks-part-2/
+  * Inline database shell scripts using awk. DBMSguy.com. Paul Mayhew. 2010. Blog - http://dbmsguy.com/blog/2010/09/inline-database-shell-scripts/
   * How to execute sql file via command line for DB2. With Data. Shiji Pan. 2013. Blog - https://www.withdata.com/blog/db2/how-to-execute-sql-file-via-command-line-for-db2.html
   * Runstats on data change percentage. Berst Blog. Bert van Langen. 2014. Blog - https://web.archive.org/web/20160308061053/https://blog.bertvanlangen.com/db2/runstats-data-change-percentage/
   * Db2 Persistent Data Collection Scripts
