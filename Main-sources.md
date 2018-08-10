@@ -60,6 +60,8 @@ These blogs are not longer updated 😞
   * All articles related to Db2 (Between 2010 to 2013 - Complete).
 * Joachims Tuchel - Joachims Small World. https://joachimtuchel.wordpress.com
   * All articles related to Db2 (Between 2010 to 2013 - Complete).
+* Paul Mayhew - DBMSguy.com. http://dbmsguy.com/
+  * All articles related to Db2 (Between 2009 to 2013 - Complete).
 * Keith McDonald - The K guy (Blog about db2top and some SQL PL). http://www.thekguy.com
   * All articles about Db2 (Between 2009 and 2010 - Complete).
 * Nagendra - DB2 queries (Blog about technical stuff). http://learndb.blogspot.com.co/
@@ -102,7 +104,6 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * http://radheshk.blogspot.com/
 * http://db2tutorial.net/
 * https://vimeo.com/user1637644
-* http://dbmsguy.com/
 * https://it.toolbox.com/users/content/scotdb
 * http://db2performance.blogspot.com/
 * https://www.youtube.com/user/channeldb2/videos
