@@ -109,3 +109,4 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * https://www.youtube.com/user/channeldb2/videos
 * https://db2talk.wordpress.com/
 * https://saurabhska.wordpress.com/tag/db2-luw/
+* jhingran.typepad.com
