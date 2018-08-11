@@ -841,6 +841,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Tie-Breaker Disk for HADR or pureScale. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/499
   * GPFS Disk Cleanup. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11458
 * db2idrop
+  * How to Recreate DB2 Instance. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/01/how-to-recreate-db2-instance.html
   * Clean-up pureScale. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/491
 * db2idrop_local
   * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
@@ -851,6 +852,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * db2instance
   * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
 * db2iupdt
+  * DB2 Installation Enhancements. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/01/db2-installation-enhancements.html
   * SQL6030N START or STOP DATABASE MANAGER failed. Reason code “38”. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/488
   * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
@@ -873,11 +875,14 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * db2logsForRfwd
   * A Peek on DB2 Log Record. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/07/peek-on-db2-log-record.html
 * db2look
+  * Mimicking Production Database. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/01/mimicking-production-database.html
   * Do your uninstall scripts leave something behind? The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/testing-that-your-uninstall-scripts-leave-nothing-behind.html
   * TRANSFER, COPY OR MOVE DB2 DATABASE FROM LINUX TO WINDOWS. TeknoMagus. 2011. Blog - https://technomagus.wordpress.com/database/ibm-db2/transfer-db2-database-from-linux-to-windows/
   * (Create the DDL of a specific table or a whole schema) db2look – Crear DDL de una tabla en concreto o un esquema completo. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/db2look-crear-ddl-de-una-tabla-en-concreto-o-un-esquema-completo/
   * db2look from stored procedure. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/10/db2look-from-stored-procedure.html
   * DB2 Basics: Statement Terminators. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/07/13/db2-basics-statement-terminators/
+* db2ls
+  * DB2 Installation Enhancements. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/01/db2-installation-enhancements.html
 * db2med
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * Understanding and Tuning DB2/LUW Backup and Restore Performance. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/understanding-and-tuning-db2luw-backup.html
@@ -1671,6 +1676,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Dealing with dates and formats. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/dealing-with-dates-and-formats.html
   * Using UNICODE characters, no matter the encoding of the script in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/using-unicode-characters-no-matter.html
 * Install
+  * DB2 Installation Enhancements. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/01/db2-installation-enhancements.html
   * DB2 LINUX INSTALLATION. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-installation/
   * DB2 LINUX CONFIGURATION. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-configuration/
   * DB2, LINUX AND MEMORY. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-and-memory/
@@ -1687,6 +1693,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * installFixPack
   * Using db2prereqcheck to Check Prerequisites for DB2 LUW. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2prereqcheck-check-prerequisites-db2-luw/
 * Instance
+  * How to Recreate DB2 Instance. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/01/how-to-recreate-db2-instance.html
   * How to replicate instance configuration parameters in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-replicate-instance-configurations-db2.html
   * Step by Step installation of DB2 V10.5 on Linux. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/04/step-by-step-installation-of-db2-v105-Linux.html
   * Database Up Time. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30323
@@ -1800,6 +1807,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Leave
   * LEAVE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/leave/
 * License
+  * How to Recreate DB2 Instance. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/01/how-to-recreate-db2-instance.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * DB2 pureScale – No Product License found. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11476
 * Limits
@@ -3172,6 +3180,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
 * Statistics
+  * Mimicking Production Database. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/01/mimicking-production-database.html
   * Making SQL PL and PL/SQL sensitive to changes in statistics, and more. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/statistics_sensitive_sql_pl
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
   * Environment during auto stats - Open Files. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/environment-during-auto-stats-open-files.html
