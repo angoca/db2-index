@@ -54,6 +54,8 @@ These blogs are not longer updated 😞
   * All articles (Between 201707 - 201709 - Complete).
 * Raf Mathijs - DB2 Knowledge Base Raf (Blog about technical stuff). http://db2-luw-knowledgebase.blogspot.com.co/
   * All articles (Between 201301 and 201512 - Complete).
+* Radhesh Kumar - DB2 Diary from Radhesh. http://radheshk.blogspot.com/
+  * All articles (Between 2007 and 2010 - Complete).
 * Oscar Paredes - DB2 Util. http://www.db2util.es/
   * All articles (Between 2010 and 2014 - Complete).
 * TeknoMagus. https://technomagus.wordpress.com
@@ -101,7 +103,6 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * http://justdb2chatter.blogspot.com/
 * http://lpetr.org/
 * http://mviswa.blogspot.com/
-* http://radheshk.blogspot.com/
 * http://db2tutorial.net/
 * https://vimeo.com/user1637644
 * https://it.toolbox.com/users/content/scotdb
@@ -111,3 +112,4 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * https://saurabhska.wordpress.com/tag/db2-luw/
 * jhingran.typepad.com
 * https://www.ibm.com/developerworks/community/blogs/IMSupport?tags=db2_techtip&lang=en
+* http://db2guide.blogspot.com/
