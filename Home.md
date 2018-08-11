@@ -478,6 +478,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Slow DB2 connect problem from client. DBMSguy.com. Paul Mayhew. 2009. Blog - http://dbmsguy.com/blog/2009/05/slow-db2-connect-problem-from-client/
   * DB2 Authentication & Password Encryption Method. DB2 Diary from Radhesh. Radhesh Kumar. 2009. Blog - http://radheshk.blogspot.com/2009/04/db2-authentication-password-encryption.html
 * Connect by
+  * SQL Tips & Techniques- String Aggregation. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/02/sql-tips-techniques-string-aggregation.html
   * Creating recursive functions and procedures in SQL PL. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/recursive_sql_pl
   * Db2: CTE and CONNECT BY - two kinds of recursion. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2018/04/db2-cte-and-connect-by-two-kinds-of.html
 * Connect_Proc
@@ -1069,6 +1070,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Database deactivation takes a lot of time. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/database-deactivation-takes-lot-of-time.html
 * Deadlock
   * SQL on Fire! Part 2. WAIUG. Serge Rielau. 2006. Presentation - http://www.waiug.org/present/Forum2006/Presentations/SQLonFire_2_Serge_Rielau.ppt
+  * Locking issues. DeveloperWorks. Serge Rielau. 2012. Blog - http://radheshk.blogspot.com/2008/02/locking-issues.html
   * db2top Database Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-2.html
   * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
   * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues. DeveloperWorks. Dirk Fechner. 2010. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
@@ -1839,6 +1841,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
     * Lock events for DB2 for Linux, UNIX, and Windows, Part 2: New options for analyzing lock timeouts in DB2 9.5. DeveloperWorks. Dirk Fechner. 2008. Article  - http://www.ibm.com/developerworks/data/library/techarticle/dm-0804fechner/index.html
     * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues. DeveloperWorks. Dirk Fechner. 2010. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
   * DB2 problem determination using db2top utility. DeveloperWorks. Tao Wang and Shen Li. 2008. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0812wang/index.html
+  * Locking issues. DeveloperWorks. Serge Rielau. 2012. Blog - http://radheshk.blogspot.com/2008/02/locking-issues.html
   * db2top Database Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-1.html
   * db2top Database Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-2.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
@@ -2208,6 +2211,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * The trouble of combining DISTINCT with ORDER BY. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/distinct_order_by
   * Who's the most popular kid on the block?. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/stats_mode
 * OLAP Function
+  * Creating recursive functions and procedures in SQL PL. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/recursive_sql_pl
   * Returning inserted rows (and updated and deleted). DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/select_from_insert
 * OLTAP
   * Leverage DB2 BLU Acceleration technology for tables involving unsupported data types. DeveloperWorks. Masahiro Ohkawa and Abhishek Chourasia. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507db2-blu-tables/index.html
@@ -2575,6 +2579,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Please check the "RTO" entry.
 * Recursion
   * SQL on Fire! Part 2. WAIUG. Serge Rielau. 2006. Presentation - http://www.waiug.org/present/Forum2006/Presentations/SQLonFire_2_Serge_Rielau.ppt
+  * SQL Tips & Techniques- String Aggregation. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/02/sql-tips-techniques-string-aggregation.html
   * SQL Tips & Techniques- String Aggregation(Contd.) DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/02/sql-tips-techniques-string.html
   * SQL Tips & Techniques- String Splitting. DB2 Diary from Radhesh. Radhesh Kumar. 2009. Blog - http://radheshk.blogspot.com/2009/06/sql-tips-techniques-string-splitting.html
   * Creating recursive functions and procedures in SQL PL. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/recursive_sql_pl
@@ -3207,6 +3212,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * The multi-temperature data feature. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders, and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part1-trs/index.html
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * String
+  * SQL Tips & Techniques- String Aggregation. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/02/sql-tips-techniques-string-aggregation.html
   * SQL Tips & Techniques- String Aggregation(Contd.) DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/02/sql-tips-techniques-string.html
   * SQL Tips & Techniques- String Splitting. DB2 Diary from Radhesh. Radhesh Kumar. 2009. Blog - http://radheshk.blogspot.com/2009/06/sql-tips-techniques-string-splitting.html
 * Structure
