@@ -112,4 +112,3 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * https://saurabhska.wordpress.com/tag/db2-luw/
 * jhingran.typepad.com
 * https://www.ibm.com/developerworks/community/blogs/IMSupport?tags=db2_techtip&lang=en
-* http://db2guide.blogspot.com/
