@@ -636,10 +636,11 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/07/the-self-tuning-memory-manager-stmm/
   * SQL1643C on Rollforward. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/14/sql1643c-on-rollforward/
 * Date
-  * Getting records based on the first and last days of a month. DBMSguy.com. Paul Mayhew. 2009. Blog - http://dbmsguy.com/blog/2009/12/getting-records-based-on-the-first-and-last-days-of-a-month/
   * Make my day. 154 PM. Bernd Kuennen. 2008. Blog - http://154pm.blogspot.com/2008/02/make-my-day.html
+  * Getting records based on the first and last days of a month. DBMSguy.com. Paul Mayhew. 2009. Blog - http://dbmsguy.com/blog/2009/12/getting-records-based-on-the-first-and-last-days-of-a-month/
   * (Getting date and time in Db2) Obtener fecha y hora en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/inicio_automatico_instancia_db2_db2iauto/
   * (Operations with dates in Db2) Operaciones con fechas en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/trucos/operaciones-con-fechas-db2/
+  * Fun with Dates. techs@work. Raju Pillai. 2011. Blog - http://techsatwork.com/blog/?p=1094
   * Migrating from TSQL: The DATEADD function. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/dateadd
   * Fractions of time: A PostgreSQL compatible DATE_PART function. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/date_part
   * (Date format according to time zone) Formato de fechas según modo horario. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/trucos/formato-de-fechas-zona/
@@ -773,6 +774,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Kernel upgrade and impact on pureScale. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11463
 * DB2COMM
   * DB2 LINUX CONFIGURATION. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-configuration/
+  * Receiving SQL5043n and SPM0438 ? techs@work. Raju Pillai. 2011. Blog - http://techsatwork.com/blog/?p=1092
   * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
 * db2cos
   * DB2 Lock. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-lock/
@@ -3012,6 +3014,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * db2top Agent Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-2.html
 * Spli mirror
   * How to check DB2 LUW database write suspend state with db2pd. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/05/how-to-check-db2-luw-database-write-suspend-state-with-db2pd.html
+* SPM - Sync Point Manager
+  * Receiving SQL5043n and SPM0438 ? techs@work. Raju Pillai. 2011. Blog - http://techsatwork.com/blog/?p=1092
 * SQL
   * SQL on Fire! Part 1. WAIUG. Serge Rielau. 2006. Presentation - http://www.waiug.org/present/Forum2006/Presentations/SQLonFire_1_Serge_Rielau.ppt
   * SQL on Fire! Part 2. WAIUG. Serge Rielau. 2006. Presentation - http://www.waiug.org/present/Forum2006/Presentations/SQLonFire_2_Serge_Rielau.ppt
@@ -3262,6 +3266,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
 * SvceName
   * (How to identify the Db2 connection port) Cómo conocer el puerto de conexión de DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/como-conocer-el-puerto-de-conexion-de-db2/
+  * Receiving SQL5043n and SPM0438 ? techs@work. Raju Pillai. 2011. Blog - http://techsatwork.com/blog/?p=1092
   * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
   * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
 * Swap
