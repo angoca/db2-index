@@ -388,6 +388,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Escape characters in shell for DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/escape-characters-in-shell-for-db2.html
   * Identify invalid characters in a script. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/04/identify-invalid-characters-in-script.html
   * Using UNICODE characters, no matter the encoding of the script in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/using-unicode-characters-no-matter.html
+* Check pending
+  * Don’t get caught in check pending. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=419
 * Circular Logging
   * How Will Logging Process happen in DB2?. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/01/how-logging-process-will-happen-in-db2.html
 * CLI
@@ -1842,6 +1844,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Combining Db2 and Cloud Object Storage. Data Henrik. Henrik Loeser. 2017. Blog - 
 http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Load
+  * Don’t get caught in check pending. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=419
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
   * DB2 Export and Load Using Compression & Named Pipes. dbawesome. Elder Lira. 2013. Blog - http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.html
   * DB2 Tips n Tricks Part 37 - How To Load Compressed Files directly without Extracting to Harddisk. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=FT3UBxpeR9k
@@ -1870,6 +1873,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
     * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues. DeveloperWorks. Dirk Fechner. 2010. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
   * DB2 problem determination using db2top utility. DeveloperWorks. Tao Wang and Shen Li. 2008. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0812wang/index.html
   * Locking issues. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/02/locking-issues.html
+  * Finding Lock waits in DB2. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=485
   * db2top Database Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-1.html
   * db2top Database Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-2.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
@@ -1898,6 +1902,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/07/the-self-tuning-memory-manager-stmm/
 * Lock wait
   * Locking issues. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/02/locking-issues.html
+  * Terminate Lock chain applications. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=411
   * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
   * How to troubleshoot DB2 lock waits. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/02/how-to-troubleshoot-db2-lock-waits.html
@@ -2853,6 +2858,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Count Rows When Loading.  Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30318
   * Script to Reduce the tablespace size and reduce the free pages. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/10/script-to-reduce-tablespace-size-and-reduce-free-pages.html
 * Scripting
+  * Finding Lock waits in DB2. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=485
   * Do your uninstall scripts leave something behind? The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/testing-that-your-uninstall-scripts-leave-nothing-behind.html
   * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/08/30/powershell-script-for-local-db2-database-activation/
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
