@@ -3528,6 +3528,8 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
     * (Space occupancy of Db2 tables) Ocupación espacio de tablas DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/ocupacion-espacio-de-tablas-db2/
   * SysIBMAdm.Snap_Get_Tab_Reorg
     * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
+  * SysIBMAdm.Snap_Get_Tbsp_Part
+    * An sql to find out how full your db2 tablespace is on UDB. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=29
   * SysIBMAdm.SnapAppl
     * How to troubleshoot DB2 lock waits. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/02/how-to-troubleshoot-db2-lock-waits.html
   * SysIBMAdm.SnapAppl_Info
@@ -3692,6 +3694,7 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * Finding the access path for Columnar queries #2. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-2/
   * Finding the access path for Columnar queries #3. db2geek. Mark Gillis. 2018. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-3/
 * Tablespace
+  * An sql to find out how full your db2 tablespace is on UDB. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=29
   * Table Space Auto-resize in Real DB2 World. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/06/table-space-auto-resize-in-real-db2.html
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
   * db2top Tablespaces Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-1.html
