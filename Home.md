@@ -204,6 +204,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * "db2 connect" does not check the connection - Test an active connection. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/05/db2-connect-does-not-check-connection.html
 * Backup
   * How to backup and extract the recovery history file from a database backup? IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21994689
+  * Did you backup the database ?? – Part 1. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=325
   * DB2 backup script on Linux. Berthou.com. 2008. Blog - http://www.berthou.com/us/2008/01/31/db2-backup-script-on-linux/
   * DB2 backup script on Linux. Berthou.com. 2008. Blog - http://www.berthou.com/us/2008/01/10/windows-script-for-a-db2-backup/
   * SSV Backup. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/08/ssv-backup.html
@@ -389,7 +390,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Identify invalid characters in a script. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/04/identify-invalid-characters-in-script.html
   * Using UNICODE characters, no matter the encoding of the script in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/using-unicode-characters-no-matter.html
 * Check pending
-  * Don’t get caught in check pending. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=419
+  * Don’t get caught in check pending. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=419
 * Circular Logging
   * How Will Logging Process happen in DB2?. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/01/how-logging-process-will-happen-in-db2.html
 * CLI
@@ -410,6 +411,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * PkgCache #28: Easier to use when drunk. The Whole Package Cache. Ian Bjorhovde, Fred Sobotka. 2016. Podcast - http://www.pkgcache.com/28/
   * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
 * CLP - Command Line Processor
+  * DB2 Command Line Processing. techs@work. Raju Pillai. 2012. Blog - http://techsatwork.com/blog/?p=171
   * Escape characters in shell for DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/escape-characters-in-shell-for-db2.html
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
   * Hello, Db2 World! – How to Connect to a Db2 (LUW) Database. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/21/hello-db2-world-how-to-connect-to-a-db2-luw-database/
@@ -640,6 +642,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * SQL1643C on Rollforward. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/14/sql1643c-on-rollforward/
 * Date
   * Make my day. 154 PM. Bernd Kuennen. 2008. Blog - http://154pm.blogspot.com/2008/02/make-my-day.html
+  * first and last day of the month. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=339
   * Getting records based on the first and last days of a month. DBMSguy.com. Paul Mayhew. 2009. Blog - http://dbmsguy.com/blog/2009/12/getting-records-based-on-the-first-and-last-days-of-a-month/
   * (Getting date and time in Db2) Obtener fecha y hora en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/inicio_automatico_instancia_db2_db2iauto/
   * (Operations with dates in Db2) Operaciones con fechas en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/trucos/operaciones-con-fechas-db2/
@@ -740,6 +743,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * DB2AutoStart
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
 * db2batch
+  * Nice to meet you db2batch ! techs@work. Raju Pillai. 2012. Blog - http://techsatwork.com/blog/?p=161
   * Where a DB Request Spends Time? DB2 Diary from Radhesh. Radhesh Kumar. 2009. Blog - http://radheshk.blogspot.com/2009/01/while-analyzing-slow-response-or-poor.html
   * Repeat a SQL Multiple Times with db2batch. Blogs @ Steinway Wu. Steinway Wu. 2009. Blog - https://steinwaywu.ghost.io/repeat-a-sql-multiple-times-with-db2batch/
   * Performance tuning tools and methodology. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/performance-tuning-tools-and-methodology_31.html
@@ -763,6 +767,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * db2ckbkp
   * A Peek on DB2 Log Record. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/07/peek-on-db2-log-record.html
   * (Validate a physical db2 backup) Validación backup físico DB2 – db2ckbkp. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/utilidades/validacion-backup-fisico-db2-db2ckbkp/
+* db2ckmig
+  * Upgrading from DB2 V8.2 to DB2 V9.5. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=215
 * db2ckpw
   * How to resolve error SQL30082N reason code 42 when Connect to a database through client. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/04/how-to-resolve-error-sql30082n-reason-code-42.html
   * db2haicu disable / enable and scripting. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11482
@@ -819,6 +825,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * db2fm
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
 * db2fmd
+  * Upgrading from DB2 V8.2 to DB2 V9.5. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=215
   * (Problems with the db2fmd process - Fixpack Installation) Problemas con proceso Db2fmd – Instalación FixPacks. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/renombrar-una-base-de-datos-db2/
 * db2fmcd
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
@@ -917,6 +924,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * db2nkill
   * What if db2stop fails ?!? techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=392
 * db2nodes.cfg
+  * Upgrading from DB2 V8.2 to DB2 V9.5. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=215
   * fcm_parallelism + sql6031n. DB2 Knowledge Base Raf. Raf Mathijs. 2013. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2013/10/fcmparallelism-sql6031n.html
   * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
   * DB2 11.1 Rebuild TSA Resources. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11436
@@ -933,6 +941,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * (Db2 command line options - Remove autocommit) Opciones db2 command line – Eliminar autocommit. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/administracion/opciones-db2-command-line-eliminar-autocommit/
 * db2pd
   * Mapping Application to Dynamic SQL. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/03/mapping-application-to-dynamic-sql.html
+  * SQL805N on NULLID.SYS* package – Part 2. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=320
   * DB2 Lock. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-lock/
   * New options for analyzing lock timeouts in DB2 9.5. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/new-options-for-analyzing-lock-timeouts-in-db2-9-5/
   * (Another method to identify unused indexes in Db2) Otro método para detectar índices no usados en DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/otro-metodo-para-detectar-indices-no-usados-en-db2/
@@ -954,6 +963,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * DB2 performance monitoring with db2pd. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/03/db2-performance-monitoring-with-db2pd.html
   * Building a Sandbox VM for DB2. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/01/19/building-a-sandbox-vm-for-db2/
 * db2profile
+  * DB2 Command Line Processing. techs@work. Raju Pillai. 2012. Blog - http://techsatwork.com/blog/?p=171
   * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/22/db2-basics-levels-of-configuration/
   * Hello, Db2 World! – How to Connect to a Db2 (LUW) Database. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/21/hello-db2-world-how-to-connect-to-a-db2-luw-database/
 * db2rbind
@@ -1291,6 +1301,7 @@ http://blog.4loeser.net/2017/10/use-db2-as-cloud-sql-database-with.html
 * Escape characters
   * Escape characters in shell for DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/escape-characters-in-shell-for-db2.html
 * Event monitor
+  * Event monitor in DB2. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=342
   * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues. DeveloperWorks. Dirk Fechner. 2010. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
   * New options for analyzing lock timeouts in DB2 9.5. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/new-options-for-analyzing-lock-timeouts-in-db2-9-5/
   * DB2 monitoring: Tracing SQL statements by using an activity event monitor. developerWorks. Scott Walkty and Mike Springgay. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1401sqltrace/
@@ -1652,6 +1663,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * DB2 Example Scripts for “The Join Operation”. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/example-schema/db2/join
   * DB2 Example Scripts for “3-Minute Test”. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/example-schema/db2/3-minute-test
   * SQL on Fire! Part 2. WAIUG. Serge Rielau. 2006. Presentation - http://www.waiug.org/present/Forum2006/Presentations/SQLonFire_2_Serge_Rielau.ppt
+  * Are my indexes used ? techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=360
   * db2top Tablespaces Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-1.html
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
   * db2top Bufferpools Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-1.html
@@ -1751,6 +1763,7 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * Selected common SQL features for developers of portable DB2 applications. DeveloperWorks. 2016. Article - http://www.ibm.com/developerworks/data/library/techarticle/db2common/index.html
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Isolation
+  * Nice to meet you db2batch ! techs@work. Raju Pillai. 2012. Blog - http://techsatwork.com/blog/?p=161
   * Determine the effective isolation level in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Peter Schurr. 2011. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1107db2isolationlevel/index.html
   * Parameter Wednesday: DB2 Registry DB2_EVALUNCOMMITTED. db2commerce. Ember Crooks. 2012. Blog - http://db2commerce.com/2012/06/27/parameter-wednesday-db2-registry-db2_evaluncommitted/
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
@@ -1852,7 +1865,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Combining Db2 and Cloud Object Storage. Data Henrik. Henrik Loeser. 2017. Blog - 
 http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Load
-  * Don’t get caught in check pending. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=419
+  * Don’t get caught in check pending. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=419
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
   * DB2 Export and Load Using Compression & Named Pipes. dbawesome. Elder Lira. 2013. Blog - http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.html
   * DB2 Tips n Tricks Part 37 - How To Load Compressed Files directly without Extracting to Harddisk. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=FT3UBxpeR9k
@@ -1881,7 +1894,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
     * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues. DeveloperWorks. Dirk Fechner. 2010. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
   * DB2 problem determination using db2top utility. DeveloperWorks. Tao Wang and Shen Li. 2008. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0812wang/index.html
   * Locking issues. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/02/locking-issues.html
-  * Finding Lock waits in DB2. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=485
+  * Finding Lock waits in DB2. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=485
   * db2top Database Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-1.html
   * db2top Database Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-2.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
@@ -1910,7 +1923,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/07/the-self-tuning-memory-manager-stmm/
 * Lock wait
   * Locking issues. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/02/locking-issues.html
-  * Terminate Lock chain applications. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=411
+  * Terminate Lock chain applications. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=411
   * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
   * How to troubleshoot DB2 lock waits. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/02/how-to-troubleshoot-db2-lock-waits.html
@@ -2036,6 +2049,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * MEET DB2: automated database migration evaluation. ACM Digital Library. Reynold Xin, William McLaren, Patrick Dantressangle, Steve Schormann, Sam Lightstone, Maria Schwenger. 2010. Article - https://dl.acm.org/citation.cfm?id=1920841.1921016
   * 98% Compatibility with Oracle Apps - "Proof". DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/ninetyeightpercent
 * Memory
+  * Track db2’s memory usage. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=364
   * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html
   * db2top Agent Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-2.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
@@ -2232,6 +2246,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Null value
   * Distinctly weak type rules with a constrained twist. DeveloperWorks - SQL Tips for DB2 LUW. Rick Swagerman. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/weak_type?lang=en
 * NullID
+  * SQL805N on NULLID.SYS* package – Part 2. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=320
   * DB2 WSE 9.7 - General Errors. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-error.html
 * Num_Db_Backups
   * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - hhttps://datageek.blog/2018/07/17/the-db2-recovery-history-file/
@@ -2673,6 +2688,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Making SQL PL and PL/SQL sensitive to changes in statistics, and more. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/statistics_sensitive_sql_pl
 * Reorg
   * DB2 LUW Performance: Table Read I/O and Overflows. dbi software - DB2 Performance. Scott Hayes. 2009. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=116
+  * Simple Offline DB2 Reorg Script – Take 2. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=226
   * New reorg formula. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=780
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
   * Issuing a REORG TABLE command to DB2 from VA Smalltalk (and Glorp). Joachims Small World. Joachims Tuchel. 2013. Blog - https://joachimtuchel.wordpress.com/2013/04/24/issuing-a-reorg-table-command-to-db2-from-va-smalltalk-and-glorp/
@@ -2851,6 +2867,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Backup and restore SQL schemas for DB2 Universal Database. Serge Rielau. 2005. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0602rielau/
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
 * Scripts
+  * DB2 Command Line Processing. techs@work. Raju Pillai. 2012. Blog - http://techsatwork.com/blog/?p=171
   * db2 batch scripts – tips and tricks – part 1. DBMSguy.com. Paul Mayhew. 2010. Blog - http://dbmsguy.com/blog/2010/07/db2-batch-scripts-tips-and-tricks-part-1/
   * db2 batch scripts – tips and tricks – part 2. DBMSguy.com. Paul Mayhew. 2010. Blog - http://dbmsguy.com/blog/2010/08/db2-batch-scripts-tips-and-tricks-part-2/
   * Inline database shell scripts using awk. DBMSguy.com. Paul Mayhew. 2010. Blog - http://dbmsguy.com/blog/2010/09/inline-database-shell-scripts/
@@ -2866,7 +2883,12 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Count Rows When Loading.  Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30318
   * Script to Reduce the tablespace size and reduce the free pages. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/10/script-to-reduce-tablespace-size-and-reduce-free-pages.html
 * Scripting
-  * Finding Lock waits in DB2. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=485
+  * Simple Offline DB2 Reorg Script – Take 2. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=226
+  * SQL805N on NULLID.SYS* package – Part 2. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=320
+  * Did you backup the database ?? – Part 1. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=325
+  * Are my indexes used ? techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=360
+  * Track db2’s memory usage. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=364
+  * Finding Lock waits in DB2. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=485
   * Do your uninstall scripts leave something behind? The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/testing-that-your-uninstall-scripts-leave-nothing-behind.html
   * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/08/30/powershell-script-for-local-db2-database-activation/
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
@@ -3751,6 +3773,7 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
 # U
 
 * Ubuntu
+  * DB2 on Ubuntu. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=320
   * Strange Problem Installing DB2 11.1, Fix/Mod Pack 1 on Ubuntu. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2017/01/06/strange-problem-installing-db2-11-1-fixmod-pack-1-on-ubuntu/
   * Building a Sandbox VM for DB2. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/01/19/building-a-sandbox-vm-for-db2/
   * How to install Db2 11.1 in Ubuntu 18.04. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/05/how-to-install-db2-111-in-ubuntu-1804.html
@@ -4013,6 +4036,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 
 # Number
 
+* 9.1
+  * Full steam ahead with DB2 LUW versions ! Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=191
 * 9.7
   * New in DB2 for LUW 9.7.2: UDF default parameters. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/new-in-db2-for-luw-9-7-2-udf-default-parameters.html
 * 10.5
