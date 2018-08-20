@@ -1812,6 +1812,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Inline SQL PL
   * Inline SQL PL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/inline-sql-pl/
 * Inplace Reorg
+  * DB2 inplace reorg. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=132
   * Difference between Online Reorg and Offline Reorg in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/difference-between-online-and-offline-reorg-db2.html
 * Introduction
   * Db2 SQL Tutorial 1 - Intro to Db2. CaleTheVideoMaker2. Caleb Curry. 2017. Video - https://www.youtube.com/watch?v=aMnBCOq9qrk
@@ -2558,6 +2559,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * PHP
   * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
+  * Configuring PHP to work with DB2. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=145
   * DB2, LINUX AND PHP. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-and-php/
 * Physical design
   * Best Practices - Physical Database Design. IBM. Sam Lightstone, Christopher Tsounis, Agatha Colangelo, Steven Tsounis. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_Physical_Design_0508I.pdf
@@ -2802,6 +2804,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Making SQL PL and PL/SQL sensitive to changes in statistics, and more. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/statistics_sensitive_sql_pl
 * Reorg
   * DB2 LUW Performance: Table Read I/O and Overflows. dbi software - DB2 Performance. Scott Hayes. 2009. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=116
+  * DB2 inplace reorg. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=132
   * Simple Offline DB2 Reorg Script – Take 2. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=226
   * New reorg formula. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=780
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
@@ -2819,6 +2822,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Reorg Pointer
   * What are the different phases of Online & Offline Reorg in DB2 ?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/what-are-different-phases-of-online-and-offline-reorg-db2.html
 * ReorgChk
+  * DB2 inplace reorg. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=132
   * Determing whether a reorg could benefit performance without using reorgchk. DB2 Knowledge Base Raf. Raf Mathijs. 2015. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2015/03/determing-whether-reorg-could-benefit.html
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
 * Repair
@@ -2998,6 +3002,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Count Rows When Loading.  Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30318
   * Script to Reduce the tablespace size and reduce the free pages. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/10/script-to-reduce-tablespace-size-and-reduce-free-pages.html
 * Scripting
+  * DB2 inplace reorg. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=132
   * Simple Offline DB2 Reorg Script – Take 2. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=226
   * SQL805N on NULLID.SYS* package – Part 2. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=320
   * Did you backup the database ?? – Part 1. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=325
