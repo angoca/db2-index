@@ -696,6 +696,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * DB2_KEEPTABLELOCK
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * DB2_KILL
+  * What if db2stop fails ?!? techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=392
   * (DB2_KILL - What to do when a Db2 instance does not stop) DB2_KILL – ¿Qué hacer si una instancia DB2 no se para?. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/db2_kill-%c2%bfque-hacer-si-una-instancia-db2-no-se-para/
 * DB2_MAX_NON_TABLE_LOCKS
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
@@ -913,6 +914,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * db2mtrk
   * db2top: Memory screen and db2mtrk (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-and-db2mtrk-video.html
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
+* db2nkill
+  * What if db2stop fails ?!? techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=392
 * db2nodes.cfg
   * fcm_parallelism + sql6031n. DB2 Knowledge Base Raf. Raf Mathijs. 2013. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2013/10/fcmparallelism-sql6031n.html
   * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
@@ -992,6 +995,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * How to setup logical data partitioning in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/how-to-setup-logical-data-partitioning-in-db2.html
   * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/22/db2-basics-levels-of-configuration/
 * db2stop
+  * What if db2stop fails ?!? techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=392
   * (DB2_KILL - What to do when a Db2 instance does not stop) DB2_KILL – ¿Qué hacer si una instancia DB2 no se para?. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/db2_kill-%c2%bfque-hacer-si-una-instancia-db2-no-se-para/
 * db2support
   * Solve IBM BPM performance issues with IBM DB2 examples. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz2-trs/1509_volz2.html
@@ -1734,8 +1738,12 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
 * IP address
   * Determining Which IP Address Db2 Connections are Connecting To. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/05/03/determining-which-ip-address-db2-connections-are-connecting-to/
 * IPC - Inter-Process Communication
+  * What if db2stop fails ?!? techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=392
   * DB2 UNEXPECTED OS ERROR. THIS MOST LIKELY MEANS THAT RESOURCES HAVE BEEN TORN DOWN FROM UNDERNEATH THE PREFETCHER. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/08/05/db2-unexpected-os-error-this-most-likely-means-that-resources-have-been-torn-down-from-underneath-the-prefetcher/
+* ipclean
+  * What if db2stop fails ?!? techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=392
 * ipcs
+  * What if db2stop fails ?!? techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=392
   * (DB2_KILL - What to do when a Db2 instance does not stop) DB2_KILL – ¿Qué hacer si una instancia DB2 no se para?. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/db2_kill-%c2%bfque-hacer-si-una-instancia-db2-no-se-para/
 * Iterate
   * ITERATE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/iterate/
