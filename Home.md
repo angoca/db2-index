@@ -623,7 +623,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Database manager
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
 * Database partition
-  * Benefits of Data Partitioning and MDC ! techs@work. Raju Pillai. 2011. Blog - http://techsatwork.com/blog/?p=825
+  * Benefits of Data Partitioning and MDC ! techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=825
   * db2top Agent Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-2.html
   * db2top Skew Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-skew-screen.html
   * Establishing a performance tuning strategy. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/establishing-performance-tuning-strategy.html
@@ -676,6 +676,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * New options for analyzing lock timeouts in DB2 9.5. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/new-options-for-analyzing-lock-timeouts-in-db2-9-5/
 * DB2_COMPATIBILITY_VECTOR
   * (Compatibility of Db2 with Oracle: DB2 9.7 CLP PLUS (1/2)) Compatibilidad de DB2 con ORACLE: DB2 9.7 CLP PLUS (1/2). DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/compatibilidad-de-db2-con-oracle-db2-9-7-clp-plus-12/
+* db2_deinstall
+  * Uninstall DB2 on Linux. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=558
 * DB2_ENABLE_HADR_LOG_PAGE_INTEGRITY_CHECK
   * Improve Db2 HADR Resilience of Network Transmission Corruptions. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/improve-db2-hadr-resilience-of-network.html
 * DB2_EVALUNCOMMITTED
@@ -853,11 +855,13 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * GPFS Disk Cleanup. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11458
 * db2idrop
   * How to Recreate DB2 Instance. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/01/how-to-recreate-db2-instance.html
+  * Uninstall DB2 on Linux. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=558
   * Clean-up pureScale. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/491
 * db2idrop_local
   * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
 * db2ilist
   * (List Db2 instances of a server) Listar instancias DB2 de un servidor. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/utilidades/listar-instancias-db2-de-un-servidor/
+  * Uninstall DB2 on Linux. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=558
 * db2initdb
   * DB2 Write Suspend. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/backup_recovery/db2-write-suspend/
 * db2instance
@@ -2239,6 +2243,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Seven Surprising Findings About DB2. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/blog/2014-11/seven-surprising-findings-about-DB2
 * OLAP
   * How to number your sql results. DBMSguy.com. Paul Mayhew. 2009. Blog - http://dbmsguy.com/blog/2009/05/how-to-number-your-sql-results/
+  * Over and Partition by on SQL for aggregation. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=515
   * The trouble of combining DISTINCT with ORDER BY. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/distinct_order_by
   * Who's the most popular kid on the block?. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/stats_mode
 * OLAP Function
@@ -2371,6 +2376,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Performance
   * Best Practices - Writing and Tuning Queries for Optimal Performance. IBM. John Hornibrook, Nina Kolunovsky. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_Query_Tuning_0508I.pdf
   * IBM Performance Analysis Suite. DeveloperWorks. Bryan Tsai. Tool - https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=28cb6d68-ab67-4203-96f9-5538e654a5ff
+  * Take your measuring cup! techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=657
   * Writing applications with the Java API. DeveolperWorks. Marion Behnen, Henry Chiu, Jyh-Chen Fang, Manish Sehgal, and Tony Sun. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1307nosqlforjson3/index.html
   * Best Practices for Optimizing DB2 Performance. DatAvail. Webminar - http://www.datavail.com/datavail-resources/webinar-optimizing-db2-performance/
   * DB2 problem determination using db2top utility. DeveloperWorks. Tao Wang and Shen Li. 2008. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0812wang/index.html
@@ -2429,7 +2435,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
 * Pivot
   * SQL on Fire! Part 1. WAIUG. Serge Rielau. 2006. Presentation - http://www.waiug.org/present/Forum2006/Presentations/SQLonFire_1_Serge_Rielau.ppt
-  * DB2 Pivot Table – 1. techs@work. Raju Pillai. 2011. Blog - http://techsatwork.com/blog/?p=898
+  * DB2 Pivot Table – 1. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=898
 * PL/SQL
   * 98% Compatibility with Oracle Apps - "Proof". DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/ninetyeightpercent
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
@@ -2654,6 +2660,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Making SQL PL and PL/SQL sensitive to changes in statistics, and more. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/statistics_sensitive_sql_pl
 * Reorg
   * DB2 LUW Performance: Table Read I/O and Overflows. dbi software - DB2 Performance. Scott Hayes. 2009. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=116
+  * New reorg formula. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=780
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
   * Issuing a REORG TABLE command to DB2 from VA Smalltalk (and Glorp). Joachims Small World. Joachims Tuchel. 2013. Blog - https://joachimtuchel.wordpress.com/2013/04/24/issuing-a-reorg-table-command-to-db2-from-va-smalltalk-and-glorp/
   * Automatic Table Maintenance Self-controlled. Berst Blog. Bert van Langen. 2014. Blog - https://web.archive.org/web/20160308072705/https://blog.bertvanlangen.com/db2/automatic-table-maintenance-self-controlled/
@@ -2684,7 +2691,9 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Replay only window
   * Format and display Db2 log file information using db2fmtlog. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/format-and-display-db2-log-file.html
   * Monitoring the replay-only-window on a Db2 HADR standby database. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/monitoring-replay-only-window-on-db2_28.html
-* Requiriments
+* Replication center
+  * Does your cup of Java get null point exception ? techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=622
+* Requirements
   * Step by Step installation of DB2 V10.5 on Linux. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/04/step-by-step-installation-of-db2-v105-Linux.html
 * Resignal
   * RESIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/resignal/
@@ -3748,6 +3757,7 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * Identify invalid characters in a script. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/04/identify-invalid-characters-in-script.html
   * Using UNICODE characters, no matter the encoding of the script in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/using-unicode-characters-no-matter.html
 * Uninstall
+  * Uninstall DB2 on Linux. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=558
   * DB2 – UNINSTALL. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-uninstall/
 * Union all
   * Creating recursive functions and procedures in SQL PL. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/recursive_sql_pl
