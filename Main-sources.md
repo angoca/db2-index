@@ -59,11 +59,13 @@ These blogs are not longer updated 😞
 * Oscar Paredes - DB2 Util. http://www.db2util.es/
   * All articles (Between 2010 and 2014 - Complete).
 * TeknoMagus. https://technomagus.wordpress.com
-  * All articles related to Db2 (Between 2010 to 2013 - Complete).
+  * All articles related to Db2 (Between 2010 and 2013 - Complete).
 * Joachims Tuchel - Joachims Small World. https://joachimtuchel.wordpress.com
-  * All articles related to Db2 (Between 2010 to 2013 - Complete).
+  * All articles related to Db2 (Between 2010 and 2013 - Complete).
 * Paul Mayhew - DBMSguy.com. http://dbmsguy.com/
-  * All articles related to Db2 (Between 2009 to 2013 - Complete).
+  * All articles related to Db2 (Between 2009 and 2013 - Complete).
+* Raju Pillai - techs@work. http://techsatwork.com/blog/?tag=db2
+  * All articles related to Db2 (Between 2009 and 2012 - Complete).
 * Keith McDonald - The K guy (Blog about db2top and some SQL PL). http://www.thekguy.com
   * All articles about Db2 (Between 2009 and 2010 - Complete).
 * Nagendra - DB2 queries (Blog about technical stuff). http://learndb.blogspot.com.co/
@@ -111,5 +113,4 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * https://db2talk.wordpress.com/
 * https://saurabhska.wordpress.com/tag/db2-luw/
 * https://www.ibm.com/developerworks/community/blogs/IMSupport?tags=db2_techtip&lang=en
-* http://techsatwork.com/blog/?tag=db2
 
