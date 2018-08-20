@@ -573,6 +573,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Cursors. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/cursor/
   * DECLARE CURSOR statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/declare-cursor/
   * FOR statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/for/
+  * SQL805N on NULLID.SYS* package. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=31
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * Loading db2 tables from another database. techs@work. Raju Pillai. 2012. Blog - http://techsatwork.com/blog/?p=1270
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
@@ -862,6 +863,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * db2expln
   * Seven Surprising Findings About DB2. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/blog/2014-11/seven-surprising-findings-about-DB2
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
+* db2extsec
+  * Resetting DB2 file permissions. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=41
 * db2flsn
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
@@ -1081,6 +1084,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * New options for analyzing lock timeouts in DB2 9.5. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/new-options-for-analyzing-lock-timeouts-in-db2-9-5/
 * db2se
   * Acquiring spatial data and developing applications. DeveloperWorks. David Adler. 2016. Article - http://www.ibm.com/developerworks/data/tutorials/dm-1202db2spatialdata1/index.html
+* db2secv82
+  * Resetting DB2 file permissions. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=41
 * db2set
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
@@ -1481,6 +1486,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 
 * Fail Archive Path - FailArchPath
   * CONFIGURE ARCHIVE LOGGING IN DB2 LUW DATABASE. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/configure-archive-logging-in-db2-luw-database/
+* Fail back
+  * Back to the past in DB2 ! Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=91
 * Failover
   * Client Connections in a TSA/HADR cluster – Part 1. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-1/
 * Family, Db2
@@ -1697,6 +1704,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * DECLARE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/declare/
   * RESIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/resignal/
   * SQL on Fire! Part 1. WAIUG. Serge Rielau. 2006. Presentation - http://www.waiug.org/present/Forum2006/Presentations/SQLonFire_1_Serge_Rielau.ppt
+* Handles
+  * SQL805N on NULLID.SYS* package. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=31
 * Hash join - HSJOIN
   * DB2 LUW Execution Plan Operations. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/explain-plan/db2/operations
   * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html
@@ -2361,6 +2370,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Null value
   * Distinctly weak type rules with a constrained twist. DeveloperWorks - SQL Tips for DB2 LUW. Rick Swagerman. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/weak_type?lang=en
 * NullID
+  * SQL805N on NULLID.SYS* package. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=31
   * SQL805N on NULLID.SYS* package – Part 2. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=320
   * DB2 WSE 9.7 - General Errors. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-error.html
 * Num_Db_Backups
@@ -2453,6 +2463,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 
 # P
 
+* Packages
+  * SQL805N on NULLID.SYS* package. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=31
 * Package cache
   * Solve IBM BPM performance issues with IBM DB2 examples. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz2-trs/1509_volz2.html
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
@@ -2804,6 +2816,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Making SQL PL and PL/SQL sensitive to changes in statistics, and more. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/statistics_sensitive_sql_pl
 * Reorg
   * DB2 LUW Performance: Table Read I/O and Overflows. dbi software - DB2 Performance. Scott Hayes. 2009. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=116
+  * Simple DB2 Reorg Script – Take 1. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=83
   * DB2 inplace reorg. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=132
   * Simple Offline DB2 Reorg Script – Take 2. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=226
   * New reorg formula. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=780
@@ -2949,6 +2962,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/01/18/high-availability-options-for-db2-luw/
 * Runstats
+  * Automated runstats – take 2. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=71
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
   * Lazy RUNSTATS using SYSPROC.ADMIN_CMD. Dangerous DBA. Philip Carrington. 2012. Blog - http://www.dangerousdba.com/lazy-runstats-using-sysproc-admin_cmd/
   * Runstats on data change percentage. Berst Blog. Bert van Langen. 2014. Blog - https://web.archive.org/web/20160308061053/https://blog.bertvanlangen.com/db2/runstats-data-change-percentage/
@@ -3002,6 +3016,9 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Count Rows When Loading.  Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30318
   * Script to Reduce the tablespace size and reduce the free pages. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/10/script-to-reduce-tablespace-size-and-reduce-free-pages.html
 * Scripting
+  * A Shell script to get total space allocated in a database. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=44
+  * Automated runstats – take 2. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=71
+  * Simple DB2 Reorg Script – Take 1. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=83
   * DB2 inplace reorg. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=132
   * Simple Offline DB2 Reorg Script – Take 2. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=226
   * SQL805N on NULLID.SYS* package – Part 2. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=320
