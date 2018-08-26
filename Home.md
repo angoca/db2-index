@@ -270,6 +270,8 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Binary-coded decimal - BCD
   * Size matters: A handy routine to compute the defined row size of a table. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/getrowsize
 * Bind
+  * First Article – DB2 Fix Packs. db2Dean. Dean Compher. 2006. Blog - http://www.db2dean.com/Previous/FixPak.html
+  * DB2 Connect® Usage and Editions. db2Dean. Dean Compher. 2007. Blog - http://www.db2dean.com/Previous/DB2Connect.html
   * Parameter Wednesday: DB2 Registry DB2_EVALUNCOMMITTED. db2commerce. Ember Crooks. 2012. Blog - http://db2commerce.com/2012/06/27/parameter-wednesday-db2-registry-db2_evaluncommitted/
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
 * Blk_Log_Dsk_Ful (HADR)
@@ -664,6 +666,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * IBM DB2. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2
   * IBM DB2 Express-C. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2_Express-C
   * DB2 UDB. Wikipedia. Wiki - https://en.wikipedia.org/wiki/DB2_UDB
+* Db2 Connect
+  * DB2 Connect® Usage and Editions. db2Dean. Dean Compher. 2007. Blog - http://www.db2dean.com/Previous/DB2Connect.html
 * DB2 Direct
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
 * DB2 Log Scanner
@@ -1544,6 +1548,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Fixpack
   * Fix List for DB2 Version 10.5 for Linux, UNIX and Windows. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21633303
   * V.R.M.F Maintenance Stream Delivery Vehicle terminology explanation. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg27008656
+  * First Article – DB2 Fix Packs. db2Dean. Dean Compher. 2006. Blog - http://www.db2dean.com/Previous/FixPak.html
   * DB2 pureScale – Online Rolling update. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/490
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
   * New Mod Pack and Fix Pack for DB2 V11 available now. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/12/new-mod-pack-and-fix-pack-for-db2-v11.html
@@ -1650,6 +1655,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 # H
 
 * HA
+  * High Availability Options for DB2/LUW. db2Dean. Dean Compher. 2007 (2015). Blog - http://www.db2dean.com/Previous/HAOpt.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/01/18/high-availability-options-for-db2-luw/
 * HADR - High Availability Disaster Recovery
@@ -1912,6 +1918,7 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * DB2 JDBC Driver Versions. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21363866
   * Knowledge Collection: DB2 JDBC driver issues. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21358484
   * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
+  * DB2 Connect® Usage and Editions. db2Dean. Dean Compher. 2007. Blog - http://www.db2dean.com/Previous/DB2Connect.html
   * How to know if Java clients in Db2 are using an updated driver. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/how-to-know-if-java-clients-in-db2-are.html
 * Join
   * DB2 LUW Execution Plan Operations. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/explain-plan/db2/operations
@@ -1989,6 +1996,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Combining Db2 and Cloud Object Storage. Data Henrik. Henrik Loeser. 2017. Blog - 
 http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Load
+  * Replicating Data Loads from a DB2 9 HADR - Primary Server to a Standby Server. db2Dean. Craig Maddux. 2007. Blog - http://www.db2dean.com/Previous/FixPak.html
   * Don’t get caught in check pending. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=419
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
   * DB2 Export and Load Using Compression & Named Pipes. dbawesome. Elder Lira. 2013. Blog - http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.html
@@ -2136,6 +2144,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * lssam
   * Client Connections in a TSA/HADR cluster – Part 1. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-1/
   * Client Connections in a TSA/HADR cluster- Part 3. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-3/
+* LUW - Linux, UNIX & Windows
+  * DB2 Connect® Usage and Editions. db2Dean. Dean Compher. 2007. Blog - http://www.db2dean.com/Previous/DB2Connect.html
 
 # M
 
@@ -2656,6 +2666,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * DB2 WSE 9.7 - General Errors. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-error.html
   * Authentication & Authorization process in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/authentication-and-authorization-process-in-db2.html
 * PureScale
+  * High Availability Options for DB2/LUW. db2Dean. Dean Compher. 2007 (2015). Blog - http://www.db2dean.com/Previous/HAOpt.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * Configure parameters for IBM Data Server Driver for JDBC and SQLJ against HADR for DB2 pureScale. DeveloperWorks. Sujan Ghosh and Vinayak Joshi. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1509hadr-purescale/index.html
   * DB2 pureScale – Online Rolling update. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/490
@@ -2749,12 +2760,13 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * db2top Bufferpools Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-2.html
   * db2top Tables Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-1.html
   * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487
-* Reads on Standby - ROS
-  * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/01/18/high-availability-options-for-db2-luw/
-  * Monitoring the replay-only-window on a Db2 HADR standby database. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/monitoring-replay-only-window-on-db2_28.html
 * Read Stability - RS
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
   * Reducing Contention: Changing Default Isolation Level for Websphere Commerce (WCS). db2commerce. Michael Krafick. 2017. Blog - http://db2commerce.com/2017/11/02/reducing-contention-changing-default-isolation-level-for-websphere-commerce-wcs/
+* Reads on Standby - ROS
+  * High Availability Options for DB2/LUW. db2Dean. Dean Compher. 2007 (2015). Blog - http://www.db2dean.com/Previous/HAOpt.html
+  * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/01/18/high-availability-options-for-db2-luw/
+  * Monitoring the replay-only-window on a Db2 HADR standby database. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/monitoring-replay-only-window-on-db2_28.html
 * Reads SQL data
   * DB2 Stored Procedures and Defaults. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2-stored-procedures-and-defaults.html
   * DB2 Stored Procedures and Defaults (Conclusion). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/stored-procedures-and-defaults-conclusion.html
@@ -2852,6 +2864,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Replay only window
   * Format and display Db2 log file information using db2fmtlog. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/format-and-display-db2-log-file.html
   * Monitoring the replay-only-window on a Db2 HADR standby database. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/monitoring-replay-only-window-on-db2_28.html
+* Replication
+  * High Availability Options for DB2/LUW. db2Dean. Dean Compher. 2007 (2015). Blog - http://www.db2dean.com/Previous/HAOpt.html
 * Replication center
   * Does your cup of Java get null point exception ? techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=622
 * Requirements
@@ -3357,6 +3371,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Staging tables
   * An introduction to materialized query tables. DeveloperWorks. Roman Melnyk. 2005. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0509melnyk/
 * Stand by
+  * Replicating Data Loads from a DB2 9 HADR - Primary Server to a Standby Server. db2Dean. Craig Maddux. 2007. Blog - http://www.db2dean.com/Previous/FixPak.html
+  * High Availability Options for DB2/LUW. db2Dean. Dean Compher. 2007 (2015). Blog - http://www.db2dean.com/Previous/HAOpt.html
   * Perform LOB inlining in an HADR environment for a standby database. DeveloperWorks. Somraj Chakrabarty and Suvradeep Sensarma. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1508lob-hadr-standby/index.html
   * Improve Db2 HADR Resilience of Network Transmission Corruptions. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/improve-db2-hadr-resilience-of-network.html
   * Client Connections in a TSA/HADR cluster – Part 1. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-1/
@@ -3847,6 +3863,7 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * DB2 Security: Privilege(d) Insight. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/06/db2-security-privileged-insight.html
   * Secure Your Db2 Data Base - Using Trusted Contexts. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/08/secure-your-db2-data-base-using-trusted.html
 * TSA, TSAMP - Tivoli System Automation for Multiple Platform
+  * High Availability Options for DB2/LUW. db2Dean. Dean Compher. 2007 (2015). Blog - http://www.db2dean.com/Previous/HAOpt.html
   * Automating HADR on DB2 10.1 for Linux, UNIX and Windows Failover Solution Using Tivoli System Automation for Multiplatforms. IBM. 2014. Whitepaper - http://public.dhe.ibm.com/software/dw/im/dm-0907hadrdb2haicu/db2-10-hadr-tsa.pdf
   * Automated cluster controlled HADR configuration setup using the IBM DB2 high availability instance configuration utility. DeveloperWorks. Steve Raspudic, Malaravan Ponnuthurai. 2016. Article - http://www.ibm.com/developerworks/data/library/long/dm-0907hadrdb2haicu/index.html
   * DB2 pureScale – Online Rolling update. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/490
