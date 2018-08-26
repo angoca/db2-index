@@ -53,7 +53,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Administration
   * Smart Data Administration e-Kit. DeveloperWorks. 2016. Article - https://www.ibm.com/developerworks/data/kits/dbakit/index.html (List of articles)
 * Advanced Copy Services
-  * Please visit the "ACS" entry.
+  * Please check the "ACS" entry.
 * Agent
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
   * db2top Sessions Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-2.html
@@ -1455,7 +1455,7 @@ http://blog.4loeser.net/2017/10/use-db2-as-cloud-sql-database-with.html
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Crooks. 2013. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
   * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Ember Crooks. 2013. Blog - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
 * Explain_From_Activity
-  * Please checkt the SysProc.Explain_From_Activity entry.
+  * Please check the SysProc.Explain_From_Activity entry.
 * Export
   * (Simple data export of a table in Db2) Export simple datos de una tabla en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/export-simple-datos-de-una-tabla-en-db2/
   * DB2 Export and Load Using Compression & Named Pipes. dbawesome. Elder Lira. 2013. Blog -
@@ -1718,7 +1718,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Hidden tablespaces
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
 * High Availability
-  * Please visit the "HA" entry.
+  * Please check the "HA" entry.
 * High watermark
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
   * Do db2top High Watermarks Give Wrong Answers? The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/do-db2top-high-watermarks-give-wrong-answers.html
@@ -2052,7 +2052,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
   * How to troubleshoot DB2 lock waits. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/02/how-to-troubleshoot-db2-lock-waits.html
 * LockList
-  * Please see the Lock List entry.
+  * Please check the Lock List entry.
 * LockTimeOut
   * Locking issues. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/02/locking-issues.html
   * New options for analyzing lock timeouts in DB2 9.5. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/new-options-for-analyzing-lock-timeouts-in-db2-9-5/
@@ -2773,6 +2773,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * How to backup and extract the recovery history file from a database backup? IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21994689
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
   * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - hhttps://datageek.blog/2018/07/17/the-db2-recovery-history-file/
+  * Recovering from corrupt DB2 Storage Group Control Files. db2geek. Damir Wilder, Iqbal Goralwalla. 2018. Blog - http://db2geek.triton.co.uk/recovering-corrupt-db2-storage-group-control-files/
 * Recovery Time Objetive
   * Please check the "RTO" entry.
 * Recursion
@@ -2985,7 +2986,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Hide the body of a SQL PL Stored Procedure. SQL-PL guide. Documentation - http://www.sqlpl-guide.com/hide-procedure-body/
   * DB2 Tips n Tricks Part 39 - Deploy Stored Procedure without revealing source code. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=WxxKOYee9ZU
 * SARG
-  * Please visit the "Search Argument - SARG" entry.
+  * Please check the "Search Argument - SARG" entry.
 * Savepoint
   * RELEASE SAVEPOINT statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/release-savepoint/
   * ROLLBACK statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/rollback/
@@ -3076,7 +3077,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
 * Self-Tunning Memory Manager
-  * Please visit the "STMM" entry.
+  * Please check the "STMM" entry.
 * Self_Tunning_Mem
   * Self-tuning memory in partitioned database environments. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/self-tuning-memory-in-partitioned-database-environment.html
 * Sequence
@@ -3116,6 +3117,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Please check the SysProc.Set_Routine_Opts entry.
 * Settings
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+* SG control files
+  * Please check the "Storage Group" entry.
 * Skew
   * db2top Agent Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-2.html
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
@@ -3412,6 +3415,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * DB2 10.1 LUW Certification 611 notes 1 : Physical Design. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/db2-10-1-luw-exam-611-notes-physical-design/
   * DB2 Basics: Storage Groups. db2commerce. Ember Brooks. 2014. Blog - http://db2commerce.com/2014/07/22/db2-basics-storage-groups
   * DB2 Tips n Tricks Part 99 - How To Perform Redirected Restore without REDIRECT Keyword. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=B2OWBhNg_E8
+  * Recovering from corrupt DB2 Storage Group Control Files. db2geek. Damir Wilder, Iqbal Goralwalla. 2018. Blog - http://db2geek.triton.co.uk/recovering-corrupt-db2-storage-group-control-files/
 * Stored Procedures
   * Benefits of Stored Procedures. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/benefits-of-stored-procedures/
   * External Stored Procedures. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/external-stored-procedures/
@@ -4126,7 +4130,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Workload Balancing - WLB
   * Configuring SSL for IBM Data Server Driver for ODBC and CLI. DeveloperWorks. Chetan Papaiah, Ashok V. Jose and Chris Meyer. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-ssl-data-server-driver-odbc-cli-trs/index.html
 * Workload Manager
-  * Please refer to the "WLM" entry.
+  * Please check the "WLM" entry.
 * wplistener.bat
   * Using the IBM NoSQL Wire Listener for DB2. DeveolperWorks. Ioannis Papapanagiotou, Marion Behnen, John Paul Parkin, and Jyh-Chen Fang. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson4/index.html
 * wplistener.sh
