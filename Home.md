@@ -137,6 +137,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 Basics: Statement Terminators. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/07/13/db2-basics-statement-terminators/
 * Atomic
   * ATOMIC and NON ATOMIC. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/atomic/
+  * Massive insert in Db2 as an atomic transaction - no auto-commit. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/08/massive-insert-in-db2-as-atomic.html
 * Auth_List_Groups_For_AuthId
   * Please check the SysProc.Auth_List_Groups_For_AuthId entry.
 * Audit
@@ -163,6 +164,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Auto Commit
   * db2 Auto commit option. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-auto-commit-option/
   * (Db2 command line options - Remove autocommit) Opciones db2 command line – Eliminar autocommit. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/administracion/opciones-db2-command-line-eliminar-autocommit/
+  * Massive insert in Db2 as an atomic transaction - no auto-commit. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/08/massive-insert-in-db2-as-atomic.html
 * Auto resize (automatic resize)
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
 * Auto_Del_Rec_Obj
@@ -396,6 +398,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Escape characters in shell for DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/escape-characters-in-shell-for-db2.html
   * Identify invalid characters in a script. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/04/identify-invalid-characters-in-script.html
   * Using UNICODE characters, no matter the encoding of the script in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/using-unicode-characters-no-matter.html
+  * How to fix invalid characters in a Db2 database. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/08/how-to-fix-invalid-characters-in-db2.html
 * chcomg
   * Using TSA/db2haicu to Automate Failover Part 5: Additional Configuration Best Practices. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/08/16/using-tsa-db2haicu-to-automate-failover-part-5-additional-configuration-best-practices/
 * chrsrc
@@ -454,6 +457,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Hello, Db2 World! – How to Connect to a Db2 (LUW) Database. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/21/hello-db2-world-how-to-connect-to-a-db2-luw-database/
 * Command options
   * (Db2 command line options - Remove autocommit) Opciones db2 command line – Eliminar autocommit. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/administracion/opciones-db2-command-line-eliminar-autocommit/
+  * Massive insert in Db2 as an atomic transaction - no auto-commit. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/08/massive-insert-in-db2-as-atomic.html
 * Commands
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
 * Comment
@@ -463,6 +467,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Overview of LOCK ISSUES in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/07/overview-of-lock-issues-in-db2.html
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
   * How Will Logging Process happen in DB2?. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/01/how-logging-process-will-happen-in-db2.html
+  * Massive insert in Db2 as an atomic transaction - no auto-commit. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/08/massive-insert-in-db2-as-atomic.html
 * Common Table Expression - CTE
   * Funny SQL I Have Seen Lately. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/05/funny-sql-i-have-seen-lately/
   * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/29/db2-temporary-table-spaces/
@@ -1406,6 +1411,7 @@ http://blog.4loeser.net/2017/10/use-db2-as-cloud-sql-database-with.html
 * Encoding
   * Problems when executing commands from files in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/09/problems-when-executing-commands-from.html
   * Using UNICODE characters, no matter the encoding of the script in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/using-unicode-characters-no-matter.html
+  * How to fix invalid characters in a Db2 database. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/08/how-to-fix-invalid-characters-in-db2.html
 * End of Support - EOS
   * DB2 Distributed end of support (EOS) dates. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21168270
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
@@ -1447,6 +1453,8 @@ http://blog.4loeser.net/2017/10/use-db2-as-cloud-sql-database-with.html
   * SQL fishing using WLM. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11456
 * EvMon_Upgrade_Tables
   * Please check the SysProc.EvMon_Upgrade_Tables entry.
+* Exception tables
+  * Exception tables for LOAD and SET INTEGRITY in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/08/exception-tables-for-load-and-set.html
 * Execute
   * Dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/dynamic-sql/
   * Example: Select statement in dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-select-statement-in-dynamic-sql/
@@ -2023,6 +2031,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * How to check DB2 LUW load status. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/12/how-to-check-db2-luw-load-status.html
   * How To Perform DB2 Loads in HADR Environment ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/01/24/perform-loads-in-db2-hadr-environment/
   * Import data from a table with generated id in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/import-data-from-table-with-generated.html
+  * Exception tables for LOAD and SET INTEGRITY in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/08/exception-tables-for-load-and-set.html
 * LOB
   * Size matters: A handy routine to compute the defined row size of a table. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/getrowsize
   * Perform LOB inlining in an HADR environment for a standby database. DeveloperWorks. Somraj Chakrabarty and Suvradeep Sensarma. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1508lob-hadr-standby/index.html
@@ -3144,6 +3153,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Set Integrity
   * An introduction to materialized query tables. DeveloperWorks. Roman Melnyk. 2005. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0509melnyk/
   * TRANSFER, COPY OR MOVE DB2 DATABASE FROM LINUX TO WINDOWS. TeknoMagus. 2011. Blog - https://technomagus.wordpress.com/database/ibm-db2/transfer-db2-database-from-linux-to-windows/
+  * Exception tables for LOAD and SET INTEGRITY in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/08/exception-tables-for-load-and-set.html
 * Set Current Optimization
   * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/line-optimization-v11-1/
 * Set_Routine_Opts
@@ -3976,6 +3986,7 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
 * UNICODE
   * Identify invalid characters in a script. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/04/identify-invalid-characters-in-script.html
   * Using UNICODE characters, no matter the encoding of the script in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/using-unicode-characters-no-matter.html
+  * How to fix invalid characters in a Db2 database. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/08/how-to-fix-invalid-characters-in-db2.html
 * Uninstall
   * Uninstall DB2 on Linux. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=558
   * DB2 – UNINSTALL. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-uninstall/
