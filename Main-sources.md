@@ -2,25 +2,25 @@ In this section, the main DB2 sources are described:
 
 * Ember Crooks - DataGeek (Blog about technical stuff 💃 ). https://datageek.blog/
   * Before DB2Commerce. http://db2commerce.com/
-  * Articles since 201607 to 201807
+  * Articles since 201607 to 201808
   * Also articles from http://www.virtual-dba.com/blog/
-    * Articles since 201701 to 201807
+    * Articles since 201701 to 201808
 * Raghu Cherukuru - Raghu On Tech (Blog about different stuff of Db2). https://www.raghu-on-tech.com/
-  * All articles has been indexed. Last update 201807
+  * All articles has been indexed. Last update 201808
 * DB2 Geek (Blog of different things about DB2). http://db2geek.triton.co.uk
-  * Articles since 201601 to 201807
+  * Articles since 201601 to 201808
 * Henrik Loeser - Data Henrik: IT, Life, DB2, and more (Blog about technical stuff). http://blog.4loeser.net/
-  * Articles since 201601 to 201807
+  * Articles since 201601 to 201808
 * David Sciaraffa - ThinkingDB2! (Blog about technical stuff written by a Db2 develoeper 💻 ). http://thinkingdb2.blogspot.com.co/
-  * All articles has been indexed. Last update 201807
+  * All articles has been indexed. Last update 201808
 * Vikram Khatri - Zinox (Blog of technical stuff 📷 ). http://www.zinox.com/
-  * Articles since 201301 to 201807
+  * Articles since 201301 to 201808
 * Jack Vamvas - DBA-DB2. http://www.dba-db2.com/
-  * Articles since 201708 to 201807
+  * Articles since 201708 to 201808
 * Hao Yan - Db2 Reflections. http://db2reflections.blogspot.com.co/
-  * Articles since 201804 to 201804
+  * Articles since 201804 to 201808
 * Andres Gomez Casanova - Ideas for DB2 (Blog about technical stuff). https://angocadb2.blogspot.com.co
-  * Articles since 201601 to 201804
+  * Articles since 201601 to 201808
 * Vinay Kumar Bommana - DB Tutorials (Videos of DB2 🎥 ).
   * https://www.youtube.com/channel/UCo0cIzR_TbMzU5wHQmbTjxQ/videos
   * Vinay's DB2 blog (Blog about technical stuff). http://vinaysdb2blog.blogspot.com.co/
