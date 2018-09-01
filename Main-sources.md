@@ -21,6 +21,7 @@ In this section, the main DB2 sources are described:
   * Articles since 201804 to 201808
 * Andres Gomez Casanova - Ideas for DB2 (Blog about technical stuff). https://angocadb2.blogspot.com.co
   * Articles since 201601 to 201808
+* Michael Krafick - Discover db2 (Video tutorial about Db2). https://www.youtube.com/DISCOVERDB2
 * Vinay Kumar Bommana - DB Tutorials (Videos of DB2 🎥 ).
   * https://www.youtube.com/channel/UCo0cIzR_TbMzU5wHQmbTjxQ/videos
   * Vinay's DB2 blog (Blog about technical stuff). http://vinaysdb2blog.blogspot.com.co/
