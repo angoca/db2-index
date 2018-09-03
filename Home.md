@@ -1284,6 +1284,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Db2 SQL Tutorial 2 - Getting Started with Db2 and DSM. CaleTheVideoMaker2. Caleb Curry. 2017. Video - https://www.youtube.com/watch?v=DXDAX2t953c
   * IBM’s June Announcements About DB2. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/06/23/ibms-june-announcements-about-db2/
   * Enterprise Database Software for Free – IBM Db2. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/ibm-db2-software-free/
+  * (Ep. 01) - Db2 Developer Ed. Installation and Basics. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=QvfQPq-8YU8
 * Development
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Device Read Rate
@@ -1348,6 +1349,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Download
   * Db2 Basics: Using FTPS to get a Fixpack Directly to a Db2 Server. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/02/01/db2-basics-using-ftps-to-get-a-fixpack-directly-to-a-db2-server/
   * Product identifier when installing Db2 (productShortName). Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/06/product-identifier-when-installing-db2.html
+  * (Ep. 01) - Db2 Developer Ed. Installation and Basics. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=QvfQPq-8YU8
 * DPF - Data Partitioning Feature
   * DB2 Partitioning. DB2 Diary from Radhesh. Radhesh Kumar. 2007. Blog - http://radheshk.blogspot.com/2007/12/db2-partitioning.html
   * db2top -P. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-feature-of-the-day-command-line-options-p.html
@@ -1879,6 +1881,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * DBI1131E error when installing Db2 clie. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/05/dbi1131e-error-when-installing-db2.html
   * Product identifier when installing Db2 (productShortName). Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/06/product-identifier-when-installing-db2.html
   * Evaluation license when installing a Fixpack. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/06/evaluation-license-when-installing.html
+  * (Ep. 01) - Db2 Developer Ed. Installation and Basics. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=QvfQPq-8YU8
 * installFixPack
   * Using db2prereqcheck to Check Prerequisites for DB2 LUW. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2prereqcheck-check-prerequisites-db2-luw/
 * Instance
