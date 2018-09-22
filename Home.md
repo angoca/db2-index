@@ -1333,6 +1333,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Different images from Docker. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/12/different-images-from-docker.html
   * Considerations for building and deploying DB2 Docker containers. DeveloperWorks. Aruna De Silva. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-docker-trs/index.html
   * Db2 SQL Tutorial 2 - Getting Started with Db2 and DSM. CaleTheVideoMaker2. Caleb Curry. 2017. Video - https://www.youtube.com/watch?v=DXDAX2t953c
+ * How to install DB2 Express-C on Docker and set up the JDBC connection properties. Vlad Mihalcea. Vlad Mihalcea. 2017. Blog - https://vladmihalcea.com/how-to-install-db2-express-c-on-docker-and-set-up-the-jdbc-connection-properties/
+ * Easy Db2 Install Using Docker. db2Dean. Dean Compher. 2017. Blog - http://www.db2dean.com/Previous/Db2CommunityDocker.html
 * Documentation
   * SQL-PL Guide. SQL-PL Guide. Michael Spoden. Documentation - http://www.sqlpl-guide.com/
   * KnowledgeCenter DB2 11.1. IBM. Documentation - http://www.ibm.com/support/knowledgecenter/SSEPGG_11.1.0/com.ibm.db2.luw.kc.doc/welcome.html
