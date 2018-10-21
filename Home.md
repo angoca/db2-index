@@ -468,6 +468,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
   * How Will Logging Process happen in DB2?. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/01/how-logging-process-will-happen-in-db2.html
   * Massive insert in Db2 as an atomic transaction - no auto-commit. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/08/massive-insert-in-db2-as-atomic.html
+  * Massive insert in Db2 as an atomic transaction - no auto-commit. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/08/massive-insert-in-db2-as-atomic.html
 * Common Table Expression - CTE
   * Funny SQL I Have Seen Lately. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/05/funny-sql-i-have-seen-lately/
   * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/29/db2-temporary-table-spaces/
@@ -523,6 +524,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * (ADM6044E error during a tablespace rebalancing after adding a container) Error ADM6044E durante rebalanceo en un tablespaces después de añadir un container. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/errores/error-adm6044e-durante-rebalanceo-en-un-tablespaces-despues-de-anadir-un-container/
   * DB2 Tips n Tricks Part 99 - How To Perform Redirected Restore without REDIRECT Keyword. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=B2OWBhNg_E8
   * Considerations for building and deploying DB2 Docker containers. DeveloperWorks. Aruna De Silva. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-docker-trs/index.html
+  * Db2 on Docker from IBM. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/09/db2-on-docker-from-ibm.html
 * Contains SQL
   * DB2 Stored Procedures and Defaults. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2-stored-procedures-and-defaults.html
   * DB2 Stored Procedures and Defaults (Conclusion). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/stored-procedures-and-defaults-conclusion.html
@@ -873,9 +875,11 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Solve IBM BPM performance issues with IBM DB2 examples. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz2-trs/1509_volz2.html
   * Capturing SQL statements and performance metrics for a single application database-connection in DB2. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/04/capturing-sql-statements-and-activities.html
   * Query Performance Analysis. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/09/19/query-performance-analysis/
+  * Which is better db2expln or db2exfmt? Vinay's DB2 blog. Vinay Bommana. 2018. Blog - http://vinaysdb2blog.blogspot.com/2018/10/which-is-better-db2expln-or-db2exfmt.html
 * db2expln
   * Seven Surprising Findings About DB2. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/blog/2014-11/seven-surprising-findings-about-DB2
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
+  * Which is better db2expln or db2exfmt? Vinay's DB2 blog. Vinay Bommana. 2018. Blog - http://vinaysdb2blog.blogspot.com/2018/10/which-is-better-db2expln-or-db2exfmt.html
 * db2extsec
   * Resetting DB2 file permissions. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=41
 * db2flsn
@@ -1230,11 +1234,14 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/22/db2-basics-levels-of-configuration/
 * dbpath
   * Default directory for DB creations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/default-directory-for-db-creations.html
+* DCL - Data Control Language
+  * DDL, DML, DCL and TCL in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/10/ddl-dml-dcl-and-tcl-in-db2.html
 * DCS - Database Connection Services
   * HOW TO SETUP FEDERATION BETWEEN TWO DB2 LUW DATABASES. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/how-to-setup-federation-between-two-db2-luw-databases/
-* DDL
+* DDL - Data Definition Language
   * db2look from stored procedure. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/10/db2look-from-stored-procedure.html
   * How To Deep Compare Two Db2 Environments? Raghu On Tech. Raghu Cherukuru. 2017. Blog - https://www.raghu-on-tech.com/2017/12/19/how-to-deep-compare-two-db2-environments/
+  * DDL, DML, DCL and TCL in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/10/ddl-dml-dcl-and-tcl-in-db2.html
 * Deactivation
   * Database deactivation takes a lot of time. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/database-deactivation-takes-lot-of-time.html
 * Deadlock
@@ -1326,6 +1333,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * DML - Data Manipulation Language
   * Finding the access path for Columnar queries #2. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-2/
+  * DDL, DML, DCL and TCL in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/10/ddl-dml-dcl-and-tcl-in-db2.html
 * DMS - tablespace
   * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/29/db2-temporary-table-spaces/
 * Docker
@@ -1333,8 +1341,9 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Different images from Docker. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/12/different-images-from-docker.html
   * Considerations for building and deploying DB2 Docker containers. DeveloperWorks. Aruna De Silva. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-docker-trs/index.html
   * Db2 SQL Tutorial 2 - Getting Started with Db2 and DSM. CaleTheVideoMaker2. Caleb Curry. 2017. Video - https://www.youtube.com/watch?v=DXDAX2t953c
- * How to install DB2 Express-C on Docker and set up the JDBC connection properties. Vlad Mihalcea. Vlad Mihalcea. 2017. Blog - https://vladmihalcea.com/how-to-install-db2-express-c-on-docker-and-set-up-the-jdbc-connection-properties/
- * Easy Db2 Install Using Docker. db2Dean. Dean Compher. 2017. Blog - http://www.db2dean.com/Previous/Db2CommunityDocker.html
+  * How to install DB2 Express-C on Docker and set up the JDBC connection properties. Vlad Mihalcea. Vlad Mihalcea. 2017. Blog - https://vladmihalcea.com/how-to-install-db2-express-c-on-docker-and-set-up-the-jdbc-connection-properties/
+  * Easy Db2 Install Using Docker. db2Dean. Dean Compher. 2017. Blog - http://www.db2dean.com/Previous/Db2CommunityDocker.html
+  * Db2 on Docker from IBM. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/09/db2-on-docker-from-ibm.html
 * Documentation
   * SQL-PL Guide. SQL-PL Guide. Michael Spoden. Documentation - http://www.sqlpl-guide.com/
   * KnowledgeCenter DB2 11.1. IBM. Documentation - http://www.ibm.com/support/knowledgecenter/SSEPGG_11.1.0/com.ibm.db2.luw.kc.doc/welcome.html
@@ -1868,6 +1877,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/line-optimization-v11-1/
   * Dealing with dates and formats. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/dealing-with-dates-and-formats.html
   * Using UNICODE characters, no matter the encoding of the script in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/using-unicode-characters-no-matter.html
+  * Massive insert in Db2 as an atomic transaction - no auto-commit. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/08/massive-insert-in-db2-as-atomic.html
 * Install
   * DB2 Installation Enhancements. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/01/db2-installation-enhancements.html
   * DB2 LINUX INSTALLATION. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-installation/
@@ -2598,6 +2608,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * DB2 performance monitoring with db2pd. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/03/db2-performance-monitoring-with-db2pd.html
   * Performance differences between upper-case (XQuery) and UPPER scalar function. db2geek. Mark Gillisr. 2018. Blog - http://db2geek.triton.co.uk/performance-differences-upper-case-xquery-upper-scalar-function/
   * Index Read Efficiency – A Key Performance Indicator for Db2. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/index-read-efficiency-db2/
+  * Which is better db2expln or db2exfmt? Vinay's DB2 blog. Vinay Bommana. 2018. Blog - http://vinaysdb2blog.blogspot.com/2018/10/which-is-better-db2expln-or-db2exfmt.html
 * Performance Analysis Suite
   * IBM Performance Analysis Suite. DeveloperWorks. Bryan Tsai. Tool - https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=28cb6d68-ab67-4203-96f9-5538e654a5ff
 * Permission
@@ -2751,6 +2762,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Finding the access path for Columnar queries #2. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-2/
   * Why are there Question Marks in my Db2 Queries?. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/why-are-there-question-marks-in-my-db2-queries/
   * Dealing with dates and formats. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/dealing-with-dates-and-formats.html
+  * Which is better db2expln or db2exfmt? Vinay's DB2 blog. Vinay Bommana. 2018. Blog - http://vinaysdb2blog.blogspot.com/2018/10/which-is-better-db2expln-or-db2exfmt.html
 * Queue
   * db2top Agent Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-2.html
 
@@ -3063,6 +3075,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Utility Scripts for pureScale. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30277
   * Count Rows When Loading.  Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30318
   * Script to Reduce the tablespace size and reduce the free pages. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/10/script-to-reduce-tablespace-size-and-reduce-free-pages.html
+  * Meta commands in a SQL script in Db2--#PARAM. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/09/meta-commands-in-sql-script-in-db2-param.html
 * Scripting
   * A Shell script to get total space allocated in a database. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=44
   * Automated runstats – take 2. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=71
@@ -3782,6 +3795,8 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * How to Estimate the duration of a TAKEOVER HADR operation in DB2. ThinkingDB2! David Sciaraffa. Blog - http://thinkingdb2.blogspot.com.co/2015/07/how-to-estimate-duration-of-takeover.html
   * Access your database sooner after a system failure -- introducing DB2_ONLINERECOVERY! ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/08/access-your-database-sooner-after.html
   * Don't Get Caught Unprepared - Monitor Invalid Tablespaces on your HADR Standby database and Repair Them Efficiently. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/dont-get-caught-unprepared-monitor.html
+* TCL - Transaction Control Language
+  * DDL, DML, DCL and TCL in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/10/ddl-dml-dcl-and-tcl-in-db2.html
 * Tech Talks
   * DB2 tech talks. IDUG. Video - http://www.idug.org/p/cm/ld/fid=703
 * Technical article
