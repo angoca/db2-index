@@ -1344,6 +1344,10 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * How to install DB2 Express-C on Docker and set up the JDBC connection properties. Vlad Mihalcea. Vlad Mihalcea. 2017. Blog - https://vladmihalcea.com/how-to-install-db2-express-c-on-docker-and-set-up-the-jdbc-connection-properties/
   * Easy Db2 Install Using Docker. db2Dean. Dean Compher. 2017. Blog - http://www.db2dean.com/Previous/Db2CommunityDocker.html
   * Db2 on Docker from IBM. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/09/db2-on-docker-from-ibm.html
+  * Downloading and installing Db2 Developer-C on Ubuntu Linux. Hybrid Data Management Community. Roger E. Sanders. 2018. Blog - https://community.ibm.com/community/user/hybriddatamanagement/viewdocument/downloading-and-installing-db2-deve-1
+  * Downloading and installing Db2 Developer-C on Red Hat Enterprise Linux . Hybrid Data Management Community. Roger E. Sanders. 2018. Blog - https://community.ibm.com/community/user/hybriddatamanagement/viewdocument/downloading-and-installing-db2-deve-2
+  * Downloading and installing Db2 Developer Community Edition on Ubuntu Linux. Hybrid Data Management Community. Roger E. Sanders. 2018. Blog - https://community.ibm.com/community/user/hybriddatamanagement/viewdocument/downloading-and-installing-db2-deve-3
+  * Downloading and installing Db2 Developer Community Edition on Red Hat Enterprise Linux. Hybrid Data Management Community. Roger E. Sanders. 2018. Blog - https://community.ibm.com/community/user/hybriddatamanagement/viewdocument/downloading-and-installing-db2-deve-4
 * Documentation
   * SQL-PL Guide. SQL-PL Guide. Michael Spoden. Documentation - http://www.sqlpl-guide.com/
   * KnowledgeCenter DB2 11.1. IBM. Documentation - http://www.ibm.com/support/knowledgecenter/SSEPGG_11.1.0/com.ibm.db2.luw.kc.doc/welcome.html
@@ -4258,9 +4262,4 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * New in DB2 for LUW 9.7.2: UDF default parameters. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/new-in-db2-for-luw-9-7-2-udf-default-parameters.html
 * 10.5
   * DB2 10.5 with Blu Acceleration (IMM14140USEN). DB2 with BLU Acceleration. Paul Zikopoulus, Sam Lightstone et al. 2014. Book - http://www.ibmbluhub.com/wp-content/uploads/2014/06/IMM14140USEN_DB2_10.5_with_BLU_Acceleration_flash_book.pdf (INVALID)
-  * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
-* 11.1
-  * DB2 for Linux, UNIX and Windows Version 11 Hightlights. IBM Box. George Baklarz, Enzo Cialini. 2016. Book -
-https://ibm.box.com/v/DB2v11eBook
-  * Now available: DB2 Version 11 for Linux, UNIX, and Windows. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/06/now-available-db2-version-11-for-linux.html
-  * The DB2Night Sh
+  * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data
