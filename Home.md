@@ -316,7 +316,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Bluemix
   * Mom, I joined the cloud! (or: Use old stuff with new stuff - DB2 federation). Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/03/mom-i-joined-cloud-or-use-old-stuff.html
 * Books
-  * Seven Surprising Findings About DB2. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/blog/2014-11/seven-surprising-findings-about-DB2
+  * Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com
   * DB2 UDB V7.2 - SQL Cookbook. Graeme Birchall. 2001. Book -  https://drive.google.com/file/d/0B86nuTd5nMTKZzQtaTVTLUZ5ckE/view?usp=sharing
   * DB2 UDB V8.2 - SQL Cookbook. Graeme Birchall. 2005. Book -  https://drive.google.com/file/d/0B86nuTd5nMTKS3ItN25IX2djTGc/view?usp=sharing
   * DB2 V9 - SQL Cookbook. Graeme Birchall. 2007. Book -  https://drive.google.com/file/d/0B86nuTd5nMTKNFR1SU9PZkN6MnM/view?usp=sharing
@@ -4232,10 +4232,4 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Wire Listener
   * Using the IBM NoSQL Wire Listener for DB2. DeveolperWorks. Ioannis Papapanagiotou, Marion Behnen, John Paul Parkin, and Jyh-Chen Fang. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson4/index.html
 * Workload Automation
-  * Workload Automation: How to Survive Disasters. Workload Automation Community. Eliana Cerasaro. 2018. Blog - http://www.workloadautomation-community.com/blogs/workload-automation-how-to-survive-disasters
-* WLB - Workload Balancing
-  * Configure parameters for IBM Data Server Driver for JDBC and SQLJ against HADR for DB2 pureScale. DeveloperWorks. Sujan Ghosh and Vinayak Joshi. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1509hadr-purescale/index.html
-* WLM - Workload Manager
-  * Automatic Workload Management with BLU Acceleration. IT Toolbox. Chris Eaton. 2014. Blog - https://it.toolbox.com/blogs/ceaton55/automatic-workload-management-with-blu-acceleration-031114
-  * Querying Tables for an Activity Event Monitor. db2commerce. Ember Brooks. 2014. Blog - http://db2commerce.com/2014/10/14/querying-tables-for-an-activity-event-monitor/
-  * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticl
+  * Workload Automation: How to Survive Disasters. Workload Automation Community. Eliana Cerasaro. 2018. Blog - http://www.workloadautomation-community.com/blogs/workload-automation-how-to-survive-disa
