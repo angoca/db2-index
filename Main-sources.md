@@ -5,6 +5,14 @@ In this section, the main DB2 sources are described:
   * Articles since 201607 to 201808
   * Also articles from http://www.virtual-dba.com/blog/
     * Articles since 201701 to 201808
+* Andres Gomez Casanova - Ideas for DB2 (Blog about technical stuff). https://angocadb2.blogspot.com.co
+  * Articles since 201601 to 201808
+* Michael Krafick - Discover db2 (Video tutorial about Db2). https://www.youtube.com/DISCOVERDB2
+* Vinay Kumar Bommana - DB Tutorials (Videos of DB2 🎥 ).
+  * https://www.youtube.com/channel/UCo0cIzR_TbMzU5wHQmbTjxQ/videos
+  * Vinay's DB2 blog (Blog about technical stuff). http://vinaysdb2blog.blogspot.com.co/
+    * Articles since 201601 to 201804
+* Scott Hayes - The DB2night show ( 📺  Videos and Webminars of DB2, also contests 😀 ). http://www.dbisoftware.com/db2nightshow/ - http://www.dbisoftware.com/blog/db2nightshow.php
 * Raghu Cherukuru - Raghu On Tech (Blog about different stuff of Db2). https://www.raghu-on-tech.com/
   * All articles has been indexed. Last update 201808
 * DB2 Geek (Blog of different things about DB2). http://db2geek.triton.co.uk
@@ -19,14 +27,6 @@ In this section, the main DB2 sources are described:
   * Articles since 201708 to 201808
 * Hao Yan - Db2 Reflections. http://db2reflections.blogspot.com.co/
   * Articles since 201804 to 201808
-* Andres Gomez Casanova - Ideas for DB2 (Blog about technical stuff). https://angocadb2.blogspot.com.co
-  * Articles since 201601 to 201808
-* Michael Krafick - Discover db2 (Video tutorial about Db2). https://www.youtube.com/DISCOVERDB2
-* Vinay Kumar Bommana - DB Tutorials (Videos of DB2 🎥 ).
-  * https://www.youtube.com/channel/UCo0cIzR_TbMzU5wHQmbTjxQ/videos
-  * Vinay's DB2 blog (Blog about technical stuff). http://vinaysdb2blog.blogspot.com.co/
-    * Articles since 201601 to 201804
-* Scott Hayes - The DB2night show ( 📺  Videos and Webminars of DB2, also contests 😀 ). http://www.dbisoftware.com/db2nightshow/ - http://www.dbisoftware.com/blog/db2nightshow.php
 * Scott Hayes - DB2 Performance (Articles about performance and DBI software). http://www.dbisoftware.com/blog/db2_performance.php
   * Articles since 201301 to 201801
 * DeveloperWorks (Articles). http://www.ibm.com/developerworks/views/data/libraryview.jsp?sort_by=Date&search_by=db2
