@@ -322,6 +322,9 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 V9 - SQL Cookbook. Graeme Birchall. 2007. Book -  https://drive.google.com/file/d/0B86nuTd5nMTKNFR1SU9PZkN6MnM/view?usp=sharing
   * Up and Running with DB2 on Linux. IBM RedBooks. Whei-Jen Chen, Christian Hideaki Kondo et al. 2008. Book - http://www.redbooks.ibm.com/abstracts/sg246899.html
   * DB2 LUW V9.5 - SQL Cookbook. Graeme Birchall. 2009. Book -  https://drive.google.com/file/d/0B86nuTd5nMTKdzBkS01nUlZwYXc/view?usp=sharing
+  * Getting started with DB2 Express-C. Raul Chong, Ian Hakes, Rav Ahuja. 2010. Book - https://www.ibm.com/developerworks/community/wikis/home?lang=en_us#!/wiki/Big%20Data%20University/page/FREE%20eBook%20-%20Getting%20Started%20with%20DB2%20Express-C
+  * Getting started with DB2 Application Development. Raul F. Chong, Xiqiang Ji, Priyanka Joshi, Vineet Mishra, Min Wei Yao. 2010. Book - https://www.ibm.com/developerworks/community/wikis/home?lang=en_us#!/wiki/Big%20Data%20University/page/FREE%20ebook%20-%20Getting%20Started%20with%20DB2%20Application%20Development
+  * Getting started with IBM Data Studio. Dimple Bhatia, Vinod Chirayath, Adam Faeth, Praveen Ghantasala, Hassi Norlen, Hardik Patel, Daniel Zilio. 2010. Book - https://www.ibm.com/developerworks/community/wikis/home?lang=en_us#!/wiki/Big%20Data%20University/page/FREE%20ebook%20-%20Getting%20Started%20with%20IBM%20Data%20Studio%20for%20DB2 
   * DB2 LUW V9.7 - SQL Cookbook. Graeme Birchall. 2011. Book -  https://drive.google.com/file/d/0B86nuTd5nMTKd190MFptUEtoYXc/view?usp=sharing
   * Unleashing DB2 10 for Linux, UNIX, and Windows. IBM RedBooks. Danny Arnold, Steve Diniro et al. 2012. Book - http://www.redbooks.ibm.com/abstracts/sg248032.html
   * DB2 10.5 with Blu Acceleration (IMM14140USEN). DB2 with BLU Acceleration. Paul Zikopoulus, Sam Lightstone et al. Book. 2014 - http://www.ibmbluhub.com/wp-
@@ -4235,16 +4238,4 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * WLM - Workload Manager
   * Automatic Workload Management with BLU Acceleration. IT Toolbox. Chris Eaton. 2014. Blog - https://it.toolbox.com/blogs/ceaton55/automatic-workload-management-with-blu-acceleration-031114
   * Querying Tables for an Activity Event Monitor. db2commerce. Ember Brooks. 2014. Blog - http://db2commerce.com/2014/10/14/querying-tables-for-an-activity-event-monitor/
-  * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html
-  * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
-  * Transitioning from Query Patroller historical tables to WLM & Event Monitors in DB2 LUW. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/06/transitioning-from-query-patroller.html
-  * The multi-temperature data feature. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders, and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part1-trs/index.html
-  * SQL fishing using WLM. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11456
-* Workload Scheduler
-  * How to Check the Consistency of your Workload Scheduler Database Schema. Workload Automation Community. Eliana Cerasaro. 2017. Blog - http://www.workloadautomation-community.com/blogs/how-to-check-the-consistency-of-your-workload-scheduler-database-schema
-* Wlm_Set_Conn_Env
-  * Please check the SysProc.Wlm_Set_Conn_Env entry.
-* wlmhist.pl
-  * Transitioning from Query Patroller historical tables to WLM & Event Monitors in DB2 LUW. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/06/transitioning-from-query-patroller.html
-* Workload
-  * db2top Tables Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-p
+  * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticl
