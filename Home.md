@@ -1100,10 +1100,11 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * How to setup logical data partitioning in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/how-to-setup-logical-data-partitioning-in-db2.html
 * db2rspgn
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
-* db2sampl
+* db2sampl - Sample database
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * DB2 Lock. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-lock/
   * New options for analyzing lock timeouts in DB2 9.5. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/new-options-for-analyzing-lock-timeouts-in-db2-9-5/
+  * DB2 Sample Database – Modifying storage path. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2015/12/28/db2-sample-database-modifying-storage-path/
 * db2se
   * Acquiring spatial data and developing applications. DeveloperWorks. David Adler. 2016. Article - http://www.ibm.com/developerworks/data/tutorials/dm-1202db2spatialdata1/index.html
 * db2secv82
@@ -3295,11 +3296,16 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * SPM - Sync Point Manager
   * Receiving SQL5043n and SPM0438 ? techs@work. Raju Pillai. 2011. Blog - http://techsatwork.com/blog/?p=1092
 * SQL
+  * DB2 UDB V7.2 - SQL Cookbook. Graeme Birchall. 2001. Book -  https://drive.google.com/file/d/0B86nuTd5nMTKZzQtaTVTLUZ5ckE/view?usp=sharing
+  * DB2 UDB V8.2 - SQL Cookbook. Graeme Birchall. 2005. Book -  https://drive.google.com/file/d/0B86nuTd5nMTKS3ItN25IX2djTGc/view?usp=sharing
   * SQL on Fire! Part 1. WAIUG. Serge Rielau. 2006. Presentation - http://www.waiug.org/present/Forum2006/Presentations/SQLonFire_1_Serge_Rielau.ppt
   * SQL on Fire! Part 2. WAIUG. Serge Rielau. 2006. Presentation - http://www.waiug.org/present/Forum2006/Presentations/SQLonFire_2_Serge_Rielau.ppt
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
+  * DB2 V9 - SQL Cookbook. Graeme Birchall. 2007. Book -  https://drive.google.com/file/d/0B86nuTd5nMTKNFR1SU9PZkN6MnM/view?usp=sharing
+  * DB2 LUW V9.5 - SQL Cookbook. Graeme Birchall. 2009. Book -  https://drive.google.com/file/d/0B86nuTd5nMTKdzBkS01nUlZwYXc/view?usp=sharing
   * db2top Agent Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-1.html
   * db2top Dynamic SQL Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-dynamic-sql-screen.html
+  * DB2 LUW V9.7 - SQL Cookbook. Graeme Birchall. 2011. Book -  https://drive.google.com/file/d/0B86nuTd5nMTKd190MFptUEtoYXc/view?usp=sharing
   * Making SQL PL and PL/SQL sensitive to changes in statistics, and more. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/statistics_sensitive_sql_pl
   * The trouble of combining DISTINCT with ORDER BY. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/distinct_order_by
   * Who's the most popular kid on the block?. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/stats_mode
@@ -4239,26 +4245,4 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Workload Manager
   * Please check the "WLM" entry.
 * wplistener.bat
-  * Using the IBM NoSQL Wire Listener for DB2. DeveolperWorks. Ioannis Papapanagiotou, Marion Behnen, John Paul Parkin, and Jyh-Chen Fang. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson4/index.html
-* wplistener.sh
-  * Using the IBM NoSQL Wire Listener for DB2. DeveolperWorks. Ioannis Papapanagiotou, Marion Behnen, John Paul Parkin, and Jyh-Chen Fang. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson4/index.html
-* Wrapper
-  * Mom, I joined the cloud! (or: Use old stuff with new stuff - DB2 federation). Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/03/mom-i-joined-cloud-or-use-old-stuff.html
-  * HOW TO SETUP FEDERATION BETWEEN TWO DB2 LUW DATABASES. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/how-to-setup-federation-between-two-db2-luw-databases/
-* Write
-  * DB2 problem determination using db2top utility. DeveloperWorks. Tao Wang and Shen Li. 2008. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0812wang/index.html
-  * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
-  * db2top Database Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-1.html
-  * db2top Database Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-2.html
-  * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html
-  * db2top Sessions Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-2.html
-  * db2top Agent Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-2.html
-  * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
-  * db2top Tablespaces Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-1.html
-  * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
-  * db2top Bufferpools Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-2.html
-  * db2top Tables Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-1.html
-* Write suspend
-  * Please check the "Suspend write" entry.
-* Write-ahead logging
-  * How
+  * Using the IBM NoSQL Wire Listener for DB2. DeveolperWorks. Ioannis Papapanagiotou, Marion Behnen, John Paul Parkin, and Jyh-Chen Fang. 2013. Article 
