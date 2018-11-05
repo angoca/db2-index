@@ -315,6 +315,17 @@ This is an index where you can search for a DB2 term and get the related Interne
   * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/07/the-self-tuning-memory-manager-stmm/
 * Bluemix
   * Mom, I joined the cloud! (or: Use old stuff with new stuff - DB2 federation). Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/03/mom-i-joined-cloud-or-use-old-stuff.html
+* Books
+  * Seven Surprising Findings About DB2. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/blog/2014-11/seven-surprising-findings-about-DB2
+  * DB2 UDB V7.2 - SQL Cookbook. Graeme Birchall. 2001. Book -  https://drive.google.com/file/d/0B86nuTd5nMTKZzQtaTVTLUZ5ckE/view?usp=sharing
+  * DB2 UDB V8.2 - SQL Cookbook. Graeme Birchall. 2005. Book -  https://drive.google.com/file/d/0B86nuTd5nMTKS3ItN25IX2djTGc/view?usp=sharing
+  * DB2 V9 - SQL Cookbook. Graeme Birchall. 2007. Book -  https://drive.google.com/file/d/0B86nuTd5nMTKNFR1SU9PZkN6MnM/view?usp=sharing
+  * Up and Running with DB2 on Linux. IBM RedBooks. Whei-Jen Chen, Christian Hideaki Kondo et al. 2008. Book - http://www.redbooks.ibm.com/abstracts/sg246899.html
+  * DB2 LUW V9.5 - SQL Cookbook. Graeme Birchall. 2009. Book -  https://drive.google.com/file/d/0B86nuTd5nMTKdzBkS01nUlZwYXc/view?usp=sharing
+  * DB2 LUW V9.7 - SQL Cookbook. Graeme Birchall. 2011. Book -  https://drive.google.com/file/d/0B86nuTd5nMTKd190MFptUEtoYXc/view?usp=sharing
+  * Unleashing DB2 10 for Linux, UNIX, and Windows. IBM RedBooks. Danny Arnold, Steve Diniro et al. 2012. Book - http://www.redbooks.ibm.com/abstracts/sg248032.html
+  * DB2 10.5 with Blu Acceleration (IMM14140USEN). DB2 with BLU Acceleration. Paul Zikopoulus, Sam Lightstone et al. Book. 2014 - http://www.ibmbluhub.com/wp-
+  * Architecting and Deploying DB2 with BLU Acceleration. IBM RedBooks. Whei-Jen Chen, Brigitte Blaser et al. 2015. Book - http://www.redbooks.ibm.com/abstracts/sg248212.html
 * Boolean
   * Boolean data type. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/boolean-data-type/
 * Bottleneck
@@ -4236,13 +4247,4 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * wlmhist.pl
   * Transitioning from Query Patroller historical tables to WLM & Event Monitors in DB2 LUW. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/06/transitioning-from-query-patroller.html
 * Workload
-  * db2top Tables Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-2.html
-  * SQL Analysis from Locking Event Monitor Collecting History. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/11/03/sql-analysis-from-locking-event-monitor-collecting-history/
-* Workload analyses
-  * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487
-* Workload Balancing - WLB
-  * Configuring SSL for IBM Data Server Driver for ODBC and CLI. DeveloperWorks. Chetan Papaiah, Ashok V. Jose and Chris Meyer. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-ssl-data-server-driver-odbc-cli-trs/index.html
-* Workload Manager
-  * Please check the "WLM" entry.
-* wplistener.bat
-  * Using the IBM NoSQL Wire Listener for DB2. DeveolperWorks. Ioannis Papapanagiotou, Marion Behnen, John Paul Parkin, and Jyh-Chen Fang. 2013. Article 
+  * db2top Tables Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-p
