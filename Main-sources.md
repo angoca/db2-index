@@ -36,6 +36,9 @@ In this section, the main DB2 sources are described:
 
 These blogs are not longer updated 😞 
 
+* Pavan Kristipati - db2talk (Blog of technical content). https://db2talk.wordpress.com/
+  * Articles since 2015 to 2016
+  * Older article should be indexed.
 * Chris Eaton - An Expert's Guide to DB2 Technology (Blog from an IBM expert 😢 ). https://it.toolbox.com/users/content/ChrisEaton-000002
   * Articles since 2014 to 2015.
   * Older article should be indexed.
@@ -111,7 +114,6 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * https://it.toolbox.com/users/content/scotdb
 * http://db2performance.blogspot.com/
 * https://www.youtube.com/user/channeldb2/videos
-* https://db2talk.wordpress.com/
 * https://saurabhska.wordpress.com/tag/db2-luw/
 * https://www.ibm.com/developerworks/community/blogs/IMSupport?tags=db2_techtip&lang=en
 * https://ibmdatamanagement.co
