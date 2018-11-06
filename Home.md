@@ -194,6 +194,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
 * Automatic storage
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
+  * DB2 LUW Fix Packs and db2look’s -createdb and -printdbcfg. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/05/18/db2-luw-fix-packs-and-db2looks-createdb-and-printdbcfg/
   * Moving Mountains with a Redirected Restore. db2commerce. Michael Krafick. 2016. Blog - http://db2commerce.com/2016/08/04/moving-mountains-with-a-redirected-restore/
   * DB2 Tips n Tricks Part 99 - How To Perform Redirected Restore without REDIRECT Keyword. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=B2OWBhNg_E8
 * Automatic Storage Tablespace - AST
@@ -1015,6 +1016,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Do your uninstall scripts leave something behind? The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/testing-that-your-uninstall-scripts-leave-nothing-behind.html
   * TRANSFER, COPY OR MOVE DB2 DATABASE FROM LINUX TO WINDOWS. TeknoMagus. 2011. Blog - https://technomagus.wordpress.com/database/ibm-db2/transfer-db2-database-from-linux-to-windows/
   * (Create the DDL of a specific table or a whole schema) db2look – Crear DDL de una tabla en concreto o un esquema completo. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/db2look-crear-ddl-de-una-tabla-en-concreto-o-un-esquema-completo/
+  * DB2 LUW Fix Packs and db2look’s -createdb and -printdbcfg. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/05/18/db2-luw-fix-packs-and-db2looks-createdb-and-printdbcfg/
   * db2look from stored procedure. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/10/db2look-from-stored-procedure.html
   * DB2 Basics: Statement Terminators. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/07/13/db2-basics-statement-terminators/
 * db2ls
@@ -1615,6 +1617,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Fix List for DB2 Version 10.5 for Linux, UNIX and Windows. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21633303
   * V.R.M.F Maintenance Stream Delivery Vehicle terminology explanation. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg27008656
   * First Article – DB2 Fix Packs. db2Dean. Dean Compher. 2006. Blog - http://www.db2dean.com/Previous/FixPak.html
+  * DB2 LUW Fix Packs and db2look’s -createdb and -printdbcfg. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/05/18/db2-luw-fix-packs-and-db2looks-createdb-and-printdbcfg/
   * DB2 pureScale – Online Rolling update. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/490
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
   * New Mod Pack and Fix Pack for DB2 V11 available now. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/12/new-mod-pack-and-fix-pack-for-db2-v11.html
@@ -3121,6 +3124,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Inline database shell scripts using awk. DBMSguy.com. Paul Mayhew. 2010. Blog - http://dbmsguy.com/blog/2010/09/inline-database-shell-scripts/
   * How to execute sql file via command line for DB2. With Data. Shiji Pan. 2013. Blog - https://www.withdata.com/blog/db2/how-to-execute-sql-file-via-command-line-for-db2.html
   * Runstats on data change percentage. Berst Blog. Bert van Langen. 2014. Blog - https://web.archive.org/web/20160308061053/https://blog.bertvanlangen.com/db2/runstats-data-change-percentage/
+  * DBA tip – Easy way to handle single quotes in awk. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/07/31/dba-tip-easy-way-to-handle-single-quotes-in-awk/
   * DB2 LUW – Handling database objects with mixed case and special characters in their names. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/08/20/db2-luw-handling-database-objects-with-mixed-case-and-special-characters-in-their-names/
   * A primer in awk for DB2 LUW DBAs. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/08/31/a-primer-in-awk-for-db2-luw-dbas/
   * In memory metrics of db2, working with baseline tables. DB2 Knowledge Base Raf. Raf Mathijs. 2015. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2015/03/in-memory-metrics-of-db2-working-with.html
@@ -4221,20 +4225,4 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
 # W
 
 * Wait
-  * db2top Locks Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-locks-screen.html
-* Warehouse
-  * Db2 with External Tables: First Tests. Data Henrik. Henrik Loeser. 2017. Blog - 
-http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
-  * Spatial Analytics with Db2 Warehouse. DeveloperWorks. Deepak Rangarao. 2018. Article - https://www.ibm.com/developerworks/library/bd-spatial-analytics-db2warehouse-mapbox/index.html
-* Watch
-  * How to monitor operations in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/how-to-monitor-operations-in-db2.html
-  * Unix command of the day: watch. Leons on Tech. Leons Petrazickis. 2016 - http://lpetr.org/blog/archives/unix-command-of-the-day-watch
-* Watermark
-  * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
-  * Do db2top High Watermarks Give Wrong Answers? The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/do-db2top-high-watermarks-give-wrong-answers.html
-* Web resources
-  * Index of free resources in the Web about DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/index-of-free-resources-in-web-about-db2.html
-* While
-  * While. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/while/
-* Wiki
-  * DB2 Database Professionals. DeveloperWorks. Wiki - https://www.ibm.com/developerworks/community/groups/servic
+ 
