@@ -590,6 +590,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * DB2 LUW Database Object’s owner and Instance Owner’s authority over it. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2016/07/18/db2-luw-database-objects-owner-and-instance-owners-authority-over-it/
 * Creation
   * Default directory for DB creations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/default-directory-for-db-creations.html
+* Cron - Crontab
+  * DBA’s friend — UNIX’s crontab utility. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/01/13/dbas-friend-unixs-crontab-utility/
 * Cross join
   * Where a DB Request Spends Time? DB2 Diary from Radhesh. Radhesh Kumar. 2009. Blog - http://radheshk.blogspot.com/2009/01/while-analyzing-slow-response-or-poor.html
   * Where a DB Request Spends Time in DB2 9.7? DB2 Diary from Radhesh. Radhesh Kumar. 2010. Blog - http://radheshk.blogspot.com/2010/03/where-db-request-spends-time-in-db2-97.html
@@ -1355,6 +1357,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Space disks for DB2. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/12/space-disks-for-db2.html
 * Distinct
   * The trouble of combining DISTINCT with ORDER BY. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/distinct_order_by
+* Distribution key
+  * Why you should specify DISTRIBUTION KEY for tables in a single database partition in a DB2 DPF database?!?. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/04/28/why-you-should-specify-distribution-key-for-tables-in-a-single-database-partition-in-a-db2-dpf-database/
 * DLChkTime
   * Locking issues. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/02/locking-issues.html
   * Overview of LOCK ISSUES in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/07/overview-of-lock-issues-in-db2.html
@@ -1404,6 +1408,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * db2top Skew Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-skew-screen.html
   * Full reverse: A REVERSE function that handles unicode. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/reverse
   * fcm_parallelism + sql6031n. DB2 Knowledge Base Raf. Raf Mathijs. 2013. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2013/10/fcmparallelism-sql6031n.html
+  * Why you should specify DISTRIBUTION KEY for tables in a single database partition in a DB2 DPF database?!?. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/04/28/why-you-should-specify-distribution-key-for-tables-in-a-single-database-partition-in-a-db2-dpf-database/
   * Tablespace backups in a DB2 LUW DPF database. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/09/21/backing-up-tablespaces-in-a-db2-luw-dpf-database/
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
   * Self-tuning memory in partitioned database environments. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/self-tuning-memory-in-partitioned-database-environment.html
@@ -3683,6 +3688,7 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * SysIBMAdm.SpanTbsp
     * (Average time of read/write access to disc in Db2) Tiempos medios de acceso lectura/escritura a disco a nivel de DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/tuning/tiempos-medios-de-acceso-lecturaescritura-a-disco-a-nivel-de-db2/
   * SysIBMAdm.TbSp_Utilization
+    * Why you should specify DISTRIBUTION KEY for tables in a single database partition in a DB2 DPF database?!?. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/04/28/why-you-should-specify-distribution-key-for-tables-in-a-single-database-partition-in-a-db2-dpf-database/
     * Tablespace backups in a DB2 LUW DPF database. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/09/21/backing-up-tablespaces-in-a-db2-luw-dpf-database/
   * SysIBMAdm.Top_Dynamic_Sql
     * (Top 10 SQL by number of executions) DB2 Top 10 SQL por número de ejecuciones. DB2 Util (Spanish). Oscar Paredes. 2013. Blog - http://www.db2util.es/administracion/db2-top-10-sql-por-numero-de-ejecuciones/
@@ -4214,15 +4220,4 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
 * Virtualization
   * Best Practices - Improving Data Server Utilization and Management through Virtualization. IBM. Sunil Kamath, Punit Shah, Basker Shanmugam, Rimas P. Kalesnykas. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_Virtualization_0508I.pdf
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
-  * Licensing Your Database Software on Virtual Platforms. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/10/04/licensing-your-database-software-on-virtual-platforms/
-* VisualStudio
-  * Using IBM Database Add-ins for Visual Studio 2013 in DB2 Cancun (10.5 Fix Pack 4). DeveloperWorks. Rajendra Kamath, Malarvizhi Kaliyakrishnan, and Archana Soni. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507addins-db2cancun/index.html
-* Volatile tables
-  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
-* VPC
-  * Licensing Your Database Software on Virtual Platforms. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/10/04/licensing-your-database-software-on-virtual-platforms/
-
-# W
-
-* Wait
- 
+  * Licensing Your Database Software on Virtual Platforms. db2commerce. Ember Crooks. 2016. Bl
