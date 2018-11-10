@@ -587,8 +587,13 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Improve Db2 HADR Resilience of Network Transmission Corruptions. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/improve-db2-hadr-resilience-of-network.html
 * Create database
   * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
+* Create database partition
+  * Quick primer on DB2 Tables and Tablespaces in a multi-partitioned (DPF) database. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2014/09/03/quick-primer-on-db2-tables-and-tablespaces-in-a-multi-partitioned-dpf-database/
 * Create table
+  * Quick primer on DB2 Tables and Tablespaces in a multi-partitioned (DPF) database. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2014/09/03/quick-primer-on-db2-tables-and-tablespaces-in-a-multi-partitioned-dpf-database/
   * Store and Query XML Data with dashDB on Bluemix. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/07/store-and-query-xml-data-with-dashdb-on.html
+* Create tablespace
+  * Quick primer on DB2 Tables and Tablespaces in a multi-partitioned (DPF) database. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2014/09/03/quick-primer-on-db2-tables-and-tablespaces-in-a-multi-partitioned-dpf-database/
 * Createin authority
   * DB2 LUW Database Object’s owner and Instance Owner’s authority over it. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2016/07/18/db2-luw-database-objects-owner-and-instance-owners-authority-over-it/
 * Creation
@@ -1413,6 +1418,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Full reverse: A REVERSE function that handles unicode. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/reverse
   * fcm_parallelism + sql6031n. DB2 Knowledge Base Raf. Raf Mathijs. 2013. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2013/10/fcmparallelism-sql6031n.html
   * DB2 and Transparent LDAP in DB2 DPF – Misleading error SQL30082N. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/10/13/db2-and-transparent-ldap-in-db2-dpf-misleading-error-sql30082n/
+  * Quick primer on DB2 Tables and Tablespaces in a multi-partitioned (DPF) database. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2014/09/03/quick-primer-on-db2-tables-and-tablespaces-in-a-multi-partitioned-dpf-database/
   * Why you should specify DISTRIBUTION KEY for tables in a single database partition in a DB2 DPF database?!?. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/04/28/why-you-should-specify-distribution-key-for-tables-in-a-single-database-partition-in-a-db2-dpf-database/
   * Tablespace backups in a DB2 LUW DPF database. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/09/21/backing-up-tablespaces-in-a-db2-luw-dpf-database/
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
@@ -3626,6 +3632,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * SysCat.dbAuth
     * Db2 Basics: Investigating Permissions in an Existing Database. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
   * SysCat.dbPartitionGroupDef
+    * Quick primer on DB2 Tables and Tablespaces in a multi-partitioned (DPF) database. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2014/09/03/quick-primer-on-db2-tables-and-tablespaces-in-a-multi-partitioned-dpf-database/
     * Partitions held by a table. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30325
   * SysCat.IndexColUse
     * DB2 10.5 — Catalog data for Expression-Based Indexes. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/08/12/db2-10-5-catalog-data-for-expression-based-indexes/
@@ -3636,7 +3643,10 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
     * How to get column names from DB2 table. With Data. Shiji Pan. 2013. Blog - https://www.withdata.com/blog/db2/how-to-get-column-names-from-db2-table.html
     * How to get primary key of a table from DB2. With Data. Shiji Pan. 2013. Blog - https://www.withdata.com/blog/db2/how-to-get-primary-key-of-a-table-from-db2.html
   * SysCat.Tables
+    * Quick primer on DB2 Tables and Tablespaces in a multi-partitioned (DPF) database. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2014/09/03/quick-primer-on-db2-tables-and-tablespaces-in-a-multi-partitioned-dpf-database/
     * Creating and loading column-organized and row-organized tables in DB2 BLU. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/10/06/creating-and-loading-column-organized-and-row-organized-tables-in-db2-blu/
+  * SysCat.TableSpaces
+    * Quick primer on DB2 Tables and Tablespaces in a multi-partitioned (DPF) database. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2014/09/03/quick-primer-on-db2-tables-and-tablespaces-in-a-multi-partitioned-dpf-database/
   * SysCat.SchemaAuth
     * DB2 LUW Database Object’s owner and Instance Owner’s authority over it. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2016/07/18/db2-luw-database-objects-owner-and-instance-owners-authority-over-it/
 * SysDefaultAdmWorkload
@@ -4201,32 +4211,4 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * Scope of variables. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/scope-of-variables/
   * SELECT INTO statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/select-into/
 * Vectored read
-  * db2top Bufferpools Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-2.html
-  * Distinctly weak type rules with a constrained twist. DeveloperWorks - SQL Tips for DB2 LUW. Rick Swagerman. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/weak_type?lang=en
-  * Using SQL parameter names and default values, DeveloperWorks. Nick Lawrence, 2015. Article - https://www.ibm.com/developerworks/ibmi/library/i-sql-parameter-name-default-value/index.html
-* Vendor
-  * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
-  * Restart vendor process for archive logging. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/12/restart-vendor-process-for-archive.html
-* VendorOpt
-  * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
-* Vendor Certification
-  * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
-* Version
-  * (Identify the version and level of fixpack of Db2) Conocer la versión y el nivel de parcheo de DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/conocer-la-version-y-el-nivel-de-parcheo-de-db2/
-  * (History of Db2 versions) Historial de versiones de DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/administracion/historial/
-  * How to Identify the version and service level of DB2 product?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/05/how-to-identify-version-and-service.html
-  * Db2: release number, service level and build level. Ideas for Db2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com/2018/06/db2-release-number-service-level-and.html
-  * How to know if Java clients in Db2 are using an updated driver. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/how-to-know-if-java-clients-in-db2-are.html
-* Victim buffer
-  * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
-* Victim page
-  * db2top Bufferpools Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-2.html
-* Video
-  * ChannelDB2. ChannelDB2. Channel - http://www.channeldb2.com/
-  * DB2-LUW-ACADEMY. YouTube. Channel - https://www.youtube.com/user/DB2LUWAcademy
-  * IBMDatamanagement. YouTube. Channel - https://www.youtube.com/channel/UC9QnRdjWEIe58LXKpAoXl4A
-  * IDUG DB2 Tech. IDUG. Channel - http://www.idug-db2.com/
-  * IDUG: International DB2 Users Group. YouTube. Channel - https://www.youtube.com/channel/UCVY6PWpd9No0zNEQvKIVGhw
-  * The DB2Night Show. DBI software. Channel - http://www.dbisoftware.com/blog/db2nightshow.php
-* View
-  * DB2 LUW Database Object’s owner and Instance Owner’s a
+  * db2top Bufferpools Screen (Part 2). The K Guy. Keith McDonal
