@@ -398,8 +398,7 @@ This is an index where you can search for a DB2 term and get the related Interne
 * Cast
   * Distinctly weak type rules with a constrained twist. DeveloperWorks - SQL Tips for DB2 LUW. Rick Swagerman. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/weak_type?lang=en
 * Catalog
-  * Combining Db2 and Cloud Object Storage. Data Henrik. Henrik Loeser. 2017. Blog - 
-http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
+  * Combining Db2 and Cloud Object Storage. Data Henrik. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Centrify
   * Authentication and authorization in DB2. Centrify. Documentation - https://docs.centrify.com/en/css/2018-html/index.html#page/DB2%2FAuthentication_and_authorization_in_DB2.1.html%23
   * HOWTO: Install, configure and test the Centrify IBM DB2 SSO Module. TechBlog. Robertson. 2014. Blog - https://community.centrify.com/t5/TechBlog/HOWTO-Install-configure-and-test-the-Centrify-IBM-DB2-SSO-Module/ba-p/19189
@@ -565,8 +564,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Diagnosing corruption when using IBM DB2. DeveloperWorks. Amitkumar Bamane. 2012. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1208corruptiondb2/index.html
   * The db2support Problem with Db2 11.1, Fix Pack 3 (LUW). Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/07/the-db2support-problem-with-db2-11-1-fix-pack-3-luw/
 * COS - Cloud Object Storage
-  * Combining Db2 and Cloud Object Storage. Data Henrik. Henrik Loeser. 2017. Blog - 
-http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
+  * Combining Db2 and Cloud Object Storage. Data Henrik. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Count_Big
   * Please check the SysIBM.Count_Big entry.
 * CPU
@@ -759,8 +757,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * DB2_MAX_NON_TABLE_LOCKS
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * DB2_OBJECT_STORAGE_LOCAL_STAGING_PATH
-  * Combining Db2 and Cloud Object Storage. Data Henrik. Henrik Loeser. 2017. Blog - 
-http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
+  * Combining Db2 and Cloud Object Storage. Data Henrik. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * DB2_ONLINERECOVERY
   * Access your database sooner after a system failure -- introducing DB2_ONLINERECOVERY! ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/08/access-your-database-sooner-after.html
 * DB2_OPTPROFILE
@@ -1438,8 +1435,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Table in Quiesce Mode. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30324
   * Partitions held by a table. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30325
 * Driver
-  * Use Db2 as Cloud SQL Database with Python. Data Henrik. Henrik Loeser. 2017. Blog - 
-http://blog.4loeser.net/2017/10/use-db2-as-cloud-sql-database-with.html
+  * Use Db2 as Cloud SQL Database with Python. Data Henrik. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/10/use-db2-as-cloud-sql-database-with.html
   * How to know if Java clients in Db2 are using an updated driver. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/how-to-know-if-java-clients-in-db2-are.html
 * DRDA
   * Finding and releasing the handbrakes on JDBC: enableExtendedDescribe. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/enableextendeddescribe.?lang=en
@@ -1555,8 +1551,7 @@ http://blog.4loeser.net/2017/10/use-db2-as-cloud-sql-database-with.html
   * Please check the SysProc.Explain_From_Activity entry.
 * Export
   * (Simple data export of a table in Db2) Export simple datos de una tabla en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/export-simple-datos-de-una-tabla-en-db2/
-  * DB2 Export and Load Using Compression & Named Pipes. dbawesome. Elder Lira. 2013. Blog -
-http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.html
+  * DB2 Export and Load Using Compression & Named Pipes. dbawesome. Elder Lira. 2013. Blog - http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.html
 * Express-C
   * IBM DB2 Express-C. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2_Express-C
   * Enterprise Database Software for Free – IBM Db2. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/ibm-db2-software-free/
@@ -1576,8 +1571,7 @@ http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.h
   * External Stored Procedures. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/external-stored-procedures/
   * Full reverse: A REVERSE function that handles unicode. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/reverse
 * External table
-  * Db2 with External Tables: First Tests. Data Henrik. Henrik Loeser. 2017. Blog - 
-http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
+  * Db2 with External Tables: First Tests. Data Henrik. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Extrapolate
   * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://db2commerce.com/2016/07/12/monitoring-extent-movement-progress/
 
@@ -1592,7 +1586,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Family, Db2
   * Family matters: The SQL Reference for Cross-Platform Development. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/crossplatformsqlrefv4
   * More family matters: Selected common SQL features for developers of portable DB2 applications. DeveloperWorks - SQL Tips for DB2 LUW. Rick Swagerman. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/db2common101
- * Four DB2 Code Bases? Perspectives. James Hamilton. 2017. Blog - http://perspectives.mvdirona.com/2017/12/1187/
+  * Four DB2 Code Bases? Perspectives. James Hamilton. 2017. Blog - http://perspectives.mvdirona.com/2017/12/1187/
 * Fast VP
   * The multi-temperature data feature. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders, and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part1-trs/index.html
   * Integration strategies. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part3-trs/index.html
@@ -2065,11 +2059,9 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
 * KEYSTORE_LOCATION
   * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
-  * Combining Db2 and Cloud Object Storage. Data Henrik. Henrik Loeser. 2017. Blog - 
-http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
+  * Combining Db2 and Cloud Object Storage. Data Henrik. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * KEYSTORE_TYPE
-  * Combining Db2 and Cloud Object Storage. Data Henrik. Henrik Loeser. 2017. Blog - 
-http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
+  * Combining Db2 and Cloud Object Storage. Data Henrik. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * KnowledgeCenter
   * Getting DB2 Help. db2Dean. Dean Compher. 2007. Blog - http://www.db2dean.com/Previous/DB2Help.html
   * New IBM Knowledge Center for DB2 and other products. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/05/new-ibm-knowledge-center-for-db2-and.html
@@ -2109,8 +2101,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * List applications
   * Determining Which IP Address Db2 Connections are Connecting To. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/05/03/determining-which-ip-address-db2-connections-are-connecting-to/
 * List storage
-  * Combining Db2 and Cloud Object Storage. Data Henrik. Henrik Loeser. 2017. Blog - 
-http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
+  * Combining Db2 and Cloud Object Storage. Data Henrik. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Load
   * Replicating Data Loads from a DB2 9 HADR - Primary Server to a Standby Server. db2Dean. Craig Maddux. 2007. Blog - http://www.db2dean.com/Previous/FixPak.html
   * Don’t get caught in check pending. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=419
@@ -2824,10 +2815,8 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * Licensing Your Database Software on Virtual Platforms. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/10/04/licensing-your-database-software-on-virtual-platforms/
 * Python
   * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
-  * Using DB2 with Python on Cloud Foundry-Based IBM Bluemix. Data Henrik. Henrik Loeser. 2014. Blog - 
-http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
-  * Use Db2 as Cloud SQL Database with Python. Data Henrik. Henrik Loeser. 2017. Blog - 
-http://blog.4loeser.net/2017/10/use-db2-as-cloud-sql-database-with.html
+  * Using DB2 with Python on Cloud Foundry-Based IBM Bluemix. Data Henrik. Henrik Loeser. 2014. Blog - http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
+  * Use Db2 as Cloud SQL Database with Python. Data Henrik. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/10/use-db2-as-cloud-sql-database-with.html
 
 # Q
 
@@ -2845,8 +2834,7 @@ http://blog.4loeser.net/2017/10/use-db2-as-cloud-sql-database-with.html
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
   * Query Performance Analysis. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/09/19/query-performance-analysis/
-  * Db2 with External Tables: First Tests. Data Henrik. Henrik Loeser. 2017. Blog - 
-http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
+  * Db2 with External Tables: First Tests. Data Henrik. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Finding the access path for Columnar queries #2. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-2/
   * Why are there Question Marks in my Db2 Queries?. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/why-are-there-question-marks-in-my-db2-queries/
   * Dealing with dates and formats. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/dealing-with-dates-and-formats.html
@@ -3867,8 +3855,7 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * SysProc.Admin_Revalidata_Db_Objects
     * DB2 ADMIN_REVALIDATE_DB_OBJECTS PROCEDURE – REVALIDATE INVALID DATABASE OBJECTS. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/db2-admin_revalidate_db_objects-procedure-revalidate-invalid-database-objects/
   * SysProc.Set_Routine_Opts
-    * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. 
-Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
+    * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
     * Making SQL PL and PL/SQL sensitive to changes in statistics, and more. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/statistics_sensitive_sql_pl
   * SysProc.Snapshot_Appl
     * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
