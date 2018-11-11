@@ -3685,8 +3685,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * SysIBM.Admin_Is_Inlined
     * Perform LOB inlining in an HADR environment for a standby database. DeveloperWorks. Somraj Chakrabarty and Suvradeep Sensarma. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1508lob-hadr-standby/index.html
   * SysIBM.Count_Big
-    * How to test a count function in a big big table. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - 
-https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.html
+    * How to test a count function in a big big table. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.html
     * COUNT function is slower than COUNT_BIG. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/count-function-is-slower-than-countbig.html
   * SysIBM.SysDummy1
     * (DUAL table in Db2: sysibm.sysdummy1) Tabla DUAL en DB2: sysibm.sysdummy1. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/trucos/tabla-dual-en-db2-sysibm-sysdummy1/
