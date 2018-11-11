@@ -116,4 +116,5 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * https://saurabhska.wordpress.com/tag/db2-luw/
 * https://www.ibm.com/developerworks/community/blogs/IMSupport?tags=db2_techtip&lang=en
 * https://ibmdatamanagement.co
-
+* http://web.archive.org/web/20131121212809/http://kawases.wikispaces.com:80/IBM+Optim+Development+Studio  (Algunas entradas estan disponibles en archive.org)
+* http://web.archive.org/web/20131121222857/http://kawases.wikispaces.com:80/IBM+DB2+Database+for+Linux%2C+UNIX%2C+and+Windows (Algunas entradas estan disponibles en archive.org)
