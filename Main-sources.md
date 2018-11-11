@@ -5,12 +5,12 @@ In this section, the main DB2 sources are described:
   * Articles since 201607 to 201808
   * Also articles from http://www.virtual-dba.com/blog/
     * Articles since 201701 to 201808
-* Andres Gomez Casanova - Ideas for DB2 (Blog about technical stuff). https://angocadb2.blogspot.com.co
+* Andres Gomez Casanova - Ideas for DB2 (Blog about technical stuff). https://angocadb2.blogspot.com
   * Articles since 201601 to 201808
 * Michael Krafick - Discover db2 (Video tutorial about Db2). https://www.youtube.com/DISCOVERDB2
 * Vinay Kumar Bommana - DB Tutorials (Videos of DB2 🎥 ).
   * https://www.youtube.com/channel/UCo0cIzR_TbMzU5wHQmbTjxQ/videos
-  * Vinay's DB2 blog (Blog about technical stuff). http://vinaysdb2blog.blogspot.com.co/
+  * Vinay's DB2 blog (Blog about technical stuff). http://vinaysdb2blog.blogspot.com
     * Articles since 201601 to 201804
 * Scott Hayes - The DB2night show ( 📺  Videos and Webminars of DB2, also contests 😀 ). http://www.dbisoftware.com/db2nightshow/ - http://www.dbisoftware.com/blog/db2nightshow.php
 * Raghu Cherukuru - Raghu On Tech (Blog about different stuff of Db2). https://www.raghu-on-tech.com/
@@ -19,13 +19,13 @@ In this section, the main DB2 sources are described:
   * Articles since 201601 to 201808
 * Henrik Loeser - Data Henrik: IT, Life, DB2, and more (Blog about technical stuff). http://blog.4loeser.net/
   * Articles since 201601 to 201808
-* David Sciaraffa - ThinkingDB2! (Blog about technical stuff written by a Db2 develoeper 💻 ). http://thinkingdb2.blogspot.com.co/
+* David Sciaraffa - ThinkingDB2! (Blog about technical stuff written by a Db2 develoeper 💻 ). http://thinkingdb2.blogspot.com
   * All articles has been indexed. Last update 201808
 * Vikram Khatri - Zinox (Blog of technical stuff 📷 ). http://www.zinox.com/
   * Articles since 201301 to 201808
 * Jack Vamvas - DBA-DB2. http://www.dba-db2.com/
   * Articles since 201708 to 201808
-* Hao Yan - Db2 Reflections. http://db2reflections.blogspot.com.co/
+* Hao Yan - Db2 Reflections. http://db2reflections.blogspot.com
   * Articles since 201804 to 201808
 * Scott Hayes - DB2 Performance (Articles about performance and DBI software). http://www.dbisoftware.com/blog/db2_performance.php
   * Articles since 201301 to 201801
@@ -71,7 +71,7 @@ These blogs are not longer updated 😞
   * All articles related to Db2 (Between 2009 and 2012 - Complete).
 * Keith McDonald - The K guy (Blog about db2top and some SQL PL). http://www.thekguy.com
   * All articles related to Db2 (Between 2009 and 2010 - Complete).
-* Nagendra - DB2 queries (Blog about technical stuff). http://learndb.blogspot.com.co/
+* Nagendra - DB2 queries (Blog about technical stuff). http://learndb.blogspot.com/
   * All articles (2009 - Complete).
 
 # ToDo
@@ -89,14 +89,14 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * https://community.toadworld.com/platforms/ibmdb2/b/weblog
 * http://db2dean.com/
 * https://db2forum.wordpress.com/
-* http://db2forum.blogspot.com.co
+* http://db2forum.blogspot.com
 * https://www.brighttalk.com/channel/7637/idug-db2-tech-channel
 * IDUG Content Blog (Blog). http://www.idug.org/p/bl/bl/blogid=278
 * Thoughts from Support (Blog about technical stuff). https://www.ibm.com/developerworks/community/blogs/IMSupport
 * Dale McInnis - DB2 for Linux, UNIX and Windows Availability Topics (Blog about technical stuff 🍁 ). https://www.ibm.com/developerworks/community/blogs/DB2LUWAvailability
 * Harishkumar Pathanga - DB2-LUW-Academy (Videos of db2 tricks 📹 ). 
   * https://www.youtube.com/user/DB2LUWAcademy/videos
-  * http://db2luwacademy.blogspot.com.co/
+  * http://db2luwacademy.blogspot.com/
 * https://www.db2gdba.com
 * http://www.dbazine.com/resources/orgs/in
 * https://www.databasejournal.com/features/article.php/3593431/DB2-Series.htm
