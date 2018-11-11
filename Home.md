@@ -1989,8 +1989,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Instrumentation
   * log4db2 - A logging framework like log4j for IBM DB2 SQL-PL. GitHub. Andres Gomez. Project - https://github.com/angoca/log4db2
 * Integer
-  * How to test a count function in a big big table. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog -
-https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.html
+  * How to test a count function in a big big table. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.html
 * IP address
   * Determining Which IP Address Db2 Connections are Connecting To. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/05/03/determining-which-ip-address-db2-connections-are-connecting-to/
 * IPC - Inter-Process Communication
@@ -3698,7 +3697,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * SysIBM.Admin_Is_Inlined
     * Perform LOB inlining in an HADR environment for a standby database. DeveloperWorks. Somraj Chakrabarty and Suvradeep Sensarma. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1508lob-hadr-standby/index.html
   * SysIBM.Count_Big
-    * How to test a count function in a big big table. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog -  
+    * How to test a count function in a big big table. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - 
 https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.html
     * COUNT function is slower than COUNT_BIG. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/count-function-is-slower-than-countbig.html
   * SysIBM.SysDummy1
@@ -4036,7 +4035,7 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * DB2 Tips n Tricks Part 100 - How To Save Space in Archive Log File System. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=dmhImiLeYoo
   * Log configuration in HADR environment. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/12/log-configuration-in-hadr-environment.html
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
-  * Increase the log capacity online in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog -  http://angocadb2.blogspot.com.co/2016/12/increase-log-capacity-online-in-db2.html
+  * Increase the log capacity online in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/12/increase-log-capacity-online-in-db2.html
   * How Will Logging Process happen in DB2?. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/01/how-logging-process-will-happen-in-db2.html
   * Determining Log Span. db2commerce. Ian Bjorhovde. 2017. Blog - http://db2commerce.com/2017/03/14/determining-log-span/
   * How to detect log full condition. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11466
