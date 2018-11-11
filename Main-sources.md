@@ -55,7 +55,7 @@ These blogs are not longer updated 😞
   * All articles (Between 201707 - 201709 - Complete).
 * Pavan Kristipati - db2talk (Blog of technical content). https://db2talk.wordpress.com/
   * All articles (Between 2014 and 2016 - Complete)
-* Raf Mathijs - DB2 Knowledge Base Raf (Blog about technical stuff). http://db2-luw-knowledgebase.blogspot.com.co/
+* Raf Mathijs - DB2 Knowledge Base Raf (Blog about technical stuff). http://db2-luw-knowledgebase.blogspot.com/
   * All articles (Between 2013 and 2015 - Complete).
 * Radhesh Kumar - DB2 Diary from Radhesh. http://radheshk.blogspot.com/
   * All articles (Between 2007 and 2010 - Complete).
@@ -77,7 +77,7 @@ These blogs are not longer updated 😞
 # ToDo
 
 * https://www.brighttalk.com/search?duration=0..&q=db2&rank=entrytime
-* https://www.google.com.co/search?q=site%3Ahttp%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Fdata%2Flibrary%2Ftecharticle+db2&oq=site%3Ahttp%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Fdata%2Flibrary%2Ftecharticle+db2&aqs=chrome..69i57j69i58.2232j0j7&sourceid=chrome&ie=UTF-8#q=site:http://www.ibm.com/developerworks/data/library/techarticle+db2&safe=off&start=40
+* https://www.google.com/search?q=site%3Ahttp%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Fdata%2Flibrary%2Ftecharticle+db2&oq=site%3Ahttp%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Fdata%2Flibrary%2Ftecharticle+db2&aqs=chrome..69i57j69i58.2232j0j7&sourceid=chrome&ie=UTF-8#q=site:http://www.ibm.com/developerworks/data/library/techarticle+db2&safe=off&start=40
 https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&contentarea_by=global&sort_by=Date&sort_order=2&start=1&end=100&topic_by=&product_by=&type_by=All%20Types&show_abstract=true&search_by=db2&industry_by=&series_title_by=
 * https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=fc834388-7630-4b28-9abd-2f6e702b7df7
 * https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=bed0acad-d142-4bd6-84b5-c136c4673ddc
