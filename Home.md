@@ -324,6 +324,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * DB2 UDB V8.2 - SQL Cookbook. Graeme Birchall. 2005. Book -  https://drive.google.com/file/d/0B86nuTd5nMTKS3ItN25IX2djTGc/view?usp=sharing
   * DB2 V9 - SQL Cookbook. Graeme Birchall. 2007. Book -  https://drive.google.com/file/d/0B86nuTd5nMTKNFR1SU9PZkN6MnM/view?usp=sharing
   * Up and Running with DB2 on Linux. IBM RedBooks. Whei-Jen Chen, Christian Hideaki Kondo et al. 2008. Book - http://www.redbooks.ibm.com/abstracts/sg246899.html
+  * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * DB2 LUW V9.5 - SQL Cookbook. Graeme Birchall. 2009. Book -  https://drive.google.com/file/d/0B86nuTd5nMTKdzBkS01nUlZwYXc/view?usp=sharing
   * Getting started with DB2 Express-C. Raul Chong, Ian Hakes, Rav Ahuja. 2010. Book - https://www.ibm.com/developerworks/community/wikis/home?lang=en_us#!/wiki/Big%20Data%20University/page/FREE%20eBook%20-%20Getting%20Started%20with%20DB2%20Express-C
   * Getting started with DB2 Application Development. Raul F. Chong, Xiqiang Ji, Priyanka Joshi, Vineet Mishra, Min Wei Yao. 2010. Book - https://www.ibm.com/developerworks/community/wikis/home?lang=en_us#!/wiki/Big%20Data%20University/page/FREE%20ebook%20-%20Getting%20Started%20with%20DB2%20Application%20Development
