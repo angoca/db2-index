@@ -239,6 +239,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * How To Perform Db2 Alternate Restore Using NetBackup ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/03/20/how-to-perform-db2-cross-node-restore-using-netbackup/
   * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/07/17/the-db2-recovery-history-file/
 * Backup Pending
+  * DB2 DPF Tablespace Recovery Scenarios — Part 1 — Recover Tablespace(s) on Coordinator Node. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/03/05/db2-dpf-tablespace-recovery-scenarios-part-1/
   * How to take data Online Backup in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-take-data-online-backup-in-db2.html
 * Backward-phase
   * Access your database sooner after a system failure -- introducing DB2_ONLINERECOVERY! ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/08/access-your-database-sooner-after.html
@@ -1061,6 +1062,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * db2nkill
   * What if db2stop fails ?!? techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=392
 * DB2NODE
+  * DB2 DPF Tablespace Recovery Scenarios — Part 1 — Recover Tablespace(s) on Coordinator Node. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/03/05/db2-dpf-tablespace-recovery-scenarios-part-1/
   * Tablespace backups in a DB2 LUW DPF database. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/09/21/backing-up-tablespaces-in-a-db2-luw-dpf-database/
 * db2nodes.cfg
   * Upgrading from DB2 V8.2 to DB2 V9.5. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=215
@@ -1078,6 +1080,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * db2 batch scripts – tips and tricks – part 1. DBMSguy.com. Paul Mayhew. 2010. Blog - http://dbmsguy.com/blog/2010/07/db2-batch-scripts-tips-and-tricks-part-1/
   * db2 batch scripts – tips and tricks – part 2. DBMSguy.com. Paul Mayhew. 2010. Blog - http://dbmsguy.com/blog/2010/08/db2-batch-scripts-tips-and-tricks-part-2/
   * (Db2 command line options - Remove autocommit) Opciones db2 command line – Eliminar autocommit. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/administracion/opciones-db2-command-line-eliminar-autocommit/
+  * DB2 tip: How to know the no. of rows that got affected. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/02/24/db2-tip-how-to-know-the-no-of-rows-that-got-affected/
 * db2osconf
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
 * db2pd
@@ -1310,6 +1313,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * SQL on Fire! Part 2. WAIUG. Serge Rielau. 2006. Presentation - http://www.waiug.org/present/Forum2006/Presentations/SQLonFire_2_Serge_Rielau.ppt
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * Returning inserted rows (and updated and deleted). DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/select_from_insert
+  * DB2 tip: How to know the no. of rows that got affected. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/02/24/db2-tip-how-to-know-the-no-of-rows-that-got-affected/
   * DB2 LUW Truncate, Restore and Rollforward. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2016/03/03/db2-10-5-truncates-restore-and-rollforward/
   * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html
   * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/line-optimization-v11-1/
@@ -1418,6 +1422,9 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
   * db2top Skew Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-skew-screen.html
   * Full reverse: A REVERSE function that handles unicode. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/reverse
   * fcm_parallelism + sql6031n. DB2 Knowledge Base Raf. Raf Mathijs. 2013. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2013/10/fcmparallelism-sql6031n.html
+  * DB2 DPF Tablespace Recovery Scenarios — Part 1 — Recover Tablespace(s) on Coordinator Node. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/03/05/db2-dpf-tablespace-recovery-scenarios-part-1/
+  * DB2 DPF Tablespace Recovery Scenarios — Part 2 — Recover Tablespace(s) on Data Partitions. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/03/07/db2-dpf-tablespace-recovery-scenarios-part-2-recover-tablespaces-on-data-partitions/
+  * DB2 DPF Tablespace Recovery Scenarios — Part 3 — Recover Tablespace(s) on ALL database partitions. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/03/11/db2-dpf-tablespace-recovery-scenarios-part-3-recover-tablespaces-on-all-database-partitions/
   * Index Cardinality in a DB2 multi-partitioned (DPF) database. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/04/28/index-cardinality-in-a-db2-multi-partitioned-dpf-database/
   * DB2 and Transparent LDAP in DB2 DPF – Misleading error SQL30082N. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/10/13/db2-and-transparent-ldap-in-db2-dpf-misleading-error-sql30082n/
   * Quick primer on DB2 Tables and Tablespaces in a multi-partitioned (DPF) database. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/09/03/quick-primer-on-db2-tables-and-tablespaces-in-a-multi-partitioned-dpf-database/
@@ -1542,6 +1549,8 @@ http://blog.4loeser.net/2017/10/use-db2-as-cloud-sql-database-with.html
   * Getting an Execution Plan. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/explain-plan/db2/getting-an-execution-plan
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Crooks. 2013. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
   * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Ember Crooks. 2013. Blog - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
+* Explain tables
+  * DB2 tip: How to know the no. of rows that got affected. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/02/24/db2-tip-how-to-know-the-no-of-rows-that-got-affected/
 * Explain_From_Activity
   * Please check the SysProc.Explain_From_Activity entry.
 * Export
@@ -1936,6 +1945,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * Returning inserted rows (and updated and deleted). DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/select_from_insert
   * Replace (Update/Insert) a row into DB2 table – Merge into. With Data. Shiji Pan. 2013. Blog - https://www.withdata.com/blog/db2/replace-update-or-insert-a-row-into-db2-table-merge-into.html
+  * DB2 tip: How to know the no. of rows that got affected. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/02/24/db2-tip-how-to-know-the-no-of-rows-that-got-affected/
   * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html
   * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/line-optimization-v11-1/
   * Dealing with dates and formats. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/dealing-with-dates-and-formats.html
@@ -3008,6 +3018,9 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
   * DB2, LINUX AND MEMORY. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-and-memory/
   * (Monitoring the state of a backup, restore or rollforward) Monitorizar el estado de un backup, restore o rollforward en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/backup_recovery/monitorizar-el-estado-de-un-backup-restore-o-rollforward-en-db2/
+  * DB2 DPF Tablespace Recovery Scenarios — Part 1 — Recover Tablespace(s) on Coordinator Node. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/03/05/db2-dpf-tablespace-recovery-scenarios-part-1/
+  * DB2 DPF Tablespace Recovery Scenarios — Part 2 — Recover Tablespace(s) on Data Partitions. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/03/07/db2-dpf-tablespace-recovery-scenarios-part-2-recover-tablespaces-on-data-partitions/
+  * DB2 DPF Tablespace Recovery Scenarios — Part 3 — Recover Tablespace(s) on ALL database partitions. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/03/11/db2-dpf-tablespace-recovery-scenarios-part-3-recover-tablespaces-on-all-database-partitions/
   * DB2 Advanced Copy Services: The scripted interface, Part 4, Implementation for DB2 ACS. DeveloperWorks. Martin Jungfer and Holger Hellmuth. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1506scriptdb2copy4/index.html
   * Understanding and Tuning DB2/LUW Backup and Restore Performance. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/understanding-and-tuning-db2luw-backup.html
   * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
@@ -3730,6 +3743,9 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
   * SysIBMAdm.SpanTbsp
     * (Average time of read/write access to disc in Db2) Tiempos medios de acceso lectura/escritura a disco a nivel de DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/tuning/tiempos-medios-de-acceso-lecturaescritura-a-disco-a-nivel-de-db2/
   * SysIBMAdm.TbSp_Utilization
+    * DB2 DPF Tablespace Recovery Scenarios — Part 1 — Recover Tablespace(s) on Coordinator Node. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/03/05/db2-dpf-tablespace-recovery-scenarios-part-1/
+    * DB2 DPF Tablespace Recovery Scenarios — Part 2 — Recover Tablespace(s) on Data Partitions. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/03/07/db2-dpf-tablespace-recovery-scenarios-part-2-recover-tablespaces-on-data-partitions/
+    * DB2 DPF Tablespace Recovery Scenarios — Part 3 — Recover Tablespace(s) on ALL database partitions. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/03/11/db2-dpf-tablespace-recovery-scenarios-part-3-recover-tablespaces-on-all-database-partitions/
     * Why you should specify DISTRIBUTION KEY for tables in a single database partition in a DB2 DPF database?!?. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/04/28/why-you-should-specify-distribution-key-for-tables-in-a-single-database-partition-in-a-db2-dpf-database/
     * Tablespace backups in a DB2 LUW DPF database. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/09/21/backing-up-tablespaces-in-a-db2-luw-dpf-database/
   * SysIBMAdm.Top_Dynamic_Sql
@@ -3858,6 +3874,7 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
 * System temporary tablespace
   * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/29/db2-temporary-table-spaces/
 * SysTools schema
+  * DB2 tip: How to know the no. of rows that got affected. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/02/24/db2-tip-how-to-know-the-no-of-rows-that-got-affected/
   * SysTools.Admin_Move_Table
     * DB2 SQL2104N THE ADMIN_MOVE_TABLE PROCEDURE COULD NOT BE COMPLETED AT THIS TIME BY THIS USER. REASON CODE: “9”. SQLSTATE=5UA0M. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/sql2104n-the-admin_move_table-procedure-could-not-be-completed-at-this-time-by-this-user-reason-code-9-sqlstate5ua0m/
   * SysTools.Opt_Profile
@@ -4162,6 +4179,7 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * Returning inserted rows (and updated and deleted). DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/select_from_insert
   * Replace (Update/Insert) a row into DB2 table – Merge into. With Data. Shiji Pan. 2013. Blog - https://www.withdata.com/blog/db2/replace-update-or-insert-a-row-into-db2-table-merge-into.html
+  * DB2 tip: How to know the no. of rows that got affected. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/02/24/db2-tip-how-to-know-the-no-of-rows-that-got-affected/
   * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html
   * Dealing with dates and formats. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/dealing-with-dates-and-formats.html
   * Using UNICODE characters, no matter the encoding of the script in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/using-unicode-characters-no-matter.html
@@ -4185,29 +4203,4 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html
   * Db2 Basics: Investigating Permissions in an Existing Database. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
 * User mapping (federation)
-  * Mom, I joined the cloud! (or: Use old stuff with new stuff - DB2 federation). Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/03/mom-i-joined-cloud-or-use-old-stuff.html
-* User temporary tablespace
-  * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/29/db2-temporary-table-spaces/
-* Userexit
-  * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
-* userprofile
-  * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/22/db2-basics-levels-of-configuration/
-* UTF-8
-  * Using UNICODE characters, no matter the encoding of the script in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/using-unicode-characters-no-matter.html
-* Util_Heap_Sz
-  * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
-  * Creating and loading column-organized and row-organized tables in DB2 BLU. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/10/06/creating-and-loading-column-organized-and-row-organized-tables-in-db2-blu/
-  * Understanding and Tuning DB2/LUW Backup and Restore Performance. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/understanding-and-tuning-db2luw-backup.html
-  * DB2 11.1 BLU with DPF Monitoring scripts. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11484
-* Util_Impact_Limit
-  * (Session priority in Db2) Prioridad de sesiones en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/prioridad-de-sesiones-en-db2/
-* Util_Impact_Priority
-  * (Session priority in Db2) Prioridad de sesiones en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/prioridad-de-sesiones-en-db2/
-* Utility heap
-  * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
-  * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/07/the-self-tuning-memory-manager-stmm/
-* Utilities
-  * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
-  * (ADM6044E error during a tablespace rebalancing after adding a container) Error ADM6044E durante rebalanceo en un tablespaces después de añadir un container. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/errores/error-adm6044e-durante-rebalanceo-en-un-tablespaces-despues-de-anadir-un-container/
-  * (Monitoring the state of a backup, restore or rollforward) Monitorizar el estado de un backup, restore o rollforward en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/backup_recovery/monitorizar-el-estado-de-un-backup-restore-o-rollforward-en-db2/
-* UTL_FILE module
+  * Mom, I joined the cloud! (o
