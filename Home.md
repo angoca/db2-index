@@ -3011,6 +3011,15 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * RESIGNAL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/resignal/
 * Resize
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
+* Resources
+  * IBM Developer. https://developer.ibm.com/
+  * IBM DeveloperWorks. https://www.ibm.com/developerworks/
+  * IBM Notifications. http://www.ibm.com/support/mynotifications
+  * IBM PMR. https://www.ibm.com/support/servicerequest/ 
+  * IBM Redbooks. http://www.redbooks.ibm.com
+  * IBM RFE. https://www.ibm.com/developerworks/rfe/
+  * IBM Support. https://www.ibm.com/support/home/
+  * (Ep. 08) - Resources You Didn't Know You Needed. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=0BVlHn5iyUY
 * Response file
   * Step by Step installation of DB2 V10.5 on Linux. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/04/step-by-step-installation-of-db2-v105-Linux.html
 * Restore
@@ -4171,6 +4180,4 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
 * Universal Fixpack
   * Db2 Basics: Using FTPS to get a Fixpack Directly to a Db2 Server. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/02/01/db2-basics-using-ftps-to-get-a-fixpack-directly-to-a-db2-server/
 * Unsupported data types - BLU
-  * Leverage DB2 BLU Acceleration technology for tables involving unsupported data types. DeveloperWorks. Masahiro Ohkawa and Abhishek Chourasia. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507db2-blu-tables/index.html
-* UOW - Unit Of Work
-  * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekg
+  * Leverage DB2 BLU Acceleration technology for tables involving unsupported data types. DeveloperWorks. Masahiro Ohkawa and Abhishek Chourasia. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-
