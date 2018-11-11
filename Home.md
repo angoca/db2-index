@@ -294,7 +294,7 @@ This is an index where you can search for a DB2 term and get the related Interne
   * Automating HADR on DB2 10.1 for Linux, UNIX and Windows Failover Solution Using Tivoli System Automation for Multiplatforms. IBM. 2014. Whitepaper - http://public.dhe.ibm.com/software/dw/im/dm-0907hadrdb2haicu/db2-10-hadr-tsa.pdf
   * Comparing Two Db2 Systems. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/09/12/comparing-two-db2-systems/
   * Avoiding Inoperative Tables on the HADR Standby. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/10/19/avoiding-inoperative-tables-on-the-hadr-standby/
-* Blogs. 
+* Blogs
   * An Expert's Guide to DB2 Technology. itToolBox. Chris Eaton. Blog - http://it.toolbox.com/blogs/db2luw/
   * BigData and Analytics Hug. IBM. Blog - http://www.ibmbigdatahub.com/tag/292
   * Expert tips on building and administering DB2 LUW databases. db2commerce. Ember Crooks. Blog - http://db2commerce.com/
@@ -2275,7 +2275,7 @@ http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Maintenance
   * Automatic Table Maintenance Self-controlled. Berst Blog. Bert van Langen. 2014. Blog - https://web.archive.org/web/20160308072705/https://blog.bertvanlangen.com/db2/automatic-table-maintenance-self-controlled/
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
-* Materialized Query Table - MQT.
+* Materialized Query Table - MQT
   * Please check the "MQT" entry.
 * Max_Connections
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
@@ -3707,7 +3707,7 @@ https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.
     * (History of Db2 versions) Historial de versiones de DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/administracion/historial/
 * SysIBMAdm
   * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
-* SysIBMAdm schema.
+* SysIBMAdm schema
   * SysIBMAdm.AdminTabInfo
     * Record the size of your DB2 tables – SYSIBMADM.ADMINTABINFO. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/record-the-size-of-your-db2-tables-sysibmadm-admintabinfo/
   * Calculating size of table in a DPF database. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2016/03/22/calculating-size-of-table-in-a-dpf-database/
@@ -4176,8 +4176,4 @@ Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticl
   * Please check the Unit of work entry.
 * Unit testing
   * db2unit. GitHub. Project - https://github.com/angoca/db2unit
-  * Unit test SQL PL routines by using db2unit framework in DB2 LUW. DeveloperWorks. Andres Gomez. 2015. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1501unittest-sql-db2/index.html
-* Universal Fixpack
-  * Db2 Basics: Using FTPS to get a Fixpack Directly to a Db2 Server. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/02/01/db2-basics-using-ftps-to-get-a-fixpack-directly-to-a-db2-server/
-* Unsupported data types - BLU
-  * Leverage DB2 BLU Acceleration technology for tables involving unsupported data types. DeveloperWorks. Masahiro Ohkawa and Abhishek Chourasia. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-
+  * Unit test SQL PL routines by using db2unit framework in DB2 LUW. DeveloperWorks. Andres Gomez. 2015. Article - http://www.ibm.com/developerworks/data/l
