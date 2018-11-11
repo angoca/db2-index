@@ -36,9 +36,6 @@ In this section, the main DB2 sources are described:
 
 These blogs are not longer updated 😞 
 
-* Pavan Kristipati - db2talk (Blog of technical content). https://db2talk.wordpress.com/
-  * Articles since 2015 to 2016
-  * Older article should be indexed.
 * Chris Eaton - An Expert's Guide to DB2 Technology (Blog from an IBM expert 😢 ). https://it.toolbox.com/users/content/ChrisEaton-000002
   * Articles since 2014 to 2015.
   * Older article should be indexed.
@@ -56,8 +53,10 @@ These blogs are not longer updated 😞
   * All podcast (Between 2013 and 2017 - Complete).
 * Bansari Prajapati - Remote DB Support. https://dbthread.wordpress.com/
   * All articles (Between 201707 - 201709 - Complete).
+* Pavan Kristipati - db2talk (Blog of technical content). https://db2talk.wordpress.com/
+  * All articles (Between 2014 and 2016 - Complete)
 * Raf Mathijs - DB2 Knowledge Base Raf (Blog about technical stuff). http://db2-luw-knowledgebase.blogspot.com.co/
-  * All articles (Between 201301 and 201512 - Complete).
+  * All articles (Between 2013 and 2015 - Complete).
 * Radhesh Kumar - DB2 Diary from Radhesh. http://radheshk.blogspot.com/
   * All articles (Between 2007 and 2010 - Complete).
 * Oscar Paredes - DB2 Util. http://www.db2util.es/
@@ -71,7 +70,7 @@ These blogs are not longer updated 😞
 * Raju Pillai - techs@work. http://techsatwork.com/blog/?tag=db2
   * All articles related to Db2 (Between 2009 and 2012 - Complete).
 * Keith McDonald - The K guy (Blog about db2top and some SQL PL). http://www.thekguy.com
-  * All articles about Db2 (Between 2009 and 2010 - Complete).
+  * All articles related to Db2 (Between 2009 and 2010 - Complete).
 * Nagendra - DB2 queries (Blog about technical stuff). http://learndb.blogspot.com.co/
   * All articles (2009 - Complete).
 
