@@ -1904,4 +1904,266 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Please check the Unit of work entry.
 * Unit testing
   * db2unit. GitHub. Project - https://github.com/angoca/db2unit
-  * Unit test SQL PL routines by using db2unit framework in DB2 LUW. DeveloperWorks. Andres Gomez. 2015. Article - http://www.ibm.com/developerworks/data/l
+  * Unit test SQL PL routines by using db2unit framework in DB2 LUW. DeveloperWorks. Andres Gomez. 2015. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1501unittest-sql-db2/index.html 
+* Universal Fixpack 
+  * Db2 Basics: Using FTPS to get a Fixpack Directly to a Db2 Server. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/02/01/db2-basics-using-ftps-to-get-a-fixpack-directly-to-a-db2-server/ 
+* Unsupported data types - BLU 
+  * Leverage DB2 BLU Acceleration technology for tables involving unsupported data types. DeveloperWorks. Masahiro Ohkawa and Abhishek Chourasia. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507db2-blu-tables/index.html 
+* UOW - Unit Of Work 
+  * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html 
+  * SQL Analysis from Locking Event Monitor Collecting History. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/11/03/sql-analysis-from-locking-event-monitor-collecting-history/ 
+  * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html 
+* Update 
+  * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html 
+  * Returning inserted rows (and updated and deleted). DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/select_from_insert 
+  * Replace (Update/Insert) a row into DB2 table – Merge into. With Data. Shiji Pan. 2013. Blog - https://www.withdata.com/blog/db2/replace-update-or-insert-a-row-into-db2-table-merge-into.html 
+  * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html 
+  * Dealing with dates and formats. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/dealing-with-dates-and-formats.html 
+  * Using UNICODE characters, no matter the encoding of the script in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/using-unicode-characters-no-matter.html 
+* Upgrade 
+  * DB2 Upgrade Detail: Upgrading Event Monitor Tables. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/12/20/db2-upgrade-detail-upgrading-event-monitor-tables/ 
+  * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/ 
+  * We’re Risk Averse. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/were-risk-averse/ 
+* Upper case 
+  * Performance differences between upper-case (XQuery) and UPPER scalar function. db2geek. Mark Gillisr. 2018. Blog - http://db2geek.triton.co.uk/performance-differences-upper-case-xquery-upper-scalar-function/ 
+* Upsert 
+  * SQL on Fire! Part 2. WAIUG. Serge Rielau. 2006. Presentation - http://www.waiug.org/present/Forum2006/Presentations/SQLonFire_2_Serge_Rielau.ppt 
+* Uptime 
+  * (Uptime in Db2) Uptime / Último reinicio DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/uptime-ultimo-reinicio-db2/ 
+  * Database Up Time. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30323 
+* Usage list 
+  * Usage Lists – Big Brother is watching, but only where he is looking. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/usage-lists-big-brother-is-watching-but-only-where-he-is-looking/ 
+  * Finding the access path for Columnar queries #2. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-2/ 
+* User 
+  * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html 
+  * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html 
+  * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html 
+  * Db2 Basics: Investigating Permissions in an Existing Database. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/ 
+* User mapping (federation) 
+  * Mom, I joined the cloud! (or: Use old stuff with new stuff - DB2 federation). Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/03/mom-i-joined-cloud-or-use-old-stuff.html 
+* User temporary tablespace 
+  * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/29/db2-temporary-table-spaces/ 
+* Userexit 
+  * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/ 
+* userprofile 
+  * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/22/db2-basics-levels-of-configuration/ 
+* UTF-8 
+  * Using UNICODE characters, no matter the encoding of the script in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/using-unicode-characters-no-matter.html 
+* Util_Heap_Sz 
+  * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/ 
+  * Understanding and Tuning DB2/LUW Backup and Restore Performance. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/understanding-and-tuning-db2luw-backup.html 
+  * DB2 11.1 BLU with DPF Monitoring scripts. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11484 
+* Util_Impact_Limit 
+  * (Session priority in Db2) Prioridad de sesiones en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/prioridad-de-sesiones-en-db2/ 
+* Util_Impact_Priority 
+  * (Session priority in Db2) Prioridad de sesiones en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/prioridad-de-sesiones-en-db2/ 
+* Utility heap 
+  * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html 
+  * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/07/the-self-tuning-memory-manager-stmm/ 
+* Utilities 
+  * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html 
+  * (ADM6044E error during a tablespace rebalancing after adding a container) Error ADM6044E durante rebalanceo en un tablespaces después de añadir un container. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/errores/error-adm6044e-durante-rebalanceo-en-un-tablespaces-despues-de-anadir-un-container/ 
+  * (Monitoring the state of a backup, restore or rollforward) Monitorizar el estado de un backup, restore o rollforward en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/backup_recovery/monitorizar-el-estado-de-un-backup-restore-o-rollforward-en-db2/ 
+* UTL_FILE module 
+  * UTL_FILE.PUT in Db2 just print 1024 characters. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/05/utlfileput-in-db2-just-print-1024.html 
+ 
+# V 
+ 
+* V.R.M.F. - Version, Release, Modification, Fixpack 
+  * V.R.M.F Maintenance Stream Delivery Vehicle terminology explanation. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg27008656 
+* Value compression 
+  * Size matters: A handy routine to compute the defined row size of a table. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/getrowsize 
+* Varchar 
+  * Char Vs. Varchar in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/char-vs-varchar-in-db2.html 
+* Variables 
+  * Variables in SQL PL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/variables/ 
+  * DECLARE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/declare/ 
+  * SET statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/set/ 
+  * PREPARE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/prepare/ 
+  * Boolean data type. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/boolean-data-type/ 
+  * CREATE VARIABLE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/create_variable/ 
+  * Scope of variables. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/scope-of-variables/ 
+  * SELECT INTO statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/select-into/ 
+* Vectored read 
+  * db2top Bufferpools Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-2.html 
+  * Distinctly weak type rules with a constrained twist. DeveloperWorks - SQL Tips for DB2 LUW. Rick Swagerman. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/weak_type?lang=en 
+  * Using SQL parameter names and default values, DeveloperWorks. Nick Lawrence, 2015. Article - https://www.ibm.com/developerworks/ibmi/library/i-sql-parameter-name-default-value/index.html 
+* Vendor 
+  * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/ 
+  * Restart vendor process for archive logging. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/12/restart-vendor-process-for-archive.html 
+* VendorOpt 
+  * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/ 
+* Vendor Certification 
+  * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/ 
+* Version 
+  * (Identify the version and level of fixpack of Db2) Conocer la versión y el nivel de parcheo de DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/conocer-la-version-y-el-nivel-de-parcheo-de-db2/ 
+  * (History of Db2 versions) Historial de versiones de DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/administracion/historial/ 
+  * How to Identify the version and service level of DB2 product?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/05/how-to-identify-version-and-service.html 
+  * Db2: release number, service level and build level. Ideas for Db2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com/2018/06/db2-release-number-service-level-and.html 
+  * How to know if Java clients in Db2 are using an updated driver. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/how-to-know-if-java-clients-in-db2-are.html 
+* Victim buffer 
+  * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html 
+* Victim page 
+  * db2top Bufferpools Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-2.html 
+* Video 
+  * ChannelDB2. ChannelDB2. Channel - http://www.channeldb2.com/ 
+  * DB2-LUW-ACADEMY. YouTube. Channel - https://www.youtube.com/user/DB2LUWAcademy 
+  * IBMDatamanagement. YouTube. Channel - https://www.youtube.com/channel/UC9QnRdjWEIe58LXKpAoXl4A 
+  * IDUG DB2 Tech. IDUG. Channel - http://www.idug-db2.com/ 
+  * IDUG: International DB2 Users Group. YouTube. Channel - https://www.youtube.com/channel/UCVY6PWpd9No0zNEQvKIVGhw 
+  * The DB2Night Show. DBI software. Channel - http://www.dbisoftware.com/blog/db2nightshow.php 
+* View 
+  * DB2 LUW Database Object’s owner and Instance Owner’s authority over it. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2016/07/18/db2-luw-database-objects-owner-and-instance-owners-authority-over-it/ 
+* Virtual IP - VIP 
+  * Client Connections in a TSA/HADR cluster- Part 3. db2geek. Damir Wilder. 2017 - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-3/ 
+  * Client Connections in a TSA/HADR cluster- Part 4. db2geek. Damir Wilder. 2017 - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-4/ 
+* Virtualization 
+  * Best Practices - Improving Data Server Utilization and Management through Virtualization. IBM. Sunil Kamath, Punit Shah, Basker Shanmugam, Rimas P. Kalesnykas. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_Virtualization_0508I.pdf 
+  * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html 
+  * Licensing Your Database Software on Virtual Platforms. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/10/04/licensing-your-database-software-on-virtual-platforms/ 
+* VisualStudio 
+  * Using IBM Database Add-ins for Visual Studio 2013 in DB2 Cancun (10.5 Fix Pack 4). DeveloperWorks. Rajendra Kamath, Malarvizhi Kaliyakrishnan, and Archana Soni. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507addins-db2cancun/index.html 
+* Volatile tables 
+  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/ 
+* VPC 
+  * Licensing Your Database Software on Virtual Platforms. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/10/04/licensing-your-database-software-on-virtual-platforms/ 
+ 
+# W 
+ 
+* Wait 
+  * db2top Locks Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-locks-screen.html 
+* Warehouse 
+  * Db2 with External Tables: First Tests. Data Henrik. Henrik Loeser. 2017. Blog -  
+http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html 
+  * Spatial Analytics with Db2 Warehouse. DeveloperWorks. Deepak Rangarao. 2018. Article - https://www.ibm.com/developerworks/library/bd-spatial-analytics-db2warehouse-mapbox/index.html 
+* Watch 
+  * How to monitor operations in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/how-to-monitor-operations-in-db2.html 
+  * Unix command of the day: watch. Leons on Tech. Leons Petrazickis. 2016 - http://lpetr.org/blog/archives/unix-command-of-the-day-watch 
+* Watermark 
+  * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html 
+  * Do db2top High Watermarks Give Wrong Answers? The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/do-db2top-high-watermarks-give-wrong-answers.html 
+* Web resources 
+  * Index of free resources in the Web about DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/index-of-free-resources-in-web-about-db2.html 
+* While 
+  * While. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/while/ 
+* Wiki 
+  * DB2 Database Professionals. DeveloperWorks. Wiki - https://www.ibm.com/developerworks/community/groups/service/html/communityview?lang=en&communityUuid=fc834388-7630-4b28-9abd-2f6e702b7df7 
+  * IBM DB2 - Wiki. Toad. Wiki - http://www.toadworld.com/platforms/ibmdb2/w/wiki/default.aspx 
+* Wikipedia 
+  * DB2 SQL return codes. Wikipedia. Wiki - https://en.wikipedia.org/wiki/DB2_SQL_return_codes 
+  * DB2 UDB. Wikipedia. Wiki - https://en.wikipedia.org/wiki/DB2_UDB 
+  * IBM DB2. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2 
+  * IBM DB2 Express-C. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2_Express-C 
+  * pureXML. Wikipedia. Wiki - https://en.wikipedia.org/wiki/PureXML 
+* Windows 
+  * PkgCache #28: Easier to use when drunk. The Whole Package Cache. Ian Bjorhovde, Fred Sobotka. 2016. Podcast - http://www.pkgcache.com/28/ 
+  * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/08/30/powershell-script-for-local-db2-database-activation/ 
+  * db2setup on Windows – Repair Option. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2017/04/04/db2setup-on-windows-repair-option/ 
+  * Hello, Db2 World! PowerShell. DataGeek.blog. Ember Brooks. 2018. Blog - https://datageek.blog/2018/08/09/hello-db2-world-powershell/ 
+* Wire Listener 
+  * Using the IBM NoSQL Wire Listener for DB2. DeveolperWorks. Ioannis Papapanagiotou, Marion Behnen, John Paul Parkin, and Jyh-Chen Fang. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson4/index.html 
+* Workload Automation 
+  * Workload Automation: How to Survive Disasters. Workload Automation Community. Eliana Cerasaro. 2018. Blog - http://www.workloadautomation-community.com/blogs/workload-automation-how-to-survive-disasters 
+* WLB - Workload Balancing 
+  * Configure parameters for IBM Data Server Driver for JDBC and SQLJ against HADR for DB2 pureScale. DeveloperWorks. Sujan Ghosh and Vinayak Joshi. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1509hadr-purescale/index.html 
+* WLM - Workload Manager 
+  * Automatic Workload Management with BLU Acceleration. IT Toolbox. Chris Eaton. 2014. Blog - https://it.toolbox.com/blogs/ceaton55/automatic-workload-management-with-blu-acceleration-031114 
+  * Querying Tables for an Activity Event Monitor. db2commerce. Ember Brooks. 2014. Blog - http://db2commerce.com/2014/10/14/querying-tables-for-an-activity-event-monitor/ 
+  * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html 
+  * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html 
+  * Transitioning from Query Patroller historical tables to WLM & Event Monitors in DB2 LUW. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/06/transitioning-from-query-patroller.html 
+  * The multi-temperature data feature. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders, and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part1-trs/index.html 
+  * SQL fishing using WLM. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11456 
+* Workload Scheduler 
+  * How to Check the Consistency of your Workload Scheduler Database Schema. Workload Automation Community. Eliana Cerasaro. 2017. Blog - http://www.workloadautomation-community.com/blogs/how-to-check-the-consistency-of-your-workload-scheduler-database-schema 
+* Wlm_Set_Conn_Env 
+  * Please check the SysProc.Wlm_Set_Conn_Env entry. 
+* wlmhist.pl 
+  * Transitioning from Query Patroller historical tables to WLM & Event Monitors in DB2 LUW. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/06/transitioning-from-query-patroller.html 
+* Workload 
+  * db2top Tables Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-2.html 
+  * SQL Analysis from Locking Event Monitor Collecting History. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/11/03/sql-analysis-from-locking-event-monitor-collecting-history/ 
+* Workload analyses 
+  * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487 
+* Workload Balancing - WLB 
+  * Configuring SSL for IBM Data Server Driver for ODBC and CLI. DeveloperWorks. Chetan Papaiah, Ashok V. Jose and Chris Meyer. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-ssl-data-server-driver-odbc-cli-trs/index.html 
+* Workload Manager 
+  * Please check the "WLM" entry. 
+* wplistener.bat 
+  * Using the IBM NoSQL Wire Listener for DB2. DeveolperWorks. Ioannis Papapanagiotou, Marion Behnen, John Paul Parkin, and Jyh-Chen Fang. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson4/index.html 
+* wplistener.sh 
+  * Using the IBM NoSQL Wire Listener for DB2. DeveolperWorks. Ioannis Papapanagiotou, Marion Behnen, John Paul Parkin, and Jyh-Chen Fang. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson4/index.html 
+* Wrapper 
+  * Mom, I joined the cloud! (or: Use old stuff with new stuff - DB2 federation). Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/03/mom-i-joined-cloud-or-use-old-stuff.html 
+  * HOW TO SETUP FEDERATION BETWEEN TWO DB2 LUW DATABASES. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/how-to-setup-federation-between-two-db2-luw-databases/ 
+* Write 
+  * DB2 problem determination using db2top utility. DeveloperWorks. Tao Wang and Shen Li. 2008. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0812wang/index.html 
+  * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html 
+  * db2top Database Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-1.html 
+  * db2top Database Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-2.html 
+  * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html 
+  * db2top Sessions Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-2.html 
+  * db2top Agent Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-2.html 
+  * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html 
+  * db2top Tablespaces Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-1.html 
+  * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html 
+  * db2top Bufferpools Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-2.html 
+  * db2top Tables Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-1.html 
+* Write suspend 
+  * Please check the "Suspend write" entry. 
+* Write-ahead logging 
+  * How Will Logging Process happen in DB2?. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/01/how-logging-process-will-happen-in-db2.html 
+  * Format and display Db2 log file information using db2fmtlog. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/format-and-display-db2-log-file.html 
+ 
+# X 
+ 
+* XDA 
+  * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html 
+  * db2top Bufferpools Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-2.html 
+* XML 
+  * How to order query results based on XML values. Native XML Database. Matthias Nicola. Blog - http://nativexmldatabase.com/2010/08/11/how-to-order-query-results-based-on-xml-values/ 
+  * Best Practices - Managing XML Data. IBM. Matthias Nicola, Susanne Englert. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_XML_0508I.pdf 
+  * Performance differences between upper-case (XQuery) and UPPER scalar function. db2geek. Mark Gillisr. 2018. Blog - http://db2geek.triton.co.uk/performance-differences-upper-case-xquery-upper-scalar-function/ 
+* XML Policy file 
+  * Excluding a Table from Db2’s Automatic Runstats. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/09/05/excluding-a-table-from-db2s-automatic-runstats/ 
+* xmlagg 
+  * SQL Tips & Techniques- String Aggregation(Contd.) DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/02/sql-tips-techniques-string.html 
+* xQuery 
+  * Performance differences between upper-case (XQuery) and UPPER scalar function. db2geek. Mark Gillisr. 2018. Blog - http://db2geek.triton.co.uk/performance-differences-upper-case-xquery-upper-scalar-function/ 
+ 
+# Z 
+ 
+* Zig-zag - ZZJOIN 
+  * DB2 LUW Execution Plan Operations. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/explain-plan/db2/operations 
+ 
+# Number 
+ 
+* 9.1 
+  * Full steam ahead with DB2 LUW versions ! Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=191 
+* 9.7 
+  * New in DB2 for LUW 9.7.2: UDF default parameters. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/new-in-db2-for-luw-9-7-2-udf-default-parameters.html 
+* 10.5 
+  * DB2 10.5 with Blu Acceleration (IMM14140USEN). DB2 with BLU Acceleration. Paul Zikopoulus, Sam Lightstone et al. 2014. Book - http://www.ibmbluhub.com/wp-content/uploads/2014/06/IMM14140USEN_DB2_10.5_with_BLU_Acceleration_flash_book.pdf (INVALID) 
+  * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html 
+* 11.1 
+  * DB2 for Linux, UNIX and Windows Version 11 Hightlights. IBM Box. George Baklarz, Enzo Cialini. 2016. Book - 
+https://ibm.box.com/v/DB2v11eBook 
+  * Now available: DB2 Version 11 for Linux, UNIX, and Windows. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/06/now-available-db2-version-11-for-linux.html 
+  * The DB2Night Show #187: FREE Resources to help you succeed with DB2 LUW V11. The DB2Night Show. George Baklarz. 2016. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=713, PDF - http://www.dbisoftware.com/db2nightshow/20161209DB2Night187.pdf 
+  * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/ 
+  * Strange Problem Installing DB2 11.1, Fix/Mod Pack 1 on Ubuntu. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2017/01/06/strange-problem-installing-db2-11-1-fixmod-pack-1-on-ubuntu/ 
+  * IBM’s June Announcements About DB2. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/06/23/ibms-june-announcements-about-db2/ 
+  * 2017: A year for DB2 11.1. db2geek. Iqbal Goralwalla. 2017. Blog - http://db2geek.triton.co.uk/2017-year-db2-11-1/ 
+  * The db2support Problem with Db2 11.1, Fix Pack 3 (LUW). Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/07/the-db2support-problem-with-db2-11-1-fix-pack-3-luw/ 
+ 
+# Signs 
+ 
+* .Net 
+  * Using IBM Database Add-ins for Visual Studio 2013 in DB2 Cancun (10.5 Fix Pack 4). DeveloperWorks. Rajendra Kamath, Malarvizhi Kaliyakrishnan, and Archana Soni. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507addins-db2cancun/index.html 
+ 
+* ? 
+  * A file with one character-name can make the difference when asking for help. Ideas for Db2. Andres Gomez. 2017. Blog - http://angocadb2.blogspot.com.co/2017/12/a-file-with-one-character-name-can-make.html 
+  * Why are there Question Marks in my Db2 Queries?. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/why-are-there-question-marks-in-my-db2-queries/ 
+ 
+* : 
+  * Why are there Question Marks in my Db2 Queries?. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/why-are-there-question-marks-in-my-db2-queries/ 
