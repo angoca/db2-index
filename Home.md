@@ -1,5 +1,7 @@
 This is an index where you can search for a DB2 term and get the related Internet resources which are for free access or that only needs registration. This is focused in LUW.
 
+NOTE: The index is divided in two pages due to a limitation of 500KB per page in GitHub pages. The second page is at [Page 2 - here.](https://github.com/angoca/db2-index/wiki/Home-cont)
+
 # A
 
 * Access Plan / Path
@@ -2254,4 +2256,4 @@ This is an index where you can search for a DB2 term and get the related Interne
 * LUW - Linux, UNIX & Windows
   * DB2 Connect® Usage and Editions. db2Dean. Dean Compher. 2007. Blog - http://www.db2dean.com/Previous/DB2Connect.html
 
-The index continues at [home-cont] because GitHub Wiki has a limitation of 500KB per page.
+The index continues at [Index page 2](https://github.com/angoca/db2-index/wiki/Home-cont) because GitHub Wiki has a limitation of 500KB per page.
