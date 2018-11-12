@@ -115,6 +115,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html
 * Architecture
   * Licensing Your Database Software on Virtual Platforms. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/10/04/licensing-your-database-software-on-virtual-platforms/
+* Archive array
+  * Log Manager and the Archive Array. A Day in DBA's life. Manohar Viswanatha. 2016. Blog - https://mviswa.blogspot.com/2016/05/log-manager-and-archive-array.html
 * Archive log
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
   * DB2 Tips n Tricks Part 100 - How To Save Space in Archive Log File System. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=dmhImiLeYoo
@@ -1024,6 +1026,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * DB2LOCK_TO_RB
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * db2loggr
+  * Log Manager and the Archive Array. A Day in DBA's life. Manohar Viswanatha. 2016. Blog - https://mviswa.blogspot.com/2016/05/log-manager-and-archive-array.html
   * The DB2Night Show #196: Db2 LUW Transaction Log Expedition w/ Ember Crooks. The DB2Night Show. Ember Crooks. 2017. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=730
   * Improve Db2 HADR Resilience of Network Transmission Corruptions. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/improve-db2-hadr-resilience-of-network.html
 * db2logscan
@@ -2212,6 +2215,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Format and display Db2 log file information using db2fmtlog. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/format-and-display-db2-log-file.html
 * Log flush sequence - LFS
   * Format and display Db2 log file information using db2fmtlog. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/format-and-display-db2-log-file.html
+* Log Manager
+  * Log Manager and the Archive Array. A Day in DBA's life. Manohar Viswanatha. 2016. Blog - https://mviswa.blogspot.com/2016/05/log-manager-and-archive-array.html
 * Log Reads
   * The DB2Night Show #196: Db2 LUW Transaction Log Expedition w/ Ember Crooks. The DB2Night Show. Ember Crooks. 2017. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=730
 * Log Sequence Number
