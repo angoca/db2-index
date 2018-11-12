@@ -55,6 +55,8 @@ These blogs are not longer updated 😞
   * All articles (Between 201707 - 201709 - Complete).
 * Pavan Kristipati - db2talk (Blog of technical content). https://db2talk.wordpress.com/
   * All articles (Between 2014 and 2016 - Complete)
+* Manohar Viswanatha - A Day in DBA's life. http://mviswa.blogspot.com/
+  * All articles (Between 2012 and 2016 - Complete)
 * Raf Mathijs - DB2 Knowledge Base Raf (Blog about technical stuff). http://db2-luw-knowledgebase.blogspot.com/
   * All articles (Between 2013 and 2015 - Complete).
 * Radhesh Kumar - DB2 Diary from Radhesh. http://radheshk.blogspot.com/
@@ -107,7 +109,6 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * https://it.toolbox.com/users/content/LeonKatsnelson
 * http://justdb2chatter.blogspot.com/
 * http://lpetr.org/
-* http://mviswa.blogspot.com/
 * http://db2tutorial.net/
 * https://vimeo.com/user1637644
 * https://it.toolbox.com/users/content/scotdb
