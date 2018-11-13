@@ -336,6 +336,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 
 * Packages
   * SQL805N on NULLID.SYS* package. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=31
+  * DB2 Security: Privileges. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-security-privileges/
 * Package cache
   * Solve IBM BPM performance issues with IBM DB2 examples. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz2-trs/1509_volz2.html
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
@@ -966,6 +967,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Distinguishing Access and Filter-Predicates. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/explain-plan/db2/filter-predicates
 * SecAdm
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
+  * DB2 Security: Authorities. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-security-authorities/
   * IBM Db2 Tech Talk: Db2 Security and Compliance Support. Db2 Tech Talk. Roger Sanders. 2018. Webminar - https://www.ibm.com/events/Z56SMPES
 * Section
   * db2top Agent Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-1.html
@@ -979,6 +981,9 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 security, Part 10: Deploy customized security plug-ins in DB2 9. DeveloperWorks. Kevin Yeung-Kuen See. 2010. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0610see/index.html
   * DB2 security, Part 2: Understand the DB2 for Linux, UNIX, and Windows security plug-ins. DeveloperWorks. Kevin Yeung-Kuen See. 2011. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0512chong/index.html
   * Twelve DB2 security best practices. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/twelve-db2-security-best-practices/
+  * DB2 Security: Authentication. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-security-authentication/
+  * DB2 Security: Authorities. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-security-authorities/
+  * DB2 Security: Privileges. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-security-privileges/
   * DB2 UDB security, Part 4: Understand how authorities and privileges are implemented in DB2 UDB. DeveloperWorks. Ted J. Wasserman. 2012. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0601wasserman/index.html
   * DB2 UDB security, Part 5: Understand the DB2 audit facility. DeveloperWorks. Ted J. Wasserman. 2012. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0603wasserman/index.html
   * DB2 Security, Part 11: Develop a security plug-in for DB2 database authentication. DeveloperWorks. Gene Kligerman. 2009. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0802kligerman/
@@ -1282,6 +1287,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 monitoring: Tracing SQL statements by using an activity event monitor. developerWorks. Scott Walkty and Mike Springgay. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1401sqltrace/
 * SQLWarning
   * Condition handling. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/condition-handling/
+* SvrCon_Auth
+  * DB2 Security: Authentication. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-security-authentication/
 * SSL - Secure Socket Layer
   * Configuring SSL for IBM Data Server Driver for ODBC and CLI. DeveloperWorks. Chetan Papaiah, Ashok V. Jose and Chris Meyer. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-ssl-data-server-driver-odbc-cli-trs/index.html
   * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
@@ -1630,6 +1637,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * SysProc.Set_Routine_Opts
     * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
     * Making SQL PL and PL/SQL sensitive to changes in statistics, and more. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/statistics_sensitive_sql_pl
+  * SysProc.Snap_Write_File
+    * DB2 Security: Authorities. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-security-authorities/
   * SysProc.Snapshot_Appl
     * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
   * SysProc.SysInstallObjects
