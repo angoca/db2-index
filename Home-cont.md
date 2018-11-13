@@ -145,8 +145,9 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * How to check DB2 LUW load status. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/12/how-to-check-db2-luw-load-status.html
   * DB2 How to Lower High Water Mark For DMS Tablespaces ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/01/19/db2-lower-high-water-mark-dms-tablespaces/
   * Monitoring Db2 HADR Takeover. Db2 Reflections. Hao Yan. 2018. Blog - http://db2reflections.blogspot.com.co/2018/04/monitoring-db2-hadr-takeover.html
-* MQT - Materialized Query Table
+* MQT - Materialized Query Table (Summary tables)
   * An introduction to materialized query tables. DeveloperWorks. Roman Melnyk. 2005. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0509melnyk/
+  * Materialized Query Table. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/materialized-query-table/
   * Creating a DB2 LUW (Linux, Unix and Windows) Sandbox database. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/09/08/creating-a-db2-luw-linux-unix-and-windows-sandbox-database/
   * Establishing a performance tuning strategy. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/establishing-performance-tuning-strategy.html
 * Multi Temperature Data
@@ -301,6 +302,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/line-optimization-v11-1/
 * Optimizer
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
+  * Materialized Query Table. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/materialized-query-table/
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
   * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/line-optimization-v11-1/
 * Oracle terminology
@@ -535,6 +537,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
 * Public
   * DB2 WSE 9.7 - General Errors. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-error.html
+  * Twelve DB2 security best practices. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/twelve-db2-security-best-practices/
   * public - beware of this pseudo group. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/public-beware-of-this-pseudo-group.html
   * Quick primer on checking database object privileges in DB2 LUW. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/06/09/quick-primer-on-checking-database-object-privileges-in-db2-luw/
   * Authentication & Authorization process in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/authentication-and-authorization-process-in-db2.html
@@ -682,6 +685,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
 * Refresh
   * An introduction to materialized query tables. DeveloperWorks. Roman Melnyk. 2005. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0509melnyk/
+  * Materialized Query Table. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/materialized-query-table/
 * Referential Integrity
   * How To Find Missing Indexes On Foreign Key Columns ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/07/10/how-to-find-missing-indexes-for-foreign-key-columns/
 * Registry
@@ -967,17 +971,17 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * db2top Agent Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-1.html
 * Security
   * Best Practices - IBM Data Server Security. IBM. Belal Tassi, Walid Rhaibi, Paul Caliandro. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_Security_0508I.pdf
-  * DB2 UDB security. DeveloperWorks. Serie 11 articles
-    * DB2 UDB security, Part 1: Understand how user and group accounts interact with DB2 UDB. DeveloperWorks. Ted Wasserman, Raul Chong. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0508wasserman/index.html
-    * DB2 security, Part 2: Understand the DB2 for Linux, UNIX, and Windows security plug-ins. DeveloperWorks. Kevin Yeung-Kuen See. 2011. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0512chong/index.html
-    * DB2 UDB security, Part 3: Security plug-ins using the GSS-API security mechanisms (SPKM / LIPKEY). DeveloperWorks. Sandeep Patil. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0512patil/index.html
-    * DB2 UDB security, Part 4: Understand how authorities and privileges are implemented in DB2 UDB. DeveloperWorks. Ted J. Wasserman. 2012. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0601wasserman/index.html
-    * DB2 UDB security, Part 5: Understand the DB2 audit facility. DeveloperWorks. Ted J. Wasserman. 2012. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0603wasserman/index.html
-    * DB2 UDB security, Part 6: Configure Kerberos for authentication on DB2 UDB for Linux, UNIX, and Windows. DeveloperWorks. Kevin Yeung-Kuen See. 2006. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0603see/index.html
-    * DB2 security, Part 7: Object ownership management for DB2 9. DeveloperWorks. Kevin Yeung-Kuen See. 2006. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0608see/index.html
-    * DB2 security, Part 8: Twelve DB2 security best practices. DeveloperWorks. Ted J. Wasserman. 2006. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0607wasserman/index.html
-    * DB2 security, Part 10: Deploy customized security plug-ins in DB2 9. DeveloperWorks. Kevin Yeung-Kuen See. 2010. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0610see/index.html
-    * DB2 Security, Part 11: Develop a security plug-in for DB2 database authentication. DeveloperWorks. Gene Kligerman. 2009. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0802kligerman/
+  * DB2 UDB security, Part 1: Understand how user and group accounts interact with DB2 UDB. DeveloperWorks. Ted Wasserman, Raul Chong. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0508wasserman/index.html
+  * DB2 UDB security, Part 3: Security plug-ins using the GSS-API security mechanisms (SPKM / LIPKEY). DeveloperWorks. Sandeep Patil. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0512patil/index.html
+  * DB2 UDB security, Part 6: Configure Kerberos for authentication on DB2 UDB for Linux, UNIX, and Windows. DeveloperWorks. Kevin Yeung-Kuen See. 2006. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0603see/index.html
+  * DB2 security, Part 7: Object ownership management for DB2 9. DeveloperWorks. Kevin Yeung-Kuen See. 2006. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0608see/index.html
+  * DB2 security, Part 8: Twelve DB2 security best practices. DeveloperWorks. Ted J. Wasserman. 2006. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0607wasserman/index.html
+  * DB2 security, Part 10: Deploy customized security plug-ins in DB2 9. DeveloperWorks. Kevin Yeung-Kuen See. 2010. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0610see/index.html
+  * DB2 security, Part 2: Understand the DB2 for Linux, UNIX, and Windows security plug-ins. DeveloperWorks. Kevin Yeung-Kuen See. 2011. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0512chong/index.html
+  * Twelve DB2 security best practices. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/twelve-db2-security-best-practices/
+  * DB2 UDB security, Part 4: Understand how authorities and privileges are implemented in DB2 UDB. DeveloperWorks. Ted J. Wasserman. 2012. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0601wasserman/index.html
+  * DB2 UDB security, Part 5: Understand the DB2 audit facility. DeveloperWorks. Ted J. Wasserman. 2012. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0603wasserman/index.html
+  * DB2 Security, Part 11: Develop a security plug-in for DB2 database authentication. DeveloperWorks. Gene Kligerman. 2009. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0802kligerman/
   * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
   * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html
   * Static SQL vs Dynamic SQL in Stored Procedures. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
@@ -1372,6 +1376,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * SQL access level clause. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/sql-access-level/
   * DB2 Stored Procedures and Defaults. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2-stored-procedures-and-defaults.html
   * DB2 Stored Procedures and Defaults (Conclusion). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/stored-procedures-and-defaults-conclusion.html
+  * Twelve DB2 security best practices. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/twelve-db2-security-best-practices/
   * Stored Procedure wlm_set_client_info gives error sql1131n. DB2 Knowledge Base Raf. Raf Mathijs. 2014. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2014/05/stored-procedure-wlmsetclientinfo-gives.html
   * The multi-temperature data feature. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders, and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part1-trs/index.html
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
@@ -1790,6 +1795,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * db2top Database Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-2.html
   * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html
   * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
+  * SQL0964C. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/16/sql0964c/
   * DB2 Logging and HADR Performance Analysis using DB2 Log Scanner and HADR Calculator. DeveloperWorks. Yuke Zhuge. 2014. Wiki - https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/DB2HADR/page/db2logscan 
   * Log Manager and the Archive Array. A Day in DBA's life. Manohar Viswanatha. 2016. Blog - https://mviswa.blogspot.com/2016/05/log-manager-and-archive-array.html
   * DB2 Tips n Tricks Part 96 - How to run very huge transaction with less active log space file system. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=JCpGwm_ZTv0
@@ -2047,7 +2053,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * IDUG DB2 Tech. IDUG. Channel - http://www.idug-db2.com/ 
   * IDUG: International DB2 Users Group. YouTube. Channel - https://www.youtube.com/channel/UCVY6PWpd9No0zNEQvKIVGhw 
   * The DB2Night Show. DBI software. Channel - http://www.dbisoftware.com/blog/db2nightshow.php 
-* View 
+* View
+  * Twelve DB2 security best practices. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/twelve-db2-security-best-practices/
   * DB2 LUW Database Object’s owner and Instance Owner’s authority over it. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2016/07/18/db2-luw-database-objects-owner-and-instance-owners-authority-over-it/ 
 * Virtual IP - VIP 
   * Client Connections in a TSA/HADR cluster- Part 3. db2geek. Damir Wilder. 2017 - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-3/ 
