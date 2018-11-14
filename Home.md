@@ -145,7 +145,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * At sign
   * DB2 Basics: Statement Terminators. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/07/13/db2-basics-statement-terminators/
 * Attach
-  * DB2 Security: Authentication. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-security-authentication/
+  * DB2 Security: Authentication. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-security-authentication/ http://db2forum.blogspot.com/2011/10/db2-security-authentication.html
 * Atomic
   * ATOMIC and NON ATOMIC. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/atomic/
   * Massive insert in Db2 as an atomic transaction - no auto-commit. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/08/massive-insert-in-db2-as-atomic.html
@@ -156,16 +156,16 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * IBM Db2 Tech Talk: Db2 Security and Compliance Support. Db2 Tech Talk. Roger Sanders. 2018. Webminar - https://www.ibm.com/events/Z56SMPES
 * Authentication
   * Authentication and authorization in DB2. Centrify. Documentation - https://docs.centrify.com/en/css/2018-html/index.html#page/DB2%2FAuthentication_and_authorization_in_DB2.1.html%23
-  * Twelve DB2 security best practices. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/twelve-db2-security-best-practices/
+  * Twelve DB2 security best practices. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/twelve-db2-security-best-practices/ http://db2forum.blogspot.com/2011/10/twelve-db2-security-best-practices.html
   * DB2 and Transparent LDAP in DB2 DPF – Misleading error SQL30082N. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/10/13/db2-and-transparent-ldap-in-db2-dpf-misleading-error-sql30082n/
   * DB2 Database Security Model. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/db2-database-security-model.html
   * Authentication & Authorization process in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/authentication-and-authorization-process-in-db2.html
   * DB2 EXTERNAL COMM ERROR ZRC=0X81360012=-2127167470=SQLZ_RC_CMERR, SQLT_SQLJC. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/db2-external-comm-error-zrc0x81360012-2127167470sqlz_rc_cmerr-sqlt_sqljc/
   * IBM Db2 Tech Talk: Db2 Security and Compliance Support. Db2 Tech Talk. Roger Sanders. 2018. Webminar - https://www.ibm.com/events/Z56SMPES
 * Authorities
-  * Twelve DB2 security best practices. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/twelve-db2-security-best-practices/
-  * DB2 Security: Authentication. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-security-authentication/
-  * DB2 Security: Authorities. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-security-authorities/
+  * Twelve DB2 security best practices. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/twelve-db2-security-best-practices/ http://db2forum.blogspot.com/2011/10/twelve-db2-security-best-practices.html
+  * DB2 Security: Authentication. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-security-authentication/ http://db2forum.blogspot.com/2011/10/db2-security-authentication.html
+  * DB2 Security: Authorities. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-security-authorities/ http://db2forum.blogspot.com/2011/10/db2-security-authorities.html
   * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html
   * Authentication & Authorization process in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/authentication-and-authorization-process-in-db2.html
   * Db2 Basics: Investigating Permissions in an Existing Database. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
@@ -599,7 +599,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Access your database sooner after a system failure -- introducing DB2_ONLINERECOVERY! ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/08/access-your-database-sooner-after.html
   * Improve Db2 HADR Resilience of Network Transmission Corruptions. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/improve-db2-hadr-resilience-of-network.html
 * Create database
-  * Twelve DB2 security best practices. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/twelve-db2-security-best-practices/
+  * Twelve DB2 security best practices. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/twelve-db2-security-best-practices/ http://db2forum.blogspot.com/2011/10/twelve-db2-security-best-practices.html
   * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
 * Create database partition
   * Quick primer on DB2 Tables and Tablespaces in a multi-partitioned (DPF) database. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/09/03/quick-primer-on-db2-tables-and-tablespaces-in-a-multi-partitioned-dpf-database/
@@ -607,6 +607,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Storage groups - A comprehensive solution of handling your data. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/storage-groups-comprehensive-solution.html
 * Create table
   * Materialized Query Table. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/materialized-query-table/
+http://db2forum.blogspot.com/2011/10/materialized-query-table.html
   * Accidents happen - Recovering a dropped table. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/accidents-happen-recovering-dropped.html
   * Quick primer on DB2 Tables and Tablespaces in a multi-partitioned (DPF) database. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/09/03/quick-primer-on-db2-tables-and-tablespaces-in-a-multi-partitioned-dpf-database/
   * Store and Query XML Data with dashDB on Bluemix. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/07/store-and-query-xml-data-with-dashdb-on.html
@@ -752,7 +753,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * SQL6030N START or STOP DATABASE MANAGER failed. Reason code “38”. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/488
 * DB2_CAPTURE_LOCKTIMEOUT
   * Locking issues. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/02/locking-issues.html
-  * New options for analyzing lock timeouts in DB2 9.5. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/new-options-for-analyzing-lock-timeouts-in-db2-9-5/
+  * Lock events for DB2 for Linux, UNIX, and Windows, Part 2: New options for analyzing lock timeouts in DB2 9.5. DeveloperWorks. Dirk Fechner. 2008. Article  - http://www.ibm.com/developerworks/data/library/techarticle/dm-0804fechner/index.html
 * DB2_COMPATIBILITY_VECTOR
   * (Compatibility of Db2 with Oracle: DB2 9.7 CLP PLUS (1/2)) Compatibilidad de DB2 con ORACLE: DB2 9.7 CLP PLUS (1/2). DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/compatibilidad-de-db2-con-oracle-db2-9-7-clp-plus-12/
 * db2_deinstall
@@ -818,7 +819,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * db2audit
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * A glance at DB2 Audit. techs@work. Raju Pillai. 2011. Blog - http://techsatwork.com/blog/?p=882
-  * Twelve DB2 security best practices. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/twelve-db2-security-best-practices/
+  * Twelve DB2 security best practices. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/twelve-db2-security-best-practices/ http://db2forum.blogspot.com/2011/10/twelve-db2-security-best-practices.html
   * How I can now answer auditor’s questions – Leveraging DB2’s Audit facility. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/06/02/basics-of-db2s-db2audit-facility/
   * IBM Db2 Tech Talk: Db2 Security and Compliance Support. Db2 Tech Talk. Roger Sanders. 2018. Webminar - https://www.ibm.com/events/Z56SMPES
 * DB2AutoStart
@@ -886,8 +887,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Receiving SQL5043n and SPM0438 ? techs@work. Raju Pillai. 2011. Blog - http://techsatwork.com/blog/?p=1092
   * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
 * db2cos
-  * DB2 Lock. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-lock/
-  * New options for analyzing lock timeouts in DB2 9.5. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/new-options-for-analyzing-lock-timeouts-in-db2-9-5/
+  * Lock events for DB2 for Linux, UNIX, and Windows, Part 2: New options for analyzing lock timeouts in DB2 9.5. DeveloperWorks. Dirk Fechner. 2008. Article  - http://www.ibm.com/developerworks/data/library/techarticle/dm-0804fechner/index.html
+  * DB2 Lock. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-lock/ http://db2forum.blogspot.com/2011/10/db2-lock.html
 * db2dart
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * Troubleshooting tools for Performance Tuning: DB2DART. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/03/troubleshooting-tools-for-performance-tuning-db2dart.html
@@ -1107,12 +1108,12 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
 * db2pd
   * Mapping Application to Dynamic SQL. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/03/mapping-application-to-dynamic-sql.html
+  * Lock events for DB2 for Linux, UNIX, and Windows, Part 2: New options for analyzing lock timeouts in DB2 9.5. DeveloperWorks. Dirk Fechner. 2008. Article  - http://www.ibm.com/developerworks/data/library/techarticle/dm-0804fechner/index.html
   * SQL805N on NULLID.SYS* package – Part 2. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=320
   * db2pd command – get info about db2. DBMSguy.com. Paul Mayhew. 2010. Blog - http://dbmsguy.com/blog/2010/09/db2pd-command/
-  * DB2 Lock. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-lock/
-  * New options for analyzing lock timeouts in DB2 9.5. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/new-options-for-analyzing-lock-timeouts-in-db2-9-5/
+  * DB2 Lock. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-lock/ http://db2forum.blogspot.com/2011/10/db2-lock.html
   * (Another method to identify unused indexes in Db2) Otro método para detectar índices no usados en DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/otro-metodo-para-detectar-indices-no-usados-en-db2/
-  * DB2 Lock. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-lock/
+  * DB2 Lock. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-lock/ http://db2forum.blogspot.com/2011/10/db2-lock.html
   * db2pd command script – busiest tables. DBMSguy.com. Paul Mayhew. 2013. Blog - http://dbmsguy.com/blog/2013/01/db2pd-command-script-busiest-tables/
   * Friendship between REORG and Temp Tablespace's. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/friendship-between-reorg-and-temp.html
   * Storage groups - A comprehensive solution of handling your data. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/storage-groups-comprehensive-solution.html
@@ -1124,8 +1125,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Monitoring the replay-only-window on a Db2 HADR standby database. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/monitoring-replay-only-window-on-db2_28.html
   * Monitoring Db2 HADR Takeover. Db2 Reflections. Hao Yan. 2018. Blog - http://db2reflections.blogspot.com.co/2018/04/monitoring-db2-hadr-takeover.html
 * db2pdcfg
-  * DB2 Lock. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-lock/
-  * New options for analyzing lock timeouts in DB2 9.5. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/new-options-for-analyzing-lock-timeouts-in-db2-9-5/
+  * Lock events for DB2 for Linux, UNIX, and Windows, Part 2: New options for analyzing lock timeouts in DB2 9.5. DeveloperWorks. Dirk Fechner. 2008. Article  - http://www.ibm.com/developerworks/data/library/techarticle/dm-0804fechner/index.html
+  * DB2 Lock. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-lock/ http://db2forum.blogspot.com/2011/10/db2-lock.html
 * db2perfc
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
 * db2perfi
@@ -1161,9 +1162,9 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * db2rspgn
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
 * db2sampl - Sample database
+  * Lock events for DB2 for Linux, UNIX, and Windows, Part 2: New options for analyzing lock timeouts in DB2 9.5. DeveloperWorks. Dirk Fechner. 2008. Article  - http://www.ibm.com/developerworks/data/library/techarticle/dm-0804fechner/index.html
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
-  * DB2 Lock. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-lock/
-  * New options for analyzing lock timeouts in DB2 9.5. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/new-options-for-analyzing-lock-timeouts-in-db2-9-5/
+  * DB2 Lock. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-lock/ http://db2forum.blogspot.com/2011/10/db2-lock.html
   * Creating a DB2 LUW (Linux, Unix and Windows) Sandbox database. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/09/08/creating-a-db2-luw-linux-unix-and-windows-sandbox-database/
   * DB2 Sample Database – Modifying storage path. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2015/12/28/db2-sample-database-modifying-storage-path/
 * db2se
@@ -1451,7 +1452,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
   * db2top Partitions Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-partitions-screen.html
   * db2top Skew Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-skew-screen.html
-  * Materialized Query Table. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/materialized-query-table/
+  * Materialized Query Table. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/materialized-query-table/ http://db2forum.blogspot.com/2011/10/materialized-query-table.html
   * Full reverse: A REVERSE function that handles unicode. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/reverse
   * fcm_parallelism + sql6031n. DB2 Knowledge Base Raf. Raf Mathijs. 2013. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2013/10/fcmparallelism-sql6031n.html
   * DB2 DPF Tablespace Recovery Scenarios — Part 1 — Recover Tablespace(s) on Coordinator Node. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/03/05/db2-dpf-tablespace-recovery-scenarios-part-1/
@@ -1544,9 +1545,9 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Getting DB2 Help. db2Dean. Dean Compher. 2007. Blog - http://www.db2dean.com/Previous/DB2Help.html
   * Enable Yourself to Open IBM Support Requests. db2Dean. Dean Compher. 2007. Blog - http://www.db2dean.com/Previous/esrRegister.html
 * Event monitor
+  * Lock events for DB2 for Linux, UNIX, and Windows, Part 2: New options for analyzing lock timeouts in DB2 9.5. DeveloperWorks. Dirk Fechner. 2008. Article  - http://www.ibm.com/developerworks/data/library/techarticle/dm-0804fechner/index.html
   * Event monitor in DB2. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=342
   * Lock events for DB2 for Linux, UNIX, and Windows, Part 3: Use the lock event monitor in DB2 9.7 to solve concurrency issues. DeveloperWorks. Dirk Fechner. 2010. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1004lockeventmonitor/
-  * New options for analyzing lock timeouts in DB2 9.5. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/new-options-for-analyzing-lock-timeouts-in-db2-9-5/
   * DB2 monitoring: Tracing SQL statements by using an activity event monitor. developerWorks. Scott Walkty and Mike Springgay. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1401sqltrace/
   * Querying Tables for an Activity Event Monitor. db2commerce. Ember Brooks. 2014. Blog - http://db2commerce.com/2014/10/14/querying-tables-for-an-activity-event-monitor/
   * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html
@@ -1580,7 +1581,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Troubleshooting SQL problems in your database. DeveloperWorks. Raghavendra Chiyodu. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-troublshooting-sql-database/index.html
 * Explain
   * Getting an Execution Plan. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/explain-plan/db2/getting-an-execution-plan
-  * Materialized Query Table. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/materialized-query-table/
+  * Materialized Query Table. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/materialized-query-table/ http://db2forum.blogspot.com/2011/10/materialized-query-table.html
   * Collect Cost Of all the db2 Stored Proc's in a simple Possible Way. A Day in DBA's life. Manohar Viswanatha. 2013. Blog - https://mviswa.blogspot.com/2013/01/collect-cost-of-all-stored-procs-in.html
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Crooks. 2013. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
   * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Ember Crooks. 2013. Blog - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
@@ -1677,7 +1678,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Fix List for DB2 Version 10.5 for Linux, UNIX and Windows. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21633303
   * V.R.M.F Maintenance Stream Delivery Vehicle terminology explanation. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg27008656
   * First Article – DB2 Fix Packs. db2Dean. Dean Compher. 2006. Blog - http://www.db2dean.com/Previous/FixPak.html
-  * Twelve DB2 security best practices. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/twelve-db2-security-best-practices/
+  * Twelve DB2 security best practices. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/twelve-db2-security-best-practices/ http://db2forum.blogspot.com/2011/10/twelve-db2-security-best-practices.html
   * DB2 LUW Fix Packs and db2look’s -createdb and -printdbcfg. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/05/18/db2-luw-fix-packs-and-db2looks-createdb-and-printdbcfg/
   * DB2 pureScale – Online Rolling update. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/490
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
@@ -1746,7 +1747,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * GeoJSON
   * Spatial Analytics with Db2 Warehouse. DeveloperWorks. Deepak Rangarao. 2018. Article - https://www.ibm.com/developerworks/library/bd-spatial-analytics-db2warehouse-mapbox/index.html
 * Get Authorizations
-  * DB2 Security: Authorities. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-security-authorities/
+  * DB2 Security: Authorities. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-security-authorities/ http://db2forum.blogspot.com/2011/10/db2-security-authorities.html
 * Get diagnostic
   * GET DIAGNOSTICS statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/get-diagnostics/
   * RETURN statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/return/
@@ -1769,7 +1770,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 purescale Install GPL Error. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
 * Grant
   * DB2 WSE 9.7 - General Errors. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-error.html
-  * Twelve DB2 security best practices. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/twelve-db2-security-best-practices/
+  * Twelve DB2 security best practices. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/twelve-db2-security-best-practices/ http://db2forum.blogspot.com/2011/10/twelve-db2-security-best-practices.html
   * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html
 * Group
   * Database Roles. DB2 Diary from Radhesh. Radhesh Kumar. 2007. Blog - http://radheshk.blogspot.com/2007/12/database-roles.html
@@ -1782,7 +1783,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Configuring SSL for IBM Data Server Driver for ODBC and CLI. DeveloperWorks. Chetan Papaiah, Ashok V. Jose and Chris Meyer. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-ssl-data-server-driver-odbc-cli-trs/index.html
   * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
 * GSSAPI
-  * DB2 Security: Authentication. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-security-authentication/
+  * DB2 Security: Authentication. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-security-authentication/ http://db2forum.blogspot.com/2011/10/db2-security-authentication.html
   * Authentication and authorization in DB2. Centrify. Documentation - https://docs.centrify.com/en/css/2018-html/index.html#page/DB2%2FAuthentication_and_authorization_in_DB2.1.html%23
 
 # H
@@ -1909,7 +1910,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * IF
   * IF statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/if/
 * Implicit privileges
-  * Twelve DB2 security best practices. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/twelve-db2-security-best-practices/
+  * Twelve DB2 security best practices. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/twelve-db2-security-best-practices/ http://db2forum.blogspot.com/2011/10/twelve-db2-security-best-practices.html
 * Implicit_Schema
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
 * Import
@@ -2012,7 +2013,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Using db2prereqcheck to Check Prerequisites for DB2 LUW. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2prereqcheck-check-prerequisites-db2-luw/
 * Instance
   * How to Recreate DB2 Instance. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/01/how-to-recreate-db2-instance.html
-  * DB2 Security: Authentication. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-security-authentication/
+  * DB2 Security: Authentication. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-security-authentication/ http://db2forum.blogspot.com/2011/10/db2-security-authentication.html
   * How to replicate instance configuration parameters in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-replicate-instance-configurations-db2.html
   * Step by Step installation of DB2 V10.5 on Linux. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/04/step-by-step-installation-of-db2-v105-Linux.html
   * Database Up Time. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30323
@@ -2100,7 +2101,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 # K
 
 * Kerberos
-  * DB2 Security: Authentication. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-security-authentication/
+  * DB2 Security: Authentication. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-security-authentication/ http://db2forum.blogspot.com/2011/10/db2-security-authentication.html
 * Kernel
   * DB2, LINUX AND MEMORY. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-and-memory/
   * RSCT APAR Affecting TSAMP. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/03/29/rsct-apar-affecting-tsamp/
@@ -2129,8 +2130,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Latch
   * DB2ATS + Transaction log full + backup fails. DB2 Knowledge Base Raf. Raf Mathijs. 2013. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2013/10/db2ats-transaction-log-full-backup-fails.html
 * LBAC
-  * Twelve DB2 security best practices. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/twelve-db2-security-best-practices/
-  * DB2 Security: Privileges. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-security-privileges/
+  * Twelve DB2 security best practices. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/twelve-db2-security-best-practices/ http://db2forum.blogspot.com/2011/10/twelve-db2-security-best-practices.html
+  * DB2 Security: Privileges. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-security-privileges/ http://db2forum.blogspot.com/2011/10/db2-security-privileges.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * Authentication & Authorization process in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/authentication-and-authorization-process-in-db2.html
   * IBM Db2 Tech Talk: Db2 Security and Compliance Support. Db2 Tech Talk. Roger Sanders. 2018. Webminar - https://www.ibm.com/events/Z56SMPES
@@ -2160,7 +2161,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Replicating Data Loads from a DB2 9 HADR - Primary Server to a Standby Server. db2Dean. Craig Maddux. 2007. Blog - http://www.db2dean.com/Previous/FixPak.html
   * Don’t get caught in check pending. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=419
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
-  * DB2 Security: Authorities. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-security-authorities/
+  * DB2 Security: Authorities. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-security-authorities/ http://db2forum.blogspot.com/2011/10/db2-security-authorities.html
   * DB2 Export and Load Using Compression & Named Pipes. dbawesome. Elder Lira. 2013. Blog - http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.html
   * DB2 Tips n Tricks Part 37 - How To Load Compressed Files directly without Extracting to Harddisk. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=FT3UBxpeR9k
   * Understanding and Tuning DB2/LUW Backup and Restore Performance. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/understanding-and-tuning-db2luw-backup.html
@@ -2195,7 +2196,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * db2top Locks Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-locks-screen.html
   * db2top: The Locks screen (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-the-locks-screen-video.html
-  * DB2 Lock. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-lock/
+  * DB2 Lock. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-lock/ http://db2forum.blogspot.com/2011/10/db2-lock.html
   * SQL Analysis from Locking Event Monitor Collecting History. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/11/03/sql-analysis-from-locking-event-monitor-collecting-history/
   * Overview of LOCK ISSUES in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/07/overview-of-lock-issues-in-db2.html
   * Excluding a Table from Db2’s Automatic Runstats. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/09/05/excluding-a-table-from-db2s-automatic-runstats/
@@ -2226,7 +2227,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Please check the Lock List entry.
 * LockTimeOut
   * Locking issues. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/02/locking-issues.html
-  * New options for analyzing lock timeouts in DB2 9.5. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/new-options-for-analyzing-lock-timeouts-in-db2-9-5/
+  * Lock events for DB2 for Linux, UNIX, and Windows, Part 2: New options for analyzing lock timeouts in DB2 9.5. DeveloperWorks. Dirk Fechner. 2008. Article  - http://www.ibm.com/developerworks/data/library/techarticle/dm-0804fechner/index.html
   * Improve IBM BPM performance with an IBM DB2 database. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz1-trs/1509_volz1.html
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
   * Overview of LOCK ISSUES in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/07/overview-of-lock-issues-in-db2.html
