@@ -59,8 +59,9 @@ These blogs are not longer updated 😞
   * All articles (Between 2012 and 2016 - Complete)
 * Raf Mathijs - DB2 Knowledge Base Raf (Blog about technical stuff). http://db2-luw-knowledgebase.blogspot.com/
   * All articles (Between 2013 and 2015 - Complete).
-* Muthukris Bala - DB2 Forum. https://db2forum.wordpress.com/
+* Muthukris Bala - DB2 Forum. https://db2forum.wordpress.com/ http://db2forum.blogspot.com
   * All articles (2011 - Complete).
+  * Most of the articles are plagiarism from DeveloperWorks.
 * Radhesh Kumar - DB2 Diary from Radhesh. http://radheshk.blogspot.com/
   * All articles (Between 2007 and 2010 - Complete).
 * Oscar Paredes - DB2 Util. http://www.db2util.es/
@@ -92,7 +93,6 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * https://community.toadworld.com/platforms/ibmdb2/w/wiki
 * https://community.toadworld.com/platforms/ibmdb2/b/weblog
 * http://db2dean.com/
-* http://db2forum.blogspot.com
 * https://www.brighttalk.com/channel/7637/idug-db2-tech-channel
 * IDUG Content Blog (Blog). http://www.idug.org/p/bl/bl/blogid=278
 * Thoughts from Support (Blog about technical stuff). https://www.ibm.com/developerworks/community/blogs/IMSupport
