@@ -270,6 +270,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Db2 Basics: Introduction to IBM Db2. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/03/06/db2-basics-introduction-to-ibm-db2/
   * Db2 Basics: Error Messages. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/03/13/db2-basics-error-messages/
   * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
+* BCU - Balanced configuration unit
+  * Simultaneous Parallel Processing in Distributed DB2 Databases. db2Gdba. Reynaldo Mola. nd. Blog - https://www.db2gdba.com/articles-tips/simultaneous-parallel-processing-in-distributed-databases/
 * Benchmark
   * BenchmarkSQL for Db2. GitHub. Andres Gomez. Project - https://github.com/angoca/BenchmarkSQL
   * Performance tuning tools and methodology. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/performance-tuning-tools-and-methodology_31.html
@@ -533,6 +535,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Configuration file
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
 * Connect
+  * Simultaneous Parallel Processing in Distributed DB2 Databases. db2Gdba. Reynaldo Mola. nd. Blog - https://www.db2gdba.com/articles-tips/simultaneous-parallel-processing-in-distributed-databases/
   * Slow DB2 connect problem from client. DBMSguy.com. Paul Mayhew. 2009. Blog - http://dbmsguy.com/blog/2009/05/slow-db2-connect-problem-from-client/
   * DB2 Authentication & Password Encryption Method. DB2 Diary from Radhesh. Radhesh Kumar. 2009. Blog - http://radheshk.blogspot.com/2009/04/db2-authentication-password-encryption.html
 * Connect by
@@ -569,6 +572,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Coordinating agent
   * Hello, Db2 World! – How to Connect to a Db2 (LUW) Database. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/21/hello-db2-world-how-to-connect-to-a-db2-luw-database/
 * Coordinator node
+  * Simultaneous Parallel Processing in Distributed DB2 Databases. db2Gdba. Reynaldo Mola. nd. Blog - https://www.db2gdba.com/articles-tips/simultaneous-parallel-processing-in-distributed-databases/
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
 * Correlated reference
   * SQL Tips & Techniques- Correlated Reference. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/11/sql-tips-techniques-correlated.html
@@ -604,6 +608,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Create stogroup
   * Storage groups - A comprehensive solution of handling your data. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/storage-groups-comprehensive-solution.html
 * Create table
+  * Issue when working with replicated MQT in large DB2 LUW distributed environments. db2Gdba. Reynaldo Mola. nd. Blog - https://www.db2gdba.com/articles-tips/replicated-mqt-large-vs-small-tables/
   * Using Materialized QueryTables to Speed up Queries in DB2 UDB. DeveloperWorks. Alexander Kuznetsov. 2002. Article - https://www.ibm.com/developerworks/data/library/techarticle/0208kuznetsov/0208kuznetsov.html
   * Accidents happen - Recovering a dropped table. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/accidents-happen-recovering-dropped.html
   * Quick primer on DB2 Tables and Tablespaces in a multi-partitioned (DPF) database. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/09/03/quick-primer-on-db2-tables-and-tablespaces-in-a-multi-partitioned-dpf-database/
@@ -697,6 +702,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Database manager
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
 * Database partition
+  * Simultaneous Parallel Processing in Distributed DB2 Databases. db2Gdba. Reynaldo Mola. nd. Blog - https://www.db2gdba.com/articles-tips/simultaneous-parallel-processing-in-distributed-databases/
   * Benefits of Data Partitioning and MDC ! techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=825
   * db2top Agent Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-2.html
   * db2top Skew Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-skew-screen.html
@@ -956,6 +962,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Monitoring the replay-only-window on a Db2 HADR standby database. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/monitoring-replay-only-window-on-db2_28.html
 * db2fs
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
+* db2Gdba
+  * db2Gdba. Application - https://www.db2gdba.com/
 * db2gncol
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
 * db2greg
@@ -1082,6 +1090,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * db2nkill
   * What if db2stop fails ?!? techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=392
 * DB2NODE
+  * Simultaneous Parallel Processing in Distributed DB2 Databases. db2Gdba. Reynaldo Mola. nd. Blog - https://www.db2gdba.com/articles-tips/simultaneous-parallel-processing-in-distributed-databases/
   * DB2 DPF Tablespace Recovery Scenarios — Part 1 — Recover Tablespace(s) on Coordinator Node. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/03/05/db2-dpf-tablespace-recovery-scenarios-part-1/
   * Tablespace backups in a DB2 LUW DPF database. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/09/21/backing-up-tablespaces-in-a-db2-luw-dpf-database/
 * db2nodes.cfg
@@ -1368,6 +1377,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * DftDBPath
   * Creating a DB2 LUW (Linux, Unix and Windows) Sandbox database. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/09/08/creating-a-db2-luw-linux-unix-and-windows-sandbox-database/
   * Default directory for DB creations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/default-directory-for-db-creations.html
+* DGTT - Declared Global Temporary Table
+  * Issue when working with replicated MQT in large DB2 LUW distributed environments. db2Gdba. Reynaldo Mola. nd. Blog - https://www.db2gdba.com/articles-tips/replicated-mqt-large-vs-small-tables/
 * DiagLog
   * Start Your Day With DIAGLOG. A Day in DBA's life. Manohar Viswanatha. 2012. Blog - http://mviswa.blogspot.com/2012/08/start-your-day-with-diaglog.html
 * Diagnostic log
@@ -1440,6 +1451,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Product identifier when installing Db2 (productShortName). Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/06/product-identifier-when-installing-db2.html
   * (Ep. 01) - Db2 Developer Ed. Installation and Basics. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=QvfQPq-8YU8
 * DPF - Data Partitioning Feature
+  * Simultaneous Parallel Processing in Distributed DB2 Databases. db2Gdba. Reynaldo Mola. nd. Blog - https://www.db2gdba.com/articles-tips/simultaneous-parallel-processing-in-distributed-databases/
+  * Issue when working with replicated MQT in large DB2 LUW distributed environments. db2Gdba. Reynaldo Mola. nd. Blog - https://www.db2gdba.com/articles-tips/replicated-mqt-large-vs-small-tables/
   * Using Materialized QueryTables to Speed up Queries in DB2 UDB. DeveloperWorks. Alexander Kuznetsov. 2002. Article - https://www.ibm.com/developerworks/data/library/techarticle/0208kuznetsov/0208kuznetsov.html
   * DB2 Partitioning. DB2 Diary from Radhesh. Radhesh Kumar. 2007. Blog - http://radheshk.blogspot.com/2007/12/db2-partitioning.html
   * db2top -P. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-feature-of-the-day-command-line-options-p.html
