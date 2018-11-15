@@ -146,6 +146,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 How to Lower High Water Mark For DMS Tablespaces ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/01/19/db2-lower-high-water-mark-dms-tablespaces/
   * Monitoring Db2 HADR Takeover. Db2 Reflections. Hao Yan. 2018. Blog - http://db2reflections.blogspot.com.co/2018/04/monitoring-db2-hadr-takeover.html
 * MQT - Materialized Query Table (Summary tables)
+  * Issue when working with replicated MQT in large DB2 LUW distributed environments. db2Gdba. Reynaldo Mola. nd. Blog - https://www.db2gdba.com/articles-tips/replicated-mqt-large-vs-small-tables/
   * Using Materialized QueryTables to Speed up Queries in DB2 UDB. DeveloperWorks. Alexander Kuznetsov. 2002. Article - https://www.ibm.com/developerworks/data/library/techarticle/0208kuznetsov/0208kuznetsov.html
   * An introduction to materialized query tables. DeveloperWorks. Roman Melnyk. 2005. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0509melnyk/
   * Creating a DB2 LUW (Linux, Unix and Windows) Sandbox database. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/09/08/creating-a-db2-luw-linux-unix-and-windows-sandbox-database/
@@ -362,6 +363,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * PAM - Programmable Access Module
   * DB2 and Transparent LDAP in DB2 DPF – Misleading error SQL30082N. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/10/13/db2-and-transparent-ldap-in-db2-dpf-misleading-error-sql30082n/
 * Parallelism
+  * Simultaneous Parallel Processing in Distributed DB2 Databases. db2Gdba. Reynaldo Mola. nd. Blog - https://www.db2gdba.com/articles-tips/simultaneous-parallel-processing-in-distributed-databases/
   * db2top Agent Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-1.html
 * Parameters
   * Parameters. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/parameters/
@@ -379,6 +381,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Please check the "Database partition" entry.
 * Partition (OLAP)
   * Who's the most popular kid on the block?. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/stats_mode
+* Partition map
+  * Simultaneous Parallel Processing in Distributed DB2 Databases. db2Gdba. Reynaldo Mola. nd. Blog - https://www.db2gdba.com/articles-tips/simultaneous-parallel-processing-in-distributed-databases/
 * Passthru
   * HOW TO SETUP FEDERATION BETWEEN TWO DB2 LUW DATABASES. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/how-to-setup-federation-between-two-db2-luw-databases/
 * Password
@@ -405,6 +409,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Performance
   * Best Practices - Writing and Tuning Queries for Optimal Performance. IBM. John Hornibrook, Nina Kolunovsky. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_Query_Tuning_0508I.pdf
   * IBM Performance Analysis Suite. DeveloperWorks. Bryan Tsai. Tool - https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=28cb6d68-ab67-4203-96f9-5538e654a5ff
+  * Issue when working with replicated MQT in large DB2 LUW distributed environments. db2Gdba. Reynaldo Mola. nd. Blog - https://www.db2gdba.com/articles-tips/replicated-mqt-large-vs-small-tables/
   * Take your measuring cup! techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=657
   * Writing applications with the Java API. DeveolperWorks. Marion Behnen, Henry Chiu, Jyh-Chen Fang, Manish Sehgal, and Tony Sun. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1307nosqlforjson3/index.html
   * Best Practices for Optimizing DB2 Performance. DatAvail. Webminar - http://www.datavail.com/datavail-resources/webinar-optimizing-db2-performance/
@@ -813,6 +818,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * More on IBM’s RFE Program for Db2 on LUW. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/02/08/more-on-ibms-rfe-program-for-db2-on-luw/
 * RID - Row Identification
   * What are the different phases of Online & Offline Reorg in DB2 ?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/what-are-different-phases-of-online-and-offline-reorg-db2.html
+* RMQT - Replicated Materialized Query Table
+  * Issue when working with replicated MQT in large DB2 LUW distributed environments. db2Gdba. Reynaldo Mola. nd. Blog - https://www.db2gdba.com/articles-tips/replicated-mqt-large-vs-small-tables/
 * Roles
   * Database Roles. DB2 Diary from Radhesh. Radhesh Kumar. 2007. Blog - http://radheshk.blogspot.com/2007/12/database-roles.html
   * How I can now answer auditor’s questions – Leveraging DB2’s Audit facility. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/06/02/basics-of-db2s-db2audit-facility/
@@ -1463,6 +1470,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * SysIBM.Count_Big
     * How to test a count function in a big big table. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/how-to-test-count-function-in-big-big.html
     * COUNT function is slower than COUNT_BIG. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/count-function-is-slower-than-countbig.html
+  * SysIBM.dbPartitionNum
+    * Simultaneous Parallel Processing in Distributed DB2 Databases. db2Gdba. Reynaldo Mola. nd. Blog - https://www.db2gdba.com/articles-tips/simultaneous-parallel-processing-in-distributed-databases/
   * SysIBM.SysDummy1
     * (DUAL table in Db2: sysibm.sysdummy1) Tabla DUAL en DB2: sysibm.sysdummy1. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/trucos/tabla-dual-en-db2-sysibm-sysdummy1/
   * SysIBM.SysVersions
@@ -1772,6 +1781,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Tivoli System Automation for Multiple Platform
   * Please check the "TSA, TSAMP - Tivoli System Automation for Multiple Platform" entry.
 * Tools
+  * db2Gdba. Application - https://www.db2gdba.com/
   * PureFeat V6.1. DBI blog. Scott Hayes. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=524
   * PureFeat V6.2. DBI blog. Scott Hayes. 2015. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=647
   * How To Deep Compare Two Db2 Environments? Raghu On Tech. Raghu Cherukuru. 2017. Blog - https://www.raghu-on-tech.com/2017/12/19/how-to-deep-compare-two-db2-environments/
