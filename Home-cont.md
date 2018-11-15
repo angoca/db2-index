@@ -610,6 +610,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * db2_all and RAHUSER. DB2 Diary from Radhesh. Radhesh Kumar. 2007. Blog - http://radheshk.blogspot.com/2007/07/db2all-and-rahuser.html
 * RAID
   * Integration strategies. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part3-trs/index.html
+* Rails
+  * Rails and DB2 data types. Leons on Tech. Leons Petrazickis. 2007. Blog - Rails and DB2 data types
 * Random
   * How to select N random records from a DB2 table. With Data. Shiji Pan. 2017. Blog - https://www.withdata.com/blog/tips/how-to-select-n-random-records-from-a-db2-table.html
 * Range Clustered Tables
@@ -2178,7 +2180,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * XDA 
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html 
   * db2top Bufferpools Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-2.html 
-* XML 
+* XML
+  * Unexpected for following namespace declaration. Leons on Tech. Leons Petrazickis. 2007. Blog - http://www.lpetr.org/blog/archives/the-importance-of-separating-separators
   * How to order query results based on XML values. Native XML Database. Matthias Nicola. Blog - http://nativexmldatabase.com/2010/08/11/how-to-order-query-results-based-on-xml-values/ 
   * Best Practices - Managing XML Data. IBM. Matthias Nicola, Susanne Englert. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_XML_0508I.pdf 
   * Performance differences between upper-case (XQuery) and UPPER scalar function. db2geek. Mark Gillisr. 2018. Blog - http://db2geek.triton.co.uk/performance-differences-upper-case-xquery-upper-scalar-function/ 
