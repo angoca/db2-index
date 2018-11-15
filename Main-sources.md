@@ -78,6 +78,8 @@ These blogs are not longer updated 😞
   * All articles related to Db2 (Between 2009 and 2010 - Complete).
 * Nagendra - DB2 queries (Blog about technical stuff). http://learndb.blogspot.com/
   * All articles (2009 - Complete).
+* Reynaldo Mola - db2Gdba. https://www.db2gdba.com
+  * All two articles.
 
 # ToDo
 
@@ -100,7 +102,6 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * Harishkumar Pathanga - DB2-LUW-Academy (Videos of db2 tricks 📹 ). 
   * https://www.youtube.com/user/DB2LUWAcademy/videos
   * http://db2luwacademy.blogspot.com/
-* https://www.db2gdba.com
 * http://www.dbazine.com/resources/orgs/in
 * https://www.databasejournal.com/features/article.php/3593431/DB2-Series.htm
 * http://www.ebenner.com/db2dba_blog/
