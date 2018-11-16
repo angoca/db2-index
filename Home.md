@@ -401,6 +401,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * db2top Memory Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-part-1.html
   * db2top Memory Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-part-2.html
   * (Basic management of the Db2 catalog) Gestión básica Catálogo DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/gestion-basica-catalogo-db2/
+  * Cataloging local DB2 databases. Leons on Tech. Leons Petrazickis. 2010 - http://www.lpetr.org/blog/archives/cataloging-local-and-remote-db2-databases
   * How to connect remote Database in DB2. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/16/how-to-connect-remote-database-in-db2/
   * Db2 Catalog - A Guided Tour. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2017/08/db2-catalog-guided-tour.html
   * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
@@ -759,6 +760,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Lock events for DB2 for Linux, UNIX, and Windows, Part 2: New options for analyzing lock timeouts in DB2 9.5. DeveloperWorks. Dirk Fechner. 2008. Article  - http://www.ibm.com/developerworks/data/library/techarticle/dm-0804fechner/index.html
 * DB2_COMPATIBILITY_VECTOR
   * (Compatibility of Db2 with Oracle: DB2 9.7 CLP PLUS (1/2)) Compatibilidad de DB2 con ORACLE: DB2 9.7 CLP PLUS (1/2). DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/compatibilidad-de-db2-con-oracle-db2-9-7-clp-plus-12/
+* DB2_DDL_SOFT_INVAL
+  * Find a list of views marked inoperative. Leons on Tech. Leons Petrazickis. 2010 - http://www.lpetr.org/blog/archives/find-a-list-of-views-marked-inoperative
 * db2_deinstall
   * Uninstall DB2 on Linux. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=558
 * DB2_ENABLE_HADR_LOG_PAGE_INTEGRITY_CHECK
@@ -1169,7 +1172,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * db2sampl - Sample database
   * Analyzing lockwait situations in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2007. Article  - https://www.ibm.com/developerworks/data/library/techarticle/dm-0707fechner/index.html
   * Lock events for DB2 for Linux, UNIX, and Windows, Part 2: New options for analyzing lock timeouts in DB2 9.5. DeveloperWorks. Dirk Fechner. 2008. Article  - http://www.ibm.com/developerworks/data/library/techarticle/dm-0804fechner/index.html
-  * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
+   * DB2 and usernames with spaces. Leons on Tech. Leons Petrazickis. 2007 - http://www.lpetr.org/blog/archives/db2-and-usernames-with-spaces
+ * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * Creating a DB2 LUW (Linux, Unix and Windows) Sandbox database. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/09/08/creating-a-db2-luw-linux-unix-and-windows-sandbox-database/
   * DB2 Sample Database – Modifying storage path. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2015/12/28/db2-sample-database-modifying-storage-path/
 * db2se
@@ -1197,6 +1201,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
 * db2start
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
+  * SQL6048N A communication error occurred during START or STOP DATABASE MANAGER processing. Leons on Tech. Leons Petrazickis. 2011 - http://www.lpetr.org/blog/archives/sql6048n-a-communication-error-occurred-during-start-or-stop-database-manager-processing
   * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
   * db2start add member fails. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11419
   * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
@@ -1514,6 +1519,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 # E
 
 * Edition
+  * Going from DB2 Enterprise to DB2 Express-C. Leons on Tech. Leons Petrazickis. 2010 - http://www.lpetr.org/blog/archives/going-from-db2-enterprise-to-db2-express-c-2
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * Enterprise Database Software for Free – IBM Db2. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/ibm-db2-software-free/
 * EMC2
@@ -1899,6 +1905,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
 * Host Variable
   * Why are there Question Marks in my Db2 Queries?. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/why-are-there-question-marks-in-my-db2-queries/
+* Hostname
+  * Changing the DB2 hostname. Leons on Tech. Leons Petrazickis. 2007 - http://www.lpetr.org/blog/archives/moving-db2-from-one-hostname-to-another
 
 # I
 
@@ -2003,7 +2011,9 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Using UNICODE characters, no matter the encoding of the script in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/using-unicode-characters-no-matter.html
   * Massive insert in Db2 as an atomic transaction - no auto-commit. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/08/massive-insert-in-db2-as-atomic.html
 * Install
+  * Install DB2 via the command line. Leons on Tech. Leons Petrazickis. 2007 - http://www.lpetr.org/blog/archives/install-db2-while-sshing-to-a-linux-server-from-windows
   * DB2 Installation Enhancements. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/01/db2-installation-enhancements.html
+  * Cataloging local DB2 databases. Leons on Tech. Leons Petrazickis. 2010 - http://www.lpetr.org/blog/archives/cataloging-local-and-remote-db2-databases
   * DB2 LINUX INSTALLATION. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-installation/
   * DB2 LINUX CONFIGURATION. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-configuration/
   * DB2, LINUX AND MEMORY. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-and-memory/
@@ -2150,6 +2160,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * LEAVE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/leave/
 * License
   * How to Recreate DB2 Instance. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/01/how-to-recreate-db2-instance.html
+  * Going from DB2 Enterprise to DB2 Express-C. Leons on Tech. Leons Petrazickis. 2010 - http://www.lpetr.org/blog/archives/going-from-db2-enterprise-to-db2-express-c-2
+  * Going from DB2 Enterprise to Express-C. Leons on Tech. Leons Petrazickis. 2010 - http://www.lpetr.org/blog/archives/going-from-db2-enterprise-to-db2-express-c
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * DB2 pureScale – No Product License found. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11476
 * Limits
