@@ -173,6 +173,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Named syntax
   * Using SQL parameter names and default values, DeveloperWorks. Nick Lawrence. 2015. Article - https://www.ibm.com/developerworks/ibmi/library/i-sql-parameter-name-default-value/index.html
 * Naming
+   * DB2 and usernames with spaces. Leons on Tech. Leons Petrazickis. 2007 - http://www.lpetr.org/blog/archives/db2-and-usernames-with-spaces
   * Don’t Ignore Naming Convention. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/09/dont-ignore-naming-convention.html
 * Naming (Db2)
   * IBM Marketing and DB2, Db2 and dashDB. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2017/07/ibm-marketing-and-db2-db2-and-dashdb.html
@@ -925,6 +926,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
 * Schema
   * Backup and restore SQL schemas for DB2 Universal Database. Serge Rielau. 2005. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0602rielau/
+   * DB2 and usernames with spaces. Leons on Tech. Leons Petrazickis. 2007 - http://www.lpetr.org/blog/archives/db2-and-usernames-with-spaces
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
 * Scripts
   * DB2 Command Line Processing. techs@work. Raju Pillai. 2012. Blog - http://techsatwork.com/blog/?p=171
@@ -989,6 +991,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 security, Part 8: Twelve DB2 security best practices. DeveloperWorks. Ted J. Wasserman. 2006. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0607wasserman/index.html
   * Security. DeveloperWorks. Graham G. Milne. 2006. Article - https://www.ibm.com/developerworks/data/tutorials/db2-cert7302/db2-cert7302.html
   * DB2 security, Part 10: Deploy customized security plug-ins in DB2 9. DeveloperWorks. Kevin Yeung-Kuen See. 2010. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0610see/index.html
+  * Simplify DB2 Express-C security. Leons on Tech. Leons Petrazickis. 2010 - http://www.lpetr.org/blog/archives/simplify-db2-express-c-security
   * DB2 security, Part 2: Understand the DB2 for Linux, UNIX, and Windows security plug-ins. DeveloperWorks. Kevin Yeung-Kuen See. 2011. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0512chong/index.html
   * DB2 UDB security, Part 4: Understand how authorities and privileges are implemented in DB2 UDB. DeveloperWorks. Ted J. Wasserman. 2012. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0601wasserman/index.html
   * DB2 UDB security, Part 5: Understand the DB2 audit facility. DeveloperWorks. Ted J. Wasserman. 2012. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0603wasserman/index.html
@@ -1930,6 +1933,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 # U
 
 * Ubuntu
+  * Install DB2 via the command line. Leons on Tech. Leons Petrazickis. 2007 - http://www.lpetr.org/blog/archives/install-db2-while-sshing-to-a-linux-server-from-windows
   * DB2 on Ubuntu. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=320
   * Strange Problem Installing DB2 11.1, Fix/Mod Pack 1 on Ubuntu. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2017/01/06/strange-problem-installing-db2-11-1-fixmod-pack-1-on-ubuntu/
   * Building a Sandbox VM for DB2. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/01/19/building-a-sandbox-vm-for-db2/
@@ -2073,6 +2077,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * The DB2Night Show. DBI software. Channel - http://www.dbisoftware.com/blog/db2nightshow.php 
 * View
   * DB2 security, Part 8: Twelve DB2 security best practices. DeveloperWorks. Ted J. Wasserman. 2006. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0607wasserman/index.html
+  * Find a list of views marked inoperative. Leons on Tech. Leons Petrazickis. 2010 - http://www.lpetr.org/blog/archives/find-a-list-of-views-marked-inoperative
   * DB2 LUW Database Object’s owner and Instance Owner’s authority over it. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2016/07/18/db2-luw-database-objects-owner-and-instance-owners-authority-over-it/ 
 * Virtual IP - VIP 
   * Client Connections in a TSA/HADR cluster- Part 3. db2geek. Damir Wilder. 2017 - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-3/ 
@@ -2097,7 +2102,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html 
   * Spatial Analytics with Db2 Warehouse. DeveloperWorks. Deepak Rangarao. 2018. Article - https://www.ibm.com/developerworks/library/bd-spatial-analytics-db2warehouse-mapbox/index.html 
 * Watch 
-  * How to monitor operations in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/how-to-monitor-operations-in-db2.html 
+  * How to monitor operations in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/how-to-monitor-operations-in-db2.html
   * Unix command of the day: watch. Leons on Tech. Leons Petrazickis. 2016 - http://lpetr.org/blog/archives/unix-command-of-the-day-watch 
 * Watermark 
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html 
