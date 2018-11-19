@@ -577,6 +577,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Licensing Your Database Software on Virtual Platforms. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/10/04/licensing-your-database-software-on-virtual-platforms/
 * Python
   * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
+  * Ruby/Python and DB2 Drivers Guide to setting up the IBM Ruby and Python drivers for DB2 on Linux (32 or 64 bit). Antonio Cangiano. Antonio Cangiano. 2007. Blog - https://web.archive.org/web/20100123083830/http://antoniocangiano.com:80/rubypython-and-db2-drivers/
   * Using DB2 with Python on Cloud Foundry-Based IBM Bluemix. Data Henrik. Henrik Loeser. 2014. Blog - http://blog.4loeser.net/2014/08/using-db2-with-python-on-cloud-foundry.html
   * Use Db2 as Cloud SQL Database with Python. Data Henrik. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/10/use-db2-as-cloud-sql-database-with.html
 
@@ -613,8 +614,18 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * db2_all and RAHUSER. DB2 Diary from Radhesh. Radhesh Kumar. 2007. Blog - http://radheshk.blogspot.com/2007/07/db2all-and-rahuser.html
 * RAID
   * Integration strategies. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part3-trs/index.html
+* Rails
+  * Please check the Ruby, Rails entry.
 * Ruby, Rails
   * Rails and DB2 data types. Leons on Tech. Leons Petrazickis. 2007. Blog - http://www.lpetr.org/blog/archives/rails-and-db2-data-types
+  * Troubleshooting DB2 on Rails. DB2 on Rails. Leon Katsnelson, Antonio Cangiano. 2007. Blog - https://web.archive.org/web/20080719164826/http://antoniocangiano.com/files/tables_and_columns.html
+  * Solving “LoadError: 14001″ driver errors. DB2 on Rails. Leon Katsnelson, Antonio Cangiano. 2007. Blog - https://web.archive.org/web/20100430113552/http://db2onrails.com:80/2007/10/23/solving-loaderror-14001-driver-errors/
+  * Tables and Columns. Antonio Cangiano. Antonio Cangiano. 2007. Blog - https://web.archive.org/web/20080719164826/http://antoniocangiano.com/files/tables_and_columns.html
+  * Ruby/Python and DB2 Drivers Guide to setting up the IBM Ruby and Python drivers for DB2 on Linux (32 or 64 bit). Antonio Cangiano. Antonio Cangiano. 2007. Blog - https://web.archive.org/web/20100123083830/http://antoniocangiano.com:80/rubypython-and-db2-drivers/
+  * Essential guide to the Ruby driver for DB2. Antonio Cangiano. Antonio Cangiano. 2007. Blog - https://web.archive.org/web/20091231161509/http://antoniocangiano.com/2008/02/08/essential-guide-to-the-ruby-driver-for-db2/
+  * Configuring database.yml for IBM DB2. DB2 on Rails. Leon Katsnelson, Antonio Cangiano. 2007. Blog - https://web.archive.org/web/20080723120137/http://db2onrails.com/pages/connection
+  * A major milestone for DB2 on Rails. DB2 on Rails. Antonio Cangiano. 2008. Blog - https://web.archive.org/web/20091017193449/http://db2onrails.com:80/2008/11/08/a-major-milestone-for-db2-on-rails/
+  * Common pitfalls when installing the ibm_db gem. DB2 on Rails. Antonio Cangiano. 2008. Blog - https://web.archive.org/web/20100608023048/http://db2onrails.com:80/2008/11/11/common-pitfalls-when-installing-the-ibm_db-gem/
   * libdb2.so.1: cannot open shared object file: No such file or directory – … ibm_db.so. Leons on Tech. Leons Petrazickis. 2014. Blog - http://www.lpetr.org/blog/archives/libdb2-so-1-cannot-open-shared-object-file-no-such-file-or-directory-ibm_db-so
   * libdb2.so.1: cannot open shared object file. Leons on Tech. Leons Petrazickis. 2014. Blog - http://www.lpetr.org/blog/archives/libdb2-so-1-cannot-open-shared-object-file
 * Random
@@ -1803,6 +1814,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * TPC-c - Transaction Processing Performance Council
   * BenchmarkSQL for Db2. GitHub. Andres Gomez. Project - https://github.com/angoca/BenchmarkSQL
 * Trace
+  * Troubleshooting DB2 on Rails. DB2 on Rails. Leon Katsnelson, Antonio Cangiano. 2007. Blog - https://web.archive.org/web/20080719164826/http://antoniocangiano.com/files/tables_and_columns.html
   * Tracing DB2 JDBC Applications. db2 tips by an IBMer. Ilker Ender. 2009. Blog - http://ilker-db2.tumblr.com/post/285098205
   * DB2 Basics: An introduction to the DB2 UDB trace facility. DeveloperWorks. Roman Melnyk. 2014. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0409melnyk/
   * SQL procedure tracing. DeveloperWorks. Serge Rielau. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0409rielau/
