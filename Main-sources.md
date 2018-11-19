@@ -80,6 +80,8 @@ These blogs are not longer updated 😞
   * All articles related to Db2 (Between 2009 and 2010 - Complete).
 * Nagendra - DB2 queries (Blog about technical stuff). http://learndb.blogspot.com/
   * All articles (2009 - Complete).
+* db2udbadm. http://db2udbadm.blogspot.com/
+  * All articles (2009 - Complete).
 * Reynaldo Mola - db2Gdba. https://www.db2gdba.com/articles-tips/
   * All two articles.
 
