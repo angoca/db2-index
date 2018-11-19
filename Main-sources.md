@@ -33,6 +33,8 @@ In this section, the main DB2 sources are described:
   * Articles since 201601 to 201702
 * Shiji Pan - With Data (Blog related to a data software). https://www.withdata.com/blog/
   * All articles related to Db2 (Between 2013 to 201805)
+* Leons Petrazickis - Leons on Tech. http://lpetr.org/
+  * All articles related to Db2 (Between 2006 to 201811)
 
 These blogs are not longer updated 😞 
 
@@ -110,7 +112,6 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * https://www.ibm.com/developerworks/community/blogs/idm?sortby=0&maxresults=50&order=desc&lang=en
 * https://it.toolbox.com/users/content/LeonKatsnelson
 * http://justdb2chatter.blogspot.com/
-* http://lpetr.org/
 * http://db2tutorial.net/
 * https://vimeo.com/user1637644
 * https://it.toolbox.com/users/content/scotdb
