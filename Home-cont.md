@@ -3,6 +3,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 # M
 
 * Mac OS
+  * lInstalling DB2 on Mac OS X. Leons on Tech. Leons Petrazickis. 2014. Blog - http://www.lpetr.org/blog/archives/installing-db2-10-1-on-mac-os-x
   * Install DB2 on OS X Sierra. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/install-db2-on-os-x-sierra.html
 * Magazine
   * DataMagazine. DataMagazine. Magazine - http://ibmdatamag.com/
@@ -611,8 +612,10 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * db2_all and RAHUSER. DB2 Diary from Radhesh. Radhesh Kumar. 2007. Blog - http://radheshk.blogspot.com/2007/07/db2all-and-rahuser.html
 * RAID
   * Integration strategies. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part3-trs/index.html
-* Rails
-  * Rails and DB2 data types. Leons on Tech. Leons Petrazickis. 2007. Blog - Rails and DB2 data types
+* Ruby, Rails
+  * Rails and DB2 data types. Leons on Tech. Leons Petrazickis. 2007. Blog - http://www.lpetr.org/blog/archives/rails-and-db2-data-types
+  * libdb2.so.1: cannot open shared object file: No such file or directory – … ibm_db.so. Leons on Tech. Leons Petrazickis. 2014. Blog - http://www.lpetr.org/blog/archives/libdb2-so-1-cannot-open-shared-object-file-no-such-file-or-directory-ibm_db-so
+  * libdb2.so.1: cannot open shared object file. Leons on Tech. Leons Petrazickis. 2014. Blog - http://www.lpetr.org/blog/archives/libdb2-so-1-cannot-open-shared-object-file
 * Random
   * How to select N random records from a DB2 table. With Data. Shiji Pan. 2017. Blog - https://www.withdata.com/blog/tips/how-to-select-n-random-records-from-a-db2-table.html
 * Range Clustered Tables
@@ -1883,6 +1886,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
   * Restart vendor process for archive logging. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/12/restart-vendor-process-for-archive.html
 * Tutorial
+  * DB2 tutorial. Tutorials Point. nd. Tutorial - https://www.tutorialspoint.com/db2/
   * DB2 Tutorials. CaleTheVideoMaker2. Caleb Curry. 2017. Video - https://www.youtube.com/playlist?list=PL_c9BZzLwBRLiGEdFSOvCOr-V0kSs_hQM
   * Db2 SQL Tutorial 1 - Intro to Db2. CaleTheVideoMaker2. Caleb Curry. 2017. Video - https://www.youtube.com/watch?v=aMnBCOq9qrk
   * Db2 SQL Tutorial 2 - Getting Started with Db2 and DSM. CaleTheVideoMaker2. Caleb Curry. 2017. Video - https://www.youtube.com/watch?v=DXDAX2t953c
@@ -1981,7 +1985,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Replace (Update/Insert) a row into DB2 table – Merge into. With Data. Shiji Pan. 2013. Blog - https://www.withdata.com/blog/db2/replace-update-or-insert-a-row-into-db2-table-merge-into.html 
   * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html 
   * Dealing with dates and formats. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/dealing-with-dates-and-formats.html 
-  * Using UNICODE characters, no matter the encoding of the script in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/using-unicode-characters-no-matter.html 
+  * Using UNICODE characters, no matter the encoding of the script in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/using-unicode-characters-no-matter.html
+  * Massive UPDATE from values in a file. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/10/masive-update-from-values-in-file.html
 * Upgrade 
   * DB2 Upgrade Detail: Upgrading Event Monitor Tables. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/12/20/db2-upgrade-detail-upgrading-event-monitor-tables/ 
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/ 
