@@ -78,6 +78,8 @@ These blogs are not longer updated 😞
   * All articles related to Db2 (Between 2009 and 2012 - Complete).
 * Keith McDonald - The K guy (Blog about db2top and some SQL PL). http://www.thekguy.com
   * All articles related to Db2 (Between 2009 and 2010 - Complete).
+* Ilker Ender - db2 tips by an IBMer. http://ilker-db2.tumblr.com/
+  * All articles related to Db2 (Between 2009 and 2010 - Complete).
 * Nagendra - DB2 queries (Blog about technical stuff). http://learndb.blogspot.com/
   * All articles (2009 - Complete).
 * db2udbadm. http://db2udbadm.blogspot.com/
@@ -125,6 +127,5 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * http://web.archive.org/web/20131121212809/http://kawases.wikispaces.com:80/IBM+Optim+Development+Studio  (Algunas entradas estan disponibles en archive.org)
 * http://web.archive.org/web/20131121222857/http://kawases.wikispaces.com:80/IBM+DB2+Database+for+Linux%2C+UNIX%2C+and+Windows (Algunas entradas estan disponibles en archive.org) 
 * https://www1.atwiki.jp/kawases/ (Antiguos articulos de apricot life)
-* http://ilker-db2.tumblr.com/
 * https://web.archive.org/web/20110202083426/http://db2onrails.com
 * http://db2udbadm.blogspot.com/
