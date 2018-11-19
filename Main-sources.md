@@ -125,3 +125,4 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * https://www1.atwiki.jp/kawases/ (Antiguos articulos de apricot life)
 * http://ilker-db2.tumblr.com/
 * https://web.archive.org/web/20110202083426/http://db2onrails.com
+* http://db2udbadm.blogspot.com/
