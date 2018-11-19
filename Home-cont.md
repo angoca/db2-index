@@ -9,7 +9,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DataMagazine. DataMagazine. Magazine - http://ibmdatamag.com/
 * Maintenance
   * Automatic Table Maintenance Self-controlled. Berst Blog. Bert van Langen. 2014. Blog - https://web.archive.org/web/20160308072705/https://blog.bertvanlangen.com/db2/automatic-table-maintenance-self-controlled/
-  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
+  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
 * Materialized Query Table - MQT
   * Please check the "MQT" entry.
 * Max_Connections
@@ -50,7 +50,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Do db2top High Watermarks Give Wrong Answers? The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/do-db2top-high-watermarks-give-wrong-answers.html
   * db2top Memory Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-part-2.html
   * (Cache hit ratio in Db2) Ratio Hit Cache en DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/tuning/ratio-hit-cache-en-db2/
-  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
   * DB2 Table Row (Tuple) Size. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2-row-size/
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
   * Overview of LOCK ISSUES in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/07/overview-of-lock-issues-in-db2.html
@@ -79,7 +79,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Module. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/module/
   * DROP MODULE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/drop-module/
   * Creating recursive functions and procedures in SQL PL. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/recursive_sql_pl
-  * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
+  * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
 * Mon_DB_Summary
   * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
 * Mon_Get_%
@@ -128,12 +128,12 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Monitoring DB2 with Nagios. Blog dot lusis. John E. Vicent. 2006. Article - http://dev.lusis.org/nagios/usable/monitoring_db2_with_nagios.html
   * Where a DB Request Spends Time in DB2 9.7? DB2 Diary from Radhesh. Radhesh Kumar. 2010. Blog - http://radheshk.blogspot.com/2010/03/where-db-request-spends-time-in-db2-97.html
   * Usage Lists – Big Brother is watching, but only where he is looking. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/usage-lists-big-brother-is-watching-but-only-where-he-is-looking/
-  * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://db2commerce.com/2016/07/12/monitoring-extent-movement-progress/
+  * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://datageek.blog/2016/07/12/monitoring-extent-movement-progress/
   * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Scott Walkty. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
   * DB2 monitoring enhancements for BLU Acceleration. DeveloperWorks. Scott Walkty. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitor-bluaccel/index.html
   * Troubleshooting SQL problems in your database. DeveloperWorks. Raghavendra Chiyodu. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-troublshooting-sql-database/index.html
   * Welcome to Text Based Monitoring for DB2 LUW - dsmtop. DeveloperWorks. KevinLBeck. 2016. Wiki - https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/Text%20Based%20Monitoring%20for%20DB2%20LUW%20-%20dsmtop/
-  * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/08/30/powershell-script-for-local-db2-database-activation/
+  * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/08/30/powershell-script-for-local-db2-database-activation/
   * How to monitor operations in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/how-to-monitor-operations-in-db2.html
   * Log full condition. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/log-full-condition.html
   * Historical values to record. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/historical-values-to-record.html
@@ -142,7 +142,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Integration strategies. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part3-trs/index.html
   * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
   * Performance monitoring tools and methodology. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/performance-monitoring-tools-and-methodology.html
-  * Ember’s Take on Monitoring DB2 LUW. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/06/22/embers-take-on-monitoring-db2-luw/
+  * Ember’s Take on Monitoring DB2 LUW. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/06/22/embers-take-on-monitoring-db2-luw/
   * How to check DB2 LUW load status. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/12/how-to-check-db2-luw-load-status.html
   * DB2 How to Lower High Water Mark For DMS Tablespaces ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/01/19/db2-lower-high-water-mark-dms-tablespaces/
   * Monitoring Db2 HADR Takeover. Db2 Reflections. Hao Yan. 2018. Blog - http://db2reflections.blogspot.com.co/2018/04/monitoring-db2-hadr-takeover.html
@@ -178,7 +178,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Don’t Ignore Naming Convention. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/09/dont-ignore-naming-convention.html
 * Naming (Db2)
   * IBM Marketing and DB2, Db2 and dashDB. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2017/07/ibm-marketing-and-db2-db2-and-dashdb.html
-  * IBM’s June Announcements About DB2. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/06/23/ibms-june-announcements-about-db2/
+  * IBM’s June Announcements About DB2. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/06/23/ibms-june-announcements-about-db2/
 * Native Encryption
   * Enable DB2 native encryption in an HADR environment. DeveloperWorks. Stephen Levett. 2016. Blog - https://www.ibm.com/developerworks/community/blogs/81c130c7-4408-4e01-adf5-658ae0ef5f0c/entry/Enable_DB2_native_encryption_in_an_HADR_environment
 * Nested Loop Join - NLJOIN
@@ -195,8 +195,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Troubleshoot Db2 Backup Issues With Veritas NetBackup. Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/03/16/troubleshoot-db2-backup-issues-veritas-netbackup/
   * How To Perform Db2 Alternate Restore Using NetBackup ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/03/20/how-to-perform-db2-cross-node-restore-using-netbackup/
 * Netstat
-  * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
-  * Determining Which IP Address Db2 Connections are Connecting To. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/05/03/determining-which-ip-address-db2-connections-are-connecting-to/
+  * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://datageek.blog/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
+  * Determining Which IP Address Db2 Connections are Connecting To. db2commerce. Ember Brooks. 2018. Blog - http://datageek.blog/2018/05/03/determining-which-ip-address-db2-connections-are-connecting-to/
 * Network
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * Finding and releasing the handbrakes on JDBC: enableExtendedDescribe. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/enableextendeddescribe.?lang=en
@@ -280,7 +280,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Online Backup
   * How to take data Online Backup in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-take-data-online-backup-in-db2.html
 * Online Crash Recovery
-  * IBM’s June Announcements About DB2. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/06/23/ibms-june-announcements-about-db2/
+  * IBM’s June Announcements About DB2. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/06/23/ibms-june-announcements-about-db2/
 * Online Reorg
   * What are the different phases of Online & Offline Reorg in DB2 ?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/what-are-different-phases-of-online-and-offline-reorg-db2.html
   * Difference between Online Reorg and Offline Reorg in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/difference-between-online-and-offline-reorg-db2.html
@@ -306,7 +306,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Optimizer
   * Using Materialized QueryTables to Speed up Queries in DB2 UDB. DeveloperWorks. Alexander Kuznetsov. 2002. Article - https://www.ibm.com/developerworks/data/library/techarticle/0208kuznetsov/0208kuznetsov.html
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
-  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
   * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/line-optimization-v11-1/
 * Oracle terminology
   * (Oracle - Db2 terms translation) Traducción terminología Oracle – DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/curiosidades/traduccion-terminologia-oracle-db2/
@@ -320,7 +320,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Order By
   * The trouble of combining DISTINCT with ORDER BY. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/distinct_order_by
 * Out of Memory (OOM) condition
-  * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/07/the-self-tuning-memory-manager-stmm/
+  * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/12/07/the-self-tuning-memory-manager-stmm/
 * Outages
   * Best Practices - Minimizing Planned Outages. IBM. Matthew Huras, Chris Eaton, Jens Seifert, Rob Causley. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_Planned_Outages_0508I.pdf
 * Output
@@ -342,14 +342,14 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * SQL805N on NULLID.SYS* package. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=31
 * Package cache
   * Solve IBM BPM performance issues with IBM DB2 examples. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz2-trs/1509_volz2.html
-  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
-  * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/07/the-self-tuning-memory-manager-stmm/
+  * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/12/07/the-self-tuning-memory-manager-stmm/
   * Why are there Question Marks in my Db2 Queries?. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/why-are-there-question-marks-in-my-db2-queries/
 * Package cache hit ratio
-  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
 * Package Cache Statement Eviction Monitor
-  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
 * Page
   * Size matters: A handy routine to compute the defined row size of a table. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/getrowsize
 * Page clean
@@ -372,9 +372,9 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Using SQL parameter names and default values, DeveloperWorks. Nick Lawrence, 2015. Article - https://www.ibm.com/developerworks/ibmi/library/i-sql-parameter-name-default-value/index.html
 * Parameter Markers
   * New in DB2 for LUW 9.7.2: UDF default parameters. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/new-in-db2-for-luw-9-7-2-udf-default-parameters.html
-  * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Ember Crooks. 2013. Blog - http://db2commerce.com/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
-  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
-  * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/07/the-self-tuning-memory-manager-stmm/
+  * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Ember Crooks. 2013. Blog - http://datageek.blog/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
+  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+  * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/12/07/the-self-tuning-memory-manager-stmm/
   * Why are there Question Marks in my Db2 Queries?. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/why-are-there-question-marks-in-my-db2-queries/
   * Seven SQL Performance-Killers to Avoid in Db2. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/seven-sql-performance-killers-avoid-db2/
 * Partial index
@@ -388,12 +388,12 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Passthru
   * HOW TO SETUP FEDERATION BETWEEN TWO DB2 LUW DATABASES. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/how-to-setup-federation-between-two-db2-luw-databases/
 * Password
-  * The Database isn’t Available from Half the Servers – it Must be DB2. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/08/19/the-database-isnt-available-from-half-the-servers-it-must-be-db2/
+  * The Database isn’t Available from Half the Servers – it Must be DB2. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/08/19/the-database-isnt-available-from-half-the-servers-it-must-be-db2/
 * Patches
-  * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
+  * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/07/28/db2-basics-patching-db2/
 * PckCacheSz
-  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
-  * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/07/the-self-tuning-memory-manager-stmm/
+  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+  * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/12/07/the-self-tuning-memory-manager-stmm/
 * PD_Get_Log_Msgs
   * Please check the SysIBMAdm.PD_Get_Log_Msgs entry.
 * PDLogMsgs_Last24Hours 
@@ -424,18 +424,18 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 Performance Queries: Stolen from Scott hayes and changed to use mon_get_functions. DB2 Knowledge Base Raf. Raf Mathijs. 2015. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2015/03/db2-performance-queries-stolen-from.html
   * Capturing SQL statements and performance metrics for a single application database-connection in DB2. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/04/capturing-sql-statements-and-activities.html
   * Troubleshooting SQL problems in your database. DeveloperWorks. Raghavendra Chiyodu. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-troublshooting-sql-database/index.html
-  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
-  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
-  * SQL Analysis from Locking Event Monitor Collecting History. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/11/03/sql-analysis-from-locking-event-monitor-collecting-history/
+  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
+  * SQL Analysis from Locking Event Monitor Collecting History. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/11/03/sql-analysis-from-locking-event-monitor-collecting-history/
   * DB2 Performance Myth Buster 1 - How Bufferpool with 100% Hit Ratio still has Performance Bottleneck. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=BtuUA6V7vmY
   * DB2 Performance Myth Buster 2 - How Increasing Bufferpool Size will not increase LOAD Performance. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=spTrT6-U5Qk
   * Performance tuning tools and methodology. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/performance-tuning-tools-and-methodology_31.html
   * Performance monitoring tools and methodology. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/performance-monitoring-tools-and-methodology.html
   * Establishing a performance tuning strategy. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/establishing-performance-tuning-strategy.html
-  * Nothing Changed! A DB2 LUW Performance Investigation. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/06/29/nothing-changed-a-db2-luw-performance-investigation/
+  * Nothing Changed! A DB2 LUW Performance Investigation. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/06/29/nothing-changed-a-db2-luw-performance-investigation/
   * DB2 pureScale Health Check. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11467
   * DB2 11.1 BLU with DPF Monitoring scripts. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11484
-  * Query Performance Analysis. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/09/19/query-performance-analysis/
+  * Query Performance Analysis. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/09/19/query-performance-analysis/
   * DB2 performance monitoring with db2pd. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/03/db2-performance-monitoring-with-db2pd.html
   * Performance differences between upper-case (XQuery) and UPPER scalar function. db2geek. Mark Gillisr. 2018. Blog - http://db2geek.triton.co.uk/performance-differences-upper-case-xquery-upper-scalar-function/
   * Index Read Efficiency – A Key Performance Indicator for Db2. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/index-read-efficiency-db2/
@@ -448,11 +448,11 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Handy Perl script to check the cost of STORED PROCEDURES. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/02/handy-perl-script-to-check-cost-of.html
 * Permission
   * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html
-  * Static SQL vs Dynamic SQL in Stored Procedures. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
+  * Static SQL vs Dynamic SQL in Stored Procedures. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
   * DB2 Database Security Model. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/db2-database-security-model.html
   * File Permimission Requirements for the Instance and Database Directories. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/file-permimission-requirements-for-instance-database.html
-  * Db2 Basics: Investigating Permissions in an Existing Database. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
-  * DB2 Administrative SQL Cookbook: Listing Database Authorities that an ID/Group Holds. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/04/19/db2-administrative-sql-cookbook-listing-database-authorities-that-an-idgroup-holds/
+  * Db2 Basics: Investigating Permissions in an Existing Database. db2commerce. Ember Brooks. 2018. Blog - http://datageek.blog/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
+  * DB2 Administrative SQL Cookbook: Listing Database Authorities that an ID/Group Holds. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/04/19/db2-administrative-sql-cookbook-listing-database-authorities-that-an-idgroup-holds/
 * Phantom reads
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * PHP
@@ -486,7 +486,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * PMR - Problem Management Record
   * Getting DB2 Help. db2Dean. Dean Compher. 2007. Blog - http://www.db2dean.com/Previous/DB2Help.html
   * Enable Yourself to Open IBM Support Requests. db2Dean. Dean Compher. 2007. Blog - http://www.db2dean.com/Previous/esrRegister.html
-  * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
+  * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/07/28/db2-basics-patching-db2/
   * PMR creation. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/02/pmr-creation.html
 * Point in Time Recovery (PIT)
   * DB2 Tips n Tricks Part 98 - How Conversion of Regular to Large Tablespace Impacts Recovery. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=uJ2_HXMY6A4
@@ -494,11 +494,11 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Pool
   * db2top Agent Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-1.html
 * Port
-  * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
+  * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://datageek.blog/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
 * Positional syntax
   * Using SQL parameter names and default values, DeveloperWorks. Nick Lawrence, 2015. Article - https://www.ibm.com/developerworks/ibmi/library/i-sql-parameter-name-default-value/index.html
 * PowerShell
-  * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/08/30/powershell-script-for-local-db2-database-activation/
+  * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/08/30/powershell-script-for-local-db2-database-activation/
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
   * Hello, Db2 World! PowerShell. DataGeek.blog. Ember Brooks. 2018. Blog - https://datageek.blog/2018/08/09/hello-db2-world-powershell/
 * Predicates
@@ -522,7 +522,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Quick primer on checking database object privileges in DB2 LUW. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/06/09/quick-primer-on-checking-database-object-privileges-in-db2-luw/
   * DB2/dashDB Security: Implicit Privileges Through Group Membership. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/11/db2-security-implicit-privileges.html
   * Authentication & Authorization process in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/authentication-and-authorization-process-in-db2.html
-  * DB2 Administrative SQL Cookbook: Listing Database Authorities that an ID/Group Holds. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/04/19/db2-administrative-sql-cookbook-listing-database-authorities-that-an-idgroup-holds/
+  * DB2 Administrative SQL Cookbook: Listing Database Authorities that an ID/Group Holds. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/04/19/db2-administrative-sql-cookbook-listing-database-authorities-that-an-idgroup-holds/
   * IBM Db2 Tech Talk: Db2 Security and Compliance Support. Db2 Tech Talk. Roger Sanders. 2018. Webminar - https://www.ibm.com/events/Z56SMPES
 * Procedures
   * DROP MODULE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/drop-module/
@@ -531,7 +531,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Handy Perl script to check the cost of STORED PROCEDURES. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/02/handy-perl-script-to-check-cost-of.html
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Profile (runstats)
-  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
+  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
 * Problem resolution
   * Best Practices - Frequently Asked Questions from Problem Management Reports. IBM. Saurabh Jain, Vikram Murali, Mark Wilding. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_PMRFAQ_0508I.pdf
   * DB2 problem determination using db2top utility. DeveloperWorks. Tao Wang and Shen Li. 2008. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0812wang/index.html
@@ -542,7 +542,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * A Peek on DB2 Log Record. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/07/peek-on-db2-log-record.html
   * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/07/17/the-db2-recovery-history-file/
 * Pruning
-  * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
+  * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
 * Public
   * DB2 WSE 9.7 - General Errors. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-error.html
   * DB2 security, Part 8: Twelve DB2 security best practices. DeveloperWorks. Ted J. Wasserman. 2006. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0607wasserman/index.html
@@ -574,7 +574,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * pureXML. Wikipedia. Wiki - https://en.wikipedia.org/wiki/PureXML
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
 * PVU
-  * Licensing Your Database Software on Virtual Platforms. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/10/04/licensing-your-database-software-on-virtual-platforms/
+  * Licensing Your Database Software on Virtual Platforms. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/10/04/licensing-your-database-software-on-virtual-platforms/
 * Python
   * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
   * Ruby/Python and DB2 Drivers Guide to setting up the IBM Ruby and Python drivers for DB2 on Linux (32 or 64 bit). Antonio Cangiano. Antonio Cangiano. 2007. Blog - https://web.archive.org/web/20100123083830/http://antoniocangiano.com:80/rubypython-and-db2-drivers/
@@ -585,10 +585,10 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 
 * Q replication
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
-  * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/01/18/high-availability-options-for-db2-luw/
+  * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/01/18/high-availability-options-for-db2-luw/
 * Quiesce
   * DB2 Tips n Tricks Part 97 - How To Take Offline Backup of Tablespace. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=tT1K3uamwxc
-  * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
+  * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
   * Table in Quiesce Mode. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30324
 * Query
   * Best Practices - Writing and Tuning Queries for Optimal Performance. IBM. John Hornibrook, Nina Kolunovsky. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_Query_Tuning_0508I.pdf
@@ -597,7 +597,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 - Queries. Sean's. Sean. 2016. Blog - http://twoseans.blogspot.com.co/2016/06/db2-queries.html
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
-  * Query Performance Analysis. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/09/19/query-performance-analysis/
+  * Query Performance Analysis. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/09/19/query-performance-analysis/
   * Db2 with External Tables: First Tests. Data Henrik. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Finding the access path for Columnar queries #2. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-2/
   * Why are there Question Marks in my Db2 Queries?. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/why-are-there-question-marks-in-my-db2-queries/
@@ -660,10 +660,10 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487
 * Read Stability - RS
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
-  * Reducing Contention: Changing Default Isolation Level for Websphere Commerce (WCS). db2commerce. Michael Krafick. 2017. Blog - http://db2commerce.com/2017/11/02/reducing-contention-changing-default-isolation-level-for-websphere-commerce-wcs/
+  * Reducing Contention: Changing Default Isolation Level for Websphere Commerce (WCS). db2commerce. Michael Krafick. 2017. Blog - http://datageek.blog/2017/11/02/reducing-contention-changing-default-isolation-level-for-websphere-commerce-wcs/
 * Reads on Standby - ROS
   * High Availability Options for DB2/LUW. db2Dean. Dean Compher. 2007 (2015). Blog - http://www.db2dean.com/Previous/HAOpt.html
-  * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/01/18/high-availability-options-for-db2-luw/
+  * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/01/18/high-availability-options-for-db2-luw/
   * Monitoring the replay-only-window on a Db2 HADR standby database. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/monitoring-replay-only-window-on-db2_28.html
 * Reads SQL data
   * DB2 Stored Procedures and Defaults. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2-stored-procedures-and-defaults.html
@@ -674,8 +674,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 10: Multi Temperature Data Management. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/multitempdata
 * Rebind
   * Making SQL PL and PL/SQL sensitive to changes in statistics, and more. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/statistics_sensitive_sql_pl
-  * Static SQL vs Dynamic SQL in Stored Procedures. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
-  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
+  * Static SQL vs Dynamic SQL in Stored Procedures. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
+  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
   * How to resolve SQL20249N The statement was not processed error?. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/11/how-to-resolve-sql20249n-statement-was-not-processed-error.html
 * Rec_His_Retentn
   * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/07/17/the-db2-recovery-history-file/
@@ -703,8 +703,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Reddit
   * DB2. Reddit. Content aggregator - https://www.reddit.com/r/DB2/
 * Redirected restore
-  * Moving Mountains with a Redirected Restore. db2commerce. Michael Krafick. 2016. Blog - http://db2commerce.com/2016/08/04/moving-mountains-with-a-redirected-restore/
-  * SQL0752N on Rollforward After Redirected Restore. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2017/03/28/sql0752n-on-rollforward-after-redirected-restore/
+  * Moving Mountains with a Redirected Restore. db2commerce. Michael Krafick. 2016. Blog - http://datageek.blog/2016/08/04/moving-mountains-with-a-redirected-restore/
+  * SQL0752N on Rollforward After Redirected Restore. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2017/03/28/sql0752n-on-rollforward-after-redirected-restore/
 * Redo
   * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
 * Refresh
@@ -713,7 +713,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Referential Integrity
   * How To Find Missing Indexes On Foreign Key Columns ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/07/10/how-to-find-missing-indexes-for-foreign-key-columns/
 * Registry
-  * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/22/db2-basics-levels-of-configuration/
+  * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/22/db2-basics-levels-of-configuration/
 * Regular Expressions
   * Advanced Pattern Matching with Regular Expressions in DB2 11.1 for LUW. IDUG Content Blog. Fred Sobotka. 2017. Blog - http://www.idug.org/p/bl/et/blogaid=605
 * Release savepoint
@@ -742,10 +742,10 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 DBA tip – UNIX script to reduce typing (and save time) for reorgs after altering tables. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/10/20/db2-dba-tip-unix-script-to-reduce-typing-and-save-time-for-reorgs-after-altering-tables/
   * Improve IBM BPM performance with an IBM DB2 database. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz1-trs/1509_volz1.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
-  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
+  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
   * What are the different phases of Online & Offline Reorg in DB2 ?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/what-are-different-phases-of-online-and-offline-reorg-db2.html
   * Difference between Online Reorg and Offline Reorg in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/difference-between-online-and-offline-reorg-db2.html
-  * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/29/db2-temporary-table-spaces/
+  * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/29/db2-temporary-table-spaces/
   * (Invalid state change) Cambio de estado inválido en Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/02/cambio-de-estado-invalido-en-db2.html
   * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/07/17/the-db2-recovery-history-file/
 * Reorg Pointer
@@ -753,9 +753,9 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * ReorgChk
   * DB2 inplace reorg. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=132
   * Determing whether a reorg could benefit performance without using reorgchk. DB2 Knowledge Base Raf. Raf Mathijs. 2015. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2015/03/determing-whether-reorg-could-benefit.html
-  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
+  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
 * Repair
-  * db2setup on Windows – Repair Option. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2017/04/04/db2setup-on-windows-repair-option/
+  * db2setup on Windows – Repair Option. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2017/04/04/db2setup-on-windows-repair-option/
 * Repeat
   * REPEAT statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/repeat/
   * Example: How much reorganisations are recommended on a specific schema. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-reorgchk/
@@ -805,12 +805,12 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
   * Restore Transport option – mix and match your schemas (Part 1). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas/
   * Restore Transport option – mix and match your schemas (Part 2). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas-part-2/
-  * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
+  * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
   * DB2 Tips n Tricks Part 97 - How To Take Offline Backup of Tablespace. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=tT1K3uamwxc
   * DB2 Tips n Tricks Part 99 - How To Perform Redirected Restore without REDIRECT Keyword. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=B2OWBhNg_E8
   * Restore database from a backup in Networker. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/restore-database-from-backup-in.html
   * How to identify a backup timestamp in Networker. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/restore-database-from-backup-in.html
-  * SQL0752N on Rollforward After Redirected Restore. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2017/03/28/sql0752n-on-rollforward-after-redirected-restore/
+  * SQL0752N on Rollforward After Redirected Restore. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2017/03/28/sql0752n-on-rollforward-after-redirected-restore/
   * DB2 LUW Truncate, Restore and Rollforward. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2016/03/03/db2-10-5-truncates-restore-and-rollforward/
   * DB2 LUW Import from /dev/null, Restore and Rollforward. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2016/03/08/db2-luw-import-from-devnull-restore-and-rollforward/
   * How To Perform Db2 Alternate Restore Using NetBackup ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/03/20/how-to-perform-db2-cross-node-restore-using-netbackup/
@@ -823,7 +823,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Return
   * RETURN statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/return/
 * Return code
-  * Understanding Return Codes in the DB2 Diagnostic Log. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/01/26/understanding-return-codes-in-the-db2-diagnostic-log/
+  * Understanding Return Codes in the DB2 Diagnostic Log. db2commerce. Ember Crooks. 2017. Blog - http://datageek.blog/2017/01/26/understanding-return-codes-in-the-db2-diagnostic-log/
 * Revalidate
   * DB2 ADMIN_REVALIDATE_DB_OBJECTS PROCEDURE – REVALIDATE INVALID DATABASE OBJECTS. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/db2-admin_revalidate_db_objects-procedure-revalidate-invalid-database-objects/
 * REXX
@@ -831,9 +831,9 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * RFE - Request For Enhancement
   * How to submit a DB2 feature/enhancement request using the RFE tool. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/09/how-to-submit-db2-featureenhancement.html
   * PkgCache #28: Easier to use when drunk. The Whole Package Cache. Ian Bjorhovde, Fred Sobotka. 2016. Podcast - http://www.pkgcache.com/28/
-  * IBM’s DB2 RFE Program. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/02/14/ibms-db2-rfe-program/
+  * IBM’s DB2 RFE Program. db2commerce. Ember Crooks. 2017. Blog - http://datageek.blog/2017/02/14/ibms-db2-rfe-program/
   * Votes for DB2 RFEs. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/02/votes-for-db2-rfes.html
-  * More on IBM’s RFE Program for Db2 on LUW. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/02/08/more-on-ibms-rfe-program-for-db2-on-luw/
+  * More on IBM’s RFE Program for Db2 on LUW. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/02/08/more-on-ibms-rfe-program-for-db2-on-luw/
 * RID - Row Identification
   * What are the different phases of Online & Offline Reorg in DB2 ?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/what-are-different-phases-of-online-and-offline-reorg-db2.html
 * RMQT - Replicated Materialized Query Table
@@ -869,7 +869,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * ROS - Read On Stand by
   * HADR ROS (READ ON STANDBY) MAJOR LIMITATION. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/hadr-ros-read-only-standby-limitation/
 * Routines
-  * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
+  * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
 * Row
   * db2top Agent Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-2.html
   * Size matters: A handy routine to compute the defined row size of a table. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/getrowsize
@@ -886,7 +886,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Row_Number
   * How to number your sql results. DBMSguy.com. Paul Mayhew. 2009. Blog - http://dbmsguy.com/blog/2009/05/how-to-number-your-sql-results/
 * RPO - Recovery Point Objective
-  * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/01/18/high-availability-options-for-db2-luw/
+  * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/01/18/high-availability-options-for-db2-luw/
 * RR
   * Please check the Repetable read entry.
 * RS
@@ -902,16 +902,16 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * db2haicu disable / enable and scripting. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11482
 * RTO - Recovery Time Objetive
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
-  * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/01/18/high-availability-options-for-db2-luw/
+  * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/01/18/high-availability-options-for-db2-luw/
 * Runstats
   * Automated runstats – take 2. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=71
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
   * Lazy RUNSTATS using SYSPROC.ADMIN_CMD. Dangerous DBA. Philip Carrington. 2012. Blog - http://www.dangerousdba.com/lazy-runstats-using-sysproc-admin_cmd/
   * Runstats on data change percentage. Berst Blog. Bert van Langen. 2014. Blog - https://web.archive.org/web/20160308061053/https://blog.bertvanlangen.com/db2/runstats-data-change-percentage/
   * Improve IBM BPM performance with an IBM DB2 database. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz1-trs/1509_volz1.html
-  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
+  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
   * Example: Runstats. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-runstats/ 
-  * DB2 Administrative SQL Cookbook: When Were Runstats Done (Beyond STATS_TIME)?. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/03/16/db2-administrative-sql-cookbook-when-were-runstats-done-beyond-stats_time/
+  * DB2 Administrative SQL Cookbook: When Were Runstats Done (Beyond STATS_TIME)?. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/03/16/db2-administrative-sql-cookbook-when-were-runstats-done-beyond-stats_time/
   * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/line-optimization-v11-1/
   * DB2 SQL2314W SOME STATISTICS ARE IN AN INCONSISTENT STATE. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/db2-sql2314w-some-statistics-are-in-an-inconsistent-state/
   * Runstats Best Practices for Db2 on LUW. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/runstats-best-practices-db2-luw/
@@ -985,8 +985,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 Backup Script. A Day in DBA's life. Manohar Viswanatha. 2013. Blog - https://mviswa.blogspot.com/2013/01/db2-backup-script.html
   * Script to check the Tablespace sizes. A Day in DBA's life. Manohar Viswanatha. 2013. Blog - https://mviswa.blogspot.com/2013/01/script-to-check-tablespace-sizes.html
   * DB2 DBA tip – UNIX script to reduce typing (and save time) for reorgs after altering tables. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/10/20/db2-dba-tip-unix-script-to-reduce-typing-and-save-time-for-reorgs-after-altering-tables/
-  * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/08/30/powershell-script-for-local-db2-database-activation/
-  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
+  * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/08/30/powershell-script-for-local-db2-database-activation/
+  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
   * Identify invalid characters in a script. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/04/identify-invalid-characters-in-script.html
   * How to make Db2 scripts executable (shebang for Db2). Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/04/how-to-make-db2-scripts-executable.html
 * Search Argument - SARG
@@ -1013,7 +1013,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 Security, Part 11: Develop a security plug-in for DB2 database authentication. DeveloperWorks. Gene Kligerman. 2009. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0802kligerman/
   * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
   * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html
-  * Static SQL vs Dynamic SQL in Stored Procedures. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
+  * Static SQL vs Dynamic SQL in Stored Procedures. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
   * DB2/dashDB Security: Implicit Privileges Through Group Membership. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/11/db2-security-implicit-privileges.html
   * DB2 Database Security Model. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/db2-database-security-model.html
   * Authentication & Authorization process in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/authentication-and-authorization-process-in-db2.html
@@ -1062,7 +1062,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * db2top Sessions Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-2.html
   * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
 * Session.EvMon_Upgrade_Tables_ResultSet
-  * DB2 Upgrade Detail: Upgrading Event Monitor Tables. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/12/20/db2-upgrade-detail-upgrading-event-monitor-tables/
+  * DB2 Upgrade Detail: Upgrading Event Monitor Tables. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/12/20/db2-upgrade-detail-upgrading-event-monitor-tables/
 * SessionUser
   * DB2 Security: Privilege(d) Insight. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/06/db2-security-privileged-insight.html
 * Set
@@ -1080,7 +1080,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Set_Routine_Opts
   * Please check the SysProc.Set_Routine_Opts entry.
 * Settings
-  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
 * SG control files
   * Please check the "Storage Group" entry.
 * Skew
@@ -1104,7 +1104,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * SHeapThres_Shr
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
   * DB2 11.1 BLU with DPF Monitoring scripts. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11484
-  * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/07/the-self-tuning-memory-manager-stmm/
+  * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/12/07/the-self-tuning-memory-manager-stmm/
 * Shebang
   * How to make Db2 scripts executable (shebang for Db2). Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/04/how-to-make-db2-scripts-executable.html
 * Shell
@@ -1117,7 +1117,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * SMAP
   * DB2 pureScale instance creation hangs after GPFS. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11469
 * SMS - System
-  * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/29/db2-temporary-table-spaces/
+  * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/29/db2-temporary-table-spaces/
 * Snap_Get_Tab_Reorg
   * Please check the SysIBMAdm.Snap_Get_Tab_Reorg entry.
 * SnapDB_Memory_Pool
@@ -1128,7 +1128,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Scott Walkty. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
   * DB2 Tips n Tricks Part 38 - Limitation on Monitor Metrics by Dynamic SQL Snapshot. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=MO-UlXkiRoo
   * Solve IBM BPM performance issues with IBM DB2 examples. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz2-trs/1509_volz2.html
-  * Comparing dsmtop and db2top. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/03/07/comparing-dsmtop-and-db2top/
+  * Comparing dsmtop and db2top. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/03/07/comparing-dsmtop-and-db2top/
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * Softmax (Deprecated)
   * The DB2Night Show #196: Db2 LUW Transaction Log Expedition w/ Ember Crooks. The DB2Night Show. Ember Crooks. 2017. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=730
@@ -1140,7 +1140,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * db2top Dynamic SQL Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-dynamic-sql-screen.html
-  * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/29/db2-temporary-table-spaces/
+  * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/29/db2-temporary-table-spaces/
   * Seven SQL Performance-Killers to Avoid in Db2. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/seven-sql-performance-killers-avoid-db2/
 * SortHeap
   * db2top Database Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-2.html
@@ -1149,7 +1149,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Troubleshooting SQL problems in your database. DeveloperWorks. Raghavendra Chiyodu. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-troublshooting-sql-database/index.html
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
   * DB2 11.1 BLU with DPF Monitoring scripts. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11484
-  * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/29/db2-temporary-table-spaces/
+  * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/29/db2-temporary-table-spaces/
 * SpaceReserved
   * How to Estimate the duration of a TAKEOVER HADR operation in DB2. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/07/how-to-estimate-duration-of-takeover.html
 * Spark
@@ -1160,7 +1160,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * Acquiring spatial data and developing applications. DeveloperWorks. David Adler. 2016. Article - http://www.ibm.com/developerworks/data/tutorials/dm-1202db2spatialdata1/index.html
 * Special Build
-  * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/
+  * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/07/28/db2-basics-patching-db2/
 * Special Registers
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Spill
@@ -1183,12 +1183,12 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Making SQL PL and PL/SQL sensitive to changes in statistics, and more. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/statistics_sensitive_sql_pl
   * The trouble of combining DISTINCT with ORDER BY. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/distinct_order_by
   * Who's the most popular kid on the block?. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/stats_mode
-  * Tips on Using db2advis with Multiple Queries db2commerce. Ember Brooks. 2013. Blog - http://db2commerce.com/2013/06/25/tips-on-using-db2advis-with-multiple-queries/
+  * Tips on Using db2advis with Multiple Queries db2commerce. Ember Brooks. 2013. Blog - http://datageek.blog/2013/06/25/tips-on-using-db2advis-with-multiple-queries/
   * DB2 monitoring: Tracing SQL statements by using an activity event monitor. developerWorks. Scott Walkty and Mike Springgay. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1401sqltrace/
-  * Querying Tables for an Activity Event Monitor. db2commerce. Ember Brooks. 2014. Blog - http://db2commerce.com/2014/10/14/querying-tables-for-an-activity-event-monitor/
+  * Querying Tables for an Activity Event Monitor. db2commerce. Ember Brooks. 2014. Blog - http://datageek.blog/2014/10/14/querying-tables-for-an-activity-event-monitor/
   * find the complete sql of a really long sql and explain it. DB2 Knowledge Base Raf. Raf Mathijs. 2015. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2015/04/find-complete-sql-of-really-long-sql.html
-  * Funny SQL I Have Seen Lately. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/05/funny-sql-i-have-seen-lately/
-  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+  * Funny SQL I Have Seen Lately. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/07/05/funny-sql-i-have-seen-lately/
+  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
   * Selected common SQL features for developers of portable DB2 applications. DeveloperWorks. 2016. Article - http://www.ibm.com/developerworks/data/library/techarticle/db2common/index.html
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
@@ -1276,7 +1276,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * In the PIPE: Compiled SQL PL and PL/SQL Table Functions. DeveloperWorks - SQL Tips for DB2 LUW. Rick Swagerman. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/in_the_pipe
   * Now, where did that come from? Getting more out of your error messages. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2014. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/runtimeerrororigins
   * Using SQL parameter names and default values, DeveloperWorks. Nick Lawrence, 2015. Article - https://www.ibm.com/developerworks/ibmi/library/i-sql-parameter-name-default-value/index.html
-  * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
+  * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
   * Db2's SQL PL description in Rosetta Code. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/04/db2s-sql-pl-description-in-rosetta-code.html
   * Writing to a file from a Stored Procedure or Annonymous Block (sql pl). Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/writing-in-file-from-stored-procedure.html
 * SQL PL Profiler
@@ -1287,7 +1287,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Making SQL PL and PL/SQL sensitive to changes in statistics, and more. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/statistics_sensitive_sql_pl
 * SQL Replication
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
-  * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/01/18/high-availability-options-for-db2-luw/
+  * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/01/18/high-availability-options-for-db2-luw/
 * SQLCA - SQL Communications Area
   * Now, where did that come from? Getting more out of your error messages. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2014. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/runtimeerrororigins
 * SQLCode
@@ -1317,10 +1317,10 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Security. DeveloperWorks. Graham G. Milne. 2006. Article - https://www.ibm.com/developerworks/data/tutorials/db2-cert7302/db2-cert7302.html
 * SSL - Secure Socket Layer
   * Configuring SSL for IBM Data Server Driver for ODBC and CLI. DeveloperWorks. Chetan Papaiah, Ashok V. Jose and Chris Meyer. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-ssl-data-server-driver-odbc-cli-trs/index.html
-  * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
+  * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://datageek.blog/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
   * IBM Db2 Tech Talk: Db2 Security and Compliance Support. Db2 Tech Talk. Roger Sanders. 2018. Webminar - https://www.ibm.com/events/Z56SMPES
 * SSL_SVCENAME
-  * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
+  * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://datageek.blog/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
 * SSV - Single System View
   * SSV Backup. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/08/ssv-backup.html
 * ST_%
@@ -1343,40 +1343,40 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Start / Stop instance
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
 * State, tablespace
-  * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://db2commerce.com/2016/07/12/monitoring-extent-movement-progress/
+  * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://datageek.blog/2016/07/12/monitoring-extent-movement-progress/
   * (Invalid state change) Cambio de estado inválido en Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/02/cambio-de-estado-invalido-en-db2.html
 * Statement
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * db2top Statements Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-statements-screen.html
-  * DB2 Basics: Statement Terminators. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/07/13/db2-basics-statement-terminators/
+  * DB2 Basics: Statement Terminators. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/07/13/db2-basics-statement-terminators/
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Statement concentrator
-  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
   * Why are there Question Marks in my Db2 Queries?. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/why-are-there-question-marks-in-my-db2-queries/
 * Static SQL
   * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html
   * db2top Sessions Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-2.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
-  * Static SQL vs Dynamic SQL in Stored Procedures. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
-  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+  * Static SQL vs Dynamic SQL in Stored Procedures. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
+  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
 * Statistical views
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
-  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
+  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
 * Statistics
   * Mimicking Production Database. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/01/mimicking-production-database.html
   * Making SQL PL and PL/SQL sensitive to changes in statistics, and more. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/statistics_sensitive_sql_pl
-  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
+  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
   * Environment during auto stats - Open Files. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/environment-during-auto-stats-open-files.html
   * DB2 SQL2314W SOME STATISTICS ARE IN AN INCONSISTENT STATE. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/db2-sql2314w-some-statistics-are-in-an-inconsistent-state/
 * Status
   * db2top Database Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-2.html
 * STMM - Self-Tunning Memory Manager
-  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
   * Self-tuning memory in partitioned database environments. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/self-tuning-memory-in-partitioned-database-environment.html
-  * Comparing Two Db2 Systems. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/09/12/comparing-two-db2-systems/
-  * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/07/the-self-tuning-memory-manager-stmm/
+  * Comparing Two Db2 Systems. db2commerce. Ember Crooks. 2017. Blog - http://datageek.blog/2017/09/12/comparing-two-db2-systems/
+  * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/12/07/the-self-tuning-memory-manager-stmm/
 * Stmt_Conc
-  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
 * Stolen page
   * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
 * Storage
@@ -1387,7 +1387,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Storage groups
   * DB2 10: Multi Temperature Data Management. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/multitempdata
   * DB2 10.1 LUW Certification 611 notes 1 : Physical Design. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/db2-10-1-luw-exam-611-notes-physical-design/
-  * DB2 Basics: Storage Groups. db2commerce. Ember Brooks. 2014. Blog - http://db2commerce.com/2014/07/22/db2-basics-storage-groups
+  * DB2 Basics: Storage Groups. db2commerce. Ember Brooks. 2014. Blog - http://datageek.blog/2014/07/22/db2-basics-storage-groups
   * Storage groups - A comprehensive solution of handling your data. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/storage-groups-comprehensive-solution.html
   * DB2 Tips n Tricks Part 99 - How To Perform Redirected Restore without REDIRECT Keyword. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=B2OWBhNg_E8
   * Recovering from corrupt DB2 Storage Group Control Files. db2geek. Damir Wilder, Iqbal Goralwalla. 2018. Blog - http://db2geek.triton.co.uk/recovering-corrupt-db2-storage-group-control-files/
@@ -1403,7 +1403,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * CALLED ON NULL INPUT option. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/called-on-null-input/
   * DETERMINISTIC and NOT DETERMINISTIC option. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/deterministic/
   * DROP MODULE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/drop-module/
-  * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
+  * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
   * Default values. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/default-values/
   * Hide the body of a SQL PL Stored Procedure. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/hide-procedure-body/
   * LANGUAGE SQL clause. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/language-sql/
@@ -1431,12 +1431,12 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Suspend write
   * DB2 Write Suspend. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/backup_recovery/db2-write-suspend/
   * How to check DB2 LUW database write suspend state with db2pd. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/05/how-to-check-db2-luw-database-write-suspend-state-with-db2pd.html
-  * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
+  * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
 * SvceName
   * (How to identify the Db2 connection port) Cómo conocer el puerto de conexión de DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/como-conocer-el-puerto-de-conexion-de-db2/
   * Receiving SQL5043n and SPM0438 ? techs@work. Raju Pillai. 2011. Blog - http://techsatwork.com/blog/?p=1092
-  * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
-  * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
+  * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
+  * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://datageek.blog/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
 * Swap
   * Step by Step installation of DB2 V10.5 on Linux. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/04/step-by-step-installation-of-db2-v105-Linux.html
 * Synchronous read
@@ -1447,7 +1447,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Syntax
   * A file with one character-name can make the difference when asking for help. Ideas for Db2 (Spanish). Andres Gomez. 2017. Blog - http://angocadb2.blogspot.com.co/2017/12/a-file-with-one-character-name-can-make.html
 * SysAdm
-  * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
+  * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
   * Security considerations when installing and using the DB2 database manager. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/security-considerations-when-installing-DB2.html
 * SysCat schema
   * SysCat.AuditUse
@@ -1459,7 +1459,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
     * DB2 TABLE PARTITIONING. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/db2-table-partitioning/
   * SysCat.dbAuth
     * public - beware of this pseudo group. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/public-beware-of-this-pseudo-group.html
-    * Db2 Basics: Investigating Permissions in an Existing Database. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
+    * Db2 Basics: Investigating Permissions in an Existing Database. db2commerce. Ember Brooks. 2018. Blog - http://datageek.blog/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
   * SysCat.dbPartitionGroupDef
     * Quick primer on DB2 Tables and Tablespaces in a multi-partitioned (DPF) database. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/09/03/quick-primer-on-db2-tables-and-tablespaces-in-a-multi-partitioned-dpf-database/
     * Partitions held by a table. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30325
@@ -1482,7 +1482,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * SysCat.TableSpaces
     * Quick primer on DB2 Tables and Tablespaces in a multi-partitioned (DPF) database. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/09/03/quick-primer-on-db2-tables-and-tablespaces-in-a-multi-partitioned-dpf-database/
 * SysDefaultAdmWorkload
-  * Querying Tables for an Activity Event Monitor. db2commerce. Ember Brooks. 2014. Blog - http://db2commerce.com/2014/10/14/querying-tables-for-an-activity-event-monitor/
+  * Querying Tables for an Activity Event Monitor. db2commerce. Ember Brooks. 2014. Blog - http://datageek.blog/2014/10/14/querying-tables-for-an-activity-event-monitor/
 * SysDummy
   * How to create a Date Series in DB2. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/12/how-to-create-a-date-series-in-db2-.html
 * SysIBM schema
@@ -1506,16 +1506,16 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
     * Record the size of your DB2 tables – SYSIBMADM.ADMINTABINFO. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/record-the-size-of-your-db2-tables-sysibmadm-admintabinfo/
   * Calculating size of table in a DPF database. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2016/03/22/calculating-size-of-table-in-a-dpf-database/
   * SysIBMAdm.AuthorizationIDs
-    * Db2 Basics: Investigating Permissions in an Existing Database. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
+    * Db2 Basics: Investigating Permissions in an Existing Database. db2commerce. Ember Brooks. 2018. Blog - http://datageek.blog/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
   * SysIBMAdm.Bp_HitRatio
     * (Cache hit ratio in Db2) Ratio Hit Cache en DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/tuning/ratio-hit-cache-en-db2/
   * SysIBMAdm.Db_History
     * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/07/17/the-db2-recovery-history-file/
   * SysIBMAdm.DBCfg
-    * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/22/db2-basics-levels-of-configuration/
+    * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/22/db2-basics-levels-of-configuration/
   * SysIBMAdm.DBmCfg
     * sysibmadm.dbmcfg gives error sql0444n reason code 4. DB2 Knowledge Base Raf. Raf Mathijs. 2013. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2013/10/sysibmadmdbmcfg-gives-error-sql0444n.html
-    * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/22/db2-basics-levels-of-configuration/
+    * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/22/db2-basics-levels-of-configuration/
   * SysIBMAdm.Log_Utilization
     * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
   * SysIBMAdm.Long_Running_SQL
@@ -1524,17 +1524,17 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * SysIBMAdm.Mon_DB_Summary
     * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
   * SysIBMAdm.PD_Get_Log_Msgs
-    * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
-    * Understanding Return Codes in the DB2 Diagnostic Log. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/01/26/understanding-return-codes-in-the-db2-diagnostic-log/
+    * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+    * Understanding Return Codes in the DB2 Diagnostic Log. db2commerce. Ember Crooks. 2017. Blog - http://datageek.blog/2017/01/26/understanding-return-codes-in-the-db2-diagnostic-log/
   * SysIBMAdm.PDLogMsgs_Last24Hours 
-    * Understanding Return Codes in the DB2 Diagnostic Log. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/01/26/understanding-return-codes-in-the-db2-diagnostic-log/
+    * Understanding Return Codes in the DB2 Diagnostic Log. db2commerce. Ember Crooks. 2017. Blog - http://datageek.blog/2017/01/26/understanding-return-codes-in-the-db2-diagnostic-log/
   * SysIBMAdm.Privileges
     * Quick primer on checking database object privileges in DB2 LUW. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/06/09/quick-primer-on-checking-database-object-privileges-in-db2-luw/
-    * Db2 Basics: Investigating Permissions in an Existing Database. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
+    * Db2 Basics: Investigating Permissions in an Existing Database. db2commerce. Ember Brooks. 2018. Blog - http://datageek.blog/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
   * SysIBMAdm.Snap_Get_Tab
     * (Space occupancy of Db2 tables) Ocupación espacio de tablas DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/ocupacion-espacio-de-tablas-db2/
   * SysIBMAdm.Snap_Get_Tab_Reorg
-    * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
+    * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
   * SysIBMAdm.Snap_Get_Tbsp_Part
     * An sql to find out how full your db2 tablespace is on UDB. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=29
   * SysIBMAdm.SnapAppl
@@ -1586,24 +1586,24 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * SysProc.Admin_Get_Tab_Info
     * Database Size and Table Sizes. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30319
   * SysProc.Admin_Move_Table
-    * Reclaimable Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/02/21/reclaimable-table-spaces/
+    * Reclaimable Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/02/21/reclaimable-table-spaces/
     * DB2 SQL2104N THE ADMIN_MOVE_TABLE PROCEDURE COULD NOT BE COMPLETED AT THIS TIME BY THIS USER. REASON CODE: “9”. SQLSTATE=5UA0M. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/sql2104n-the-admin_move_table-procedure-could-not-be-completed-at-this-time-by-this-user-reason-code-9-sqlstate5ua0m/
   * SysProc.Admin_Rotate_Master_Key
     * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
   * SysProc.Audit_Delim_Extract
     * How I can now answer auditor’s questions – Leveraging DB2’s Audit facility. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/06/02/basics-of-db2s-db2audit-facility/
   * SysProc.Auth_List_Authorities_For_AuthID
-    * Db2 Basics: Investigating Permissions in an Existing Database. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
+    * Db2 Basics: Investigating Permissions in an Existing Database. db2commerce. Ember Brooks. 2018. Blog - http://datageek.blog/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
   * SysProc.Automaint_Get_PolicyFile
-    * Excluding a Table from Db2’s Automatic Runstats. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/09/05/excluding-a-table-from-db2s-automatic-runstats/
+    * Excluding a Table from Db2’s Automatic Runstats. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/09/05/excluding-a-table-from-db2s-automatic-runstats/
   * SysProc.Automaint_Set_PolicyFile
-    * Excluding a Table from Db2’s Automatic Runstats. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/09/05/excluding-a-table-from-db2s-automatic-runstats/
+    * Excluding a Table from Db2’s Automatic Runstats. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/09/05/excluding-a-table-from-db2s-automatic-runstats/
   * SysProc.Auth_List_Groups_For_AuthId
     * DB2/dashDB Security: Implicit Privileges Through Group Membership. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/11/db2-security-implicit-privileges.html
   * SysProc. Env_Get_Hist_Info
     * (Identify the version and level of fixpack of Db2) Conocer la versión y el nivel de parcheo de DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/conocer-la-version-y-el-nivel-de-parcheo-de-db2/
   * SysProc.EvMon_Upgrade_Tables
-    * DB2 Upgrade Detail: Upgrading Event Monitor Tables. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/12/20/db2-upgrade-detail-upgrading-event-monitor-tables/
+    * DB2 Upgrade Detail: Upgrading Event Monitor Tables. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/12/20/db2-upgrade-detail-upgrading-event-monitor-tables/
   * SysProc.Explain_From_Activity
     * Capturing SQL statements and performance metrics for a single application database-connection in DB2. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/04/capturing-sql-statements-and-activities.html
   * SysProc.Get_DbSize_Info
@@ -1612,8 +1612,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
     * The multi-temperature data feature. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders, and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part1-trs/index.html
     * Integration strategies. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part3-trs/index.html
     * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
-    * Comparing dsmtop and db2top. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/03/07/comparing-dsmtop-and-db2top/
-    * DB2 Administrative SQL Cookbook: Generating a Comma Separated List of Columns in a MON_GET Table Function. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/03/30/db2-administrative-sql-cookbook-generating-a-comma-separated-list-of-columns-in-a-mon_get-table-function/
+    * Comparing dsmtop and db2top. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/03/07/comparing-dsmtop-and-db2top/
+    * DB2 Administrative SQL Cookbook: Generating a Comma Separated List of Columns in a MON_GET Table Function. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/03/30/db2-administrative-sql-cookbook-generating-a-comma-separated-list-of-columns-in-a-mon_get-table-function/
   * SysProc.Mon_Get_Activity
     * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html
   * SysProc.Mon_Get_Bufferpool
@@ -1622,10 +1622,10 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * SysProc.Mon_Get_Connection
     * Where a DB Request Spends Time in DB2 9.7? DB2 Diary from Radhesh. Radhesh Kumar. 2010. Blog - http://radheshk.blogspot.com/2010/03/where-db-request-spends-time-in-db2-97.html
   * SysProc.Mon_Get_Database
-    * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
-    * The Role of the DB2 DBA in Load/Performance Testing. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/02/09/the-role-of-the-db2-dba-in-loadperformance-testing/
+    * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+    * The Role of the DB2 DBA in Load/Performance Testing. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/02/09/the-role-of-the-db2-dba-in-loadperformance-testing/
   * SysProc.Mon_Get_Extent_Movement_Status
-    * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://db2commerce.com/2016/07/12/monitoring-extent-movement-progress/
+    * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://datageek.blog/2016/07/12/monitoring-extent-movement-progress/
   * SysProc.Mon_Get_HADR
     * Don't Get Caught Unprepared - Monitor Invalid Tablespaces on your HADR Standby database and Repair Them Efficiently. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/dont-get-caught-unprepared-monitor.html
   * Monitoring the replay-only-window on a Db2 HADR standby database. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/monitoring-replay-only-window-on-db2_28.html
@@ -1640,20 +1640,20 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
     * Usage Lists – Big Brother is watching, but only where he is looking. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/usage-lists-big-brother-is-watching-but-only-where-he-is-looking/
     * DB2 Tips n Tricks Part 38 - Limitation on Monitor Metrics by Dynamic SQL Snapshot. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=MO-UlXkiRoo
     * DB2 Performance Queries: Stolen from Scott hayes and changed to use mon_get_functions. DB2 Knowledge Base Raf. Raf Mathijs. 2015. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2015/03/db2-performance-queries-stolen-from.html
-    * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+    * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
     * Why are there Question Marks in my Db2 Queries?. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/why-are-there-question-marks-in-my-db2-queries/
   * SysProc.Mon_Get_Table
     * DB2 Performance Queries: Stolen from Scott hayes and changed to use mon_get_functions. DB2 Knowledge Base Raf. Raf Mathijs. 2015. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2015/03/db2-performance-queries-stolen-from.html
     * In memory metrics of db2, working with baseline tables. DB2 Knowledge Base Raf. Raf Mathijs. 2015. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2015/03/in-memory-metrics-of-db2-working-with.html
     * Determing whether a reorg could benefit performance without using reorgchk. DB2 Knowledge Base Raf. Raf Mathijs. 2015. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2015/03/determing-whether-reorg-could-benefit.html
     * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
-    * The Role of the DB2 DBA in Load/Performance Testing. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/02/09/the-role-of-the-db2-dba-in-loadperformance-testing/
+    * The Role of the DB2 DBA in Load/Performance Testing. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/02/09/the-role-of-the-db2-dba-in-loadperformance-testing/
   * Finding the access path for Columnar queries #3. db2geek. Mark Gillis. 2018. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-3/
   * SysProc.Mon_Get_Table_Usage_List
     * Usage Lists – Big Brother is watching, but only where he is looking. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/usage-lists-big-brother-is-watching-but-only-where-he-is-looking/
     * Finding the access path for Columnar queries #2. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-2/
   * SysProc.Mon_Get_Tablespace
-    * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://db2commerce.com/2016/07/12/monitoring-extent-movement-progress/
+    * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://datageek.blog/2016/07/12/monitoring-extent-movement-progress/
     * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html
     * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
     * Table in Quiesce Mode. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30324
@@ -1678,11 +1678,11 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
     * DB2 monitoring: Tracing SQL statements by using an activity event monitor. developerWorks. Scott Walkty and Mike Springgay. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1401sqltrace/
     * Capturing SQL statements and performance metrics for a single application database-connection in DB2. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/04/capturing-sql-statements-and-activities.html
 * System tables
-  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
+  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
 * System temporary tablespace
   * Friendship between REORG and Temp Tablespace's. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/friendship-between-reorg-and-temp.html
   * Friendship between REORG and Temp Tablespace's - Part2. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/friendship-between-reorg-systmp-tablepsaces-part2.html
-  * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/29/db2-temporary-table-spaces/
+  * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/29/db2-temporary-table-spaces/
 * SysTools schema
   * DB2 tip: How to know the no. of rows that got affected. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/02/24/db2-tip-how-to-know-the-no-of-rows-that-got-affected/
   * SysTools.Admin_Move_Table
@@ -1728,7 +1728,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
   * Size matters: A handy routine to compute the defined row size of a table. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/getrowsize
   * DB2 10: Multi Temperature Data Management. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/multitempdata
-  * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://db2commerce.com/2016/07/12/monitoring-extent-movement-progress/
+  * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://datageek.blog/2016/07/12/monitoring-extent-movement-progress/
   * Don't be an ORTHODOX DBA. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/dont-be-orthodox-dba.html
   * Storage groups - A comprehensive solution of handling your data. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/storage-groups-comprehensive-solution.html
   * Tablespace backups in a DB2 LUW DPF database. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/09/21/backing-up-tablespaces-in-a-db2-luw-dpf-database/
@@ -1740,7 +1740,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 Table Row (Tuple) Size. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2-row-size/
   * The multi-temperature data feature. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders, and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part1-trs/index.html
   * How to bring tablespace state to offline. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2016/05/12/how-to-bring-tablespace-state-to-offline/
-  * Reclaimable Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/02/21/reclaimable-table-spaces/
+  * Reclaimable Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/02/21/reclaimable-table-spaces/
   * Database Size and Table Sizes. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30319
   * Basic concepts that are useful to design and implement a successful backup strategy in db2. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/09/Basic-concepts-that-are-useful-to-design-and-implement-a-successful-backup-strategy-in-db2.html
   * Monitoring database backup performance in db2. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/10/monitoring-database-backup-performance-db2.html
@@ -1773,11 +1773,11 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 - Queries. Sean's. Sean. 2016. Blog - http://twoseans.blogspot.com.co/2016/06/db2-queries.html
 * Temporary Tablespaces
   * Difference between Online Reorg and Offline Reorg in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/difference-between-online-and-offline-reorg-db2.html
-  * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/29/db2-temporary-table-spaces/
+  * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/29/db2-temporary-table-spaces/
 * TempSpace1
-  * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/29/db2-temporary-table-spaces/
+  * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/29/db2-temporary-table-spaces/
 * Terminator
-  * DB2 Basics: Statement Terminators. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/07/13/db2-basics-statement-terminators/
+  * DB2 Basics: Statement Terminators. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/07/13/db2-basics-statement-terminators/
 * Test
   * Unit test SQL PL routines by using db2unit framework in DB2 LUW. DeveloperWorks. Andres Gomez. 2015. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1501unittest-sql-db2/index.html
 * Text search
@@ -1797,7 +1797,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Fractions of time: A PostgreSQL compatible DATE_PART function. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/date_part
   * Troubleshooting SQL problems in your database. DeveloperWorks. Raghavendra Chiyodu. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-troublshooting-sql-database/index.html
 * Timeron
-  * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Brooks. 2013. Blog - http://db2commerce.com/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
+  * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Brooks. 2013. Blog - http://datageek.blog/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
   * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html
 * Timestamp
   * Migrating from TSQL: The DATEADD function. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/dateadd
@@ -1827,7 +1827,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
   * How to Estimate the duration of a TAKEOVER HADR operation in DB2. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/07/how-to-estimate-duration-of-takeover.html
   * Overview of LOCK ISSUES in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/07/overview-of-lock-issues-in-db2.html
-  * Determining Log Span. db2commerce. Ian Bjorhovde. 2017. Blog - http://db2commerce.com/2017/03/14/determining-log-span/
+  * Determining Log Span. db2commerce. Ian Bjorhovde. 2017. Blog - http://datageek.blog/2017/03/14/determining-log-span/
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
   * Faster rollback processing of very large transactions in Db2 v11.1.3.3. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/faster-rollback-processing-of-very.html
@@ -1847,10 +1847,10 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Log full condition. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/log-full-condition.html
   * DB2 Tips n Tricks Part 100 - How To Save Space in Archive Log File System. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=dmhImiLeYoo
   * Log configuration in HADR environment. Ideas for DB2 (Spanish). Andres Gomez. 2016 - http://angocadb2.blogspot.com.co/2016/12/log-configuration-in-hadr-environment.html
-  * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
+  * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
   * Increase the log capacity online in DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/12/increase-log-capacity-online-in-db2.html
   * How Will Logging Process happen in DB2?. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/01/how-logging-process-will-happen-in-db2.html
-  * Determining Log Span. db2commerce. Ian Bjorhovde. 2017. Blog - http://db2commerce.com/2017/03/14/determining-log-span/
+  * Determining Log Span. db2commerce. Ian Bjorhovde. 2017. Blog - http://datageek.blog/2017/03/14/determining-log-span/
   * How to detect log full condition. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11466
   * Backup incomplete due to logs. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/02/backup-incomplete-due-to-logs.html
   * Space disks for DB2. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/12/space-disks-for-db2.html
@@ -1870,7 +1870,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Trigger
   * Example: Before Trigger who’s checking a new value. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-trigger-with-signal/
   * (Trigger code example of Db2) Código ejemplo trigger en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/ejemplos/codigo-ejemplo-trigger-en-db2/
-  * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
+  * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
 * Troubleshooting
   * Troubleshooting tools for Performance Tuning: Analyzing db2diag log files using db2diag tool. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/05/troubleshooting-tools-for-performance-tuning-db2diag.html
   * How to troubleshoot DB2 lock waits. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/02/how-to-troubleshoot-db2-lock-waits.html
@@ -1898,13 +1898,13 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Client Connections in a TSA/HADR cluster- Part 3. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-3/
   * Client Connections in a TSA/HADR cluster- Part 4. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-4/
   * DB2 TSA RESOURCE GROUPS REMAIN IN LOCK STATE AFTER ENABLED. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/09/13/db2-tsa-resource-groups-remain-in-lock-state-after-enabled/
-  * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/01/18/high-availability-options-for-db2-luw/
-  * RSCT APAR Affecting TSAMP. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/03/29/rsct-apar-affecting-tsamp/
+  * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/01/18/high-availability-options-for-db2-luw/
+  * RSCT APAR Affecting TSAMP. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/03/29/rsct-apar-affecting-tsamp/
   * Using TSA/db2haicu to Automate Failover Part 5: Additional Configuration Best Practices. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/08/16/using-tsa-db2haicu-to-automate-failover-part-5-additional-configuration-best-practices/
 * TSM
   * How to Setup TSM Client with DB2 9.7 for log archiving and backup. Ilker Ender. 2010. Blog - http://ilker-db2.tumblr.com/post/4004300817
   * Cross node DB2 Database recovery from TSM. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/03/17/cross-node-database-recovery-from-tsm/
-  * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
+  * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
   * Restart vendor process for archive logging. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/12/restart-vendor-process-for-archive.html
 * Tutorial
   * DB2 tutorial. Tutorials Point. nd. Tutorial - https://www.tutorialspoint.com/db2/
@@ -1960,12 +1960,12 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Ubuntu
   * Install DB2 via the command line. Leons on Tech. Leons Petrazickis. 2007 - http://www.lpetr.org/blog/archives/install-db2-while-sshing-to-a-linux-server-from-windows
   * DB2 on Ubuntu. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=320
-  * Strange Problem Installing DB2 11.1, Fix/Mod Pack 1 on Ubuntu. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2017/01/06/strange-problem-installing-db2-11-1-fixmod-pack-1-on-ubuntu/
-  * Building a Sandbox VM for DB2. db2commerce. Ember Crooks. 2017. Blog - http://db2commerce.com/2017/01/19/building-a-sandbox-vm-for-db2/
+  * Strange Problem Installing DB2 11.1, Fix/Mod Pack 1 on Ubuntu. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2017/01/06/strange-problem-installing-db2-11-1-fixmod-pack-1-on-ubuntu/
+  * Building a Sandbox VM for DB2. db2commerce. Ember Crooks. 2017. Blog - http://datageek.blog/2017/01/19/building-a-sandbox-vm-for-db2/
   * How to install Db2 11.1 in Ubuntu 18.04. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/05/how-to-install-db2-111-in-ubuntu-1804.html
 * UDF - User Defined Functions
   * Using SQL parameter names and default values, DeveloperWorks. Nick Lawrence, 2015. Article - https://www.ibm.com/developerworks/ibmi/library/i-sql-parameter-name-default-value/index.html
-  * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
+  * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
 * UDT - User Defined Distinct Type
   * Distinctly weak type rules with a constrained twist. DeveloperWorks - SQL Tips for DB2 LUW. Rick Swagerman. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/weak_type?lang=en
 * Uncatalog
@@ -1973,7 +1973,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Uncommitted Read - ur
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * Uncommited rows
-  * Parameter Wednesday: DB2 Registry DB2_EVALUNCOMMITTED. db2commerce. Ember Crooks. 2012. Blog - http://db2commerce.com/2012/06/27/parameter-wednesday-db2-registry-db2_evaluncommitted/
+  * Parameter Wednesday: DB2 Registry DB2_EVALUNCOMMITTED. db2commerce. Ember Crooks. 2012. Blog - http://datageek.blog/2012/06/27/parameter-wednesday-db2-registry-db2_evaluncommitted/
 * Uncommited transactions
   * How to Estimate the duration of a TAKEOVER HADR operation in DB2. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/07/how-to-estimate-duration-of-takeover.html
 * UNICODE
@@ -1993,12 +1993,12 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * db2unit. GitHub. Project - https://github.com/angoca/db2unit
   * Unit test SQL PL routines by using db2unit framework in DB2 LUW. DeveloperWorks. Andres Gomez. 2015. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1501unittest-sql-db2/index.html 
 * Universal Fixpack 
-  * Db2 Basics: Using FTPS to get a Fixpack Directly to a Db2 Server. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/02/01/db2-basics-using-ftps-to-get-a-fixpack-directly-to-a-db2-server/ 
+  * Db2 Basics: Using FTPS to get a Fixpack Directly to a Db2 Server. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/02/01/db2-basics-using-ftps-to-get-a-fixpack-directly-to-a-db2-server/ 
 * Unsupported data types - BLU 
   * Leverage DB2 BLU Acceleration technology for tables involving unsupported data types. DeveloperWorks. Masahiro Ohkawa and Abhishek Chourasia. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507db2-blu-tables/index.html 
 * UOW - Unit Of Work 
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html 
-  * SQL Analysis from Locking Event Monitor Collecting History. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/11/03/sql-analysis-from-locking-event-monitor-collecting-history/ 
+  * SQL Analysis from Locking Event Monitor Collecting History. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/11/03/sql-analysis-from-locking-event-monitor-collecting-history/ 
   * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html 
 * Update 
   * Returning ResultSets From Delete , Update Queries using data-change-table-reference expressions. db2 tips by an IBMer. Ilker Ender. 2009. Blog - http://ilker-db2.tumblr.com/post/258702315
@@ -2010,7 +2010,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Using UNICODE characters, no matter the encoding of the script in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/using-unicode-characters-no-matter.html
   * Massive UPDATE from values in a file. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/10/masive-update-from-values-in-file.html
 * Upgrade 
-  * DB2 Upgrade Detail: Upgrading Event Monitor Tables. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/12/20/db2-upgrade-detail-upgrading-event-monitor-tables/ 
+  * DB2 Upgrade Detail: Upgrading Event Monitor Tables. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/12/20/db2-upgrade-detail-upgrading-event-monitor-tables/ 
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/ 
   * We’re Risk Averse. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/were-risk-averse/ 
 * Upper case 
@@ -2028,15 +2028,15 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * Nfs4: Setting up DB2 for UNIX and Linux on NFS4 mounted file systems. db2 tips by an IBMer. Ilker Ender. 2010. Blog - http://ilker-db2.tumblr.com/post/521324056
   * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html 
-  * Db2 Basics: Investigating Permissions in an Existing Database. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/ 
+  * Db2 Basics: Investigating Permissions in an Existing Database. db2commerce. Ember Brooks. 2018. Blog - http://datageek.blog/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/ 
 * User mapping (federation) 
   * Mom, I joined the cloud! (or: Use old stuff with new stuff - DB2 federation). Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/03/mom-i-joined-cloud-or-use-old-stuff.html 
 * User temporary tablespace 
-  * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/29/db2-temporary-table-spaces/ 
+  * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/29/db2-temporary-table-spaces/ 
 * Userexit 
-  * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/ 
+  * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/ 
 * userprofile 
-  * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/08/22/db2-basics-levels-of-configuration/ 
+  * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/22/db2-basics-levels-of-configuration/ 
 * UTF-8 
   * Using UNICODE characters, no matter the encoding of the script in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/using-unicode-characters-no-matter.html 
 * Util_Heap_Sz 
@@ -2050,7 +2050,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * (Session priority in Db2) Prioridad de sesiones en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/prioridad-de-sesiones-en-db2/ 
 * Utility heap 
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html 
-  * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/12/07/the-self-tuning-memory-manager-stmm/ 
+  * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/12/07/the-self-tuning-memory-manager-stmm/ 
 * Utilities 
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html 
   * (ADM6044E error during a tablespace rebalancing after adding a container) Error ADM6044E durante rebalanceo en un tablespaces después de añadir un container. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/errores/error-adm6044e-durante-rebalanceo-en-un-tablespaces-despues-de-anadir-un-container/ 
@@ -2080,12 +2080,12 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Distinctly weak type rules with a constrained twist. DeveloperWorks - SQL Tips for DB2 LUW. Rick Swagerman. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/weak_type?lang=en 
   * Using SQL parameter names and default values, DeveloperWorks. Nick Lawrence, 2015. Article - https://www.ibm.com/developerworks/ibmi/library/i-sql-parameter-name-default-value/index.html 
 * Vendor 
-  * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/ 
+  * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/ 
   * Restart vendor process for archive logging. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/12/restart-vendor-process-for-archive.html 
 * VendorOpt 
-  * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/ 
+  * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/ 
 * Vendor Certification 
-  * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/07/28/db2-basics-patching-db2/ 
+  * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/07/28/db2-basics-patching-db2/ 
 * Version 
   * (Identify the version and level of fixpack of Db2) Conocer la versión y el nivel de parcheo de DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/conocer-la-version-y-el-nivel-de-parcheo-de-db2/ 
   * (History of Db2 versions) Historial de versiones de DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/administracion/historial/ 
@@ -2113,13 +2113,13 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Virtualization 
   * Best Practices - Improving Data Server Utilization and Management through Virtualization. IBM. Sunil Kamath, Punit Shah, Basker Shanmugam, Rimas P. Kalesnykas. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_Virtualization_0508I.pdf 
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html 
-  * Licensing Your Database Software on Virtual Platforms. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/10/04/licensing-your-database-software-on-virtual-platforms/ 
+  * Licensing Your Database Software on Virtual Platforms. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/10/04/licensing-your-database-software-on-virtual-platforms/ 
 * VisualStudio 
   * Using IBM Database Add-ins for Visual Studio 2013 in DB2 Cancun (10.5 Fix Pack 4). DeveloperWorks. Rajendra Kamath, Malarvizhi Kaliyakrishnan, and Archana Soni. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507addins-db2cancun/index.html 
 * Volatile tables 
-  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/09/27/embers-best-practices-for-runstats-and-reorgs/ 
+  * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/27/embers-best-practices-for-runstats-and-reorgs/ 
 * VPC 
-  * Licensing Your Database Software on Virtual Platforms. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/10/04/licensing-your-database-software-on-virtual-platforms/ 
+  * Licensing Your Database Software on Virtual Platforms. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/10/04/licensing-your-database-software-on-virtual-platforms/ 
  
 # W 
  
@@ -2150,8 +2150,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * pureXML. Wikipedia. Wiki - https://en.wikipedia.org/wiki/PureXML 
 * Windows 
   * PkgCache #28: Easier to use when drunk. The Whole Package Cache. Ian Bjorhovde, Fred Sobotka. 2016. Podcast - http://www.pkgcache.com/28/ 
-  * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2016/08/30/powershell-script-for-local-db2-database-activation/ 
-  * db2setup on Windows – Repair Option. db2commerce. Ember Brooks. 2016. Blog - http://db2commerce.com/2017/04/04/db2setup-on-windows-repair-option/ 
+  * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/08/30/powershell-script-for-local-db2-database-activation/ 
+  * db2setup on Windows – Repair Option. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2017/04/04/db2setup-on-windows-repair-option/ 
   * Hello, Db2 World! PowerShell. DataGeek.blog. Ember Brooks. 2018. Blog - https://datageek.blog/2018/08/09/hello-db2-world-powershell/ 
 * Wire Listener 
   * Using the IBM NoSQL Wire Listener for DB2. DeveolperWorks. Ioannis Papapanagiotou, Marion Behnen, John Paul Parkin, and Jyh-Chen Fang. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson4/index.html 
@@ -2161,7 +2161,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Configure parameters for IBM Data Server Driver for JDBC and SQLJ against HADR for DB2 pureScale. DeveloperWorks. Sujan Ghosh and Vinayak Joshi. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1509hadr-purescale/index.html 
 * WLM - Workload Manager 
   * Automatic Workload Management with BLU Acceleration. IT Toolbox. Chris Eaton. 2014. Blog - https://it.toolbox.com/blogs/ceaton55/automatic-workload-management-with-blu-acceleration-031114 
-  * Querying Tables for an Activity Event Monitor. db2commerce. Ember Brooks. 2014. Blog - http://db2commerce.com/2014/10/14/querying-tables-for-an-activity-event-monitor/ 
+  * Querying Tables for an Activity Event Monitor. db2commerce. Ember Brooks. 2014. Blog - http://datageek.blog/2014/10/14/querying-tables-for-an-activity-event-monitor/ 
   * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html 
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html 
   * Transitioning from Query Patroller historical tables to WLM & Event Monitors in DB2 LUW. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/06/transitioning-from-query-patroller.html 
@@ -2175,7 +2175,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Transitioning from Query Patroller historical tables to WLM & Event Monitors in DB2 LUW. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/06/transitioning-from-query-patroller.html 
 * Workload 
   * db2top Tables Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-2.html 
-  * SQL Analysis from Locking Event Monitor Collecting History. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/11/03/sql-analysis-from-locking-event-monitor-collecting-history/ 
+  * SQL Analysis from Locking Event Monitor Collecting History. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/11/03/sql-analysis-from-locking-event-monitor-collecting-history/ 
 * Workload analyses 
   * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487 
 * Workload Balancing - WLB 
@@ -2219,7 +2219,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Best Practices - Managing XML Data. IBM. Matthias Nicola, Susanne Englert. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_XML_0508I.pdf 
   * Performance differences between upper-case (XQuery) and UPPER scalar function. db2geek. Mark Gillisr. 2018. Blog - http://db2geek.triton.co.uk/performance-differences-upper-case-xquery-upper-scalar-function/ 
 * XML Policy file 
-  * Excluding a Table from Db2’s Automatic Runstats. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/09/05/excluding-a-table-from-db2s-automatic-runstats/ 
+  * Excluding a Table from Db2’s Automatic Runstats. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/09/05/excluding-a-table-from-db2s-automatic-runstats/ 
 * xmlagg 
   * SQL Tips & Techniques- String Aggregation(Contd.) DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/02/sql-tips-techniques-string.html 
 * xQuery 
@@ -2245,8 +2245,8 @@ https://ibm.box.com/v/DB2v11eBook
   * Now available: DB2 Version 11 for Linux, UNIX, and Windows. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/06/now-available-db2-version-11-for-linux.html 
   * The DB2Night Show #187: FREE Resources to help you succeed with DB2 LUW V11. The DB2Night Show. George Baklarz. 2016. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=713, PDF - http://www.dbisoftware.com/db2nightshow/20161209DB2Night187.pdf 
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/ 
-  * Strange Problem Installing DB2 11.1, Fix/Mod Pack 1 on Ubuntu. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2017/01/06/strange-problem-installing-db2-11-1-fixmod-pack-1-on-ubuntu/ 
-  * IBM’s June Announcements About DB2. db2commerce. Ember Brooks. 2017. Blog - http://db2commerce.com/2017/06/23/ibms-june-announcements-about-db2/ 
+  * Strange Problem Installing DB2 11.1, Fix/Mod Pack 1 on Ubuntu. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2017/01/06/strange-problem-installing-db2-11-1-fixmod-pack-1-on-ubuntu/ 
+  * IBM’s June Announcements About DB2. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/06/23/ibms-june-announcements-about-db2/ 
   * 2017: A year for DB2 11.1. db2geek. Iqbal Goralwalla. 2017. Blog - http://db2geek.triton.co.uk/2017-year-db2-11-1/ 
   * The db2support Problem with Db2 11.1, Fix Pack 3 (LUW). Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/07/the-db2support-problem-with-db2-11-1-fix-pack-3-luw/ 
  
