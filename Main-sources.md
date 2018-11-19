@@ -64,10 +64,10 @@ These blogs are not longer updated 😞
 * Muthukris Bala - DB2 Forum. https://db2forum.wordpress.com/ http://db2forum.blogspot.com
   * All articles (2011 - Complete).
   * Most of the articles are plagiarism from DeveloperWorks.
-* Radhesh Kumar - DB2 Diary from Radhesh. http://radheshk.blogspot.com/
-  * All articles (Between 2007 and 2010 - Complete).
 * Oscar Paredes - DB2 Util. http://www.db2util.es/
   * All articles (Between 2010 and 2014 - Complete).
+* Radhesh Kumar - DB2 Diary from Radhesh. http://radheshk.blogspot.com/
+  * All articles (Between 2007 and 2010 - Complete).
 * TeknoMagus. https://technomagus.wordpress.com
   * All articles related to Db2 (Between 2010 and 2013 - Complete).
 * Joachims Tuchel - Joachims Small World. https://joachimtuchel.wordpress.com
@@ -84,6 +84,8 @@ These blogs are not longer updated 😞
   * All articles (2009 - Complete).
 * db2udbadm. http://db2udbadm.blogspot.com/
   * All articles (2009 - Complete).
+* Leon Katsnelson, Antonio Cangiano - Db2 on Rails. https://web.archive.org/web/20110202083426/http://db2onrails.com
+  * All articles related to Db2 (Between 2007 and 2009 - Complete).
 * Reynaldo Mola - db2Gdba. https://www.db2gdba.com/articles-tips/
   * All two articles.
 
@@ -127,5 +129,4 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * http://web.archive.org/web/20131121212809/http://kawases.wikispaces.com:80/IBM+Optim+Development+Studio  (Algunas entradas estan disponibles en archive.org)
 * http://web.archive.org/web/20131121222857/http://kawases.wikispaces.com:80/IBM+DB2+Database+for+Linux%2C+UNIX%2C+and+Windows (Algunas entradas estan disponibles en archive.org) 
 * https://www1.atwiki.jp/kawases/ (Antiguos articulos de apricot life)
-* https://web.archive.org/web/20110202083426/http://db2onrails.com
 * http://db2.jugem.cc/
