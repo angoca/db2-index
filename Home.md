@@ -763,6 +763,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Lock events for DB2 for Linux, UNIX, and Windows, Part 2: New options for analyzing lock timeouts in DB2 9.5. DeveloperWorks. Dirk Fechner. 2008. Article  - http://www.ibm.com/developerworks/data/library/techarticle/dm-0804fechner/index.html
 * DB2_COMPATIBILITY_VECTOR
   * (Compatibility of Db2 with Oracle: DB2 9.7 CLP PLUS (1/2)) Compatibilidad de DB2 con ORACLE: DB2 9.7 CLP PLUS (1/2). DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/compatibilidad-de-db2-con-oracle-db2-9-7-clp-plus-12/
+  * Enabling LIMIT and OFFSET in DB2 9.7.2. DB2 on Rails. Antonio Cangiano. 2010. Blog - https://web.archive.org/web/20100612235701/http://antoniocangiano.com:80/2010/06/02/enabling-limit-and-offset-in-db2-9-7-2
 * DB2_DDL_SOFT_INVAL
   * Find a list of views marked inoperative. Leons on Tech. Leons Petrazickis. 2010 - http://www.lpetr.org/blog/archives/find-a-list-of-views-marked-inoperative
 * db2_deinstall
@@ -2184,6 +2185,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Going from DB2 Enterprise to Express-C. Leons on Tech. Leons Petrazickis. 2010 - http://www.lpetr.org/blog/archives/going-from-db2-enterprise-to-db2-express-c
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * DB2 pureScale – No Product License found. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11476
+* Limit (MySQL)
+  * Enabling LIMIT and OFFSET in DB2 9.7.2. DB2 on Rails. Antonio Cangiano. 2010. Blog - https://web.archive.org/web/20100612235701/http://antoniocangiano.com:80/2010/06/02/enabling-limit-and-offset-in-db2-9-7-2
 * Limits
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
 * Linux
