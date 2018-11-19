@@ -592,6 +592,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Query
   * Best Practices - Writing and Tuning Queries for Optimal Performance. IBM. John Hornibrook, Nina Kolunovsky. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_Query_Tuning_0508I.pdf
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
+  * Get Long Running SQL using SYSIBM Administrative Views. db2 tips by an IBMer. Ilker Ender. 2010. Blog - http://ilker-db2.tumblr.com/post/3585748498
   * DB2 - Queries. Sean's. Sean. 2016. Blog - http://twoseans.blogspot.com.co/2016/06/db2-queries.html
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
@@ -1018,6 +1019,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * RESULT SETS in DB2 Stored Procedures. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/result-sets/
   * SELECT INTO statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/select-into/
   * Where a DB Request Spends Time in DB2 9.7? DB2 Diary from Radhesh. Radhesh Kumar. 2010. Blog - http://radheshk.blogspot.com/2010/03/where-db-request-spends-time-in-db2-97.html
+  * Randomly select rows from a table. db2 tips by an IBMer. Ilker Ender. 2010. Blog - http://ilker-db2.tumblr.com/post/863064129
   * Seven SQL Performance-Killers to Avoid in Db2. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/seven-sql-performance-killers-avoid-db2/
   * Dealing with dates and formats. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/dealing-with-dates-and-formats.html
 * Selectivity
@@ -1039,6 +1041,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Mom, I joined the cloud! (or: Use old stuff with new stuff - DB2 federation). Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/03/mom-i-joined-cloud-or-use-old-stuff.html
   * HOW TO SETUP FEDERATION BETWEEN TWO DB2 LUW DATABASES. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/how-to-setup-federation-between-two-db2-luw-databases/
 * Services - /etc/services
+  * Nfs4: Setting up DB2 for UNIX and Linux on NFS4 mounted file systems. db2 tips by an IBMer. Ilker Ender. 2010. Blog - http://ilker-db2.tumblr.com/post/521324056
   * (How to identify the Db2 connection port) Cómo conocer el puerto de conexión de DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/como-conocer-el-puerto-de-conexion-de-db2/
   * SQL6030N START or STOP DATABASE MANAGER failed. Reason code “38”. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/488
 * Session
@@ -1367,6 +1370,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
 * Storage
   * db2top Tables Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-1.html
+  * Nfs4: Setting up DB2 for UNIX and Linux on NFS4 mounted file systems. db2 tips by an IBMer. Ilker Ender. 2010. Blog - http://ilker-db2.tumblr.com/post/521324056
   * DB2 10: Multi Temperature Data Management. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/multitempdata
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
 * Storage groups
@@ -1504,6 +1508,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * SysIBMAdm.Log_Utilization
     * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
   * SysIBMAdm.Long_Running_SQL
+    * Get Long Running SQL using SYSIBM Administrative Views. db2 tips by an IBMer. Ilker Ender. 2010. Blog - http://ilker-db2.tumblr.com/post/3585748498
     * Why are there Question Marks in my Db2 Queries?. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/why-are-there-question-marks-in-my-db2-queries/
   * SysIBMAdm.Mon_DB_Summary
     * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
@@ -1680,6 +1685,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 
 * Table
   * Size matters: A handy routine to compute the defined row size of a table. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/getrowsize
+* Table expression
+  * Returning ResultSets From Delete , Update Queries using data-change-table-reference expressions. db2 tips by an IBMer. Ilker Ender. 2009. Blog - http://ilker-db2.tumblr.com/post/258702315
 * Table function
   * In the PIPE: Compiled SQL PL and PL/SQL Table Functions. DeveloperWorks - SQL Tips for DB2 LUW. Rick Swagerman. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/in_the_pipe
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
@@ -1796,6 +1803,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * TPC-c - Transaction Processing Performance Council
   * BenchmarkSQL for Db2. GitHub. Andres Gomez. Project - https://github.com/angoca/BenchmarkSQL
 * Trace
+  * Tracing DB2 JDBC Applications. db2 tips by an IBMer. Ilker Ender. 2009. Blog - http://ilker-db2.tumblr.com/post/285098205
   * DB2 Basics: An introduction to the DB2 UDB trace facility. DeveloperWorks. Roman Melnyk. 2014. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0409melnyk/
   * SQL procedure tracing. DeveloperWorks. Serge Rielau. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0409rielau/
 * Transaction
@@ -1882,6 +1890,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * RSCT APAR Affecting TSAMP. db2commerce. Ember Crooks. 2018. Blog - http://db2commerce.com/2018/03/29/rsct-apar-affecting-tsamp/
   * Using TSA/db2haicu to Automate Failover Part 5: Additional Configuration Best Practices. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/08/16/using-tsa-db2haicu-to-automate-failover-part-5-additional-configuration-best-practices/
 * TSM
+  * How to Setup TSM Client with DB2 9.7 for log archiving and backup. Ilker Ender. 2010. Blog - http://ilker-db2.tumblr.com/post/4004300817
   * Cross node DB2 Database recovery from TSM. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/03/17/cross-node-database-recovery-from-tsm/
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
   * Restart vendor process for archive logging. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/12/restart-vendor-process-for-archive.html
@@ -1980,6 +1989,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * SQL Analysis from Locking Event Monitor Collecting History. db2commerce. Ember Crooks. 2016. Blog - http://db2commerce.com/2016/11/03/sql-analysis-from-locking-event-monitor-collecting-history/ 
   * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html 
 * Update 
+  * Returning ResultSets From Delete , Update Queries using data-change-table-reference expressions. db2 tips by an IBMer. Ilker Ender. 2009. Blog - http://ilker-db2.tumblr.com/post/258702315
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html 
   * Returning inserted rows (and updated and deleted). DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/select_from_insert 
   * Replace (Update/Insert) a row into DB2 table – Merge into. With Data. Shiji Pan. 2013. Blog - https://www.withdata.com/blog/db2/replace-update-or-insert-a-row-into-db2-table-merge-into.html 
@@ -2003,7 +2013,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Finding the access path for Columnar queries #2. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-2/ 
 * User 
   * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html 
-  * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html 
+  * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
+  * Nfs4: Setting up DB2 for UNIX and Linux on NFS4 mounted file systems. db2 tips by an IBMer. Ilker Ender. 2010. Blog - http://ilker-db2.tumblr.com/post/521324056
   * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html 
   * Db2 Basics: Investigating Permissions in an Existing Database. db2commerce. Ember Brooks. 2018. Blog - http://db2commerce.com/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/ 
 * User mapping (federation) 
