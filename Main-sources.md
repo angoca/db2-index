@@ -48,26 +48,24 @@ These blogs are not longer updated 😞
   * All articles related to Db2 (Between 201211 to 201306)
   * Older article should be indexed.
 * Michael Spoden - SQL PL Guide (Programming reference 🔡 ). http://www.sqlpl-guide.com/
-  * All sections (some articles were excluded because they do not contain any information)
+  * All sections (Some articles were excluded because they do not contain any information - Complete)
 * Ian Bjorhovde - Create Database podcast (Podcast about DB2 persons 🔉 ). http://createdatabase.fm
   * All podcast (Between 2016 and 2017 - Complete).
 * Fred Sobotka and Ian Bjorhovde - The Whole Package Cache (Podcasts about DB2 world 🎤 ). http://www.pkgcache.com/
   * All podcast (Between 2013 and 2017 - Complete).
 * Bansari Prajapati - Remote DB Support. https://dbthread.wordpress.com/
-  * All articles (Between 201707 - 201709 - Complete).
+  * All articles (2017 - Complete).
 * Pavan Kristipati - db2talk (Blog of technical content). https://db2talk.wordpress.com/
   * All articles (Between 2014 and 2016 - Complete)
 * Manohar Viswanatha - A Day in DBA's life. http://mviswa.blogspot.com/
   * All articles (Between 2012 and 2016 - Complete)
 * Raf Mathijs - DB2 Knowledge Base Raf (Blog about technical stuff). http://db2-luw-knowledgebase.blogspot.com/
   * All articles (Between 2013 and 2015 - Complete).
-* Muthukris Bala - DB2 Forum. https://db2forum.wordpress.com/ http://db2forum.blogspot.com
-  * All articles (2011 - Complete).
+* Saurabh Agrawal - Ride On Data. http://www.rideondata.com/
+  * All articles (2015 - Complete)
   * Most of the articles are plagiarism from DeveloperWorks.
 * Oscar Paredes - DB2 Util. http://www.db2util.es/
   * All articles (Between 2010 and 2014 - Complete).
-* Radhesh Kumar - DB2 Diary from Radhesh. http://radheshk.blogspot.com/
-  * All articles (Between 2007 and 2010 - Complete).
 * TeknoMagus. https://technomagus.wordpress.com
   * All articles related to Db2 (Between 2010 and 2013 - Complete).
 * Joachims Tuchel - Joachims Small World. https://joachimtuchel.wordpress.com
@@ -76,6 +74,10 @@ These blogs are not longer updated 😞
   * All articles related to Db2 (Between 2009 and 2013 - Complete).
 * Raju Pillai - techs@work. http://techsatwork.com/blog/?tag=db2
   * All articles related to Db2 (Between 2009 and 2012 - Complete).
+* Muthukris Bala - DB2 Forum. https://db2forum.wordpress.com/ http://db2forum.blogspot.com
+  * All articles (2011 - Complete).
+* Radhesh Kumar - DB2 Diary from Radhesh. http://radheshk.blogspot.com/
+  * All articles (Between 2007 and 2010 - Complete).
 * Keith McDonald - The K guy (Blog about db2top and some SQL PL). http://www.thekguy.com
   * All articles related to Db2 (Between 2009 and 2010 - Complete).
 * Ilker Ender - db2 tips by an IBMer. http://ilker-db2.tumblr.com/
@@ -130,5 +132,4 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * http://web.archive.org/web/20131121222857/http://kawases.wikispaces.com:80/IBM+DB2+Database+for+Linux%2C+UNIX%2C+and+Windows (Algunas entradas estan disponibles en archive.org) 
 * https://www1.atwiki.jp/kawases/ (Antiguos articulos de apricot life)
 * http://db2.jugem.cc/
-* http://www.rideondata.com/
 https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=d4334e67-3b43-4d33-bf32-22a73685871c
