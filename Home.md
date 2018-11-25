@@ -287,6 +287,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Best Practices - Improving Data Server Utilization and Management through Virtualization. IBM. Sunil Kamath, Punit Shah, Basker Shanmugam, Rimas P. Kalesnykas. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_Virtualization_0508I.pdf
   * Best Practices - Frequently Asked Questions from Problem Management Reports. IBM. Saurabh Jain, Vikram Murali, Mark Wilding. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_PMRFAQ_0508I.pdf
   * DB2 for Linux, UNIX, and Windows Best Practices. DeveloperWorks. Wiki - https://ibm.biz/Bdx2ew
+  * Well, Performance Engineering for Databases. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/02/well-performance-engineering-for.html
   * Best Practice. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/best-practice/
 * Big SQL
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
@@ -529,6 +530,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Compound statements. SQL-PL guide. Michael Spoden. 2013. Documentation - http://www.sqlpl-guide.com/compound-statements/
   * Compound statement. IBM. Documentation - http://www-01.ibm.com/support/knowledgecenter/SSEPGG_10.5.0/com.ibm.db2.luw.apdv.sqlpl.doc/doc/c0053781.html?lang=en
 * Concurrency
+  * Well, Performance Engineering for Databases. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/02/well-performance-engineering-for.html
   * Parameter Wednesday: DB2 Registry DB2_EVALUNCOMMITTED. db2commerce. Ember Crooks. 2012. Blog - http://datageek.blog/2012/06/27/parameter-wednesday-db2-registry-db2_evaluncommitted/
 * Condition
   * Condition handling. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/condition-handling/
@@ -1383,6 +1385,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Describe data partitions
   * DB2 Partitioned Tables - Life made easy - Part 1. A Day in DBA's life. Manohar Viswanatha. 2013. Blog - https://mviswa.blogspot.com/2013/12/db2-partitioned-tables-life-made-easy.html
 * Design
+  * Well, Performance Engineering for Databases. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/02/well-performance-engineering-for.html
   * Size matters: A handy routine to compute the defined row size of a table. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/getrowsize
   * Char Vs. Varchar in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/char-vs-varchar-in-db2.html
 * Deterministic
@@ -1701,6 +1704,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Cursors. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/cursor/
   * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html
   * (Top rows in Db2) TOP registros en DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/trucos/top-registros-en-db2/
+  * Stuck with a packaged app???. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/02/stuck-with-packaged-app.html
   * The DB2 equivalent for the MySQL Limit. With Data. Shiji Pan. 2013. Blog - https://www.withdata.com/blog/db2/the-db2-equivalent-for-the-mysql-limit.html
 * File
   * Writing to a file from a Stored Procedure or Annonymous Block (sql pl). Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/writing-in-file-from-stored-procedure.html
