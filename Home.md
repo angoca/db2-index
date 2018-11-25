@@ -75,6 +75,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Allocate
   * ALLOCATE CURSOR statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/allocate-cursor/
   * Example: How much reorganisations are recommended on a specific schema. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-reorgchk/
+* Alter server
+  * Federated Database Performance (Part-2). Ride On Data. Saurabh Agrawal. 2015. Blog - https://rideondata.wordpress.com/2015/05/31/federated-database-performance-part-2/
 * Alter table
   * DB2 Partitioned Tables - Life made easy - Part 2. A Day in DBA's life. Manohar Viswanatha. 2013. Blog - https://mviswa.blogspot.com/2013/12/db2-partitioned-tables-life-made-easy_14.html
   * DB2 Partitioned Tables - Life made easy - Part 3. A Day in DBA's life. Manohar Viswanatha. 2013. Blog - https://mviswa.blogspot.com/2013/12/db2-partitioned-tables-life-made-easy_23.html
@@ -368,6 +370,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * db2top Bufferpools Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-1.html
   * db2top Bufferpools Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-2.html
   * (Cache hit ratio in Db2) Ratio Hit Cache en DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/tuning/ratio-hit-cache-en-db2/
+  * Federated Database Performance (Part-1). Ride On Data. Saurabh Agrawal. 2015. Blog - https://rideondata.wordpress.com/2015/05/31/federated-database-performance-part-1/
   * DB2 Performance Myth Buster 2 - How Increasing Bufferpool Size will not increase LOAD Performance. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=spTrT6-U5Qk
   * DB2 Table Row (Tuple) Size. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2-row-size/
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
@@ -609,6 +612,10 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
 * Create database partition
   * Quick primer on DB2 Tables and Tablespaces in a multi-partitioned (DPF) database. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/09/03/quick-primer-on-db2-tables-and-tablespaces-in-a-multi-partitioned-dpf-database/
+* Create Function
+  * Federated Database Performance (Part-2). Ride On Data. Saurabh Agrawal. 2015. Blog - https://rideondata.wordpress.com/2015/05/31/federated-database-performance-part-2/
+* Create server
+  * Federated Database Performance (Part-2). Ride On Data. Saurabh Agrawal. 2015. Blog - https://rideondata.wordpress.com/2015/05/31/federated-database-performance-part-2/
 * Create stogroup
   * Storage groups - A comprehensive solution of handling your data. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/storage-groups-comprehensive-solution.html
 * Create table
@@ -798,6 +805,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Crooks. 2013. Blog - http://datageek.blog/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
 * DB2_RESTORE_GRANT_ADMIN_AUTHORITIES
   * DB2 Tips n Tricks Part 41 - How to get Admin Authorities on a Restored Database. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=IPM15F23VYA
+  * Working with DB2 Database Grants. Ride On Data. Saurabh Agrawal. 2015. Blog - https://rideondata.wordpress.com/2015/06/07/working-with-db2-database-grants/
 * DB2_SELECTIVITY
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
 * DB2_USE_ALTERNATE_PAGE_CLEANING
@@ -818,6 +826,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Tips on Using db2advis with Multiple Queries db2commerce. Ember Brooks. 2013. Blog - http://datageek.blog/2013/06/25/tips-on-using-db2advis-with-multiple-queries/
   * Perform LOB inlining in an HADR environment for a standby database. DeveloperWorks. Somraj Chakrabarty and Suvradeep Sensarma. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1508lob-hadr-standby/index.html
   * Solve IBM BPM performance issues with IBM DB2 examples. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz2-trs/1509_volz2.html
+  * Federated Database Performance (Part-1). Ride On Data. Saurabh Agrawal. 2015. Blog - https://rideondata.wordpress.com/2015/05/31/federated-database-performance-part-1/
   * SQL Analysis from Locking Event Monitor Collecting History. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/11/03/sql-analysis-from-locking-event-monitor-collecting-history/
   * Establishing a performance tuning strategy. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/establishing-performance-tuning-strategy.html
   * Query Performance Analysis. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/09/19/query-performance-analysis/
@@ -1389,8 +1398,12 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Device Read Rate
   * The multi-temperature data feature. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders, and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part1-trs/index.html
+* DFT_MTTB_TYPES
+  * Federated Database Performance (Part-1). Ride On Data. Saurabh Agrawal. 2015. Blog - https://rideondata.wordpress.com/2015/05/31/federated-database-performance-part-1/
 * DFT_QUERYOPT
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Crooks. 2013. Blog - http://datageek.blog/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
+* DFT_REFRESH_AGE
+  * Federated Database Performance (Part-1). Ride On Data. Saurabh Agrawal. 2015. Blog - https://rideondata.wordpress.com/2015/05/31/federated-database-performance-part-1/
 * DftDBPath
   * Creating a DB2 LUW (Linux, Unix and Windows) Sandbox database. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/09/08/creating-a-db2-luw-linux-unix-and-windows-sandbox-database/
   * Default directory for DB creations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/default-directory-for-db-creations.html
@@ -1672,6 +1685,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * db2top Federation Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-federation-screen.html
   * IBM federated database technology. DeveloperWorks. Eileen Lin and Laura Haas. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/0203haas/0203haas.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
+  * Federated Database Performance (Part-1). Ride On Data. Saurabh Agrawal. 2015. Blog - https://rideondata.wordpress.com/2015/05/31/federated-database-performance-part-1/
+  * Federated Database Performance (Part-2). Ride On Data. Saurabh Agrawal. 2015. Blog - https://rideondata.wordpress.com/2015/05/31/federated-database-performance-part-2/
   * Mom, I joined the cloud! (or: Use old stuff with new stuff - DB2 federation). Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/03/mom-i-joined-cloud-or-use-old-stuff.html
   * HOW TO SETUP FEDERATION BETWEEN TWO DB2 LUW DATABASES. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/how-to-setup-federation-between-two-db2-luw-databases/
 * Fenced
@@ -1767,6 +1782,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DROP MODULE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/drop-module/
   * Fractions of time: A PostgreSQL compatible DATE_PART function. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/date_part
   * Using SQL parameter names and default values, DeveloperWorks. Nick Lawrence, 2015. Article - https://www.ibm.com/developerworks/ibmi/library/i-sql-parameter-name-default-value/index.html
+  * Federated Database Performance (Part-2). Ride On Data. Saurabh Agrawal. 2015. Blog - https://rideondata.wordpress.com/2015/05/31/federated-database-performance-part-2/
   * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
   * Seven SQL Performance-Killers to Avoid in Db2. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/seven-sql-performance-killers-avoid-db2/
@@ -1779,9 +1795,10 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Spatial Analytics with Db2 Warehouse. DeveloperWorks. Deepak Rangarao. 2018. Article - https://www.ibm.com/developerworks/library/bd-spatial-analytics-db2warehouse-mapbox/index.html
 * Get Authorizations
   * Security. DeveloperWorks. Graham G. Milne. 2006. Article - https://www.ibm.com/developerworks/data/tutorials/db2-cert7302/db2-cert7302.html
-* Get diagnostic
+* Get diagnostics
   * GET DIAGNOSTICS statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/get-diagnostics/
   * RETURN statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/return/
+  * Manipulating bulk data using simple Stored Procedures. Ride On Data. Saurabh Agrawal. 2015. Blog - https://rideondata.wordpress.com/2015/05/31/manipulating-bulk-data-using-simple-stored-procedures/
 * Get_DbSize_Info
   * Please check the SysProc.Get_DbSize_Info entry.
 * global.reg
@@ -1802,6 +1819,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Grant
   * DB2 WSE 9.7 - General Errors. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-error.html
   * DB2 security, Part 8: Twelve DB2 security best practices. DeveloperWorks. Ted J. Wasserman. 2006. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0607wasserman/index.html
+  * Working with DB2 Database Grants. Ride On Data. Saurabh Agrawal. 2015. Blog - https://rideondata.wordpress.com/2015/06/07/working-with-db2-database-grants/
   * Get all grants and permissions for a given user. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/get-all-grants-and-permissions-for.html
 * Group
   * Database Roles. DB2 Diary from Radhesh. Radhesh Kumar. 2007. Blog - http://radheshk.blogspot.com/2007/12/database-roles.html
@@ -1981,7 +1999,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Index Cardinality in a DB2 multi-partitioned (DPF) database. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/04/28/index-cardinality-in-a-db2-multi-partitioned-dpf-database/
   * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487
   * When Index Scans Attack! db2commerce. Ember Crooks. 2014. Blog - http://datageek.blog/2014/08/05/when-index-scans-attack/?utm_source=rss&utm_medium=rss&utm_campaign=when-index-scans-attack
-    * DB2 10.5 — Catalog data for Expression-Based Indexes. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/08/12/db2-10-5-catalog-data-for-expression-based-indexes/
+  * Federated Database Performance (Part-1). Ride On Data. Saurabh Agrawal. 2015. Blog - https://rideondata.wordpress.com/2015/05/31/federated-database-performance-part-1/
+  * DB2 10.5 — Catalog data for Expression-Based Indexes. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/08/12/db2-10-5-catalog-data-for-expression-based-indexes/
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
   * IBM DB2 and SAP - A marriage made in heaven? Or Not? DBI blog. Martin Hubel. 2016. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=715
   * Establishing a performance tuning strategy. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/establishing-performance-tuning-strategy.html
@@ -2051,6 +2070,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Instance
   * How to Recreate DB2 Instance. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/01/how-to-recreate-db2-instance.html
   * Security. DeveloperWorks. Graham G. Milne. 2006. Article - https://www.ibm.com/developerworks/data/tutorials/db2-cert7302/db2-cert7302.html
+  * Working with DB2 Database Grants. Ride On Data. Saurabh Agrawal. 2015. Blog - https://rideondata.wordpress.com/2015/06/07/working-with-db2-database-grants/
   * How to replicate instance configuration parameters in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-replicate-instance-configurations-db2.html
   * Step by Step installation of DB2 V10.5 on Linux. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/04/step-by-step-installation-of-db2-v105-Linux.html
   * Database Up Time. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30323
