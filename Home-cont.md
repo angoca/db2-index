@@ -414,13 +414,15 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Best Practices - Writing and Tuning Queries for Optimal Performance. IBM. John Hornibrook, Nina Kolunovsky. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_Query_Tuning_0508I.pdf
   * IBM Performance Analysis Suite. DeveloperWorks. Bryan Tsai. Tool - https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=28cb6d68-ab67-4203-96f9-5538e654a5ff
   * Issue when working with replicated MQT in large DB2 LUW distributed environments. db2Gdba. Reynaldo Mola. nd. Blog - https://www.db2gdba.com/articles-tips/replicated-mqt-large-vs-small-tables/
-  * Take your measuring cup! techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=657
-  * Writing applications with the Java API. DeveolperWorks. Marion Behnen, Henry Chiu, Jyh-Chen Fang, Manish Sehgal, and Tony Sun. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1307nosqlforjson3/index.html
   * Best Practices for Optimizing DB2 Performance. DatAvail. Webminar - http://www.datavail.com/datavail-resources/webinar-optimizing-db2-performance/
   * DB2 problem determination using db2top utility. DeveloperWorks. Tao Wang and Shen Li. 2008. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0812wang/index.html
   * db2top Bottlenecks Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bottlenecks-screen-part-1.html
   * db2top Bottlenecks Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bottlenecks-screen-part-2.html
   * Histograms. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/histograms.html
+  * Take your measuring cup! techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=657
+  * Well, Performance Engineering for Databases. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/02/well-performance-engineering-for.html
+  * Stuck with a packaged app???. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/02/stuck-with-packaged-app.html
+  * Writing applications with the Java API. DeveolperWorks. Marion Behnen, Henry Chiu, Jyh-Chen Fang, Manish Sehgal, and Tony Sun. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1307nosqlforjson3/index.html
   * Finding and releasing the handbrakes on JDBC: enableExtendedDescribe. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/enableextendeddescribe.?lang=en
   * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487
   * DB2 Performance Queries: Stolen from Scott hayes and changed to use mon_get_functions. DB2 Knowledge Base Raf. Raf Mathijs. 2015. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2015/03/db2-performance-queries-stolen-from.html
@@ -463,6 +465,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2, LINUX AND PHP. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-and-php/
 * Physical design
   * Best Practices - Physical Database Design. IBM. Sam Lightstone, Christopher Tsounis, Agatha Colangelo, Steven Tsounis. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_Physical_Design_0508I.pdf
+  * Well, Performance Engineering for Databases. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/02/well-performance-engineering-for.html
   * DB2 10.1 LUW Certification 611 notes 1 : Physical Design. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/db2-10-1-luw-exam-611-notes-physical-design/
   * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487
   * DB2 Advanced Copy Services: The scripted interface, Part 4, Implementation for DB2 ACS. DeveloperWorks. Martin Jungfer and Holger Hellmuth. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1506scriptdb2copy4/index.html
@@ -1360,8 +1363,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 Basics: Statement Terminators. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/07/13/db2-basics-statement-terminators/
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Statement concentrator
-  * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
-  * Why are there Question Marks in my Db2 Queries?. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/why-are-there-question-marks-in-my-db2-queries/
+  * Please visit de Stmt_Conc entry.
 * Static SQL
   * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html
   * db2top Sessions Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-2.html
@@ -1384,8 +1386,10 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Self-tuning memory in partitioned database environments. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/self-tuning-memory-in-partitioned-database-environment.html
   * Comparing Two Db2 Systems. db2commerce. Ember Crooks. 2017. Blog - http://datageek.blog/2017/09/12/comparing-two-db2-systems/
   * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/12/07/the-self-tuning-memory-manager-stmm/
-* Stmt_Conc
+* Stmt_Conc - Statement Conventrator
+  * Stuck with a packaged app???. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/02/stuck-with-packaged-app.html
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
+  * Why are there Question Marks in my Db2 Queries?. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/why-are-there-question-marks-in-my-db2-queries/
 * Stolen page
   * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
 * Storage
