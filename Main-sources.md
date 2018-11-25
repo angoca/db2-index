@@ -133,3 +133,4 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * https://www1.atwiki.jp/kawases/ (Antiguos articulos de apricot life)
 * http://db2.jugem.cc/
 https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=d4334e67-3b43-4d33-bf32-22a73685871c
+* http://db2luw2.blogspot.com
