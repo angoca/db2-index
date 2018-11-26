@@ -424,6 +424,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Well, Performance Engineering for Databases. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/02/well-performance-engineering-for.html
   * How to convey performance metrics from SNAPSHOT views. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/03/how-to-convey-performance-metrics-from.html
   * Stuck with a packaged app???. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/02/stuck-with-packaged-app.html
+  * My db2 success story: Five things to check when you see high memory usage on db server. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/04/my-db2-success-story-five-things-to.html
+  * RUNSTATS and REORG-1: How important they are. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/04/runstats-and-reorg-1-how-important-they.html
   * Writing applications with the Java API. DeveolperWorks. Marion Behnen, Henry Chiu, Jyh-Chen Fang, Manish Sehgal, and Tony Sun. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1307nosqlforjson3/index.html
   * Finding and releasing the handbrakes on JDBC: enableExtendedDescribe. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/enableextendeddescribe.?lang=en
   * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487
@@ -742,6 +744,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Simple Offline DB2 Reorg Script – Take 2. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=226
   * New reorg formula. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=780
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
+  * RUNSTATS and REORG-1: How important they are. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/04/runstats-and-reorg-1-how-important-they.html
   * Issuing a REORG TABLE command to DB2 from VA Smalltalk (and Glorp). Joachims Small World. Joachims Tuchel. 2013. Blog - https://joachimtuchel.wordpress.com/2013/04/24/issuing-a-reorg-table-command-to-db2-from-va-smalltalk-and-glorp/
   * Friendship between REORG and Temp Tablespace's. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/friendship-between-reorg-and-temp.html
   * Friendship between REORG and Temp Tablespace's - Part2. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/friendship-between-reorg-systmp-tablepsaces-part2.html
@@ -915,6 +918,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Runstats
   * Automated runstats – take 2. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=71
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
+  * RUNSTATS and REORG-1: How important they are. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/04/runstats-and-reorg-1-how-important-they.html
+  * RUNSTATS and REORG-2: How to automate runstats. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/04/runstats-and-reorg-2-how-to-automate.html
   * Lazy RUNSTATS using SYSPROC.ADMIN_CMD. Dangerous DBA. Philip Carrington. 2012. Blog - http://www.dangerousdba.com/lazy-runstats-using-sysproc-admin_cmd/
   * Runstats on data change percentage. Berst Blog. Bert van Langen. 2014. Blog - https://web.archive.org/web/20160308061053/https://blog.bertvanlangen.com/db2/runstats-data-change-percentage/
   * Improve IBM BPM performance with an IBM DB2 database. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz1-trs/1509_volz1.html
@@ -1006,6 +1011,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * IBM Db2 Tech Talk: Db2 Security and Compliance Support. Db2 Tech Talk. Roger Sanders. 2018. Webminar - https://www.ibm.com/events/Z56SMPES
 * Section
   * db2top Agent Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-1.html
+* Section_Actual
+  * RUNSTATS and REORG-2: How to automate runstats. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/04/runstats-and-reorg-2-how-to-automate.html
 * Security
   * Best Practices - IBM Data Server Security. IBM. Belal Tassi, Walid Rhaibi, Paul Caliandro. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_Security_0508I.pdf
   * DB2 UDB security, Part 1: Understand how user and group accounts interact with DB2 UDB. DeveloperWorks. Ted Wasserman, Raul Chong. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0508wasserman/index.html
@@ -1195,6 +1202,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * db2top Agent Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-1.html
   * db2top Dynamic SQL Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-dynamic-sql-screen.html
   * DB2 LUW V9.7 - SQL Cookbook. Graeme Birchall. 2011. Book -  https://drive.google.com/file/d/0B86nuTd5nMTKd190MFptUEtoYXc/view?usp=sharing
+  * SQL Anti logic!!!. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/04/sql-anti-logic.html
   * Making SQL PL and PL/SQL sensitive to changes in statistics, and more. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/statistics_sensitive_sql_pl
   * The trouble of combining DISTINCT with ORDER BY. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/distinct_order_by
   * Who's the most popular kid on the block?. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/stats_mode
