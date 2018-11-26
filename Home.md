@@ -201,6 +201,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Client Connections in a TSA/HADR cluster- Part 4. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-4/
   * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/01/18/high-availability-options-for-db2-luw/
 * Automatic maintenance
+  * RUNSTATS and REORG-2: How to automate runstats. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/04/runstats-and-reorg-2-how-to-automate.html
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
   * Environment during auto stats - Open Files. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/environment-during-auto-stats-open-files.html
   * Excluding a Table from Db2’s Automatic Runstats. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/09/05/excluding-a-table-from-db2s-automatic-runstats/
@@ -288,6 +289,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Best Practices - Frequently Asked Questions from Problem Management Reports. IBM. Saurabh Jain, Vikram Murali, Mark Wilding. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_PMRFAQ_0508I.pdf
   * DB2 for Linux, UNIX, and Windows Best Practices. DeveloperWorks. Wiki - https://ibm.biz/Bdx2ew
   * Well, Performance Engineering for Databases. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/02/well-performance-engineering-for.html
+  * Best Practices Tuning and monitoring database system performance. IBM. Steve Rees, Thomas Rech, Olaf Depper, Naveen K Singh, Gang Shen, Roman B. Melnyk. 2017. Document - file:///Users/angoca/Downloads/DB2BP_System_Performance_170425.pdf
   * Best Practice. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/best-practice/
 * Big SQL
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
@@ -865,6 +867,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * A case of bad network configuration file. techs@work. Raju Pillai. 2011. Blog - http://techsatwork.com/blog/?p=1089
   * "db2 connect" does not check the connection - Test an active connection. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/05/db2-connect-does-not-check-connection.html
 * db2caem
+  * db2exfmt. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/03/db2exfmt.html
   * Query Performance Analysis. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/09/19/query-performance-analysis/
 * db2cap
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
@@ -950,6 +953,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * db2exfmt
   * Seven Surprising Findings About DB2. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/blog/2014-11/seven-surprising-findings-about-DB2
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
+  * db2exfmt. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/03/db2exfmt.html
   * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Ember Crooks. 2013. Blog - http://datageek.blog/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
   * Solve IBM BPM performance issues with IBM DB2 examples. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz2-trs/1509_volz2.html
   * Capturing SQL statements and performance metrics for a single application database-connection in DB2. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/04/capturing-sql-statements-and-activities.html
@@ -958,6 +962,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * db2expln
   * Seven Surprising Findings About DB2. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/blog/2014-11/seven-surprising-findings-about-DB2
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
+  * db2exfmt. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/03/db2exfmt.html
   * Which is better db2expln or db2exfmt? Vinay's DB2 blog. Vinay Bommana. 2018. Blog - http://vinaysdb2blog.blogspot.com/2018/10/which-is-better-db2expln-or-db2exfmt.html
 * db2extsec
   * Resetting DB2 file permissions. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=41
@@ -1628,6 +1633,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Explain
   * Getting an Execution Plan. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/explain-plan/db2/getting-an-execution-plan
   * Using Materialized QueryTables to Speed up Queries in DB2 UDB. DeveloperWorks. Alexander Kuznetsov. 2002. Article - https://www.ibm.com/developerworks/data/library/techarticle/0208kuznetsov/0208kuznetsov.html
+  * db2exfmt. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/03/db2exfmt.html
   * Collect Cost Of all the db2 Stored Proc's in a simple Possible Way. A Day in DBA's life. Manohar Viswanatha. 2013. Blog - https://mviswa.blogspot.com/2013/01/collect-cost-of-all-stored-procs-in.html
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Crooks. 2013. Blog - http://datageek.blog/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
   * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Ember Crooks. 2013. Blog - http://datageek.blog/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
@@ -1717,6 +1723,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Comparing Two Db2 Systems. db2commerce. Ember Crooks. 2017. Blog - http://datageek.blog/2017/09/12/comparing-two-db2-systems/
 * File System Caching (FSC)
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
+  * My db2 success story: Five things to check when you see high memory usage on db server. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/04/my-db2-success-story-five-things-to.html
   * DB2 Table Spaces – When to use File System Caching. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/489
   * Faster rollback processing of very large transactions in Db2 v11.1.3.3. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/faster-rollback-processing-of-very.html
 * Files
