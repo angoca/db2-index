@@ -127,6 +127,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Monitoring
   * Monitoring DB2 with Nagios. Blog dot lusis. John E. Vicent. 2006. Article - http://dev.lusis.org/nagios/usable/monitoring_db2_with_nagios.html
   * Where a DB Request Spends Time in DB2 9.7? DB2 Diary from Radhesh. Radhesh Kumar. 2010. Blog - http://radheshk.blogspot.com/2010/03/where-db-request-spends-time-in-db2-97.html
+  * How to convey performance metrics from SNAPSHOT views. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/03/how-to-convey-performance-metrics-from.html
   * Usage Lists – Big Brother is watching, but only where he is looking. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/usage-lists-big-brother-is-watching-but-only-where-he-is-looking/
   * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://datageek.blog/2016/07/12/monitoring-extent-movement-progress/
   * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Scott Walkty. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
@@ -421,6 +422,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Histograms. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/histograms.html
   * Take your measuring cup! techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=657
   * Well, Performance Engineering for Databases. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/02/well-performance-engineering-for.html
+  * How to convey performance metrics from SNAPSHOT views. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/03/how-to-convey-performance-metrics-from.html
   * Stuck with a packaged app???. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/02/stuck-with-packaged-app.html
   * Writing applications with the Java API. DeveolperWorks. Marion Behnen, Henry Chiu, Jyh-Chen Fang, Manish Sehgal, and Tony Sun. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1307nosqlforjson3/index.html
   * Finding and releasing the handbrakes on JDBC: enableExtendedDescribe. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/enableextendeddescribe.?lang=en
@@ -1135,6 +1137,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Please check the SysIBMAdm.SnapDB_Memory_Pool entry.
 * Snapshots
   * SQL Tips & Techniques- Correlated Reference. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/11/sql-tips-techniques-correlated.html
+  * How to convey performance metrics from SNAPSHOT views. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/03/how-to-convey-performance-metrics-from.html
   * (Snapshot for Db2 tunning) Snapshots para tuning DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/tuning/snapshots-para-tuning-db2/
   * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Scott Walkty. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
   * DB2 Tips n Tricks Part 38 - Limitation on Monitor Metrics by Dynamic SQL Snapshot. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=MO-UlXkiRoo
@@ -1558,8 +1561,11 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
     * How to troubleshoot DB2 lock waits. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/02/how-to-troubleshoot-db2-lock-waits.html
   * SysIBMAdm.SnapDB
     * DB2 LUW Performance: Table Read I/O and Overflows. dbi software - DB2 Performance. Scott Hayes. 2009. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=116
+    * How to convey performance metrics from SNAPSHOT views. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/03/how-to-convey-performance-metrics-from.html
   * SysIBMAdm.SnapDB_Memory_Pool
     * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html
+  * SysIBMAdm.SnapDyn_SQL
+    * How to convey performance metrics from SNAPSHOT views. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/03/how-to-convey-performance-metrics-from.html
   * SysIBMAdm.SnapTab_Reorg
     * Friendship between REORG and Temp Tablespace's. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/friendship-between-reorg-and-temp.html
   * SysIBMAdm.SpanTbsp
