@@ -404,6 +404,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Cartesian product
   * Seven SQL Performance-Killers to Avoid in Db2. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/seven-sql-performance-killers-avoid-db2/
 * Catalog
+  * IBM Db2 Query Toolbox. Dataedo. na. nd. Wiki - https://dataedo.com/kb/query/db2
   * db2top Memory Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-part-1.html
   * db2top Memory Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-part-2.html
   * (Basic management of the Db2 catalog) Gestión básica Catálogo DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/gestion-basica-catalogo-db2/
