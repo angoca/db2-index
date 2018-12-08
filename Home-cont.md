@@ -270,6 +270,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * OLAP
   * How to number your sql results. DBMSguy.com. Paul Mayhew. 2009. Blog - http://dbmsguy.com/blog/2009/05/how-to-number-your-sql-results/
   * Over and Partition by on SQL for aggregation. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=515
+  * SQL Anti logic!!!. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/04/sql-anti-logic.html
   * The trouble of combining DISTINCT with ORDER BY. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/distinct_order_by
   * Who's the most popular kid on the block?. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/stats_mode
 * OLAP Function
@@ -601,9 +602,11 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
   * Table in Quiesce Mode. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30324
 * Query
+  * IBM Db2 Query Toolbox. Dataedo. na. nd. Wiki - https://dataedo.com/kb/query/db2
   * Best Practices - Writing and Tuning Queries for Optimal Performance. IBM. John Hornibrook, Nina Kolunovsky. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_Query_Tuning_0508I.pdf
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
   * Get Long Running SQL using SYSIBM Administrative Views. db2 tips by an IBMer. Ilker Ender. 2010. Blog - http://ilker-db2.tumblr.com/post/3585748498
+  * SQL Anti logic!!!. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/04/sql-anti-logic.html
   * DB2 - Queries. Sean's. Sean. 2016. Blog - http://twoseans.blogspot.com.co/2016/06/db2-queries.html
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
@@ -1201,6 +1204,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 LUW V9.5 - SQL Cookbook. Graeme Birchall. 2009. Book -  https://drive.google.com/file/d/0B86nuTd5nMTKdzBkS01nUlZwYXc/view?usp=sharing
   * db2top Agent Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-1.html
   * db2top Dynamic SQL Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-dynamic-sql-screen.html
+  * SQL Anti logic!!!. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/04/sql-anti-logic.html
   * DB2 LUW V9.7 - SQL Cookbook. Graeme Birchall. 2011. Book -  https://drive.google.com/file/d/0B86nuTd5nMTKd190MFptUEtoYXc/view?usp=sharing
   * SQL Anti logic!!!. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/04/sql-anti-logic.html
   * Making SQL PL and PL/SQL sensitive to changes in statistics, and more. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/statistics_sensitive_sql_pl
@@ -1474,6 +1478,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
   * Security considerations when installing and using the DB2 database manager. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/security-considerations-when-installing-DB2.html
 * SysCat schema
+  * IBM Db2 Query Toolbox. Dataedo. na. nd. Wiki - https://dataedo.com/kb/query/db2
   * SysCat.AuditUse
     * How I can now answer auditor’s questions – Leveraging DB2’s Audit facility. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/06/02/basics-of-db2s-db2audit-facility/
   * SysCat.Columns
