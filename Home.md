@@ -202,6 +202,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/01/18/high-availability-options-for-db2-luw/
 * Automatic maintenance
   * RUNSTATS and REORG-2: How to automate runstats. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/04/runstats-and-reorg-2-how-to-automate.html
+  * RUNSTATS and REORG-3: An effective REORG policy. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/05/runstats-and-reorg-3-effective-reorg.html
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
   * Environment during auto stats - Open Files. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/environment-during-auto-stats-open-files.html
   * Excluding a Table from Db2’s Automatic Runstats. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/09/05/excluding-a-table-from-db2s-automatic-runstats/
@@ -233,6 +234,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2, LINUX AND MEMORY. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-and-memory/
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
   * (Monitoring the state of a backup, restore or rollforward) Monitorizar el estado de un backup, restore o rollforward en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/backup_recovery/monitorizar-el-estado-de-un-backup-restore-o-rollforward-en-db2/
+  * Improvise your Backup-Restore. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/11/improvise-you-backup-restore.html
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * DB2 Backup Script. A Day in DBA's life. Manohar Viswanatha. 2013. Blog - https://mviswa.blogspot.com/2013/01/db2-backup-script.html
   * Understanding and Tuning DB2/LUW Backup and Restore Performance. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/understanding-and-tuning-db2luw-backup.html
@@ -416,6 +418,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
 * Case
   * CASE. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/case/
+  * SQL Anti Logic: Usage of CASE Statement. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/12/sql-anti-logic-usage-of-case-statement.html
 * Case - sensitivity
   * DB2 LUW – Handling database objects with mixed case and special characters in their names. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/08/20/db2-luw-handling-database-objects-with-mixed-case-and-special-characters-in-their-names/
 * Cast
@@ -806,6 +809,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Access your database sooner after a system failure -- introducing DB2_ONLINERECOVERY! ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/08/access-your-database-sooner-after.html
 * DB2_OPTPROFILE
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
+* DB2_PARALLEL_IO
+  * Optimize your Tablespaces and Bufferpools-1: Tablespace Design design. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/07/optimize-your-tablespaces-and.html
 * DB2_REDUCED_OPTIMIZATION
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Crooks. 2013. Blog - http://datageek.blog/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
 * DB2_RESTORE_GRANT_ADMIN_AUTHORITIES
@@ -1657,6 +1662,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Extent
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
+  * Optimize your Tablespaces and Bufferpools-1: Tablespace Design design. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/07/optimize-your-tablespaces-and.html
   * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://datageek.blog/2016/07/12/monitoring-extent-movement-progress/
 * External function
   * Using SQL parameter names and default values, DeveloperWorks. Nick Lawrence, 2015. Article - https://www.ibm.com/developerworks/ibmi/library/i-sql-parameter-name-default-value/index.html
@@ -1725,6 +1731,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * File System Caching (FSC)
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
   * My db2 success story: Five things to check when you see high memory usage on db server. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/04/my-db2-success-story-five-things-to.html
+  * Optimize your Tablespaces and Bufferpools-1: Tablespace Design design. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/07/optimize-your-tablespaces-and.html
   * DB2 Table Spaces – When to use File System Caching. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/489
   * Faster rollback processing of very large transactions in Db2 v11.1.3.3. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/faster-rollback-processing-of-very.html
 * Files
@@ -1962,6 +1969,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html
   * db2top Tables Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-1.html
   * Random Useful Command of the Day. db2 tips by an IBMer. Ilker Ender. 2010. Blog - http://ilker-db2.tumblr.com/post/2828580795
+  * RUNSTATS and REORG-3: An effective REORG policy. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/05/runstats-and-reorg-3-effective-reorg.html
   * (Average time of read/write access to disc in Db2) Tiempos medios de acceso lectura/escritura a disco a nivel de DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/tuning/tiempos-medios-de-acceso-lecturaescritura-a-disco-a-nivel-de-db2/
   * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487
   * Enable Fast I/O Fencing Scipt for Linux. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11412
@@ -2006,6 +2014,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * db2top Dynamic SQL Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-dynamic-sql-screen.html
   * (Detection of no used indexes, tables and packages in Db2 9.7) Detección de índices, tablas y packages no usados en DB2 9.7. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/deteccion-de-indices-tablas-packages-no-usados-en-db2-9-7/
   * (Another method to identify unused indexes in Db2) Otro método para detectar índices no usados en DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/otro-metodo-para-detectar-indices-no-usados-en-db2/
+  * Optimize your Tablespaces and Bufferpools-3: Bufferpool Optimization. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/10/optimize-your-tablespaces-and.html
   * Tips on Using db2advis with Multiple Queries db2commerce. Ember Brooks. 2013. Blog - http://datageek.blog/2013/06/25/tips-on-using-db2advis-with-multiple-queries/
   * Writing applications with the Java API. DeveolperWorks. Marion Behnen, Henry Chiu, Jyh-Chen Fang, Manish Sehgal, and Tony Sun. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1307nosqlforjson3/index.html
   * Index Cardinality in a DB2 multi-partitioned (DPF) database. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/04/28/index-cardinality-in-a-db2-multi-partitioned-dpf-database/
