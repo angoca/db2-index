@@ -58,6 +58,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * 3 signs of low Linux memory. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/03/3-signs-of-low-linux-memory.html
 * Merge
   * SQL on Fire! Part 2. WAIUG. Serge Rielau. 2006. Presentation - http://www.waiug.org/present/Forum2006/Presentations/SQLonFire_2_Serge_Rielau.ppt
+  * MERGE: MAKE Your UPSERTs quick!!!. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/12/merge-make-your-upserts-quick.html
   * Replace (Update/Insert) a row into DB2 table – Merge into. With Data. Shiji Pan. 2013. Blog - https://www.withdata.com/blog/db2/replace-update-or-insert-a-row-into-db2-table-merge-into.html
 * Merge Scan Join - MSJOIN
   * DB2 LUW Execution Plan Operations. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/explain-plan/db2/operations
@@ -271,6 +272,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * How to number your sql results. DBMSguy.com. Paul Mayhew. 2009. Blog - http://dbmsguy.com/blog/2009/05/how-to-number-your-sql-results/
   * Over and Partition by on SQL for aggregation. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=515
   * SQL Anti logic!!!. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/04/sql-anti-logic.html
+  * MERGE: MAKE Your UPSERTs quick!!!. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/12/merge-make-your-upserts-quick.html
   * The trouble of combining DISTINCT with ORDER BY. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/distinct_order_by
   * Who's the most popular kid on the block?. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/stats_mode
 * OLAP Function
@@ -359,6 +361,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Page clean
   * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
 * Page size
+  * Optimize your Tablespaces and Bufferpools-1: Tablespace Design design. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/07/optimize-your-tablespaces-and.html
   * DB2 Table Row (Tuple) Size. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2-row-size/
 * Page_Age_Trgt_Mcr
   * The DB2Night Show #196: Db2 LUW Transaction Log Expedition w/ Ember Crooks. The DB2Night Show. Ember Crooks. 2017. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=730
@@ -424,6 +427,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Take your measuring cup! techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=657
   * Well, Performance Engineering for Databases. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/02/well-performance-engineering-for.html
   * How to convey performance metrics from SNAPSHOT views. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/03/how-to-convey-performance-metrics-from.html
+  * Optimize your Tablespaces and Bufferpools-3: Bufferpool Optimization. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/10/optimize-your-tablespaces-and.html
   * Stuck with a packaged app???. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/02/stuck-with-packaged-app.html
   * My db2 success story: Five things to check when you see high memory usage on db server. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/04/my-db2-success-story-five-things-to.html
   * RUNSTATS and REORG-1: How important they are. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/04/runstats-and-reorg-1-how-important-they.html
@@ -471,6 +475,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Physical design
   * Best Practices - Physical Database Design. IBM. Sam Lightstone, Christopher Tsounis, Agatha Colangelo, Steven Tsounis. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_Physical_Design_0508I.pdf
   * Well, Performance Engineering for Databases. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/02/well-performance-engineering-for.html
+  * Optimize your Tablespaces and Bufferpools-3: Bufferpool Optimization. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/10/optimize-your-tablespaces-and.html
   * DB2 10.1 LUW Certification 611 notes 1 : Physical Design. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/db2-10-1-luw-exam-611-notes-physical-design/
   * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487
   * DB2 Advanced Copy Services: The scripted interface, Part 4, Implementation for DB2 ACS. DeveloperWorks. Martin Jungfer and Holger Hellmuth. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1506scriptdb2copy4/index.html
@@ -514,6 +519,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Predicates
   * Distinguishing Access and Filter-Predicates. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/explain-plan/db2/filter-predicates
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
+* Prefetch
+  * Optimize your Tablespaces and Bufferpools-1: Tablespace Design design. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/07/optimize-your-tablespaces-and.html
 * Prefetcher
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
   * db2top Bufferpools Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-2.html
@@ -748,6 +755,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * New reorg formula. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=780
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
   * RUNSTATS and REORG-1: How important they are. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/04/runstats-and-reorg-1-how-important-they.html
+  * RUNSTATS and REORG-3: An effective REORG policy. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/05/runstats-and-reorg-3-effective-reorg.html
   * Issuing a REORG TABLE command to DB2 from VA Smalltalk (and Glorp). Joachims Small World. Joachims Tuchel. 2013. Blog - https://joachimtuchel.wordpress.com/2013/04/24/issuing-a-reorg-table-command-to-db2-from-va-smalltalk-and-glorp/
   * Friendship between REORG and Temp Tablespace's. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/friendship-between-reorg-and-temp.html
   * Friendship between REORG and Temp Tablespace's - Part2. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/friendship-between-reorg-systmp-tablepsaces-part2.html
@@ -810,6 +818,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
   * DB2, LINUX AND MEMORY. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-and-memory/
   * (Monitoring the state of a backup, restore or rollforward) Monitorizar el estado de un backup, restore o rollforward en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/backup_recovery/monitorizar-el-estado-de-un-backup-restore-o-rollforward-en-db2/
+  * Improvise your Backup-Restore. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/11/improvise-you-backup-restore.html
   * DB2 DPF Tablespace Recovery Scenarios — Part 1 — Recover Tablespace(s) on Coordinator Node. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/03/05/db2-dpf-tablespace-recovery-scenarios-part-1/
   * DB2 DPF Tablespace Recovery Scenarios — Part 2 — Recover Tablespace(s) on Data Partitions. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/03/07/db2-dpf-tablespace-recovery-scenarios-part-2-recover-tablespaces-on-data-partitions/
   * DB2 DPF Tablespace Recovery Scenarios — Part 3 — Recover Tablespace(s) on ALL database partitions. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/03/11/db2-dpf-tablespace-recovery-scenarios-part-3-recover-tablespaces-on-all-database-partitions/
@@ -923,6 +932,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
   * RUNSTATS and REORG-1: How important they are. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/04/runstats-and-reorg-1-how-important-they.html
   * RUNSTATS and REORG-2: How to automate runstats. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/04/runstats-and-reorg-2-how-to-automate.html
+  * RUNSTATS and REORG-3: An effective REORG policy. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/05/runstats-and-reorg-3-effective-reorg.html
   * Lazy RUNSTATS using SYSPROC.ADMIN_CMD. Dangerous DBA. Philip Carrington. 2012. Blog - http://www.dangerousdba.com/lazy-runstats-using-sysproc-admin_cmd/
   * Runstats on data change percentage. Berst Blog. Bert van Langen. 2014. Blog - https://web.archive.org/web/20160308061053/https://blog.bertvanlangen.com/db2/runstats-data-change-percentage/
   * Improve IBM BPM performance with an IBM DB2 database. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz1-trs/1509_volz1.html
@@ -1495,6 +1505,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * SysCat.IndexColUse
     * DB2 10.5 — Catalog data for Expression-Based Indexes. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/08/12/db2-10-5-catalog-data-for-expression-based-indexes/
   * SysCat.Indexes
+    * RUNSTATS and REORG-3: An effective REORG policy. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/05/runstats-and-reorg-3-effective-reorg.html
     * DB2 10.5 — Catalog data for Expression-Based Indexes. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/08/12/db2-10-5-catalog-data-for-expression-based-indexes/
     * Dropping Indexes to Improve Db2 Performance. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/dropping-indexes-improve-db2-performance/
   * SysCat.NodeGroupDef
@@ -1508,6 +1519,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * SysCat.StoGroups
     * Storage groups - A comprehensive solution of handling your data. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/storage-groups-comprehensive-solution.html
   * SysCat.Tables
+    * RUNSTATS and REORG-3: An effective REORG policy. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/05/runstats-and-reorg-3-effective-reorg.html
     * Quick primer on DB2 Tables and Tablespaces in a multi-partitioned (DPF) database. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/09/03/quick-primer-on-db2-tables-and-tablespaces-in-a-multi-partitioned-dpf-database/
     * Creating and loading column-organized and row-organized tables in DB2 BLU. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/10/06/creating-and-loading-column-organized-and-row-organized-tables-in-db2-blu/
   * SysCat.TableSpaces
@@ -1572,6 +1584,9 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
     * How to troubleshoot DB2 lock waits. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/02/how-to-troubleshoot-db2-lock-waits.html
   * SysIBMAdm.SnapAppl_Info
     * How to troubleshoot DB2 lock waits. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/02/how-to-troubleshoot-db2-lock-waits.html
+  * SysIBMAdm.SnapBp
+    * RUNSTATS and REORG-3: An effective REORG policy. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/05/runstats-and-reorg-3-effective-reorg.html
+    * Optimize your Tablespaces and Bufferpools-3: Bufferpool Optimization. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/10/optimize-your-tablespaces-and.html
   * SysIBMAdm.SnapDB
     * DB2 LUW Performance: Table Read I/O and Overflows. dbi software - DB2 Performance. Scott Hayes. 2009. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=116
     * How to convey performance metrics from SNAPSHOT views. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/03/how-to-convey-performance-metrics-from.html
@@ -1729,6 +1744,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 # T
 
 * Table
+  * Optimize your Tablespaces and Bufferpools-3: Bufferpool Optimization . db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/10/optimize-your-tablespaces-and.html
   * Size matters: A handy routine to compute the defined row size of a table. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/getrowsize
 * Table expression
   * Returning ResultSets From Delete , Update Queries using data-change-table-reference expressions. db2 tips by an IBMer. Ilker Ender. 2009. Blog - http://ilker-db2.tumblr.com/post/258702315
@@ -1760,6 +1776,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
   * db2top Tablespaces Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-1.html
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
+  * Optimize your Tablespaces and Bufferpools-1: Tablespace Design design. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/07/optimize-your-tablespaces-and.html
+  * Optimize your Tablespaces and Bufferpools-2: Tablespace Sizing. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/07/optimize-your-tablespaces-and_24.html
   * Size matters: A handy routine to compute the defined row size of a table. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/getrowsize
   * DB2 10: Multi Temperature Data Management. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/multitempdata
   * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://datageek.blog/2016/07/12/monitoring-extent-movement-progress/
@@ -1806,6 +1824,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Temporary tables
   * DB2 - Queries. Sean's. Sean. 2016. Blog - http://twoseans.blogspot.com.co/2016/06/db2-queries.html
 * Temporary Tablespaces
+  * Optimize your Tablespaces and Bufferpools-2: Tablespace Sizing. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/07/optimize-your-tablespaces-and_24.html
   * Difference between Online Reorg and Offline Reorg in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/difference-between-online-and-offline-reorg-db2.html
   * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/29/db2-temporary-table-spaces/
 * TempSpace1
@@ -1909,6 +1928,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Troubleshooting tools for Performance Tuning: Analyzing db2diag log files using db2diag tool. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/05/troubleshooting-tools-for-performance-tuning-db2diag.html
   * How to troubleshoot DB2 lock waits. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/02/how-to-troubleshoot-db2-lock-waits.html
 * Truncate
+  * An Alternative to truncate for pre v9.7. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/12/alternative-to-truncate-for-pre-v97.html
   * DB2 LUW Truncate, Restore and Rollforward. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2016/03/03/db2-10-5-truncates-restore-and-rollforward/
 * Trusted context
   * Configuring SSL for IBM Data Server Driver for ODBC and CLI. DeveloperWorks. Chetan Papaiah, Ashok V. Jose and Chris Meyer. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-ssl-data-server-driver-odbc-cli-trs/index.html
@@ -2036,7 +2056,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html 
 * Update 
   * Returning ResultSets From Delete , Update Queries using data-change-table-reference expressions. db2 tips by an IBMer. Ilker Ender. 2009. Blog - http://ilker-db2.tumblr.com/post/258702315
-  * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html 
+  * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
+  * MERGE: MAKE Your UPSERTs quick!!!. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/12/merge-make-your-upserts-quick.html
   * Returning inserted rows (and updated and deleted). DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/select_from_insert 
   * Replace (Update/Insert) a row into DB2 table – Merge into. With Data. Shiji Pan. 2013. Blog - https://www.withdata.com/blog/db2/replace-update-or-insert-a-row-into-db2-table-merge-into.html 
   * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html 
@@ -2065,7 +2086,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Db2 Basics: Investigating Permissions in an Existing Database. db2commerce. Ember Brooks. 2018. Blog - http://datageek.blog/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/ 
 * User mapping (federation) 
   * Mom, I joined the cloud! (or: Use old stuff with new stuff - DB2 federation). Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/03/mom-i-joined-cloud-or-use-old-stuff.html 
-* User temporary tablespace 
+* User temporary tablespace
+  * Optimize your Tablespaces and Bufferpools-2: Tablespace Sizing. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/07/optimize-your-tablespaces-and_24.html
   * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/29/db2-temporary-table-spaces/ 
 * Userexit 
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/ 
@@ -2080,8 +2102,10 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 11.1 BLU with DPF Monitoring scripts. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11484 
 * Util_Impact_Limit 
   * (Session priority in Db2) Prioridad de sesiones en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/prioridad-de-sesiones-en-db2/ 
+  * Improvise your Backup-Restore. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/11/improvise-you-backup-restore.html
 * Util_Impact_Priority 
   * (Session priority in Db2) Prioridad de sesiones en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/prioridad-de-sesiones-en-db2/ 
+  * Improvise your Backup-Restore. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/11/improvise-you-backup-restore.html
 * Utility heap 
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html 
   * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/12/07/the-self-tuning-memory-manager-stmm/ 
@@ -2235,7 +2259,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * db2top Tablespaces Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-1.html 
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html 
   * db2top Bufferpools Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-2.html 
-  * db2top Tables Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-1.html 
+  * db2top Tables Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-1.html
+  * RUNSTATS and REORG-3: An effective REORG policy. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/05/runstats-and-reorg-3-effective-reorg.html
 * Write suspend 
   * Please check the "Suspend write" entry. 
 * Write-ahead logging 
