@@ -431,6 +431,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Stuck with a packaged app???. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/02/stuck-with-packaged-app.html
   * My db2 success story: Five things to check when you see high memory usage on db server. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/04/my-db2-success-story-five-things-to.html
   * RUNSTATS and REORG-1: How important they are. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/04/runstats-and-reorg-1-how-important-they.html
+  * My Experience @ DB2 Has Talent: DB Design Basics. db2 performance. Sameer Kumar. 2012. Blog - http://db2performance.blogspot.com/2012/02/my-experience-db2-has-talent-db-design.html
   * Writing applications with the Java API. DeveolperWorks. Marion Behnen, Henry Chiu, Jyh-Chen Fang, Manish Sehgal, and Tony Sun. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1307nosqlforjson3/index.html
   * Finding and releasing the handbrakes on JDBC: enableExtendedDescribe. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/enableextendeddescribe.?lang=en
   * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487
