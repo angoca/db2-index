@@ -1830,6 +1830,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/29/db2-temporary-table-spaces/
 * TempSpace1
   * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/29/db2-temporary-table-spaces/
+* Terms
+  * The A to Z of DB2. Dublin Tech. Alex Staveley. 2011. Blog - http://dublintech.blogspot.com/2011/10/a-to-z-of-db2.html
 * Terminator
   * DB2 Basics: Statement Terminators. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/07/13/db2-basics-statement-terminators/
 * Test
