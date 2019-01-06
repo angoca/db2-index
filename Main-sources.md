@@ -21,12 +21,8 @@ In this section, the main DB2 sources are described:
   * Articles since 201601 to 201808
 * David Sciaraffa - ThinkingDB2! (Blog about technical stuff written by a Db2 develoeper 💻 ). http://thinkingdb2.blogspot.com
   * All articles has been indexed. Last update 201808
-* Vikram Khatri - Zinox (Blog of technical stuff 📷 ). http://www.zinox.com/
-  * Articles since 201301 to 201808
 * Jack Vamvas - DBA-DB2. http://www.dba-db2.com/
   * Articles since 201708 to 201808
-* Hao Yan - Db2 Reflections. http://db2reflections.blogspot.com
-  * Articles since 201804 to 201808
 * Scott Hayes - DB2 Performance (Articles about performance and DBI software). http://www.dbisoftware.com/blog/db2_performance.php
   * Articles since 201301 to 201801
 * DeveloperWorks (Articles). http://www.ibm.com/developerworks/views/data/libraryview.jsp?sort_by=Date&search_by=db2
@@ -44,6 +40,10 @@ These blogs are not longer updated 😞
 * Serge Rielau (瑞赛奇) and Rick Swagerman - SQL Tips for DB2 LUW (Blog from DB2 architect 🙈 ). https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/
   * Articles since 201205 to 201403
   * Older article should be indexed.
+* Hao Yan - Db2 Reflections. http://db2reflections.blogspot.com
+  * Articles of 2018
+* Vikram Khatri - Zinox (Blog of technical stuff 📷 ). http://www.zinox.com/
+  * Articles since 201301 to 201808
 * Philip Carrington - Dangerous DBA (Blog about technical stuff). http://www.dangerousdba.com/
   * All articles related to Db2 (Between 201211 to 201306)
   * Older article should be indexed.
