@@ -571,6 +571,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
   * "db2 connect" does not check the connection - Test an active connection. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/05/db2-connect-does-not-check-connection.html
   * Hello, Db2 World! – How to Connect to a Db2 (LUW) Database. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/21/hello-db2-world-how-to-connect-to-a-db2-luw-database/
+  * Improving Read Availability of the HADR Standby database… Avoiding the Replay-only Window. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com/2018/12/improving-read-availability-of-hadr.html
 * Connection concentrator
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
 * Consistency
@@ -796,6 +797,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Automatic Client Reroute – Templates. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11453
 * DB2_HADR_SOSNDBUF
   * Automatic Client Reroute – Templates. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11453
+* DB2_HADR_ROS_AVOID_REPLAY_ONLY_WINDOW
+  * Improving Read Availability of the HADR Standby database… Avoiding the Replay-only Window. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com/2018/12/improving-read-availability-of-hadr.html
 * db2_install
   * DB2 LINUX INSTALLATION. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-installation/
   * Using db2prereqcheck to Check Prerequisites for DB2 LUW. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2prereqcheck-check-prerequisites-db2-luw/
@@ -1904,6 +1907,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * How To Perform DB2 Loads in HADR Environment ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/01/24/perform-loads-in-db2-hadr-environment/
   * Monitoring Db2 HADR Takeover. Db2 Reflections. Hao Yan. 2018. Blog - http://db2reflections.blogspot.com.co/2018/04/monitoring-db2-hadr-takeover.html
   * Workload Automation: How to Survive Disasters. Workload Automation Community. Eliana Cerasaro. 2018. Blog - http://www.workloadautomation-community.com/blogs/workload-automation-how-to-survive-disasters
+  * Improving Read Availability of the HADR Standby database… Avoiding the Replay-only Window. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com/2018/12/improving-read-availability-of-hadr.html
 * HADR Calculator
   * DB2 Logging and HADR Performance Analysis using DB2 Log Scanner and HADR Calculator. DeveloperWorks. Yuke Zhuge. 2014. Wiki - https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/DB2HADR/page/db2logscan 
 * HADR_PEER_WINDOW
