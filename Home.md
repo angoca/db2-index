@@ -451,6 +451,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Cheat Sheet
   * DB2 cheat sheet. Dublin Tech. Alex Staveley. 2011. Blog - http://dublintech.blogspot.com/2011/10/db2-cheat-sheet.html
   * DB2 commands Cheat Sheet. Nuts & Bolts of DataStage. 2013. Blog - https://datastage4you.blogspot.com/2013/11/db2-commands-cheat-sheet.html
+  * Db2 Cheat Sheet For Development. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/12/db2-cheat-sheet-for-development.html
+  * Db2 Cheat Sheet For Development. Andres Gomez. 2018. Repository - https://github.com/angoca/db2-cheat-sheet
 * chrsrc
   * Using TSA/db2haicu to Automate Failover Part 5: Additional Configuration Best Practices. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/08/16/using-tsa-db2haicu-to-automate-failover-part-5-additional-configuration-best-practices/
 * Check pending
