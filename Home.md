@@ -381,6 +381,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
   * Comparing Two Db2 Systems. db2commerce. Ember Crooks. 2017. Blog - http://datageek.blog/2017/09/12/comparing-two-db2-systems/
   * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/12/07/the-self-tuning-memory-manager-stmm/
+  * Db2’s Alternate Page Cleaning. db2commerce. Ember Brooks. 2018. Blog - https://datageek.blog/2019/01/15/db2s-alternate-page-cleaning/
 * BufferPool Hit Ratio
   * db2top Tablespaces Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-1.html
   * db2top: Buffer pool hit ratio (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-buffer-pool-hit-ratio-video.html
@@ -454,10 +455,12 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 commands Cheat Sheet. Nuts & Bolts of DataStage. 2013. Blog - https://datastage4you.blogspot.com/2013/11/db2-commands-cheat-sheet.html
   * Db2 Cheat Sheet For Development. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/12/db2-cheat-sheet-for-development.html
   * Db2 Cheat Sheet For Development. Andres Gomez. 2018. Repository - https://github.com/angoca/db2-cheat-sheet
-* chrsrc
-  * Using TSA/db2haicu to Automate Failover Part 5: Additional Configuration Best Practices. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/08/16/using-tsa-db2haicu-to-automate-failover-part-5-additional-configuration-best-practices/
 * Check pending
   * Don’t get caught in check pending. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=419
+* Chngpgs_Thresh
+  * Db2’s Alternate Page Cleaning. db2commerce. Ember Brooks. 2018. Blog - https://datageek.blog/2019/01/15/db2s-alternate-page-cleaning/
+* chrsrc
+  * Using TSA/db2haicu to Automate Failover Part 5: Additional Configuration Best Practices. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/08/16/using-tsa-db2haicu-to-automate-failover-part-5-additional-configuration-best-practices/
 * Circular Logging
   * How Will Logging Process happen in DB2?. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/01/how-logging-process-will-happen-in-db2.html
 * CLI
@@ -622,6 +625,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * IBM’s June Announcements About DB2. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/06/23/ibms-june-announcements-about-db2/
   * Access your database sooner after a system failure -- introducing DB2_ONLINERECOVERY! ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/08/access-your-database-sooner-after.html
   * Improve Db2 HADR Resilience of Network Transmission Corruptions. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/improve-db2-hadr-resilience-of-network.html
+  * Db2’s Alternate Page Cleaning. db2commerce. Ember Brooks. 2018. Blog - https://datageek.blog/2019/01/15/db2s-alternate-page-cleaning/
 * Create database
   * DB2 security, Part 8: Twelve DB2 security best practices. DeveloperWorks. Ted J. Wasserman. 2006. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0607wasserman/index.html
   * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
@@ -829,10 +833,12 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
 * DB2_USE_ALTERNATE_PAGE_CLEANING
   * Access your database sooner after a system failure -- introducing DB2_ONLINERECOVERY! ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/08/access-your-database-sooner-after.html
+  * Db2’s Alternate Page Cleaning. db2commerce. Ember Brooks. 2018. Blog - https://datageek.blog/2019/01/15/db2s-alternate-page-cleaning/
 * DB2_WORKLOAD
   * Registry Variables and DB2_WORKLOAD=WC. db2commerce. Ember Crooks. 2010. Blog - http://datageek.blog/2010/06/07/registry-variables-and-db2_workloadwc/
   * Creating and loading column-organized and row-organized tables in DB2 BLU. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/10/06/creating-and-loading-column-organized-and-row-organized-tables-in-db2-blu/
   * Quick Hit Tips – CPUSPEED, RESTRICTIVE, and DB2_WORKLOAD. db2commerce. Michael Krafick. 2014. Blog - http://datageek.blog/2014/08/19/quick-hit-tips-cpuspeed-restrictive-and-db2_workload/?utm_source=rss&utm_medium=rss&utm_campaign=quick-hit-tips-cpuspeed-restrictive-and-db2_workload
+  * Db2’s Alternate Page Cleaning. db2commerce. Ember Brooks. 2018. Blog - https://datageek.blog/2019/01/15/db2s-alternate-page-cleaning/
 * DB2ADMNS
   * Security considerations when installing and using the DB2 database manager. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/security-considerations-when-installing-DB2.html
 * db2adutl
@@ -1455,6 +1461,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Dirty Page Steal Clean
   * DB2 Performance Myth Buster 1 - How Bufferpool with 100% Hit Ratio still has Performance Bottleneck. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=BtuUA6V7vmY
   * Performance monitoring tools and methodology. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/performance-monitoring-tools-and-methodology.html
+  * Db2’s Alternate Page Cleaning. db2commerce. Ember Brooks. 2018. Blog - https://datageek.blog/2019/01/15/db2s-alternate-page-cleaning/
 * Dirty Read
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * Disaster Recovery - DR
@@ -1766,6 +1773,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Enterprise Database Software for Free – IBM Db2. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/ibm-db2-software-free/
 * Flush package cache
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
+* Flush bufferpool
+  * Db2’s Alternate Page Cleaning. db2commerce. Ember Brooks. 2018. Blog - https://datageek.blog/2019/01/15/db2s-alternate-page-cleaning/
 * For
   * FOR statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/for/
 * Force application
@@ -2403,6 +2412,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Determining Log Span. db2commerce. Ian Bjorhovde. 2017. Blog - http://datageek.blog/2017/03/14/determining-log-span/
   * Format and display Db2 log file information using db2fmtlog. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/format-and-display-db2-log-file.html
   * Monitoring Db2 HADR Takeover. Db2 Reflections. Hao Yan. 2018. Blog - http://db2reflections.blogspot.com.co/2018/04/monitoring-db2-hadr-takeover.html
+* LSN gap cleaner
+  * Db2’s Alternate Page Cleaning. db2commerce. Ember Brooks. 2018. Blog - https://datageek.blog/2019/01/15/db2s-alternate-page-cleaning/
 * lssam
   * Client Connections in a TSA/HADR cluster – Part 1. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-1/
   * Client Connections in a TSA/HADR cluster- Part 3. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-3/
