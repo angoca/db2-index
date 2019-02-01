@@ -249,6 +249,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/07/17/the-db2-recovery-history-file/
 * Num_InitFenced
   * DB2 Tips n Tricks Part 46 - How to Find Fenced User ID for an Instance. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=tFonyCpVisU
+* Num_IO_Cleaners
+  * Db2’s Alternate Page Cleaning. db2commerce. Ember Brooks. 2018. Blog - https://datageek.blog/2019/01/15/db2s-alternate-page-cleaning/
 * Num_Log_Span
   * The DB2Night Show #196: Db2 LUW Transaction Log Expedition w/ Ember Crooks. The DB2Night Show. Ember Crooks. 2017. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=730
   * Access your database sooner after a system failure -- introducing DB2_ONLINERECOVERY! ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/08/access-your-database-sooner-after.html
@@ -360,12 +362,14 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Size matters: A handy routine to compute the defined row size of a table. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/getrowsize
 * Page clean
   * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
+  * Db2’s Alternate Page Cleaning. db2commerce. Ember Brooks. 2018. Blog - https://datageek.blog/2019/01/15/db2s-alternate-page-cleaning/
 * Page size
   * Optimize your Tablespaces and Bufferpools-1: Tablespace Design design. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/07/optimize-your-tablespaces-and.html
   * DB2 Table Row (Tuple) Size. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2-row-size/
 * Page_Age_Trgt_Mcr
   * The DB2Night Show #196: Db2 LUW Transaction Log Expedition w/ Ember Crooks. The DB2Night Show. Ember Crooks. 2017. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=730
   * Access your database sooner after a system failure -- introducing DB2_ONLINERECOVERY! ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/08/access-your-database-sooner-after.html
+  * Db2’s Alternate Page Cleaning. db2commerce. Ember Brooks. 2018. Blog - https://datageek.blog/2019/01/15/db2s-alternate-page-cleaning/
 * Paging
   * DB2 10: Paging through result sets by value using row value comparisons. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/tuple_comparison
   * Step by Step installation of DB2 V10.5 on Linux. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/04/step-by-step-installation-of-db2-v105-Linux.html
