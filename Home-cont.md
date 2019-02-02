@@ -515,6 +515,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * db2top Agent Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-1.html
 * Port
   * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://datageek.blog/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
+  * Hard-Coding Ports for HADR When Setting up Multiple Standbys. Virtual-DBA. Aish Khare. 2019. Blog - https://www.virtual-dba.com/hard-coding-ports-for-hadr-multiple-standbys/
 * Positional syntax
   * Using SQL parameter names and default values, DeveloperWorks. Nick Lawrence, 2015. Article - https://www.ibm.com/developerworks/ibmi/library/i-sql-parameter-name-default-value/index.html
 * PowerShell
@@ -1092,6 +1093,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Nfs4: Setting up DB2 for UNIX and Linux on NFS4 mounted file systems. db2 tips by an IBMer. Ilker Ender. 2010. Blog - http://ilker-db2.tumblr.com/post/521324056
   * (How to identify the Db2 connection port) Cómo conocer el puerto de conexión de DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/como-conocer-el-puerto-de-conexion-de-db2/
   * SQL6030N START or STOP DATABASE MANAGER failed. Reason code “38”. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/488
+  * Hard-Coding Ports for HADR When Setting up Multiple Standbys. Virtual-DBA. Aish Khare. 2019. Blog - https://www.virtual-dba.com/hard-coding-ports-for-hadr-multiple-standbys/
 * Session
   * DB2 problem determination using db2top utility. DeveloperWorks. Tao Wang and Shen Li. 2008. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0812wang/index.html
   * db2top Database Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-2.html
