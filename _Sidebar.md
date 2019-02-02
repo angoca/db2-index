@@ -24,5 +24,5 @@
 * [W](home-cont#w)
 * [X](home-cont#x)
 * Y
-* Z
+* [Z](home-cont#Z)
 * [Number](home#number)
