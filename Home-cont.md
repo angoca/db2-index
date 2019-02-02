@@ -594,6 +594,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
   * Db2 pureScale netname does not exist. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30270
   * Utility Scripts for pureScale. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30277
+  * DB2 pureScale Cluster Slowness During Index Creation. Raghu On Tech. Raghu Cherukuru. 2019. Blog - https://www.raghu-on-tech.com/2019/01/28/db2-purescale-cluster-slowness-during-index-creation/
 * PureXML
   * pureXML. Wikipedia. Wiki - https://en.wikipedia.org/wiki/PureXML
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
