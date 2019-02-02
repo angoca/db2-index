@@ -740,6 +740,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * How To Find Missing Indexes On Foreign Key Columns ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/07/10/how-to-find-missing-indexes-for-foreign-key-columns/
 * Registry
   * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/22/db2-basics-levels-of-configuration/
+  * Desmistifying db2greg. Ideas for Db2 (Spanish). Andres Gomez. 2019. Blog - https://angocadb2.blogspot.com/2019/01/desmistifying-db2greg.html
 * Regular Expressions
   * Advanced Pattern Matching with Regular Expressions in DB2 11.1 for LUW. IDUG Content Blog. Fred Sobotka. 2017. Blog - http://www.idug.org/p/bl/et/blogaid=605
 * Release savepoint
