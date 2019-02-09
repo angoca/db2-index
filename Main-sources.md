@@ -14,9 +14,9 @@ In this section, the main DB2 sources are described:
     * Articles since 201601 to 201804
 * Scott Hayes - The DB2night show ( 📺  Videos and Webminars of DB2, also contests 😀 ). http://www.dbisoftware.com/db2nightshow/ - http://www.dbisoftware.com/blog/db2nightshow.php
 * Raghu Cherukuru - Raghu On Tech (Blog about different stuff of Db2). https://www.raghu-on-tech.com/
-  * All articles has been indexed. Last update 201808
+  * All articles has been indexed. Last update 201901
 * DB2 Geek (Blog of different things about DB2). http://db2geek.triton.co.uk
-  * Articles since 201601 to 201808
+  * Articles since 201601 to 201901
 * Henrik Loeser - Data Henrik: IT, Life, DB2, and more (Blog about technical stuff). http://blog.4loeser.net/
   * Articles since 201601 to 201808
 * David Sciaraffa - ThinkingDB2! (Blog about technical stuff written by a Db2 develoeper 💻 ). http://thinkingdb2.blogspot.com
@@ -139,3 +139,4 @@ https://www.ibm.com/developerworks/community/groups/service/html/communitystart?
 * https://dzone.com/search?page=1 (db2)i
 * https://www.linkedin.com/pulse/db2-database-partitioning-vs-range-luis-reina
 * https://kendbablog.wordpress.com
+* https://db2today.blogspot.com/
