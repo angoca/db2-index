@@ -1260,10 +1260,14 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
   * How to setup logical data partitioning in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/how-to-setup-logical-data-partitioning-in-db2.html
   * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/22/db2-basics-levels-of-configuration/
+  * Bouncing the instance. DB2 LUW Blog. Shivraj Kumar. 2018. Blog - https://db2today.blogspot.com/2018/12/bouncing-instance.html
 * db2stop
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * What if db2stop fails ?!? techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=392
   * (DB2_KILL - What to do when a Db2 instance does not stop) DB2_KILL – ¿Qué hacer si una instancia DB2 no se para?. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/db2_kill-%c2%bfque-hacer-si-una-instancia-db2-no-se-para/
+  * Bouncing the instance. DB2 LUW Blog. Shivraj Kumar. 2018. Blog - https://db2today.blogspot.com/2018/12/bouncing-instance.html
+* db2strst.lck
+  * Bouncing the instance. DB2 LUW Blog. Shivraj Kumar. 2018. Blog - https://db2today.blogspot.com/2018/12/bouncing-instance.html
 * db2support
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * Solve IBM BPM performance issues with IBM DB2 examples. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz2-trs/1509_volz2.html
@@ -2146,6 +2150,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 UNEXPECTED OS ERROR. THIS MOST LIKELY MEANS THAT RESOURCES HAVE BEEN TORN DOWN FROM UNDERNEATH THE PREFETCHER. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/08/05/db2-unexpected-os-error-this-most-likely-means-that-resources-have-been-torn-down-from-underneath-the-prefetcher/
 * ipclean
   * What if db2stop fails ?!? techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=392
+  * Bouncing the instance. DB2 LUW Blog. Shivraj Kumar. 2018. Blog - https://db2today.blogspot.com/2018/12/bouncing-instance.html
 * ipcs
   * What if db2stop fails ?!? techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=392
   * (DB2_KILL - What to do when a Db2 instance does not stop) DB2_KILL – ¿Qué hacer si una instancia DB2 no se para?. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/db2_kill-%c2%bfque-hacer-si-una-instancia-db2-no-se-para/
