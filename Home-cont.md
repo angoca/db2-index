@@ -2226,7 +2226,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * PkgCache #28: Easier to use when drunk. The Whole Package Cache. Ian Bjorhovde, Fred Sobotka. 2016. Podcast - http://www.pkgcache.com/28/ 
   * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/08/30/powershell-script-for-local-db2-database-activation/ 
   * db2setup on Windows – Repair Option. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2017/04/04/db2setup-on-windows-repair-option/ 
-  * Hello, Db2 World! PowerShell. DataGeek.blog. Ember Brooks. 2018. Blog - https://datageek.blog/2018/08/09/hello-db2-world-powershell/ 
+  * Hello, Db2 World! PowerShell. DataGeek.blog. Ember Brooks. 2018. Blog - https://datageek.blog/2018/08/09/hello-db2-world-powershell/
+  * Using Windows AD groups in DB2. db2commerce. Luke Numrych. 2019. Blog - https://datageek.blog/2019/02/05/using-ad-groups-in-db2/
 * Wire Listener 
   * Using the IBM NoSQL Wire Listener for DB2. DeveolperWorks. Ioannis Papapanagiotou, Marion Behnen, John Paul Parkin, and Jyh-Chen Fang. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson4/index.html 
 * Workload Automation 
