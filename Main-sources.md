@@ -2,11 +2,11 @@ In this section, the main DB2 sources are described:
 
 * Ember Crooks - DataGeek (Blog about technical stuff 💃 ). https://datageek.blog/
   * Before DB2Commerce.
-  * Articles since 201607 to 201812
+  * Articles since 201607 to 201901
   * Also articles from http://www.virtual-dba.com/blog/
-    * Articles since 201701 to 201812
+    * Articles since 201701 to 201901
 * Andres Gomez Casanova - Ideas for DB2 (Blog about technical stuff). https://angocadb2.blogspot.com
-  * Articles since 201601 to 201808
+  * Articles since 201601 to 201901
 * Michael Krafick - Discover db2 (Video tutorial about Db2). https://www.youtube.com/DISCOVERDB2
 * Vinay Kumar Bommana - DB Tutorials (Videos of DB2 🎥 ).
   * https://www.youtube.com/channel/UCo0cIzR_TbMzU5wHQmbTjxQ/videos
