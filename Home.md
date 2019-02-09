@@ -23,6 +23,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Activated database
   * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/08/30/powershell-script-for-local-db2-database-activation/
   * DB2 Tips n Tricks Part 40 - How to Find DB was implicitly or explicitly activated or deactivated. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=AdmNwiul0Yo
+* Active Directory - AD
+  * Using Windows AD groups in DB2. db2commerce. Luke Numrych. 2019. Blog - https://datageek.blog/2019/02/05/using-ad-groups-in-db2/
 * Active Logs
   * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
   * Quantity of files in the active log directory (including those from renameArray). Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/03/quantity-of-files-in-active-log.html
