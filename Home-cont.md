@@ -704,6 +704,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Static SQL vs Dynamic SQL in Stored Procedures. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
   * How to resolve SQL20249N The statement was not processed error?. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/11/how-to-resolve-sql20249n-statement-was-not-processed-error.html
+  * SQL0443N After Db2 Fixpack Upgrade. Virtual-DBA. Aish Khare. 2019. Blog - https://www.virtual-dba.com/sql0443n-after-db2-fixpack-upgrade/
 * Rec_His_Retentn
   * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/07/17/the-db2-recovery-history-file/
 * Recover
@@ -1095,6 +1096,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Nfs4: Setting up DB2 for UNIX and Linux on NFS4 mounted file systems. db2 tips by an IBMer. Ilker Ender. 2010. Blog - http://ilker-db2.tumblr.com/post/521324056
   * (How to identify the Db2 connection port) Cómo conocer el puerto de conexión de DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/como-conocer-el-puerto-de-conexion-de-db2/
   * SQL6030N START or STOP DATABASE MANAGER failed. Reason code “38”. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/488
+  * Hard-Coding Ports for HADR When Setting up Multiple Standbys. Virtual-DBA. Aish Khare. 2019. Blog - https://www.virtual-dba.com/hard-coding-ports-for-hadr-multiple-standbys/
   * Hard-Coding Ports for HADR When Setting up Multiple Standbys. Virtual-DBA. Aish Khare. 2019. Blog - https://www.virtual-dba.com/hard-coding-ports-for-hadr-multiple-standbys/
 * Session
   * DB2 problem determination using db2top utility. DeveloperWorks. Tao Wang and Shen Li. 2008. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0812wang/index.html
