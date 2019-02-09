@@ -1772,6 +1772,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Db2 Basics: Using FTPS to get a Fixpack Directly to a Db2 Server. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/02/01/db2-basics-using-ftps-to-get-a-fixpack-directly-to-a-db2-server/
   * DB2 Table Row (Tuple) Size. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2-row-size/
   * Evaluation license when installing a Fixpack. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/06/evaluation-license-when-installing.html
+  * SQL0443N After Db2 Fixpack Upgrade. Virtual-DBA. Aish Khare. 2019. Blog - https://www.virtual-dba.com/sql0443n-after-db2-fixpack-upgrade/
 * Flash copy
   * DB2 Advanced Copy Services: The scripted interface, Part 4, Implementation for DB2 ACS. DeveloperWorks. Martin Jungfer and Holger Hellmuth. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1506scriptdb2copy4/index.html
   * Enterprise Database Software for Free – IBM Db2. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/ibm-db2-software-free/
@@ -1925,6 +1926,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Monitoring Db2 HADR Takeover. Db2 Reflections. Hao Yan. 2018. Blog - http://db2reflections.blogspot.com.co/2018/04/monitoring-db2-hadr-takeover.html
   * Workload Automation: How to Survive Disasters. Workload Automation Community. Eliana Cerasaro. 2018. Blog - http://www.workloadautomation-community.com/blogs/workload-automation-how-to-survive-disasters
   * Improving Read Availability of the HADR Standby database… Avoiding the Replay-only Window. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com/2018/12/improving-read-availability-of-hadr.html
+  * Hard-Coding Ports for HADR When Setting up Multiple Standbys. Virtual-DBA. Aish Khare. 2019. Blog - https://www.virtual-dba.com/hard-coding-ports-for-hadr-multiple-standbys/
 * HADR Calculator
   * DB2 Logging and HADR Performance Analysis using DB2 Log Scanner and HADR Calculator. DeveloperWorks. Yuke Zhuge. 2014. Wiki - https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/DB2HADR/page/db2logscan 
 * HADR_PEER_WINDOW
