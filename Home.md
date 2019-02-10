@@ -1672,6 +1672,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Collect Cost Of all the db2 Stored Proc's in a simple Possible Way. A Day in DBA's life. Manohar Viswanatha. 2013. Blog - https://mviswa.blogspot.com/2013/01/collect-cost-of-all-stored-procs-in.html
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Crooks. 2013. Blog - http://datageek.blog/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
   * Explain Part 2 – Command Line Explain Plans Using db2exfmt. db2commerce. Ember Crooks. 2013. Blog - http://datageek.blog/2013/06/11/explain-part-2-command-line-explain-plans-using-db2exfmt/
+  * Generate an explain plan. Ken's DBA Blog. Ken Garber. 2015. Blog - https://kendbablog.wordpress.com/db2-udb-administration/generate-an-explain-plan/
 * Explain tables
   * DB2 tip: How to know the no. of rows that got affected. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/02/24/db2-tip-how-to-know-the-no-of-rows-that-got-affected/
 * Explain_From_Activity
