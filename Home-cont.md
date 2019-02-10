@@ -375,6 +375,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Step by Step installation of DB2 V10.5 on Linux. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/04/step-by-step-installation-of-db2-v105-Linux.html
 * PAM - Programmable Access Module
   * DB2 and Transparent LDAP in DB2 DPF – Misleading error SQL30082N. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/10/13/db2-and-transparent-ldap-in-db2-dpf-misleading-error-sql30082n/
+  * DB2 UDB and Linux LDAP Authentication. Ken's DBA Blog. Ken Garber. 2015. Blog - https://kendbablog.wordpress.com/2015/07/01/db2-udb-and-linux-ldap-authentication/
 * Parallelism
   * Simultaneous Parallel Processing in Distributed DB2 Databases. db2Gdba. Reynaldo Mola. nd. Blog - https://www.db2gdba.com/articles-tips/simultaneous-parallel-processing-in-distributed-databases/
   * db2top Agent Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-1.html
@@ -556,6 +557,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Profile (runstats)
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
+* profile.env
+  * DB2 – db2set command – DBI1309E System error. Ken's DBA Blog. Ken Garber. 2017. Blog - https://kendbablog.wordpress.com/2017/07/11/db2-db2set-command-dbi1309e-system-error/
 * Problem resolution
   * Best Practices - Frequently Asked Questions from Problem Management Reports. IBM. Saurabh Jain, Vikram Murali, Mark Wilding. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_PMRFAQ_0508I.pdf
   * DB2 problem determination using db2top utility. DeveloperWorks. Tao Wang and Shen Li. 2008. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0812wang/index.html
@@ -1219,7 +1222,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Spill
   * db2top Agent Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-2.html
-* Spli mirror
+* Split mirror
+  * DB2 split mirror to create a HADR standby database. Ken's DBA Blog. Ken Garber. 2015. Blog - https://kendbablog.wordpress.com/2015/07/01/db2-split-mirror-to-create-a-hadr-standby-database/comment-page-1
   * How to check DB2 LUW database write suspend state with db2pd. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/05/how-to-check-db2-luw-database-write-suspend-state-with-db2pd.html
 * SPM - Sync Point Manager
   * Receiving SQL5043n and SPM0438 ? techs@work. Raju Pillai. 2011. Blog - http://techsatwork.com/blog/?p=1092
@@ -1661,6 +1665,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * SysProc.Admin_Move_Table
     * Reclaimable Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/02/21/reclaimable-table-spaces/
     * DB2 SQL2104N THE ADMIN_MOVE_TABLE PROCEDURE COULD NOT BE COMPLETED AT THIS TIME BY THIS USER. REASON CODE: “9”. SQLSTATE=5UA0M. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/sql2104n-the-admin_move_table-procedure-could-not-be-completed-at-this-time-by-this-user-reason-code-9-sqlstate5ua0m/
+    * Resolving – SQL2104N The ADMIN_MOVE_TABLE procedure could not be completed at this time by this user. Reason code: “4”. SQLSTATE=5UA0M. Ken's DBA Blog. Ken Garber. 2017. Blog - https://kendbablog.wordpress.com/2017/03/09/resolving-sql2104n-the-admin_move_table-procedure-could-not-be-completed-at-this-time-by-this-user-reason-code-4-sqlstate5ua0m/
   * SysProc.Admin_Rotate_Master_Key
     * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
   * SysProc.Audit_Delim_Extract
