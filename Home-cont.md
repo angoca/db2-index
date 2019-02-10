@@ -1377,6 +1377,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Security. DeveloperWorks. Graham G. Milne. 2006. Article - https://www.ibm.com/developerworks/data/tutorials/db2-cert7302/db2-cert7302.html
 * SSL - Secure Socket Layer
   * Configuring SSL for IBM Data Server Driver for ODBC and CLI. DeveloperWorks. Chetan Papaiah, Ashok V. Jose and Chris Meyer. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-ssl-data-server-driver-odbc-cli-trs/index.html
+  * Java to DB2 via TLS 1.2 - A new one on me. A Portal to a Portal. Dave Hay. 2017. Blog - https://portal2portal.blogspot.com/2017/08/java-to-db2-via-tls-12-new-one-on-me.html
   * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://datageek.blog/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
   * IBM Db2 Tech Talk: Db2 Security and Compliance Support. Db2 Tech Talk. Roger Sanders. 2018. Webminar - https://www.ibm.com/events/Z56SMPES
 * SSL_SVCENAME
@@ -1992,6 +1993,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/01/18/high-availability-options-for-db2-luw/
   * RSCT APAR Affecting TSAMP. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/03/29/rsct-apar-affecting-tsamp/
   * Using TSA/db2haicu to Automate Failover Part 5: Additional Configuration Best Practices. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/08/16/using-tsa-db2haicu-to-automate-failover-part-5-additional-configuration-best-practices/
+* TSL
+  * Java to DB2 via TLS 1.2 - A new one on me. A Portal to a Portal. Dave Hay. 2017. Blog - https://portal2portal.blogspot.com/2017/08/java-to-db2-via-tls-12-new-one-on-me.html
 * TSM
   * How to Setup TSM Client with DB2 9.7 for log archiving and backup. Ilker Ender. 2010. Blog - http://ilker-db2.tumblr.com/post/4004300817
   * Cross node DB2 Database recovery from TSM. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/03/17/cross-node-database-recovery-from-tsm/
