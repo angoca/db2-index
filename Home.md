@@ -395,7 +395,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Performance monitoring tools and methodology. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/performance-monitoring-tools-and-methodology.html
 * Built-in Modules
   * Module. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/module/
-
+* Bus
+  * IBM Integration Bus - Integration with DB2. A Portal to a Portal. Dave Hay. 2015. Blog - https://portal2portal.blogspot.com/2015/02/ibm-integration-bus-integration-with-db2.html
 # C
 
 * C
@@ -456,6 +457,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * chcomg
   * Using TSA/db2haicu to Automate Failover Part 5: Additional Configuration Best Practices. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/08/16/using-tsa-db2haicu-to-automate-failover-part-5-additional-configuration-best-practices/
 * Cheat Sheet
+  * DB2 Commands. Blog - http://www.db2commands.com/
   * DB2 cheat sheet. Dublin Tech. Alex Staveley. 2011. Blog - http://dublintech.blogspot.com/2011/10/db2-cheat-sheet.html
   * DB2 Cheat Sheet (Commands). Oranges. Graeson Lewis. 2012. Blog - https://graeson.wordpress.com/2012/01/17/db2-cheat-sheet-commands/ https://app.box.com/s/zztyxzy58y9904754vsx https://app.box.com/s/alc0cj3tzssp2xhkap2h
   * DB2 commands Cheat Sheet. Nuts & Bolts of DataStage. 2013. Blog - https://datastage4you.blogspot.com/2013/11/db2-commands-cheat-sheet.html
@@ -634,6 +636,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Improve Db2 HADR Resilience of Network Transmission Corruptions. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/improve-db2-hadr-resilience-of-network.html
   * Db2’s Alternate Page Cleaning. db2commerce. Ember Brooks. 2019. Blog - https://datageek.blog/2019/01/15/db2s-alternate-page-cleaning/
 * Create database
+  * Validating a successful DB2 UDB installation. A Portal to a Portal. Dave Hay. 2014. Blog - https://portal2portal.blogspot.com/2012/06/validating-successful-db2-udb.html
   * DB2 security, Part 8: Twelve DB2 security best practices. DeveloperWorks. Ted J. Wasserman. 2006. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0607wasserman/index.html
   * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
 * Create database partition
@@ -1390,6 +1393,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * dbm - Database Manager - Instance
   * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/22/db2-basics-levels-of-configuration/
 * dbpath
+  * DB2 - Changing Database and Log Path on an active database. A Portal to a Portal. Dave Hay. 2014. Blog - https://portal2portal.blogspot.com/2014/11/db2-changing-database-and-log-path-on.html
   * Default directory for DB creations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/default-directory-for-db-creations.html
 * DCL - Data Control Language
   * DDL, DML, DCL and TCL in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/10/ddl-dml-dcl-and-tcl-in-db2.html
@@ -1794,6 +1798,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * V.R.M.F Maintenance Stream Delivery Vehicle terminology explanation. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg27008656
   * First Article – DB2 Fix Packs. db2Dean. Dean Compher. 2006. Blog - http://www.db2dean.com/Previous/FixPak.html
   * DB2 security, Part 8: Twelve DB2 security best practices. DeveloperWorks. Ted J. Wasserman. 2006. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0607wasserman/index.html
+  * More on automation - this time it's the DB2 UDB 9.7.0.2 fixpack ... A Portal to a Portal. Dave Hay. 2014. Blog - https://portal2portal.blogspot.com/2012/06/more-on-automation-this-time-its-db2.html
   * DB2 LUW Fix Packs and db2look’s -createdb and -printdbcfg. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/05/18/db2-luw-fix-packs-and-db2looks-createdb-and-printdbcfg/
   * DB2 pureScale – Online Rolling update. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/490
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/07/28/db2-basics-patching-db2/
@@ -2133,6 +2138,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 LINUX INSTALLATION. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-installation/
   * DB2 LINUX CONFIGURATION. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-configuration/
   * DB2, LINUX AND MEMORY. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-and-memory/
+  * Following the script - installing IBM DB2 UDB using a response file ( silent installation ). A Portal to a Portal. Dave Hay. 2012. Blog - https://portal2portal.blogspot.com/2012/06/following-script-installing-ibm-db2-udb.html
   * DB2/Data Studio/Data Studio Web Console. Sean's. Sean. 2013. Blog - http://twoseans.blogspot.com.co/2013/08/db2data-studiodata-studio-web-console.html
   * db2setup on Windows – Repair Option. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2017/04/04/db2setup-on-windows-repair-option/
   * Security considerations when installing and using the DB2 database manager. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/security-considerations-when-installing-DB2.html
@@ -2439,6 +2445,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * LogIndexRebuild
   * The DB2Night Show #196: Db2 LUW Transaction Log Expedition w/ Ember Crooks. The DB2Night Show. Ember Crooks. 2017. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=730
   * Comparing Two Db2 Systems. db2commerce. Ember Crooks. 2017. Blog - http://datageek.blog/2017/09/12/comparing-two-db2-systems/
+* LogPath
+  * DB2 - Changing Database and Log Path on an active database. A Portal to a Portal. Dave Hay. 2014. Blog - https://portal2portal.blogspot.com/2014/11/db2-changing-database-and-log-path-on.html
 * LogRetain
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
 * LogSecond
