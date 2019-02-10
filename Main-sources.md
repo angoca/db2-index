@@ -141,4 +141,3 @@ https://www.ibm.com/developerworks/community/groups/service/html/communitystart?
 * https://dzone.com/search?page=1 (db2)i
 * https://www.linkedin.com/pulse/db2-database-partitioning-vs-range-luis-reina
 * https://kendbablog.wordpress.com
-* https://db2today.blogspot.com/
