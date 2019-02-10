@@ -877,6 +877,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * IBM Db2 Tech Talk: Db2 Security and Compliance Support. Db2 Tech Talk. Roger Sanders. 2018. Webminar - https://www.ibm.com/events/Z56SMPES
 * DB2AutoStart
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
+  * Aide Memoire - Auto-starting DB2 on RHEL 7. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/09/aide-memoire-auto-starting-db2-on-rhel-7.html
 * db2batch
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * Nice to meet you db2batch ! techs@work. Raju Pillai. 2012. Blog - http://techsatwork.com/blog/?p=161
@@ -939,6 +940,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * DB2COMM
   * DB2 LINUX CONFIGURATION. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-configuration/
   * Receiving SQL5043n and SPM0438 ? techs@work. Raju Pillai. 2011. Blog - http://techsatwork.com/blog/?p=1092
+  * Java to DB2 via TLS 1.2 - A new one on me. A Portal to a Portal. Dave Hay. 2017. Blog - https://portal2portal.blogspot.com/2017/08/java-to-db2-via-tls-12-new-one-on-me.html
   * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://datageek.blog/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
 * db2cos
   * Analyzing lockwait situations in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2007. Article  - https://www.ibm.com/developerworks/data/library/techarticle/dm-0707fechner/index.html
@@ -999,12 +1001,14 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
 * db2fm
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
-  * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
+  * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without using DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
+  * Aide Memoire - Auto-starting DB2 on RHEL 7. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/09/aide-memoire-auto-starting-db2-on-rhel-7.html
 * db2fmd
   * Upgrading from DB2 V8.2 to DB2 V9.5. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=215
   * (Problems with the db2fmd process - Fixpack Installation) Problemas con proceso Db2fmd – Instalación FixPacks. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/renombrar-una-base-de-datos-db2/
 * db2fmcd
-  * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
+  * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without using DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
+  * Aide Memoire - Auto-starting DB2 on RHEL 7. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/09/aide-memoire-auto-starting-db2-on-rhel-7.html
 * db2fmp
   * DB2ATS + Transaction log full + backup fails. DB2 Knowledge Base Raf. Raf Mathijs. 2013. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2013/10/db2ats-transaction-log-full-backup-fails.html
 * db2fmpterm
@@ -1022,6 +1026,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
 * db2greg
   * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
+  * Aide Memoire - Auto-starting DB2 on RHEL 7. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/09/aide-memoire-auto-starting-db2-on-rhel-7.html
   * Desmistifying db2greg. Ideas for Db2 (Spanish). Andres Gomez. 2019. Blog - https://angocadb2.blogspot.com/2019/01/desmistifying-db2greg.html
 * db2gse
   * Acquiring spatial data and developing applications. DeveloperWorks. David Adler. 2016. Article - http://www.ibm.com/developerworks/data/tutorials/dm-1202db2spatialdata1/index.html
@@ -1070,6 +1075,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
 * db2inspf
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
+* db2iset
+  * Aide Memoire - Auto-starting DB2 on RHEL 7. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/09/aide-memoire-auto-starting-db2-on-rhel-7.html
 * db2isetup
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
 * db2iupdt
@@ -1081,6 +1088,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * db2jcc - db2jcc4
   * How to Identify the version and service level of DB2 product?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/05/how-to-identify-version-and-service.html
   * Establishing a DB2 JDBC Connection. db2commerce. Michael Krafick. 2017. Blog - http://datageek.blog/2017/10/26/establishing-a-db2-jdbc-connection/
+  * Java to DB2 via TLS 1.2 - A new one on me. A Portal to a Portal. Dave Hay. 2017. Blog - https://portal2portal.blogspot.com/2017/08/java-to-db2-via-tls-12-new-one-on-me.html
 * db2jdbcbind
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
 * db2ldcfg
@@ -2183,6 +2191,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Configure parameters for IBM Data Server Driver for JDBC and SQLJ against HADR for DB2 pureScale. DeveloperWorks. Sujan Ghosh and Vinayak Joshi. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1509hadr-purescale/index.html
   * Automatic Client Reroute – Templates. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11453
   * Establishing a DB2 JDBC Connection. db2commerce. Michael Krafick. 2017. Blog - http://datageek.blog/2017/10/26/establishing-a-db2-jdbc-connection/
+  * Java to DB2 via TLS 1.2 - A new one on me. A Portal to a Portal. Dave Hay. 2017. Blog - https://portal2portal.blogspot.com/2017/08/java-to-db2-via-tls-12-new-one-on-me.html
   * How to know if Java clients in Db2 are using an updated driver. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/how-to-know-if-java-clients-in-db2-are.html
 * JDBC
   * Tracing DB2 JDBC Applications. db2 tips by an IBMer. Ilker Ender. 2009. Blog - http://ilker-db2.tumblr.com/post/285098205
@@ -2195,6 +2204,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
   * DB2 Connect® Usage and Editions. db2Dean. Dean Compher. 2007. Blog - http://www.db2dean.com/Previous/DB2Connect.html
   * How to know if Java clients in Db2 are using an updated driver. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/how-to-know-if-java-clients-in-db2-are.html
+  * Java to DB2 via TLS 1.2 - A new one on me. A Portal to a Portal. Dave Hay. 2017. Blog - https://portal2portal.blogspot.com/2017/08/java-to-db2-via-tls-12-new-one-on-me.html
 * Join
   * DB2 LUW Execution Plan Operations. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/explain-plan/db2/operations
   * db2top Agent Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-1.html
