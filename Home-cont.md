@@ -753,6 +753,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * RELEASE SAVEPOINT statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/release-savepoint/
 * Relocate
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
+  * Using DB2 BACKUP to relocate a database. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/09/using-db2-backup-to-relocate-database.html
 * Remote session
   * db2top Sessions Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-2.html
 * RenameArray
@@ -991,6 +992,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Backup and restore SQL schemas for DB2 Universal Database. Serge Rielau. 2005. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0602rielau/
    * DB2 and usernames with spaces. Leons on Tech. Leons Petrazickis. 2007 - http://www.lpetr.org/blog/archives/db2-and-usernames-with-spaces
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
+  * IBM DB2 - Databases, Users, Schemas and Tables. A Portal to a Portal. Dave Hay. 2019. Blog - https://portal2portal.blogspot.com/2019/01/ibm-db2-databases-users-schemas-and.html
 * Scripts
   * DB2 Command Line Processing. techs@work. Raju Pillai. 2012. Blog - http://techsatwork.com/blog/?p=171
   * db2 batch scripts – tips and tricks – part 1. DBMSguy.com. Paul Mayhew. 2010. Blog - http://dbmsguy.com/blog/2010/07/db2-batch-scripts-tips-and-tricks-part-1/
@@ -1106,6 +1108,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Nfs4: Setting up DB2 for UNIX and Linux on NFS4 mounted file systems. db2 tips by an IBMer. Ilker Ender. 2010. Blog - http://ilker-db2.tumblr.com/post/521324056
   * (How to identify the Db2 connection port) Cómo conocer el puerto de conexión de DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/como-conocer-el-puerto-de-conexion-de-db2/
   * SQL6030N START or STOP DATABASE MANAGER failed. Reason code “38”. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/488
+  * DB2 on Windows - What a difference a CR/LF makes ... A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/12/db2-on-windows-what-difference-crlf.html
   * Hard-Coding Ports for HADR When Setting up Multiple Standbys. Virtual-DBA. Aish Khare. 2019. Blog - https://www.virtual-dba.com/hard-coding-ports-for-hadr-multiple-standbys/
   * Hard-Coding Ports for HADR When Setting up Multiple Standbys. Virtual-DBA. Aish Khare. 2019. Blog - https://www.virtual-dba.com/hard-coding-ports-for-hadr-multiple-standbys/
 * Session
@@ -2256,7 +2259,11 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/08/30/powershell-script-for-local-db2-database-activation/ 
   * db2setup on Windows – Repair Option. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2017/04/04/db2setup-on-windows-repair-option/ 
   * Hello, Db2 World! PowerShell. DataGeek.blog. Ember Brooks. 2018. Blog - https://datageek.blog/2018/08/09/hello-db2-world-powershell/
+  * DB2 on Windows - What a difference a CR/LF makes ... A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/12/db2-on-windows-what-difference-crlf.html
+  * SQL1022C There is not enough memory available to process the command. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/12/sql1022c-there-is-not-enough-memory.html
   * Fun and Games with IBM DB2 on Windows. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/12/fun-and-games-with-ibm-db2-on-windows.html
+  * DB2 on Windows - More fun with uninstallation. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/12/db2-on-windows-more-fun-with.html
+  * DB2 and Windows and the missing database. A Portal to a Portal. Dave Hay. 2019. Blog - https://portal2portal.blogspot.com/2019/01/db2-and-windows-and-missing-database.html
   * Using Windows AD groups in DB2. db2commerce. Luke Numrych. 2019. Blog - https://datageek.blog/2019/02/05/using-ad-groups-in-db2/
 * Wire Listener 
   * Using the IBM NoSQL Wire Listener for DB2. DeveolperWorks. Ioannis Papapanagiotou, Marion Behnen, John Paul Parkin, and Jyh-Chen Fang. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson4/index.html 
