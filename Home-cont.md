@@ -215,6 +215,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Interpretation of DB2 SQL errors with Networker. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/08/interpretation-of-db2-sql-errors-with.html
   * Restart vendor process for archive logging. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/12/restart-vendor-process-for-archive.html
   * Errors when issuing nsrdb2rlog. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/04/errors-when-issuing-nsrdb2rlog.html
+* NewLogPath
+  * DB2 - Changing Database and Log Path on an active database. A Portal to a Portal. Dave Hay. 2014. Blog - https://portal2portal.blogspot.com/2014/11/db2-changing-database-and-log-path-on.html
 * Node number
   * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html
   * db2top Agent Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-1.html
@@ -825,6 +827,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * IBM Support. https://www.ibm.com/support/home/
   * (Ep. 08) - Resources You Didn't Know You Needed. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=0BVlHn5iyUY
 * Response file
+  * Following the script - installing IBM DB2 UDB using a response file ( silent installation ). A Portal to a Portal. Dave Hay. 2012. Blog - https://portal2portal.blogspot.com/2012/06/following-script-installing-ibm-db2-udb.html
   * Step by Step installation of DB2 V10.5 on Linux. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/04/step-by-step-installation-of-db2-v105-Linux.html
 * Restore
   * Script de restauration DB2. Berthou.com. 2009. Blog - http://www.berthou.com/fr/2009/10/13/script-de-restauration-db2/
@@ -2078,6 +2081,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Uninstall DB2 on Linux. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=558
   * DB2 – UNINSTALL. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-uninstall/
   * Hmmm, why can't root uninstall IBM DB2 ? A Portal to a Portal. Dave Hay. 2017. Blog - https://portal2portal.blogspot.com/2017/11/hmmm-why-cant-root-uninstall-ibm-db2.html
+  * Fun and Games with IBM DB2 on Windows. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/12/fun-and-games-with-ibm-db2-on-windows.html
 * Union all
   * Creating recursive functions and procedures in SQL PL. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/recursive_sql_pl
 * Unique
@@ -2252,6 +2256,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/08/30/powershell-script-for-local-db2-database-activation/ 
   * db2setup on Windows – Repair Option. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2017/04/04/db2setup-on-windows-repair-option/ 
   * Hello, Db2 World! PowerShell. DataGeek.blog. Ember Brooks. 2018. Blog - https://datageek.blog/2018/08/09/hello-db2-world-powershell/
+  * Fun and Games with IBM DB2 on Windows. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/12/fun-and-games-with-ibm-db2-on-windows.html
   * Using Windows AD groups in DB2. db2commerce. Luke Numrych. 2019. Blog - https://datageek.blog/2019/02/05/using-ad-groups-in-db2/
 * Wire Listener 
   * Using the IBM NoSQL Wire Listener for DB2. DeveolperWorks. Ioannis Papapanagiotou, Marion Behnen, John Paul Parkin, and Jyh-Chen Fang. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson4/index.html 
