@@ -774,6 +774,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Improve IBM BPM performance with an IBM DB2 database. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz1-trs/1509_volz1.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * TABLE PARTITIONING - A datawarehouse case-study. DB2 LUW Blog. Shivraj Kumar. 2015. Blog - https://db2today.blogspot.com/2015/07/table-partitioning-datawarehouse-case.html
+  * ADAPTIVE COMPRESSION - Have you adopted it yet? DB2 LUW Blog. Shivraj Kumar. 2015. Blog - https://db2today.blogspot.com/2015/06/adaptive-compression-have-you-adopted.html
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
   * What are the different phases of Online & Offline Reorg in DB2 ?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/what-are-different-phases-of-online-and-offline-reorg-db2.html
   * Difference between Online Reorg and Offline Reorg in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/difference-between-online-and-offline-reorg-db2.html
@@ -1526,6 +1527,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * SysCat.Indexes
     * RUNSTATS and REORG-3: An effective REORG policy. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/05/runstats-and-reorg-3-effective-reorg.html
     * DB2 10.5 — Catalog data for Expression-Based Indexes. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/08/12/db2-10-5-catalog-data-for-expression-based-indexes/
+    * LASTUSED - boon to DBAs. DB2 LUW Blog. Shivraj Kumar. 2015. Blog - https://db2today.blogspot.com/2015/05/lastused-boon-to-dbas.html
     * Dropping Indexes to Improve Db2 Performance. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/dropping-indexes-improve-db2-performance/
   * SysCat.NodeGroupDef
     * Index Cardinality in a DB2 multi-partitioned (DPF) database. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/04/28/index-cardinality-in-a-db2-multi-partitioned-dpf-database/
@@ -1654,6 +1656,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * SysProc.Admin_Get_Tab_Compress_Info
     * Getting an estimate – DB2 LUW V10.1 Compression. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/getting-an-estimate-db2-luw-v10-1-compression/
   * SysProc.Admin_Get_Tab_Info
+    * ADAPTIVE COMPRESSION - Have you adopted it yet? DB2 LUW Blog. Shivraj Kumar. 2015. Blog - https://db2today.blogspot.com/2015/06/adaptive-compression-have-you-adopted.html
     * Database Size and Table Sizes. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30319
   * SysProc.Admin_Move_Table
     * Reclaimable Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/02/21/reclaimable-table-spaces/
