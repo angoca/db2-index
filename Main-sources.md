@@ -28,9 +28,11 @@ In this section, the main DB2 sources are described:
 * DeveloperWorks (Articles). http://www.ibm.com/developerworks/views/data/libraryview.jsp?sort_by=Date&search_by=db2
   * Articles since 201601 to 201702
 * Shiji Pan - With Data (Blog related to a data software). https://www.withdata.com/blog/
-  * All articles related to Db2 (Between 2013 to 201805)
+  * All articles related to Db2 (Between 2013 and 201805)
 * Leons Petrazickis - Leons on Tech. http://lpetr.org/
-  * All articles related to Db2 (Between 2006 to 201811)
+  * All articles related to Db2 (Between 2006 anc 201811)
+* Shivraj Kumar - DB2 LUW Blog. https://db2today.blogspot.com
+  * All articles related to Db2 (Between 2015 and 2018)
 
 These blogs are not longer updated 😞 
 
