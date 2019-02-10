@@ -85,6 +85,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 Partitioned Tables - Life made easy - Part 2. A Day in DBA's life. Manohar Viswanatha. 2013. Blog - https://mviswa.blogspot.com/2013/12/db2-partitioned-tables-life-made-easy_14.html
   * DB2 Partitioned Tables - Life made easy - Part 3. A Day in DBA's life. Manohar Viswanatha. 2013. Blog - https://mviswa.blogspot.com/2013/12/db2-partitioned-tables-life-made-easy_23.html
   * How to identify if a table has the not logged initially attribute. Ideas for DB2 (Spanish). Andres Gomez. 2015. Blog - http://angocadb2.blogspot.com.co/2015/12/how-to-identify-if-table-has-not-logged.html
+  * ADAPTIVE COMPRESSION - Have you adopted it yet? DB2 LUW Blog. Shivraj Kumar. 2015. Blog - https://db2today.blogspot.com/2015/06/adaptive-compression-have-you-adopted.html
 * Alter tablespace
   * Storage groups - A comprehensive solution of handling your data. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/storage-groups-comprehensive-solution.html
   * SPACE RECLAIMATION - Free your diskspace. DB2 LUW Blog. Shivraj Kumar. 2015. Blog - https://db2today.blogspot.com/2015/06/space-reclaimation-free-your-diskspace.html
@@ -543,6 +544,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * Record the size of your DB2 tables – SYSIBMADM.ADMINTABINFO. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/record-the-size-of-your-db2-tables-sysibmadm-admintabinfo/
   * Getting an estimate – DB2 LUW V10.1 Compression. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/getting-an-estimate-db2-luw-v10-1-compression/
+  * ADAPTIVE COMPRESSION - Have you adopted it yet? DB2 LUW Blog. Shivraj Kumar. 2015. Blog - https://db2today.blogspot.com/2015/06/adaptive-compression-have-you-adopted.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * Monitoring database backup performance in db2. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/10/monitoring-database-backup-performance-db2.html
   * DB2 Archived Log Compression. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/09/db2-archived-log-compression-1.html
@@ -2241,6 +2243,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Language SQL
   * LANGUAGE SQL clause. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/language-sql/
 * LastUsed
+  * LASTUSED - boon to DBAs. DB2 LUW Blog. Shivraj Kumar. 2015. Blog - https://db2today.blogspot.com/2015/05/lastused-boon-to-dbas.html
   * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
 * Latch
   * DB2ATS + Transaction log full + backup fails. DB2 Knowledge Base Raf. Raf Mathijs. 2013. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2013/10/db2ats-transaction-log-full-backup-fails.html
