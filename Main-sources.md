@@ -141,5 +141,5 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=d4334e67-3b43-4d33-bf32-22a73685871c
 * http://db2luw2.blogspot.com
 * http://dbaworks.blogspot.com/2015/02/db2-with-tsa.html
-* https://portal2portal.blogspot.com/search?q=db2
+https://portal2portal.blogspot.com/search?q=db2&max-results=20&by-date=true
 * https://dzone.com/search?page=1 (db2)i
