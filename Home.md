@@ -411,6 +411,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * CALL statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/call/
   * CALLED ON NULL INPUT option. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/called-on-null-input/
   * Default values. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/default-values/
+* CAM - Cloud Automation Manager
+  * IBM Cloud Automation Manager and the Case of the Missing Software. A Portal to a Portal. Dave Hay. 2019. Blog - https://portal2portal.blogspot.com/2019/01/ibm-cloud-automation-manager-and-case.html
 * Cartesian product
   * Seven SQL Performance-Killers to Avoid in Db2. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/seven-sql-performance-killers-avoid-db2/
 * Catalog
@@ -1001,6 +1003,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Which is better db2expln or db2exfmt? Vinay's DB2 blog. Vinay Bommana. 2018. Blog - http://vinaysdb2blog.blogspot.com/2018/10/which-is-better-db2expln-or-db2exfmt.html
 * db2extsec
   * Resetting DB2 file permissions. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=41
+  * SQL1022C There is not enough memory available to process the command. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/12/sql1022c-there-is-not-enough-memory.html
 * db2flsn
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
@@ -1285,6 +1288,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
   * How to setup logical data partitioning in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/how-to-setup-logical-data-partitioning-in-db2.html
   * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/22/db2-basics-levels-of-configuration/
+  * DB2 on Windows - What a difference a CR/LF makes ... A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/12/db2-on-windows-what-difference-crlf.html
   * Bouncing the instance. DB2 LUW Blog. Shivraj Kumar. 2018. Blog - https://db2today.blogspot.com/2018/12/bouncing-instance.html
 * db2stop
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
@@ -1379,6 +1383,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Understanding and Tuning DB2/LUW Backup and Restore Performance. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/understanding-and-tuning-db2luw-backup.html
 * DB2TSCHG.HIS
   * A Peek on DB2 Log Record. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/07/peek-on-db2-log-record.html
+* db2unins
+  * Fun and Games with IBM DB2 on Windows. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/12/fun-and-games-with-ibm-db2-on-windows.html
 * db2untag
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
 * db2updvNNN
@@ -1395,6 +1401,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * dbpath
   * DB2 - Changing Database and Log Path on an active database. A Portal to a Portal. Dave Hay. 2014. Blog - https://portal2portal.blogspot.com/2014/11/db2-changing-database-and-log-path-on.html
   * Default directory for DB creations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/default-directory-for-db-creations.html
+  * Using DB2 BACKUP to relocate a database. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/09/using-db2-backup-to-relocate-database.html
 * DCL - Data Control Language
   * DDL, DML, DCL and TCL in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/10/ddl-dml-dcl-and-tcl-in-db2.html
 * DCS - Database Connection Services
