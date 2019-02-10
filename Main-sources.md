@@ -35,6 +35,8 @@ In this section, the main DB2 sources are described:
   * All articles related to Db2 (Between 2015 and 2018)
 * Ken Garber - Ken's DBA Blog. https://kendbablog.wordpress.com
   * All articles related to Db2 (Between 2014 and 2018)
+* Luis Reina - Linkedin https://www.linkedin.com/pulse/db2-database-partitioning-vs-range-luis-reina
+  * Articles of 2018.
 
 These blogs are not longer updated 😞 
 
@@ -141,4 +143,3 @@ https://www.ibm.com/developerworks/community/groups/service/html/communitystart?
 * http://dbaworks.blogspot.com/2015/02/db2-with-tsa.html
 * https://portal2portal.blogspot.com/search?q=db2
 * https://dzone.com/search?page=1 (db2)i
-* https://www.linkedin.com/pulse/db2-database-partitioning-vs-range-luis-reina
