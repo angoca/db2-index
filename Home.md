@@ -801,6 +801,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Find a list of views marked inoperative. Leons on Tech. Leons Petrazickis. 2010 - http://www.lpetr.org/blog/archives/find-a-list-of-views-marked-inoperative
 * db2_deinstall
   * Uninstall DB2 on Linux. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=558
+  * Hmmm, why can't root uninstall IBM DB2 ? A Portal to a Portal. Dave Hay. 2017. Blog - https://portal2portal.blogspot.com/2017/11/hmmm-why-cant-root-uninstall-ibm-db2.html
 * DB2_ENABLE_HADR_LOG_PAGE_INTEGRITY_CHECK
   * Improve Db2 HADR Resilience of Network Transmission Corruptions. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/improve-db2-hadr-resilience-of-network.html
 * DB2_EVALUNCOMMITTED
@@ -876,6 +877,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * How I can now answer auditor’s questions – Leveraging DB2’s Audit facility. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/06/02/basics-of-db2s-db2audit-facility/
   * IBM Db2 Tech Talk: Db2 Security and Compliance Support. Db2 Tech Talk. Roger Sanders. 2018. Webminar - https://www.ibm.com/events/Z56SMPES
 * DB2AutoStart
+  * DB2 UDB - Interesting quirk with auto-start on Linux. A Portal to a Portal. Dave Hay. 2012. Blog - https://portal2portal.blogspot.com/2012/08/db2-udb-interesting-quirk-with-auto.html
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
   * Aide Memoire - Auto-starting DB2 on RHEL 7. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/09/aide-memoire-auto-starting-db2-on-rhel-7.html
 * db2batch
@@ -999,16 +1001,19 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * db2flsn
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * DB2 Tips n Tricks Part 36 - How to Find Empty/Blank Log files in Active Log Space. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=F8gPcwyI9jA
-* db2fm
+* db2fm - Fault Monitor
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
+  * DB2 UDB - Interesting quirk with auto-start on Linux. A Portal to a Portal. Dave Hay. 2012. Blog - https://portal2portal.blogspot.com/2012/08/db2-udb-interesting-quirk-with-auto.html
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without using DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
   * Aide Memoire - Auto-starting DB2 on RHEL 7. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/09/aide-memoire-auto-starting-db2-on-rhel-7.html
+* db2fmcd - Fault Monitor Coordinator
+  * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without using DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
+  * DB2 UDB and Linux - Start Me Up - AGAIN. A Portal to a Portal. Dave Hay. 2012. Blog - https://portal2portal.blogspot.com/2018/09/aide-memoire-auto-starting-db2-on-rhel-7.html
+* db2fmcmd
+  * DB2 UDB - Interesting quirk with auto-start on Linux. A Portal to a Portal. Dave Hay. 2012. Blog - https://portal2portal.blogspot.com/2012/08/db2-udb-interesting-quirk-with-auto.html
 * db2fmd
   * Upgrading from DB2 V8.2 to DB2 V9.5. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=215
   * (Problems with the db2fmd process - Fixpack Installation) Problemas con proceso Db2fmd – Instalación FixPacks. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/renombrar-una-base-de-datos-db2/
-* db2fmcd
-  * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without using DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
-  * Aide Memoire - Auto-starting DB2 on RHEL 7. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/09/aide-memoire-auto-starting-db2-on-rhel-7.html
 * db2fmp
   * DB2ATS + Transaction log full + backup fails. DB2 Knowledge Base Raf. Raf Mathijs. 2013. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2013/10/db2ats-transaction-log-full-backup-fails.html
 * db2fmpterm
@@ -1048,6 +1053,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Improve Db2 HADR Resilience of Network Transmission Corruptions. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/improve-db2-hadr-resilience-of-network.html
 * db2iauto
   * (Automatic start of a Db2 instance) Inicio automático de una instancia DB2 – db2iauto. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/inicio_automatico_instancia_db2_db2iauto/
+  * DB2 UDB - Interesting quirk with auto-start on Linux. A Portal to a Portal. Dave Hay. 2012. Blog - https://portal2portal.blogspot.com/2012/08/db2-udb-interesting-quirk-with-auto.html
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
 * db2iclus
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
@@ -1125,6 +1131,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 Basics: Statement Terminators. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/07/13/db2-basics-statement-terminators/
 * db2ls
   * DB2 Installation Enhancements. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/01/db2-installation-enhancements.html
+  * Hmmm, why can't root uninstall IBM DB2 ? A Portal to a Portal. Dave Hay. 2017. Blog - https://portal2portal.blogspot.com/2017/11/hmmm-why-cant-root-uninstall-ibm-db2.html
 * db2med
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * Understanding and Tuning DB2/LUW Backup and Restore Performance. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/understanding-and-tuning-db2luw-backup.html
@@ -2266,12 +2273,16 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * Authentication & Authorization process in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/authentication-and-authorization-process-in-db2.html
   * IBM Db2 Tech Talk: Db2 Security and Compliance Support. Db2 Tech Talk. Roger Sanders. 2018. Webminar - https://www.ibm.com/events/Z56SMPES
+* LD_LIBRARY_PATH
+  * IBM DB2, Red Hat Enterprise Linux and the IBM Mainframe. A Portal to a Portal. Dave Hay. 2017. Blog - https://portal2portal.blogspot.com/2017/11/ibm-db2-red-hat-enterprise-linux-and.html
 * LDAP
   * DB2 - LDAP. Tutorials Point. nd. Tutorial - https://www.tutorialspoint.com/db2/db2_ldap.htm
   * DB2 and Transparent LDAP in DB2 DPF – Misleading error SQL30082N. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/10/13/db2-and-transparent-ldap-in-db2-dpf-misleading-error-sql30082n/
   * DB2 UDB and Linux LDAP Authentication. Ken's DBA Blog. Ken Garber. 2015. Blog - https://kendbablog.wordpress.com/2015/07/01/db2-udb-and-linux-ldap-authentication/
 * Leave
   * LEAVE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/leave/
+* libpam
+  * IBM DB2, Red Hat Enterprise Linux and the IBM Mainframe. A Portal to a Portal. Dave Hay. 2017. Blog - https://portal2portal.blogspot.com/2017/11/ibm-db2-red-hat-enterprise-linux-and.html
 * License
   * How to Recreate DB2 Instance. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/01/how-to-recreate-db2-instance.html
   * Going from DB2 Enterprise to DB2 Express-C. Leons on Tech. Leons Petrazickis. 2010 - http://www.lpetr.org/blog/archives/going-from-db2-enterprise-to-db2-express-c-2
