@@ -1440,6 +1440,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Nfs4: Setting up DB2 for UNIX and Linux on NFS4 mounted file systems. db2 tips by an IBMer. Ilker Ender. 2010. Blog - http://ilker-db2.tumblr.com/post/521324056
   * DB2 10: Multi Temperature Data Management. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/multitempdata
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
+  * SPACE RECLAIMATION - Free your diskspace. DB2 LUW Blog. Shivraj Kumar. 2015. Blog - https://db2today.blogspot.com/2015/06/space-reclaimation-free-your-diskspace.html
 * Storage groups
   * DB2 10: Multi Temperature Data Management. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/multitempdata
   * DB2 10.1 LUW Certification 611 notes 1 : Physical Design. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/db2-10-1-luw-exam-611-notes-physical-design/
@@ -1724,6 +1725,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * SysProc.Mon_Get_Tablespace
     * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://datageek.blog/2016/07/12/monitoring-extent-movement-progress/
     * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html
+    * SPACE RECLAIMATION - Free your diskspace. DB2 LUW Blog. Shivraj Kumar. 2015. Blog - https://db2today.blogspot.com/2015/06/space-reclaimation-free-your-diskspace.html
     * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
     * Table in Quiesce Mode. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30324
   * SysProc.Mon_Get_Tablespace_Quiescer
