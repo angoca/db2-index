@@ -87,6 +87,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * How to identify if a table has the not logged initially attribute. Ideas for DB2 (Spanish). Andres Gomez. 2015. Blog - http://angocadb2.blogspot.com.co/2015/12/how-to-identify-if-table-has-not-logged.html
 * Alter tablespace
   * Storage groups - A comprehensive solution of handling your data. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/storage-groups-comprehensive-solution.html
+  * SPACE RECLAIMATION - Free your diskspace. DB2 LUW Blog. Shivraj Kumar. 2015. Blog - https://db2today.blogspot.com/2015/06/space-reclaimation-free-your-diskspace.html
   * How to bring tablespace state to offline. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2016/05/12/how-to-bring-tablespace-state-to-offline/
 * Alternate server
   * Configure parameters for IBM Data Server Driver for JDBC and SQLJ against HADR for DB2 pureScale. DeveloperWorks. Sujan Ghosh and Vinayak Joshi. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1509hadr-purescale/index.html
