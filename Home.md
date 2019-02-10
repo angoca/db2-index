@@ -1908,6 +1908,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
   * How to Estimate the duration of a TAKEOVER HADR operation in DB2. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/07/how-to-estimate-duration-of-takeover.html
   * How to identify if a table has the not logged initially attribute. Ideas for DB2 (Spanish). Andres Gomez. 2015. Blog - http://angocadb2.blogspot.com.co/2015/12/how-to-identify-if-table-has-not-logged.html
+    * DB2 split mirror to create a HADR standby database. Ken's DBA Blog. Ken Garber. 2015. Blog - https://kendbablog.wordpress.com/2015/07/01/db2-split-mirror-to-create-a-hadr-standby-database/comment-page-1
   * Automated cluster controlled HADR configuration setup using the IBM DB2 high availability instance configuration utility. DeveloperWorks. Steve Raspudic, Malaravan Ponnuthurai. 2016. Article - http://www.ibm.com/developerworks/data/library/long/dm-0907hadrdb2haicu/index.html
   * Tie-Breaker Disk for HADR or pureScale. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/499
   * Avoid Tie Breaker Disk. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/501
@@ -2256,6 +2257,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * LDAP
   * DB2 - LDAP. Tutorials Point. nd. Tutorial - https://www.tutorialspoint.com/db2/db2_ldap.htm
   * DB2 and Transparent LDAP in DB2 DPF – Misleading error SQL30082N. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/10/13/db2-and-transparent-ldap-in-db2-dpf-misleading-error-sql30082n/
+  * DB2 UDB and Linux LDAP Authentication. Ken's DBA Blog. Ken Garber. 2015. Blog - https://kendbablog.wordpress.com/2015/07/01/db2-udb-and-linux-ldap-authentication/
 * Leave
   * LEAVE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/leave/
 * License
