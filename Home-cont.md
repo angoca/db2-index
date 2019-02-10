@@ -2077,6 +2077,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Uninstall
   * Uninstall DB2 on Linux. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=558
   * DB2 – UNINSTALL. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-uninstall/
+  * Hmmm, why can't root uninstall IBM DB2 ? A Portal to a Portal. Dave Hay. 2017. Blog - https://portal2portal.blogspot.com/2017/11/hmmm-why-cant-root-uninstall-ibm-db2.html
 * Union all
   * Creating recursive functions and procedures in SQL PL. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/recursive_sql_pl
 * Unique
