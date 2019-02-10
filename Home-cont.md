@@ -661,10 +661,9 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Random
   * How to select N random records from a DB2 table. With Data. Shiji Pan. 2017. Blog - https://www.withdata.com/blog/tips/how-to-select-n-random-records-from-a-db2-table.html
 * Range Clustered Tables
-  * DB2 10.1 LUW Certification 611 notes 1 : Physical Design. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/db2-10-1-luw-exam-611-notes-physical-design/
+  * Please check the Table partitioning entry.
 * Range Partitioned Tables
-  * DB2 10: Multi Temperature Data Management. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/multitempdata
-  * Restore Transport option – mix and match your schemas (Part 1). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas/
+  * Please check the Table partitioning entry.
 * Raw  logging (Discontinued)
   * The DB2Night Show #196: Db2 LUW Transaction Log Expedition w/ Ember Crooks. The DB2Night Show. Ember Crooks. 2017. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=730
 * RCAC
@@ -1787,12 +1786,16 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Table partitioning
   * DB2 Partitioning. DB2 Diary from Radhesh. Radhesh Kumar. 2007. Blog - http://radheshk.blogspot.com/2007/12/db2-partitioning.html
   * Benefits of Data Partitioning and MDC ! techs@work. Raju Pillai. 2011. Blog - http://techsatwork.com/blog/?p=825
+  * DB2 10: Multi Temperature Data Management. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/multitempdata
+  * DB2 10.1 LUW Certification 611 notes 1 : Physical Design. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/db2-10-1-luw-exam-611-notes-physical-design/
   * DB2 Partitioned Tables - Life made easy - Part 1. A Day in DBA's life. Manohar Viswanatha. 2013. Blog - https://mviswa.blogspot.com/2013/12/db2-partitioned-tables-life-made-easy.html
   * DB2 Partitioned Tables - Life made easy - Part 2. A Day in DBA's life. Manohar Viswanatha. 2013. Blog - https://mviswa.blogspot.com/2013/12/db2-partitioned-tables-life-made-easy_14.html
   * DB2 Partitioned Tables - Life made easy - Part 3. A Day in DBA's life. Manohar Viswanatha. 2013. Blog - https://mviswa.blogspot.com/2013/12/db2-partitioned-tables-life-made-easy_23.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * TABLE PARTITIONING - A datawarehouse case-study. DB2 LUW Blog. Shivraj Kumar. 2015. Blog - https://db2today.blogspot.com/2015/07/table-partitioning-datawarehouse-case.html
+  * Restore Transport option – mix and match your schemas (Part 1). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas/
   * DB2 TABLE PARTITIONING. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/db2-table-partitioning/
+  * Db2 Database Partitioning vs Range Partitioning. Linkedin. Luis Reina. 2018. Blog - https://www.linkedin.com/pulse/db2-database-partitioning-vs-range-luis-reina/
 * Table queue
   * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html
 * Table size
