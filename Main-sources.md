@@ -7,6 +7,9 @@ In this section, the main DB2 sources are described:
     * Articles since 201701 to 201901
 * Andres Gomez Casanova - Ideas for DB2 (Blog about technical stuff). https://angocadb2.blogspot.com
   * Articles since 201601 to 201901
+*  Dave Hay - A Portal to a Portal (Blog about many technologies around IBM, including Db2)
+https://portal2portal.blogspot.com/search?q=db2&max-results=20&by-date=true
+  * Articles since 201801 to 201901
 * Michael Krafick - Discover db2 (Video tutorial about Db2). https://www.youtube.com/DISCOVERDB2
 * Vinay Kumar Bommana - DB Tutorials (Videos of DB2 🎥 ).
   * https://www.youtube.com/channel/UCo0cIzR_TbMzU5wHQmbTjxQ/videos
@@ -141,5 +144,4 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=d4334e67-3b43-4d33-bf32-22a73685871c
 * http://db2luw2.blogspot.com
 * http://dbaworks.blogspot.com/2015/02/db2-with-tsa.html
-https://portal2portal.blogspot.com/search?q=db2&max-results=20&by-date=true
 * https://dzone.com/search?page=1 (db2)i
