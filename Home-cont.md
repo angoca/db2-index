@@ -5,6 +5,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Mac OS
   * lInstalling DB2 on Mac OS X. Leons on Tech. Leons Petrazickis. 2014. Blog - http://www.lpetr.org/blog/archives/installing-db2-10-1-on-mac-os-x
   * Install DB2 on OS X Sierra. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/install-db2-on-os-x-sierra.html
+  * Using DB2 on the IBM Cloud from macOS. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/05/using-db2-on-ibm-cloud-from-macos.html
 * Magazine
   * DataMagazine. DataMagazine. Magazine - http://ibmdatamag.com/
 * Maintenance
@@ -753,6 +754,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * RELEASE SAVEPOINT statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/release-savepoint/
 * Relocate
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
+  * DB2 - Moving databases. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/07/db2-moving-databases.html
   * Using DB2 BACKUP to relocate a database. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/09/using-db2-backup-to-relocate-database.html
 * Remote session
   * db2top Sessions Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-2.html
