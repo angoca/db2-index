@@ -499,6 +499,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * CLPPlus
   * (Compatibility of Db2 with Oracle: DB2 9.7 CLP PLUS (1/2)) Compatibilidad de DB2 con ORACLE: DB2 9.7 CLP PLUS (1/2). DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/compatibilidad-de-db2-con-oracle-db2-9-7-clp-plus-12/
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
+  * Using DB2 on the IBM Cloud from macOS. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/05/using-db2-on-ibm-cloud-from-macos.html
 * Clustering dimensions
   * Please check the MDC entry.
 * Cluster Facility
@@ -931,6 +932,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * db2haicu disable / enable and scripting. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11482
 * db2ckrst
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
+* db2cli
+  * Using DB2 on the IBM Cloud from macOS. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/05/using-db2-on-ibm-cloud-from-macos.html
 * db2cli.ini
   * Configuring SSL for IBM Data Server Driver for ODBC and CLI. DeveloperWorks. Chetan Papaiah, Ashok V. Jose and Chris Meyer. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-ssl-data-server-driver-odbc-cli-trs/index.html
 * db2cluster
@@ -1239,6 +1242,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * (Rename a Db2 database) Renombrar una Base de Datos DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/renombrar-una-base-de-datos-db2/
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
+  * DB2 - Moving databases. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/07/db2-moving-databases.html
 * db2rfe
   * db2rfe for non-root installations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/01/db2rfe-for-non-root-instalations.html
 * db2rmln
