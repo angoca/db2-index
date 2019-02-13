@@ -2131,6 +2131,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Db2 SQL Tutorial 2 - Getting Started with Db2 and DSM. CaleTheVideoMaker2. Caleb Curry. 2017. Video - https://www.youtube.com/watch?v=DXDAX2t953c
   * Db2 Basics: Introduction to IBM Db2. db2commerce. Ember Brooks. 2018. Blog - http://datageek.blog/2018/03/06/db2-basics-introduction-to-ibm-db2/
   * What you Need to Do to Support a Db2 Environment. db2commerce. Ember Brooks. 2019. Blog - https://datageek.blog/2019/01/22/what-you-need-to-do-to-support-a-db2-environment/
+  * Db2 SQL Basics: The Most Basic Select Statement. db2commerce. Ember Brooks. 2019. Blog - https://datageek.blog/2019/02/12/db2-sql-basics-the-most-basic-select-statement/
 * Insert
   * Returning ResultSets From Delete , Update Queries using data-change-table-reference expressions. db2 tips by an IBMer. Ilker Ender. 2009. Blog - http://ilker-db2.tumblr.com/post/258702315
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
