@@ -1074,6 +1074,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * Tie-Breaker Disk for HADR or pureScale. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/499
   * GPFS Disk Cleanup. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11458
+  * DB2 - The Hanging Creation of Instances. A Portal to a Portal. Dave Hay. 2017. Blog - https://portal2portal.blogspot.com/2017/11/db2-hanging-creation-of-instances.html
 * db2idrop
   * How to Recreate DB2 Instance. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/01/how-to-recreate-db2-instance.html
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
@@ -1182,6 +1183,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
   * DB2 11.1 Rebuild TSA Resources. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11436
   * How to setup logical data partitioning in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/how-to-setup-logical-data-partitioning-in-db2.html
+  * DB2 on Windows - where does the db2nodes.cfg file live ?. A Portal to a Portal. Dave Hay. 2017. Blog - https://portal2portal.blogspot.com/2017/12/db2-on-windows-where-does-db2nodescfg.html
 * db2nosql
   * Using the command-line processor. DeveolperWorks. Marion Behnen and Tony Sun. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson2/index.html
 * db2nosql.bat
@@ -1228,6 +1230,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 LINUX INSTALLATION. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-installation/
   * DB2 purescale Install GPL Error. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
   * DB2 performance monitoring with db2pd. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/03/db2-performance-monitoring-with-db2pd.html
+  * Installing IBM DB2 on Linux using IBM Installation Manager - Fun and Games. A Portal to a Portal. Dave Hay. 2017. Blog - https://portal2portal.blogspot.com/2017/11/installing-ibm-db2-on-linux-using-ibm.html
+  * IBM DB2, Red Hat Enterprise Linux and the IBM Mainframe. A Portal to a Portal. Dave Hay. 2017. Blog - https://portal2portal.blogspot.com/2017/11/ibm-db2-red-hat-enterprise-linux-and.html
   * Building a Sandbox VM for DB2. db2commerce. Ember Crooks. 2017. Blog - http://datageek.blog/2017/01/19/building-a-sandbox-vm-for-db2/
 * db2profile
   * DB2 Command Line Processing. techs@work. Raju Pillai. 2012. Blog - http://techsatwork.com/blog/?p=171
@@ -1814,6 +1818,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 pureScale – Online Rolling update. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/490
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/07/28/db2-basics-patching-db2/
   * New Mod Pack and Fix Pack for DB2 V11 available now. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/12/new-mod-pack-and-fix-pack-for-db2-v11.html
+  * IBM DB2, Red Hat Enterprise Linux and the IBM Mainframe. A Portal to a Portal. Dave Hay. 2017. Blog - https://portal2portal.blogspot.com/2017/11/ibm-db2-red-hat-enterprise-linux-and.html
   * Understanding Fallback Compatibility of Db2 Version 11.1 Fix Packs and Mod Packs. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/understanding-fallback-compatibility-of.html
   * Db2 Basics: Using FTPS to get a Fixpack Directly to a Db2 Server. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/02/01/db2-basics-using-ftps-to-get-a-fixpack-directly-to-a-db2-server/
   * DB2 Table Row (Tuple) Size. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2-row-size/
@@ -2033,6 +2038,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Why are there Question Marks in my Db2 Queries?. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/why-are-there-question-marks-in-my-db2-queries/
 * Hostname
   * Changing the DB2 hostname. Leons on Tech. Leons Petrazickis. 2007 - http://www.lpetr.org/blog/archives/moving-db2-from-one-hostname-to-another
+  * DB2 on Windows - where does the db2nodes.cfg file live ?. A Portal to a Portal. Dave Hay. 2017. Blog - https://portal2portal.blogspot.com/2017/12/db2-on-windows-where-does-db2nodescfg.html
 
 # I
 
