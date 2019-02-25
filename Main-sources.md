@@ -145,3 +145,4 @@ https://www.ibm.com/developerworks/community/groups/service/html/communitystart?
 * http://db2luw2.blogspot.com
 * http://dbaworks.blogspot.com/2015/02/db2-with-tsa.html
 * https://dzone.com/search?page=1 (db2)i
+* http://wordpress.wongpakm.com/tag/db2/
