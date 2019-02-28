@@ -1015,9 +1015,10 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Utility Scripts for pureScale. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30277
   * Count Rows When Loading.  Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30318
   * Script to Reduce the tablespace size and reduce the free pages. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/10/script-to-reduce-tablespace-size-and-reduce-free-pages.html
-  * Meta commands in a SQL script in Db2--#PARAM. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/09/meta-commands-in-sql-script-in-db2-param.html
+  * db2mon script for monitoring performance. IBM. 2017. Support - http://www-01.ibm.com/support/docview.wss?  * Db2 Persistent Data Collection Scripts - Collect and Retain Historical Diagnostic Data to Reduce Problem Determination Times. IBM. 2017. Support - http://www-01.ibm.com/support/docview.wss?uid=swg22005477
   * Db2 Persistent Data Collection Scripts
     * Reduce Problem Resolution Times with Persistent Db2 Diagnostic Data Collection. ThinkingDB2! David Sciaraffa. 2017 - http://thinkingdb2.blogspot.com.co/2017/07/reduce-problem-resolution-times-with.html
+  * Meta commands in a SQL script in Db2--#PARAM. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/09/meta-commands-in-sql-script-in-db2-param.html
 * Scripting
   * A Shell script to get total space allocated in a database. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=44
   * Automated runstats – take 2. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=71
