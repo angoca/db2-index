@@ -34,7 +34,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Creating a DB2 LUW (Linux, Unix and Windows) Sandbox database. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/09/08/creating-a-db2-luw-linux-unix-and-windows-sandbox-database/
   * Establishing a performance tuning strategy. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/establishing-performance-tuning-strategy.html
 * MDV - Maintenance Delivery Vehicle
-  * V.R.M.F Maintenance Stream Delivery Vehicle terminology explanation. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg27008656
+  * V.R.M.F Maintenance Stream Delivery Vehicle terminology explanation. IBM. 2015. Support - http://www-01.ibm.com/support/docview.wss?uid=swg27008656
 * Meet DB2 - Migration Evaluation and Enablement Tool
   * MEET DB2: automated database migration evaluation. ACM Digital Library. Reynold Xin, William McLaren, Patrick Dantressangle, Steve Schormann, Sam Lightstone, Maria Schwenger. 2010. Article - https://dl.acm.org/citation.cfm?id=1920841.1921016
   * 98% Compatibility with Oracle Apps - "Proof". DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/ninetyeightpercent
@@ -514,7 +514,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * PMR creation. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/02/pmr-creation.html
 * Point in Time Recovery (PIT)
   * DB2 Tips n Tricks Part 98 - How Conversion of Regular to Large Tablespace Impacts Recovery. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=uJ2_HXMY6A4
-  * How to backup and extract the recovery history file from a database backup? IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21994689
+  * How to backup and extract the recovery history file from a database backup? IBM. 2016. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21994689
 * Pool
   * db2top Agent Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-1.html
 * Port
@@ -713,7 +713,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Rec_His_Retentn
   * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/07/17/the-db2-recovery-history-file/
 * Recover
-  * How to backup and extract the recovery history file from a database backup? IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21994689
+  * How to backup and extract the recovery history file from a database backup? IBM. 2016. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21994689
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
   * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/07/17/the-db2-recovery-history-file/
   * Recovering from corrupt DB2 Storage Group Control Files. db2geek. Damir Wilder, Iqbal Goralwalla. 2018. Blog - http://db2geek.triton.co.uk/recovering-corrupt-db2-storage-group-control-files/
@@ -1494,7 +1494,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Summary tables
   * An introduction to materialized query tables. DeveloperWorks. Roman Melnyk. 2005. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0509melnyk/
 * Support
-  * DB2 Distributed end of support (EOS) dates. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21168270
+  * DB2 Distributed end of support (EOS) dates. IBM. 2018. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21168270
   * Getting DB2 Help. db2Dean. Dean Compher. 2007. Blog - http://www.db2dean.com/Previous/DB2Help.html
   * Enable Yourself to Open IBM Support Requests. db2Dean. Dean Compher. 2007. Blog - http://www.db2dean.com/Previous/esrRegister.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
@@ -2169,7 +2169,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 # V 
  
 * V.R.M.F. - Version, Release, Modification, Fixpack 
-  * V.R.M.F Maintenance Stream Delivery Vehicle terminology explanation. IBM. Support - http://www-01.ibm.com/support/docview.wss?uid=swg27008656 
+  * V.R.M.F Maintenance Stream Delivery Vehicle terminology explanation. IBM. 2015. Support - http://www-01.ibm.com/support/docview.wss?uid=swg27008656 
 * Value compression 
   * Size matters: A handy routine to compute the defined row size of a table. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/getrowsize 
 * Varchar 
