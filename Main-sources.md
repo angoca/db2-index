@@ -147,3 +147,4 @@ https://www.ibm.com/developerworks/community/groups/service/html/communitystart?
 * https://dzone.com/search?page=1 (db2)i
 * http://wordpress.wongpakm.com/tag/db2/
 * http://mylearnings-db.blogspot.com/search/label/db2%20luw
+* http://www.jdbwiki.tech/doku.php?id=db2
