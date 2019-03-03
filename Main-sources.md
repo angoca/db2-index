@@ -73,7 +73,7 @@ These blogs are not longer updated 😞
 * Saurabh Agrawal - Ride On Data. http://www.rideondata.com/
   * All articles (2015 - Complete)
   * Most of the articles are plagiarism from DeveloperWorks.
-* Oscar Paredes - DB2 Util. http://www.db2util.es/
+* Oscar Paredes - DB2 Util. https://web.archive.org/web/20180805191138/http://www.db2util.es/
   * All articles (Between 2010 and 2014 - Complete).
 * TeknoMagus. https://technomagus.wordpress.com
   * All articles related to Db2 (Between 2010 and 2013 - Complete).
