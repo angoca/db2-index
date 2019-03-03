@@ -67,7 +67,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * db2top Locks Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-locks-screen.html
 * Agent stolen
   * db2top Sessions Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-2.html
-  * (db2top utility) Utilidad DB2TOP. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/utilidades/utilidad-db2top/
+  * (db2top utility) Utilidad DB2TOP. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/utilidades/utilidad-db2top/
 * Aggregate
   * SQL on Fire! Part 1. WAIUG. Serge Rielau. 2006. Presentation - http://www.waiug.org/present/Forum2006/Presentations/SQLonFire_1_Serge_Rielau.ppt
 * Aggregate functions
@@ -186,7 +186,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2/dashDB Security: Implicit Privileges Through Group Membership. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/11/db2-security-implicit-privileges.html
 * Auto Commit
   * db2 Auto commit option. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/17/db2-auto-commit-option/
-  * (Db2 command line options - Remove autocommit) Opciones db2 command line – Eliminar autocommit. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/administracion/opciones-db2-command-line-eliminar-autocommit/
+  * (Db2 command line options - Remove autocommit) Opciones db2 command line – Eliminar autocommit. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/opciones-db2-command-line-eliminar-autocommit/
   * Massive insert in Db2 as an atomic transaction - no auto-commit. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/08/massive-insert-in-db2-as-atomic.html
 * Auto resize (automatic resize)
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
@@ -239,7 +239,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Did you backup the database ?? – Part 1. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=325
   * DB2, LINUX AND MEMORY. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-and-memory/
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
-  * (Monitoring the state of a backup, restore or rollforward) Monitorizar el estado de un backup, restore o rollforward en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/backup_recovery/monitorizar-el-estado-de-un-backup-restore-o-rollforward-en-db2/
+  * (Monitoring the state of a backup, restore or rollforward) Monitorizar el estado de un backup, restore o rollforward en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/backup_recovery/monitorizar-el-estado-de-un-backup-restore-o-rollforward-en-db2/
   * Improvise your Backup-Restore. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/11/improvise-you-backup-restore.html
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * DB2 Backup Script. A Day in DBA's life. Manohar Viswanatha. 2013. Blog - https://mviswa.blogspot.com/2013/01/db2-backup-script.html
@@ -380,7 +380,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * db2top Sessions Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-2.html
   * db2top Bufferpools Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-1.html
   * db2top Bufferpools Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-2.html
-  * (Cache hit ratio in Db2) Ratio Hit Cache en DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/tuning/ratio-hit-cache-en-db2/
+  * (Cache hit ratio in Db2) Ratio Hit Cache en DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/tuning/ratio-hit-cache-en-db2/
   * Federated Database Performance (Part-1). Ride On Data. Saurabh Agrawal. 2015. Blog - https://rideondata.wordpress.com/2015/05/31/federated-database-performance-part-1/
   * DB2 Performance Myth Buster 2 - How Increasing Bufferpool Size will not increase LOAD Performance. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=spTrT6-U5Qk
   * DB2 Table Row (Tuple) Size. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2-row-size/
@@ -419,7 +419,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * IBM Db2 Query Toolbox. Dataedo. na. nd. Wiki - https://dataedo.com/kb/query/db2
   * db2top Memory Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-part-1.html
   * db2top Memory Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-part-2.html
-  * (Basic management of the Db2 catalog) Gestión básica Catálogo DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/gestion-basica-catalogo-db2/
+  * (Basic management of the Db2 catalog) Gestión básica Catálogo DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/gestion-basica-catalogo-db2/
   * Cataloging local DB2 databases. Leons on Tech. Leons Petrazickis. 2010 - http://www.lpetr.org/blog/archives/cataloging-local-and-remote-db2-databases
   * How to connect remote Database in DB2. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/16/how-to-connect-remote-database-in-db2/
   * Db2 Catalog - A Guided Tour. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2017/08/db2-catalog-guided-tour.html
@@ -450,7 +450,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Char (Data type)
   * Char Vs. Varchar in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/char-vs-varchar-in-db2.html
 * Char (Function)
-  * (Date format according to time zone) Formato de fechas según modo horario. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/trucos/formato-de-fechas-zona/
+  * (Date format according to time zone) Formato de fechas según modo horario. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/trucos/formato-de-fechas-zona/
 * Characters
   * Escape characters in shell for DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/escape-characters-in-shell-for-db2.html
   * Identify invalid characters in a script. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/04/identify-invalid-characters-in-script.html
@@ -498,7 +498,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
   * Hello, Db2 World! – How to Connect to a Db2 (LUW) Database. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/21/hello-db2-world-how-to-connect-to-a-db2-luw-database/
 * CLPPlus
-  * (Compatibility of Db2 with Oracle: DB2 9.7 CLP PLUS (1/2)) Compatibilidad de DB2 con ORACLE: DB2 9.7 CLP PLUS (1/2). DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/compatibilidad-de-db2-con-oracle-db2-9-7-clp-plus-12/
+  * (Compatibility of Db2 with Oracle: DB2 9.7 CLP PLUS (1/2)) Compatibilidad de DB2 con ORACLE: DB2 9.7 CLP PLUS (1/2). DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/compatibilidad-de-db2-con-oracle-db2-9-7-clp-plus-12/
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
   * Using DB2 on the IBM Cloud from macOS. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/05/using-db2-on-ibm-cloud-from-macos.html
 * Clustering dimensions
@@ -508,7 +508,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Code page
   * Full reverse: A REVERSE function that handles unicode. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/reverse
 * Column
-  * (Definition of autoincremental columns a identity) Definición de columnas autoincrementales “identity” en DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/administracion/definicion-de-columnas-autoincrementales-identity-en-db2/
+  * (Definition of autoincremental columns a identity) Definición de columnas autoincrementales “identity” en DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/definicion-de-columnas-autoincrementales-identity-en-db2/
   * How to get column names from DB2 table. With Data. Shiji Pan. 2013. Blog - https://www.withdata.com/blog/db2/how-to-get-column-names-from-db2-table.html
 * Column Organized Tables
   * Creating and loading column-organized and row-organized tables in DB2 BLU. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/10/06/creating-and-loading-column-organized-and-row-organized-tables-in-db2-blu/
@@ -526,7 +526,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Db2 Basics: Error Messages. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/03/13/db2-basics-error-messages/
   * Hello, Db2 World! – How to Connect to a Db2 (LUW) Database. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/21/hello-db2-world-how-to-connect-to-a-db2-luw-database/
 * Command options
-  * (Db2 command line options - Remove autocommit) Opciones db2 command line – Eliminar autocommit. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/administracion/opciones-db2-command-line-eliminar-autocommit/
+  * (Db2 command line options - Remove autocommit) Opciones db2 command line – Eliminar autocommit. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/opciones-db2-command-line-eliminar-autocommit/
   * Massive insert in Db2 as an atomic transaction - no auto-commit. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/08/massive-insert-in-db2-as-atomic.html
 * Commands
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
@@ -596,7 +596,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Consistency
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
 * Container
-  * (ADM6044E error during a tablespace rebalancing after adding a container) Error ADM6044E durante rebalanceo en un tablespaces después de añadir un container. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/errores/error-adm6044e-durante-rebalanceo-en-un-tablespaces-despues-de-anadir-un-container/
+  * (ADM6044E error during a tablespace rebalancing after adding a container) Error ADM6044E durante rebalanceo en un tablespaces después de añadir un container. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/errores/error-adm6044e-durante-rebalanceo-en-un-tablespaces-despues-de-anadir-un-container/
   * DB2 Tips n Tricks Part 99 - How To Perform Redirected Restore without REDIRECT Keyword. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=B2OWBhNg_E8
   * Considerations for building and deploying DB2 Docker containers. DeveloperWorks. Aruna De Silva. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-docker-trs/index.html
   * Db2 on Docker from IBM. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/09/db2-on-docker-from-ibm.html
@@ -679,7 +679,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Parameter Wednesday: DB2 Registry DB2_EVALUNCOMMITTED. db2commerce. Ember Crooks. 2012. Blog - http://datageek.blog/2012/06/27/parameter-wednesday-db2-registry-db2_evaluncommitted/
   * DB2 LUW V9.7 CUR_COMMIT database configuration option – buyer beware. DBMSguy.com. Paul Mayhew. 2011. Blog - http://dbmsguy.com/blog/2011/01/cur_commit_db_option/
 * Current date
-  * (Date format according to time zone) Formato de fechas según modo horario. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/trucos/formato-de-fechas-zona/
+  * (Date format according to time zone) Formato de fechas según modo horario. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/trucos/formato-de-fechas-zona/
 * Cursor
   * Cursors. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/cursor/
   * DECLARE CURSOR statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/declare-cursor/
@@ -764,12 +764,12 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Make my day. 154 PM. Bernd Kuennen. 2008. Blog - http://154pm.blogspot.com/2008/02/make-my-day.html
   * first and last day of the month. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=339
   * Getting records based on the first and last days of a month. DBMSguy.com. Paul Mayhew. 2009. Blog - http://dbmsguy.com/blog/2009/12/getting-records-based-on-the-first-and-last-days-of-a-month/
-  * (Getting date and time in Db2) Obtener fecha y hora en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/inicio_automatico_instancia_db2_db2iauto/
-  * (Operations with dates in Db2) Operaciones con fechas en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/trucos/operaciones-con-fechas-db2/
+  * (Getting date and time in Db2) Obtener fecha y hora en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/inicio_automatico_instancia_db2_db2iauto/
+  * (Operations with dates in Db2) Operaciones con fechas en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/trucos/operaciones-con-fechas-db2/
   * Fun with Dates. techs@work. Raju Pillai. 2011. Blog - http://techsatwork.com/blog/?p=1094
   * Migrating from TSQL: The DATEADD function. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/dateadd
   * Fractions of time: A PostgreSQL compatible DATE_PART function. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/date_part
-  * (Date format according to time zone) Formato de fechas según modo horario. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/trucos/formato-de-fechas-zona/
+  * (Date format according to time zone) Formato de fechas según modo horario. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/trucos/formato-de-fechas-zona/
   * How to create a Date Series in DB2. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/12/how-to-create-a-date-series-in-db2-.html
   * Dealing with dates and formats. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/dealing-with-dates-and-formats.html
 * DB2
@@ -802,7 +802,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Locking issues. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/02/locking-issues.html
   * Lock events for DB2 for Linux, UNIX, and Windows, Part 2: New options for analyzing lock timeouts in DB2 9.5. DeveloperWorks. Dirk Fechner. 2008. Article  - http://www.ibm.com/developerworks/data/library/techarticle/dm-0804fechner/index.html
 * DB2_COMPATIBILITY_VECTOR
-  * (Compatibility of Db2 with Oracle: DB2 9.7 CLP PLUS (1/2)) Compatibilidad de DB2 con ORACLE: DB2 9.7 CLP PLUS (1/2). DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/compatibilidad-de-db2-con-oracle-db2-9-7-clp-plus-12/
+  * (Compatibility of Db2 with Oracle: DB2 9.7 CLP PLUS (1/2)) Compatibilidad de DB2 con ORACLE: DB2 9.7 CLP PLUS (1/2). DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/compatibilidad-de-db2-con-oracle-db2-9-7-clp-plus-12/
   * Enabling LIMIT and OFFSET in DB2 9.7.2. DB2 on Rails. Antonio Cangiano. 2010. Blog - https://web.archive.org/web/20100612235701/http://antoniocangiano.com:80/2010/06/02/enabling-limit-and-offset-in-db2-9-7-2
 * DB2_DDL_SOFT_INVAL
   * Find a list of views marked inoperative. Leons on Tech. Leons Petrazickis. 2010 - http://www.lpetr.org/blog/archives/find-a-list-of-views-marked-inoperative
@@ -828,7 +828,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * DB2_KILL
   * What if db2stop fails ?!? techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=392
-  * (DB2_KILL - What to do when a Db2 instance does not stop) DB2_KILL – ¿Qué hacer si una instancia DB2 no se para?. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/db2_kill-%c2%bfque-hacer-si-una-instancia-db2-no-se-para/
+  * (DB2_KILL - What to do when a Db2 instance does not stop) DB2_KILL – ¿Qué hacer si una instancia DB2 no se para?. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/db2_kill-%c2%bfque-hacer-si-una-instancia-db2-no-se-para/
 * DB2_MAX_NON_TABLE_LOCKS
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * DB2_OBJECT_STORAGE_LOCAL_STAGING_PATH
@@ -922,7 +922,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * db2ckbkp
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * A Peek on DB2 Log Record. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/07/peek-on-db2-log-record.html
-  * (Validate a physical db2 backup) Validación backup físico DB2 – db2ckbkp. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/utilidades/validacion-backup-fisico-db2-db2ckbkp/
+  * (Validate a physical db2 backup) Validación backup físico DB2 – db2ckbkp. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/utilidades/validacion-backup-fisico-db2-db2ckbkp/
 * db2cklog
   * Checking archive log files with the db2cklog tool. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/03/Checking-archive-log-files-with-the-db2cklog-tool.html
 * db2ckmig
@@ -1027,7 +1027,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 UDB and Linux - Start Me Up - AGAIN. A Portal to a Portal. Dave Hay. 2012. Blog - https://portal2portal.blogspot.com/2012/11/db2-udb-and-linux-start-me-up-again.html
 * db2fmd
   * Upgrading from DB2 V8.2 to DB2 V9.5. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=215
-  * (Problems with the db2fmd process - Fixpack Installation) Problemas con proceso Db2fmd – Instalación FixPacks. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/renombrar-una-base-de-datos-db2/
+  * (Problems with the db2fmd process - Fixpack Installation) Problemas con proceso Db2fmd – Instalación FixPacks. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/renombrar-una-base-de-datos-db2/
 * db2fmp
   * DB2ATS + Transaction log full + backup fails. DB2 Knowledge Base Raf. Raf Mathijs. 2013. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2013/10/db2ats-transaction-log-full-backup-fails.html
   * Accumulation of db2fmp (Java) processes. IBM. 2010. Support - https://www-01.ibm.com/support/docview.wss?uid=swg21432402
@@ -1071,7 +1071,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * db2hadrs
   * Improve Db2 HADR Resilience of Network Transmission Corruptions. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/improve-db2-hadr-resilience-of-network.html
 * db2iauto
-  * (Automatic start of a Db2 instance) Inicio automático de una instancia DB2 – db2iauto. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/inicio_automatico_instancia_db2_db2iauto/
+  * (Automatic start of a Db2 instance) Inicio automático de una instancia DB2 – db2iauto. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/inicio_automatico_instancia_db2_db2iauto/
   * DB2 UDB - Interesting quirk with auto-start on Linux. A Portal to a Portal. Dave Hay. 2012. Blog - https://portal2portal.blogspot.com/2012/08/db2-udb-interesting-quirk-with-auto.html
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
 * db2iclus
@@ -1090,13 +1090,13 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
 * db2ilist
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
-  * (List Db2 instances of a server) Listar instancias DB2 de un servidor. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/utilidades/listar-instancias-db2-de-un-servidor/
+  * (List Db2 instances of a server) Listar instancias DB2 de un servidor. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/utilidades/listar-instancias-db2-de-un-servidor/
   * Uninstall DB2 on Linux. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=558
 * db2imigr
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
 * db2initdb
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
-  * DB2 Write Suspend. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/backup_recovery/db2-write-suspend/
+  * DB2 Write Suspend. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/backup_recovery/db2-write-suspend/
 * db2instance
   * Drop a member in DB2 pureScale by Force. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11414
 * db2inspf
@@ -1121,7 +1121,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
 * db2level
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
-  * (Identify the version and level of fixpack of Db2) Conocer la versión y el nivel de parcheo de DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/conocer-la-version-y-el-nivel-de-parcheo-de-db2/
+  * (Identify the version and level of fixpack of Db2) Conocer la versión y el nivel de parcheo de DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/conocer-la-version-y-el-nivel-de-parcheo-de-db2/
   * How to Identify the version and service level of DB2 product?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/05/how-to-identify-version-and-service.html
   * Db2: release number, service level and build level. Ideas for Db2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com/2018/06/db2-release-number-service-level-and.html
 * db2licm
@@ -1144,7 +1144,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * Do your uninstall scripts leave something behind? The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/testing-that-your-uninstall-scripts-leave-nothing-behind.html
   * TRANSFER, COPY OR MOVE DB2 DATABASE FROM LINUX TO WINDOWS. TeknoMagus. 2011. Blog - https://technomagus.wordpress.com/database/ibm-db2/transfer-db2-database-from-linux-to-windows/
-  * (Create the DDL of a specific table or a whole schema) db2look – Crear DDL de una tabla en concreto o un esquema completo. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/db2look-crear-ddl-de-una-tabla-en-concreto-o-un-esquema-completo/
+  * (Create the DDL of a specific table or a whole schema) db2look – Crear DDL de una tabla en concreto o un esquema completo. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/db2look-crear-ddl-de-una-tabla-en-concreto-o-un-esquema-completo/
   * DB2LOOK (Should be a regular habit). A Day in DBA's life. Manohar Viswanatha. 2012. Blog - http://mviswa.blogspot.com/2012/08/db2look-should-be-regular-habit.html
   * DB2 LUW Fix Packs and db2look’s -createdb and -printdbcfg. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/05/18/db2-luw-fix-packs-and-db2looks-createdb-and-printdbcfg/
   * db2look from stored procedure. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/10/db2look-from-stored-procedure.html
@@ -1199,7 +1199,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * DB2OPTIONS
   * db2 batch scripts – tips and tricks – part 1. DBMSguy.com. Paul Mayhew. 2010. Blog - http://dbmsguy.com/blog/2010/07/db2-batch-scripts-tips-and-tricks-part-1/
   * db2 batch scripts – tips and tricks – part 2. DBMSguy.com. Paul Mayhew. 2010. Blog - http://dbmsguy.com/blog/2010/08/db2-batch-scripts-tips-and-tricks-part-2/
-  * (Db2 command line options - Remove autocommit) Opciones db2 command line – Eliminar autocommit. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/administracion/opciones-db2-command-line-eliminar-autocommit/
+  * (Db2 command line options - Remove autocommit) Opciones db2 command line – Eliminar autocommit. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/opciones-db2-command-line-eliminar-autocommit/
   * DB2 tip: How to know the no. of rows that got affected. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/02/24/db2-tip-how-to-know-the-no-of-rows-that-got-affected/
 * db2osconf
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
@@ -1212,7 +1212,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * grep -p (paragrah) on linux using awk. db2udbadm. 2009. Blog - http://db2udbadm.blogspot.com/2009/06/grep-p-paragrah-on-linux-using-awk.html
   * db2advis workload. db2udbadm. 2009. Blog - http://db2udbadm.blogspot.com/2009/06/db2avis-workload.html
   * db2pd command – get info about db2. DBMSguy.com. Paul Mayhew. 2010. Blog - http://dbmsguy.com/blog/2010/09/db2pd-command/
-  * (Another method to identify unused indexes in Db2) Otro método para detectar índices no usados en DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/otro-metodo-para-detectar-indices-no-usados-en-db2/
+  * (Another method to identify unused indexes in Db2) Otro método para detectar índices no usados en DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/otro-metodo-para-detectar-indices-no-usados-en-db2/
   * db2pd command script – busiest tables. DBMSguy.com. Paul Mayhew. 2013. Blog - http://dbmsguy.com/blog/2013/01/db2pd-command-script-busiest-tables/
   * Friendship between REORG and Temp Tablespace's. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/friendship-between-reorg-and-temp.html
   * Storage groups - A comprehensive solution of handling your data. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/storage-groups-comprehensive-solution.html
@@ -1251,7 +1251,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Using db2prereqcheck to Check Prerequisites for DB2 LUW. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2prereqcheck-check-prerequisites-db2-luw/
 * db2relocatedb
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
-  * (Rename a Db2 database) Renombrar una Base de Datos DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/renombrar-una-base-de-datos-db2/
+  * (Rename a Db2 database) Renombrar una Base de Datos DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/renombrar-una-base-de-datos-db2/
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
   * DB2 - Moving databases. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/07/db2-moving-databases.html
 * db2rfe
@@ -1308,7 +1308,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * db2stop
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * What if db2stop fails ?!? techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=392
-  * (DB2_KILL - What to do when a Db2 instance does not stop) DB2_KILL – ¿Qué hacer si una instancia DB2 no se para?. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/db2_kill-%c2%bfque-hacer-si-una-instancia-db2-no-se-para/
+  * (DB2_KILL - What to do when a Db2 instance does not stop) DB2_KILL – ¿Qué hacer si una instancia DB2 no se para?. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/db2_kill-%c2%bfque-hacer-si-una-instancia-db2-no-se-para/
   * Bouncing the instance. DB2 LUW Blog. Shivraj Kumar. 2018. Blog - https://db2today.blogspot.com/2018/12/bouncing-instance.html
 * db2strst.lck
   * Bouncing the instance. DB2 LUW Blog. Shivraj Kumar. 2018. Blog - https://db2today.blogspot.com/2018/12/bouncing-instance.html
@@ -1387,8 +1387,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * db2top: Buffer pool hit ratio (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-buffer-pool-hit-ratio-video.html
   * db2top: Memory screen and db2mtrk (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-and-db2mtrk-video.html
   * Random Useful Command of the Day. db2 tips by an IBMer. Ilker Ender. 2010. Blog - http://ilker-db2.tumblr.com/post/2828580795
-  * (Seeking the tables with more accesses in Db2) Búsqueda de la tablas con más accesos en DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/busqueda-de-la-tablas-con-mas-accesos-en-db2/
-  * (Collect and replay with db2top) Graba y haz replay con DB2TOP. DB2 Util (Spanish). Oscar Paredes. 2013. Blog - http://www.db2util.es/administracion/graba-y-haz-replay-con-db2top/
+  * (Seeking the tables with more accesses in Db2) Búsqueda de la tablas con más accesos en DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/busqueda-de-la-tablas-con-mas-accesos-en-db2/
+  * (Collect and replay with db2top) Graba y haz replay con DB2TOP. DB2 Util (Spanish). Oscar Paredes. 2013. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/graba-y-haz-replay-con-db2top/
   * find the complete sql of a really long sql and explain it. DB2 Knowledge Base Raf. Raf Mathijs. 2015. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2015/04/find-complete-sql-of-really-long-sql.html
   * The Role of the DB2 DBA in Load/Performance Testing. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/02/09/the-role-of-the-db2-dba-in-loadperformance-testing/
   * Comparing dsmtop and db2top. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/03/07/comparing-dsmtop-and-db2top/
@@ -1509,7 +1509,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Direct I/O
   * Faster rollback processing of very large transactions in Db2 v11.1.3.3. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/faster-rollback-processing-of-very.html
 * Directory
-  * (Basic management of the Db2 catalog) Gestión básica Catálogo DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/gestion-basica-catalogo-db2/
+  * (Basic management of the Db2 catalog) Gestión básica Catálogo DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/gestion-basica-catalogo-db2/
 * Directories
   * Default directory for DB creations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/default-directory-for-db-creations.html
 * Dirty clean
@@ -1625,13 +1625,13 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * db2top Dynamic SQL Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-dynamic-sql-screen.html
   * db2top Statements Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-statements-screen.html
-  * (Top 10 SQL by number of executions) DB2 Top 10 SQL por número de ejecuciones. DB2 Util (Spanish). Oscar Paredes. 2013. Blog - http://www.db2util.es/administracion/db2-top-10-sql-por-numero-de-ejecuciones/
+  * (Top 10 SQL by number of executions) DB2 Top 10 SQL por número de ejecuciones. DB2 Util (Spanish). Oscar Paredes. 2013. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/db2-top-10-sql-por-numero-de-ejecuciones/
   * Static SQL vs Dynamic SQL in Stored Procedures. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
 * Dual
-  * (DUAL table in Db2: sysibm.sysdummy1) Tabla DUAL en DB2: sysibm.sysdummy1. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/trucos/tabla-dual-en-db2-sysibm-sysdummy1/
+  * (DUAL table in Db2: sysibm.sysdummy1) Tabla DUAL en DB2: sysibm.sysdummy1. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/trucos/tabla-dual-en-db2-sysibm-sysdummy1/
 * Dummy
-  * (DUAL table in Db2: sysibm.sysdummy1) Tabla DUAL en DB2: sysibm.sysdummy1. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/trucos/tabla-dual-en-db2-sysibm-sysdummy1/
+  * (DUAL table in Db2: sysibm.sysdummy1) Tabla DUAL en DB2: sysibm.sysdummy1. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/trucos/tabla-dual-en-db2-sysibm-sysdummy1/
 
 # E
 
@@ -1724,7 +1724,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Explain_From_Activity
   * Please check the SysProc.Explain_From_Activity entry.
 * Export
-  * (Simple data export of a table in Db2) Export simple datos de una tabla en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/export-simple-datos-de-una-tabla-en-db2/
+  * (Simple data export of a table in Db2) Export simple datos de una tabla en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/export-simple-datos-de-una-tabla-en-db2/
   * DB2 Export and Load Using Compression & Named Pipes. dbawesome. Elder Lira. 2013. Blog - http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.html
 * Express-C
   * IBM DB2 Express-C. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2_Express-C
@@ -1792,7 +1792,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Example: Select statement in dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-select-statement-in-dynamic-sql/
   * Cursors. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/cursor/
   * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html
-  * (Top rows in Db2) TOP registros en DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/trucos/top-registros-en-db2/
+  * (Top rows in Db2) TOP registros en DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/trucos/top-registros-en-db2/
   * Stuck with a packaged app???. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/02/stuck-with-packaged-app.html
   * The DB2 equivalent for the MySQL Limit. With Data. Shiji Pan. 2013. Blog - https://www.withdata.com/blog/db2/the-db2-equivalent-for-the-mysql-limit.html
 * File
@@ -2057,7 +2057,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * db2top Tables Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-1.html
   * Random Useful Command of the Day. db2 tips by an IBMer. Ilker Ender. 2010. Blog - http://ilker-db2.tumblr.com/post/2828580795
   * RUNSTATS and REORG-3: An effective REORG policy. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/05/runstats-and-reorg-3-effective-reorg.html
-  * (Average time of read/write access to disc in Db2) Tiempos medios de acceso lectura/escritura a disco a nivel de DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/tuning/tiempos-medios-de-acceso-lecturaescritura-a-disco-a-nivel-de-db2/
+  * (Average time of read/write access to disc in Db2) Tiempos medios de acceso lectura/escritura a disco a nivel de DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/tuning/tiempos-medios-de-acceso-lecturaescritura-a-disco-a-nivel-de-db2/
   * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2014. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487
   * Enable Fast I/O Fencing Scipt for Linux. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11412
   * DB2 Performance Myth Buster 2 - How Increasing Bufferpool Size will not increase LOAD Performance. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=spTrT6-U5Qk
@@ -2078,7 +2078,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 LUW Import from /dev/null, Restore and Rollforward. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2016/03/08/db2-luw-import-from-devnull-restore-and-rollforward/
   * Import data from a table with generated id in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/import-data-from-table-with-generated.html
 * Auto incremental column
-  * (Definition of autoincremental columns a identity) Definición de columnas autoincrementales “identity” en DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/administracion/definicion-de-columnas-autoincrementales-identity-en-db2/
+  * (Definition of autoincremental columns a identity) Definición de columnas autoincrementales “identity” en DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/definicion-de-columnas-autoincrementales-identity-en-db2/
 * Incremental backup
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * How to take data Online Backup in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-take-data-online-backup-in-db2.html
@@ -2099,8 +2099,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
   * db2top Bufferpools Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-1.html
   * db2top Dynamic SQL Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-dynamic-sql-screen.html
-  * (Detection of no used indexes, tables and packages in Db2 9.7) Detección de índices, tablas y packages no usados en DB2 9.7. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/deteccion-de-indices-tablas-packages-no-usados-en-db2-9-7/
-  * (Another method to identify unused indexes in Db2) Otro método para detectar índices no usados en DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/otro-metodo-para-detectar-indices-no-usados-en-db2/
+  * (Detection of no used indexes, tables and packages in Db2 9.7) Detección de índices, tablas y packages no usados en DB2 9.7. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/deteccion-de-indices-tablas-packages-no-usados-en-db2-9-7/
+  * (Another method to identify unused indexes in Db2) Otro método para detectar índices no usados en DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/otro-metodo-para-detectar-indices-no-usados-en-db2/
   * Optimize your Tablespaces and Bufferpools-3: Bufferpool Optimization. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/10/optimize-your-tablespaces-and.html
   * Tips on Using db2advis with Multiple Queries db2commerce. Ember Brooks. 2013. Blog - http://datageek.blog/2013/06/25/tips-on-using-db2advis-with-multiple-queries/
   * Writing applications with the Java API. DeveolperWorks. Marion Behnen, Henry Chiu, Jyh-Chen Fang, Manish Sehgal, and Tony Sun. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1307nosqlforjson3/index.html
@@ -2133,7 +2133,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * InfoSphere Data Architect
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
 * inittab
-  * (Problems with the db2fmd process - Fixpack Installation) Problemas con proceso Db2fmd – Instalación FixPacks. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/renombrar-una-base-de-datos-* Inline - LOB
+  * (Problems with the db2fmd process - Fixpack Installation) Problemas con proceso Db2fmd – Instalación FixPacks. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/renombrar-una-base-de-datos-* Inline - LOB
   * Perform LOB inlining in an HADR environment for a standby database. DeveloperWorks. Somraj Chakrabarty and Suvradeep Sensarma. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1508lob-hadr-standby/index.html
 * Inline SQL PL
   * Inline SQL PL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/inline-sql-pl/
@@ -2210,7 +2210,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Bouncing the instance. DB2 LUW Blog. Shivraj Kumar. 2018. Blog - https://db2today.blogspot.com/2018/12/bouncing-instance.html
 * ipcs
   * What if db2stop fails ?!? techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=392
-  * (DB2_KILL - What to do when a Db2 instance does not stop) DB2_KILL – ¿Qué hacer si una instancia DB2 no se para?. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/db2_kill-%c2%bfque-hacer-si-una-instancia-db2-no-se-para/
+  * (DB2_KILL - What to do when a Db2 instance does not stop) DB2_KILL – ¿Qué hacer si una instancia DB2 no se para?. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/db2_kill-%c2%bfque-hacer-si-una-instancia-db2-no-se-para/
 * Iterate
   * ITERATE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/iterate/
 * ISO
