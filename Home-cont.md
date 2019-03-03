@@ -50,7 +50,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * db2top Memory Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-part-1.html
   * Do db2top High Watermarks Give Wrong Answers? The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/do-db2top-high-watermarks-give-wrong-answers.html
   * db2top Memory Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-part-2.html
-  * (Cache hit ratio in Db2) Ratio Hit Cache en DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/tuning/ratio-hit-cache-en-db2/
+  * (Cache hit ratio in Db2) Ratio Hit Cache en DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/tuning/ratio-hit-cache-en-db2/
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
   * DB2 Table Row (Tuple) Size. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2-row-size/
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
@@ -121,8 +121,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * MongoDB
     * Introduction to DB2 JSON. DeveolperWorks. Bobbie Cochrane and Kathy McKnight. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson1/index.html
 * Monitor Switches
-  * (Average time of read/write access to disc in Db2) Tiempos medios de acceso lectura/escritura a disco a nivel de DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/tuning/tiempos-medios-de-acceso-lecturaescritura-a-disco-a-nivel-de-db2/
-  * (Snapshot for Db2 tunning) Snapshots para tuning DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/tuning/snapshots-para-tuning-db2/
+  * (Average time of read/write access to disc in Db2) Tiempos medios de acceso lectura/escritura a disco a nivel de DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/tuning/tiempos-medios-de-acceso-lecturaescritura-a-disco-a-nivel-de-db2/
+  * (Snapshot for Db2 tunning) Snapshots para tuning DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/tuning/snapshots-para-tuning-db2/
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
   * DB2 SNAPSHOT MONITOR SWITCHES. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/db2-snapshot-monitor-switches/
   * ENABLE DB2 DEFAULT MONITOR SWITCHES DBM PARAMETER WITHOUT DB2STOP/DB2START. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/enable-db2-snapshot-monitor-switches-permanently-without-db2stopdb2start/
@@ -320,7 +320,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
   * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/line-optimization-v11-1/
 * Oracle terminology
-  * (Oracle - Db2 terms translation) Traducción terminología Oracle – DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/curiosidades/traduccion-terminologia-oracle-db2/
+  * (Oracle - Db2 terms translation) Traducción terminología Oracle – DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/curiosidades/traduccion-terminologia-oracle-db2/
   * Database System Views – A quick comparison. techs@work. Raju Pillai. 2011. Blog - http://techsatwork.com/blog/?p=1169
 * Oracle compatibility
   * SQL PL Profiler - Again, better than ever. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2011. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/sql_pl_profiler_again_better_than_ever25
@@ -702,7 +702,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 Stored Procedures and Defaults (Conclusion). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/stored-procedures-and-defaults-conclusion.html
 * Rebalance
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
-  * (ADM6044E error during a tablespace rebalancing after adding a container) Error ADM6044E durante rebalanceo en un tablespaces después de añadir un container. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/errores/error-adm6044e-durante-rebalanceo-en-un-tablespaces-despues-de-anadir-un-container/
+  * (ADM6044E error during a tablespace rebalancing after adding a container) Error ADM6044E durante rebalanceo en un tablespaces después de añadir un container. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/errores/error-adm6044e-durante-rebalanceo-en-un-tablespaces-despues-de-anadir-un-container/
   * DB2 10: Multi Temperature Data Management. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/multitempdata
 * Rebind
   * Making SQL PL and PL/SQL sensitive to changes in statistics, and more. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/statistics_sensitive_sql_pl
@@ -805,7 +805,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Replace
   * DB2 LUW Database Object’s owner and Instance Owner’s authority over it. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2016/07/18/db2-luw-database-objects-owner-and-instance-owners-authority-over-it/
 * Replay (db2top)
-  * (Collect and replay with db2top) Graba y haz replay con DB2TOP. DB2 Util (Spanish). Oscar Paredes. 2013. Blog - http://www.db2util.es/administracion/graba-y-haz-replay-con-db2top/
+  * (Collect and replay with db2top) Graba y haz replay con DB2TOP. DB2 Util (Spanish). Oscar Paredes. 2013. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/graba-y-haz-replay-con-db2top/
 * Replay only window
   * Format and display Db2 log file information using db2fmtlog. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/format-and-display-db2-log-file.html
   * Monitoring the replay-only-window on a Db2 HADR standby database. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/monitoring-replay-only-window-on-db2_28.html
@@ -837,7 +837,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
   * DB2, LINUX AND MEMORY. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-and-memory/
-  * (Monitoring the state of a backup, restore or rollforward) Monitorizar el estado de un backup, restore o rollforward en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/backup_recovery/monitorizar-el-estado-de-un-backup-restore-o-rollforward-en-db2/
+  * (Monitoring the state of a backup, restore or rollforward) Monitorizar el estado de un backup, restore o rollforward en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/backup_recovery/monitorizar-el-estado-de-un-backup-restore-o-rollforward-en-db2/
   * Improvise your Backup-Restore. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/11/improvise-you-backup-restore.html
   * DB2 DPF Tablespace Recovery Scenarios — Part 1 — Recover Tablespace(s) on Coordinator Node. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/03/05/db2-dpf-tablespace-recovery-scenarios-part-1/
   * DB2 DPF Tablespace Recovery Scenarios — Part 2 — Recover Tablespace(s) on Data Partitions. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/03/07/db2-dpf-tablespace-recovery-scenarios-part-2-recover-tablespaces-on-data-partitions/
@@ -895,7 +895,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * RELEASE SAVEPOINT statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/release-savepoint/
   * ROLLBACK statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/rollback/
   * SAVEPOINT statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/savepoint/
-  * (Monitoring the state of a rollback in Db2) Monitorizar el estado de un rollback en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/monitorizar-el-estado-de-un-rollback-en-db2/
+  * (Monitoring the state of a rollback in Db2) Monitorizar el estado de un rollback en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/monitorizar-el-estado-de-un-rollback-en-db2/
   * How to Estimate the duration of a TAKEOVER HADR operation in DB2. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/07/how-to-estimate-duration-of-takeover.html
   * Overview of LOCK ISSUES in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/07/overview-of-lock-issues-in-db2.html
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
@@ -903,7 +903,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Rollforward
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
-  * (Monitoring the state of a backup, restore or rollforward) Monitorizar el estado de un backup, restore o rollforward en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/backup_recovery/monitorizar-el-estado-de-un-backup-restore-o-rollforward-en-db2/
+  * (Monitoring the state of a backup, restore or rollforward) Monitorizar el estado de un backup, restore o rollforward en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/backup_recovery/monitorizar-el-estado-de-un-backup-restore-o-rollforward-en-db2/
   * Accidents happen - Recovering a dropped table. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/accidents-happen-recovering-dropped.html
   * DB2 Tips n Tricks Part 97 - How To Take Offline Backup of Tablespace. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=tT1K3uamwxc
   * DB2 Tips n Tricks Part 98 - How Conversion of Regular to Large Tablespace Impacts Recovery. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=uJ2_HXMY6A4
@@ -1103,13 +1103,13 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Serie
   * How to create a Date Series in DB2. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/12/how-to-create-a-date-series-in-db2-.html
 * Server
-  * (Obtaining current server) Obtener servidor actual utilizando sysdummy1. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/administracion/obtener-servidor-actual-desde-sysdummy1/
+  * (Obtaining current server) Obtener servidor actual utilizando sysdummy1. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/obtener-servidor-actual-desde-sysdummy1/
 * Server (Federation)
   * Mom, I joined the cloud! (or: Use old stuff with new stuff - DB2 federation). Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/03/mom-i-joined-cloud-or-use-old-stuff.html
   * HOW TO SETUP FEDERATION BETWEEN TWO DB2 LUW DATABASES. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/how-to-setup-federation-between-two-db2-luw-databases/
 * Services - /etc/services
   * Nfs4: Setting up DB2 for UNIX and Linux on NFS4 mounted file systems. db2 tips by an IBMer. Ilker Ender. 2010. Blog - http://ilker-db2.tumblr.com/post/521324056
-  * (How to identify the Db2 connection port) Cómo conocer el puerto de conexión de DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/como-conocer-el-puerto-de-conexion-de-db2/
+  * (How to identify the Db2 connection port) Cómo conocer el puerto de conexión de DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/como-conocer-el-puerto-de-conexion-de-db2/
   * SQL6030N START or STOP DATABASE MANAGER failed. Reason code “38”. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/488
   * DB2 on Windows - What a difference a CR/LF makes ... A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/12/db2-on-windows-what-difference-crlf.html
   * Hard-Coding Ports for HADR When Setting up Multiple Standbys. Virtual-DBA. Aish Khare. 2019. Blog - https://www.virtual-dba.com/hard-coding-ports-for-hadr-multiple-standbys/
@@ -1189,7 +1189,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Snapshots
   * SQL Tips & Techniques- Correlated Reference. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/11/sql-tips-techniques-correlated.html
   * How to convey performance metrics from SNAPSHOT views. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/03/how-to-convey-performance-metrics-from.html
-  * (Snapshot for Db2 tunning) Snapshots para tuning DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/tuning/snapshots-para-tuning-db2/
+  * (Snapshot for Db2 tunning) Snapshots para tuning DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/tuning/snapshots-para-tuning-db2/
   * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Scott Walkty. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
   * DB2 Tips n Tricks Part 38 - Limitation on Monitor Metrics by Dynamic SQL Snapshot. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=MO-UlXkiRoo
   * Solve IBM BPM performance issues with IBM DB2 examples. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz2-trs/1509_volz2.html
@@ -1501,11 +1501,11 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
 * Suspend write
-  * DB2 Write Suspend. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/backup_recovery/db2-write-suspend/
+  * DB2 Write Suspend. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/backup_recovery/db2-write-suspend/
   * How to check DB2 LUW database write suspend state with db2pd. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/05/how-to-check-db2-luw-database-write-suspend-state-with-db2pd.html
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
 * SvceName
-  * (How to identify the Db2 connection port) Cómo conocer el puerto de conexión de DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/como-conocer-el-puerto-de-conexion-de-db2/
+  * (How to identify the Db2 connection port) Cómo conocer el puerto de conexión de DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/como-conocer-el-puerto-de-conexion-de-db2/
   * Receiving SQL5043n and SPM0438 ? techs@work. Raju Pillai. 2011. Blog - http://techsatwork.com/blog/?p=1092
   * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
   * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://datageek.blog/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
@@ -1576,9 +1576,9 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * SysIBM.dbPartitionNum
     * Simultaneous Parallel Processing in Distributed DB2 Databases. db2Gdba. Reynaldo Mola. nd. Blog - https://www.db2gdba.com/articles-tips/simultaneous-parallel-processing-in-distributed-databases/
   * SysIBM.SysDummy1
-    * (DUAL table in Db2: sysibm.sysdummy1) Tabla DUAL en DB2: sysibm.sysdummy1. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/trucos/tabla-dual-en-db2-sysibm-sysdummy1/
+    * (DUAL table in Db2: sysibm.sysdummy1) Tabla DUAL en DB2: sysibm.sysdummy1. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/trucos/tabla-dual-en-db2-sysibm-sysdummy1/
   * SysIBM.SysVersions
-    * (History of Db2 versions) Historial de versiones de DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/administracion/historial/
+    * (History of Db2 versions) Historial de versiones de DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/historial/
 * SysIBMAdm
   * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
 * SysIBMAdm schema
@@ -1588,7 +1588,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * SysIBMAdm.AuthorizationIDs
     * Db2 Basics: Investigating Permissions in an Existing Database. db2commerce. Ember Brooks. 2018. Blog - http://datageek.blog/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
   * SysIBMAdm.Bp_HitRatio
-    * (Cache hit ratio in Db2) Ratio Hit Cache en DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/tuning/ratio-hit-cache-en-db2/
+    * (Cache hit ratio in Db2) Ratio Hit Cache en DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/tuning/ratio-hit-cache-en-db2/
   * SysIBMAdm.Db_History
     * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/07/17/the-db2-recovery-history-file/
   * SysIBMAdm.DBCfg
@@ -1612,7 +1612,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
     * Quick primer on checking database object privileges in DB2 LUW. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/06/09/quick-primer-on-checking-database-object-privileges-in-db2-luw/
     * Db2 Basics: Investigating Permissions in an Existing Database. db2commerce. Ember Brooks. 2018. Blog - http://datageek.blog/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
   * SysIBMAdm.Snap_Get_Tab
-    * (Space occupancy of Db2 tables) Ocupación espacio de tablas DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/ocupacion-espacio-de-tablas-db2/
+    * (Space occupancy of Db2 tables) Ocupación espacio de tablas DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/ocupacion-espacio-de-tablas-db2/
   * SysIBMAdm.Snap_Get_Tab_Reorg
     * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
   * SysIBMAdm.Snap_Get_Tbsp_Part
@@ -1634,7 +1634,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * SysIBMAdm.SnapTab_Reorg
     * Friendship between REORG and Temp Tablespace's. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/friendship-between-reorg-and-temp.html
   * SysIBMAdm.SpanTbsp
-    * (Average time of read/write access to disc in Db2) Tiempos medios de acceso lectura/escritura a disco a nivel de DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/tuning/tiempos-medios-de-acceso-lecturaescritura-a-disco-a-nivel-de-db2/
+    * (Average time of read/write access to disc in Db2) Tiempos medios de acceso lectura/escritura a disco a nivel de DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/tuning/tiempos-medios-de-acceso-lecturaescritura-a-disco-a-nivel-de-db2/
   * SysIBMAdm.TbSp_Utilization
     * DB2 DPF Tablespace Recovery Scenarios — Part 1 — Recover Tablespace(s) on Coordinator Node. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/03/05/db2-dpf-tablespace-recovery-scenarios-part-1/
     * DB2 DPF Tablespace Recovery Scenarios — Part 2 — Recover Tablespace(s) on Data Partitions. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/03/07/db2-dpf-tablespace-recovery-scenarios-part-2-recover-tablespaces-on-data-partitions/
@@ -1642,8 +1642,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
     * Why you should specify DISTRIBUTION KEY for tables in a single database partition in a DB2 DPF database?!?. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/04/28/why-you-should-specify-distribution-key-for-tables-in-a-single-database-partition-in-a-db2-dpf-database/
     * Tablespace backups in a DB2 LUW DPF database. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/09/21/backing-up-tablespaces-in-a-db2-luw-dpf-database/
   * SysIBMAdm.Top_Dynamic_Sql
-    * (Top 10 SQL by number of executions) DB2 Top 10 SQL por número de ejecuciones. DB2 Util (Spanish). Oscar Paredes. 2013. Blog - http://www.db2util.es/administracion/db2-top-10-sql-por-numero-de-ejecuciones/
-    * (Top 10 SQL by time of executions) DB2 Top 10 SQL por Tiempo de Ejecución. DB2 Util (Spanish). Oscar Paredes. 2013. Blog - http://www.db2util.es/administracion/db2-top-10-sql-por-tiempo-de-ejecucion/
+    * (Top 10 SQL by number of executions) DB2 Top 10 SQL por número de ejecuciones. DB2 Util (Spanish). Oscar Paredes. 2013. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/db2-top-10-sql-por-numero-de-ejecuciones/
+    * (Top 10 SQL by time of executions) DB2 Top 10 SQL por Tiempo de Ejecución. DB2 Util (Spanish). Oscar Paredes. 2013. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/db2-top-10-sql-por-tiempo-de-ejecucion/
   * SysIBMAdm.Utl_Dir
     * Writing to a file from a Stored Procedure or Annonymous Block (sql pl). Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/writing-in-file-from-stored-procedure.html
   * SysIBMAdm.Utl_File
@@ -1689,7 +1689,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * SysProc.Auth_List_Groups_For_AuthId
     * DB2/dashDB Security: Implicit Privileges Through Group Membership. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/11/db2-security-implicit-privileges.html
   * SysProc. Env_Get_Hist_Info
-    * (Identify the version and level of fixpack of Db2) Conocer la versión y el nivel de parcheo de DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/conocer-la-version-y-el-nivel-de-parcheo-de-db2/
+    * (Identify the version and level of fixpack of Db2) Conocer la versión y el nivel de parcheo de DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/conocer-la-version-y-el-nivel-de-parcheo-de-db2/
   * SysProc.EvMon_Upgrade_Tables
     * DB2 Upgrade Detail: Upgrading Event Monitor Tables. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/12/20/db2-upgrade-detail-upgrading-event-monitor-tables/
   * SysProc.Explain_From_Activity
@@ -1848,7 +1848,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Tablespace status
   * db2top Tablespaces Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-1.html
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
-  * (Status of the Db2 tablespaces) Estado de los tablespaces en DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/estado-de-los-tablespaces-en-db2/
+  * (Status of the Db2 tablespaces) Estado de los tablespaces en DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/estado-de-los-tablespaces-en-db2/
   * Table in Quiesce Mode. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30324
 * Takeover
   * How to Estimate the duration of a TAKEOVER HADR operation in DB2. ThinkingDB2! David Sciaraffa. Blog - http://thinkingdb2.blogspot.com.co/2015/07/how-to-estimate-duration-of-takeover.html
@@ -1893,7 +1893,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * db2top Agent Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-2.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
 * Time
-  * (Getting date and time in Db2) Obtener fecha y hora en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/inicio_automatico_instancia_db2_db2iauto/
+  * (Getting date and time in Db2) Obtener fecha y hora en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/inicio_automatico_instancia_db2_db2iauto/
   * Fractions of time: A PostgreSQL compatible DATE_PART function. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/date_part
   * Troubleshooting SQL problems in your database. DeveloperWorks. Raghavendra Chiyodu. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-troublshooting-sql-database/index.html
 * Timeron
@@ -1969,7 +1969,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Restore Transport option – mix and match your schemas (Part 2). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas-part-2/
 * Trigger
   * Example: Before Trigger who’s checking a new value. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-trigger-with-signal/
-  * (Trigger code example of Db2) Código ejemplo trigger en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/ejemplos/codigo-ejemplo-trigger-en-db2/
+  * (Trigger code example of Db2) Código ejemplo trigger en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/ejemplos/codigo-ejemplo-trigger-en-db2/
   * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
 * Troubleshooting
   * Troubleshooting tools for Performance Tuning: Analyzing db2diag log files using db2diag tool. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/05/troubleshooting-tools-for-performance-tuning-db2diag.html
@@ -2072,7 +2072,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * UDT - User Defined Distinct Type
   * Distinctly weak type rules with a constrained twist. DeveloperWorks - SQL Tips for DB2 LUW. Rick Swagerman. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/weak_type?lang=en
 * Uncatalog
-  * (Basic management of the Db2 catalog) Gestión básica Catálogo DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/gestion-basica-catalogo-db2/
+  * (Basic management of the Db2 catalog) Gestión básica Catálogo DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/gestion-basica-catalogo-db2/
 * Uncommitted Read - ur
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * Uncommited rows
@@ -2124,7 +2124,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Upsert 
   * SQL on Fire! Part 2. WAIUG. Serge Rielau. 2006. Presentation - http://www.waiug.org/present/Forum2006/Presentations/SQLonFire_2_Serge_Rielau.ppt 
 * Uptime 
-  * (Uptime in Db2) Uptime / Último reinicio DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - http://www.db2util.es/administracion/uptime-ultimo-reinicio-db2/ 
+  * (Uptime in Db2) Uptime / Último reinicio DB2. DB2 Util (Spanish). Oscar Paredes. 2011. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/uptime-ultimo-reinicio-db2/ 
   * Database Up Time. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30323 
 * Usage list 
   * Usage Lists – Big Brother is watching, but only where he is looking. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/usage-lists-big-brother-is-watching-but-only-where-he-is-looking/ 
@@ -2152,18 +2152,18 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Understanding and Tuning DB2/LUW Backup and Restore Performance. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/understanding-and-tuning-db2luw-backup.html 
   * DB2 11.1 BLU with DPF Monitoring scripts. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11484 
 * Util_Impact_Limit 
-  * (Session priority in Db2) Prioridad de sesiones en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/prioridad-de-sesiones-en-db2/ 
+  * (Session priority in Db2) Prioridad de sesiones en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/prioridad-de-sesiones-en-db2/ 
   * Improvise your Backup-Restore. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/11/improvise-you-backup-restore.html
 * Util_Impact_Priority 
-  * (Session priority in Db2) Prioridad de sesiones en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/prioridad-de-sesiones-en-db2/ 
+  * (Session priority in Db2) Prioridad de sesiones en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/prioridad-de-sesiones-en-db2/ 
   * Improvise your Backup-Restore. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/11/improvise-you-backup-restore.html
 * Utility heap 
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html 
   * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/12/07/the-self-tuning-memory-manager-stmm/ 
 * Utilities 
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html 
-  * (ADM6044E error during a tablespace rebalancing after adding a container) Error ADM6044E durante rebalanceo en un tablespaces después de añadir un container. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/errores/error-adm6044e-durante-rebalanceo-en-un-tablespaces-despues-de-anadir-un-container/ 
-  * (Monitoring the state of a backup, restore or rollforward) Monitorizar el estado de un backup, restore o rollforward en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/backup_recovery/monitorizar-el-estado-de-un-backup-restore-o-rollforward-en-db2/ 
+  * (ADM6044E error during a tablespace rebalancing after adding a container) Error ADM6044E durante rebalanceo en un tablespaces después de añadir un container. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/errores/error-adm6044e-durante-rebalanceo-en-un-tablespaces-despues-de-anadir-un-container/ 
+  * (Monitoring the state of a backup, restore or rollforward) Monitorizar el estado de un backup, restore o rollforward en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/backup_recovery/monitorizar-el-estado-de-un-backup-restore-o-rollforward-en-db2/ 
 * UTL_FILE module 
   * UTL_FILE.PUT in Db2 just print 1024 characters. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/05/utlfileput-in-db2-just-print-1024.html 
  
@@ -2196,8 +2196,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Vendor Certification 
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/07/28/db2-basics-patching-db2/ 
 * Version 
-  * (Identify the version and level of fixpack of Db2) Conocer la versión y el nivel de parcheo de DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - http://www.db2util.es/administracion/conocer-la-version-y-el-nivel-de-parcheo-de-db2/ 
-  * (History of Db2 versions) Historial de versiones de DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - http://www.db2util.es/administracion/historial/ 
+  * (Identify the version and level of fixpack of Db2) Conocer la versión y el nivel de parcheo de DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/conocer-la-version-y-el-nivel-de-parcheo-de-db2/ 
+  * (History of Db2 versions) Historial de versiones de DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/historial/ 
   * How to Identify the version and service level of DB2 product?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/05/how-to-identify-version-and-service.html 
   * Db2: release number, service level and build level. Ideas for Db2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com/2018/06/db2-release-number-service-level-and.html 
   * How to know if Java clients in Db2 are using an updated driver. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/how-to-know-if-java-clients-in-db2-are.html 
