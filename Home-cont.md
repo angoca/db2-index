@@ -366,6 +366,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
 * Page
   * Size matters: A handy routine to compute the defined row size of a table. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/getrowsize
+  * DB2 V9.7 Pending Free Pages. MyDBLearnings. Bhaskar UB. 2014. Blog - http://mylearnings-db.blogspot.com/2014/05/db2-v97-pending-free-pages.html
 * Page clean
   * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
   * Db2’s Alternate Page Cleaning. db2commerce. Ember Brooks. 2018. Blog - https://datageek.blog/2019/01/15/db2s-alternate-page-cleaning/
@@ -406,6 +407,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Passthru
   * HOW TO SETUP FEDERATION BETWEEN TWO DB2 LUW DATABASES. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/how-to-setup-federation-between-two-db2-luw-databases/
 * Password
+  * SQL30082N Security processing failed with reason "24" ("USERNAME AND/OR PASSWORD INVALID"). MyDBLearnings. Bhaskar UB. 2015. Blog - http://mylearnings-db.blogspot.com/2015/04/sql30082n-security-processing-failed.html
   * The Database isn’t Available from Half the Servers – it Must be DB2. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/08/19/the-database-isnt-available-from-half-the-servers-it-must-be-db2/
 * Patches
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/07/28/db2-basics-patching-db2/
@@ -789,6 +791,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Automatic Table Maintenance Self-controlled. Berst Blog. Bert van Langen. 2014. Blog - https://web.archive.org/web/20160308072705/https://blog.bertvanlangen.com/db2/automatic-table-maintenance-self-controlled/
   * monitor DB2 reorg with db2pd + awk. DB2 Knowledge Base Raf. Raf Mathijs. 2014. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2014/12/monitor-db2-reorg-with-db2pd-awk.html
   * DB2 DBA tip – UNIX script to reduce typing (and save time) for reorgs after altering tables. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/10/20/db2-dba-tip-unix-script-to-reduce-typing-and-save-time-for-reorgs-after-altering-tables/
+  * DB2 LUW - Online Reorg. MyDBLearnings. Bhaskar UB. 2014. Blog - http://mylearnings-db.blogspot.com/2014/01/db2-luw-online-reorg.html
   * Improve IBM BPM performance with an IBM DB2 database. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz1-trs/1509_volz1.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * TABLE PARTITIONING - A datawarehouse case-study. DB2 LUW Blog. Shivraj Kumar. 2015. Blog - https://db2today.blogspot.com/2015/07/table-partitioning-datawarehouse-case.html
@@ -1819,6 +1822,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 Partitioned Tables - Life made easy - Part 1. A Day in DBA's life. Manohar Viswanatha. 2013. Blog - https://mviswa.blogspot.com/2013/12/db2-partitioned-tables-life-made-easy.html
   * DB2 Partitioned Tables - Life made easy - Part 2. A Day in DBA's life. Manohar Viswanatha. 2013. Blog - https://mviswa.blogspot.com/2013/12/db2-partitioned-tables-life-made-easy_14.html
   * DB2 Partitioned Tables - Life made easy - Part 3. A Day in DBA's life. Manohar Viswanatha. 2013. Blog - https://mviswa.blogspot.com/2013/12/db2-partitioned-tables-life-made-easy_23.html
+  * Partition detach hanged in DB2 v9.7. MyDBLearnings. Bhaskar UB. 2014. Blog - http://mylearnings-db.blogspot.com/2014/01/partition-detach-hanged-in-db2-v97.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * TABLE PARTITIONING - A datawarehouse case-study. DB2 LUW Blog. Shivraj Kumar. 2015. Blog - https://db2today.blogspot.com/2015/07/table-partitioning-datawarehouse-case.html
   * Restore Transport option – mix and match your schemas (Part 1). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas/
@@ -1847,6 +1851,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://datageek.blog/2016/07/12/monitoring-extent-movement-progress/
   * Don't be an ORTHODOX DBA. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/dont-be-orthodox-dba.html
   * Storage groups - A comprehensive solution of handling your data. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/storage-groups-comprehensive-solution.html
+  * DB2 V9.7 - Reduce Tablespace Size. MyDBLearnings. Bhaskar UB. 2014. Blog - http://mylearnings-db.blogspot.com/2014/01/db2-v97-reduce-tablespace-size.html
   * Tablespace backups in a DB2 LUW DPF database. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/09/21/backing-up-tablespaces-in-a-db2-luw-dpf-database/
   * DB2 Table Spaces – When to use File System Caching. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/489
   * Restore Transport option – mix and match your schemas (Part 1). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas/
@@ -2196,7 +2201,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
  
 # V 
  
-* V.R.M.F. - Version, Release, Modification, Fixpack 
+* V.R.M.F. - Version, Release, Modification, Fixpack
   * V.R.M.F Maintenance Stream Delivery Vehicle terminology explanation. IBM. 2015. Support - http://www-01.ibm.com/support/docview.wss?uid=swg27008656 
 * Value compression 
   * Size matters: A handy routine to compute the defined row size of a table. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/getrowsize 
