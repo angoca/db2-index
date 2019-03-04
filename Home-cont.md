@@ -66,6 +66,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Metrics
   * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
   * Performance monitoring tools and methodology. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/performance-monitoring-tools-and-methodology.html
+* Migration
+  * DB2 Upgrade/Migration. My DokuWiki. Julien Andonov. 2018. Blog - http://www.jdbwiki.tech/doku.php?id=db2_install_upgrade
 * MinCommit
   * How Will Logging Process happen in DB2?. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/01/how-logging-process-will-happen-in-db2.html
 * Minimum Recovery Time (MIR)
@@ -147,6 +149,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Performance monitoring tools and methodology. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/performance-monitoring-tools-and-methodology.html
   * Ember’s Take on Monitoring DB2 LUW. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/06/22/embers-take-on-monitoring-db2-luw/
   * How to check DB2 LUW load status. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/12/how-to-check-db2-luw-load-status.html
+  * Performance monitoring (tools and techniques). My DokuWiki. Julien Andonov. 2017. Blog - http://www.jdbwiki.tech/doku.php?id=db2_performance
   * DB2 How to Lower High Water Mark For DMS Tablespaces ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/01/19/db2-lower-high-water-mark-dms-tablespaces/
   * Monitoring Db2 HADR Takeover. Db2 Reflections. Hao Yan. 2018. Blog - http://db2reflections.blogspot.com.co/2018/04/monitoring-db2-hadr-takeover.html
 * MQT - Materialized Query Table (Summary tables)
@@ -505,6 +508,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * PL/SQL
   * 98% Compatibility with Oracle Apps - "Proof". DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/ninetyeightpercent
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
+  * Warehouse Package via PL/SQL. My DokuWiki. Julien Andonov. 2018. Blog - http://www.jdbwiki.tech/doku.php?id=db2_warehouse_package
+  * Warehouse Package v2 via PL/SQL. My DokuWiki. Julien Andonov. 2018. Blog - http://www.jdbwiki.tech/doku.php?id=db2_warehouse_packagev2
 * Platform
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
 * PMR - Problem Management Record
@@ -526,6 +531,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/08/30/powershell-script-for-local-db2-database-activation/
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
   * Hello, Db2 World! PowerShell. DataGeek.blog. Ember Brooks. 2018. Blog - https://datageek.blog/2018/08/09/hello-db2-world-powershell/
+  * Troubleshooting. My DokuWiki. Julien Andonov. 2018. Blog - http://www.jdbwiki.tech/doku.php?id=db2_troubleshooting
 * Predicates
   * Distinguishing Access and Filter-Predicates. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/explain-plan/db2/filter-predicates
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
@@ -600,6 +606,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
   * Db2 pureScale netname does not exist. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30270
   * Utility Scripts for pureScale. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30277
+  * DB2 pureScale. My DokuWiki. Julien Andonov. 2017. Blog - http://www.jdbwiki.tech/doku.php?id=db2_purescale
   * DB2 pureScale Cluster Slowness During Index Creation. Raghu On Tech. Raghu Cherukuru. 2019. Blog - https://www.raghu-on-tech.com/2019/01/28/db2-purescale-cluster-slowness-during-index-creation/
 * PureXML
   * pureXML. Wikipedia. Wiki - https://en.wikipedia.org/wiki/PureXML
@@ -616,11 +623,14 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 
 * Q replication
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
+  * DB2 Replication. My DokuWiki. Julien Andonov. 2017. Blog - http://www.jdbwiki.tech/doku.php?id=db2_qreplication
   * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/01/18/high-availability-options-for-db2-luw/
 * Quiesce
   * DB2 Tips n Tricks Part 97 - How To Take Offline Backup of Tablespace. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=tT1K3uamwxc
   * Starting a DB2 Instance in a Quiesced State. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/12/13/starting-a-db2-instance-in-a-quiesced-state/
   * Table in Quiesce Mode. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30324
+* Queries (catalog)
+  * DB2 Table spaces, Containers. My DokuWiki. Julien Andonov. 2017. Blog - http://www.jdbwiki.tech/doku.php?id=db2_troubleshooting
 * Query
   * IBM Db2 Query Toolbox. Dataedo. na. nd. Wiki - https://dataedo.com/kb/query/db2
   * Best Practices - Writing and Tuning Queries for Optimal Performance. IBM. John Hornibrook, Nina Kolunovsky. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_Query_Tuning_0508I.pdf
@@ -633,6 +643,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Query Performance Analysis. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/09/19/query-performance-analysis/
   * Db2 with External Tables: First Tests. Data Henrik. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Finding the access path for Columnar queries #2. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-2/
+  * Performance monitoring (tools and techniques). My DokuWiki. Julien Andonov. 2017. Blog - http://www.jdbwiki.tech/doku.php?id=db2_performance
   * Why are there Question Marks in my Db2 Queries?. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/why-are-there-question-marks-in-my-db2-queries/
   * Dealing with dates and formats. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/dealing-with-dates-and-formats.html
   * Which is better db2expln or db2exfmt? Vinay's DB2 blog. Vinay Bommana. 2018. Blog - http://vinaysdb2blog.blogspot.com/2018/10/which-is-better-db2expln-or-db2exfmt.html
@@ -786,6 +797,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * What are the different phases of Online & Offline Reorg in DB2 ?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/what-are-different-phases-of-online-and-offline-reorg-db2.html
   * Difference between Online Reorg and Offline Reorg in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/difference-between-online-and-offline-reorg-db2.html
   * DB2 Temporary Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/29/db2-temporary-table-spaces/
+  * Tables, Indexes, Partitions, Objects. My DokuWiki. Julien Andonov. 2017. Blog - http://www.jdbwiki.tech/doku.php?id=db2_tables
   * (Invalid state change) Cambio de estado inválido en Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/02/cambio-de-estado-invalido-en-db2.html
   * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/07/17/the-db2-recovery-history-file/
 * Reorg Pointer
@@ -812,6 +824,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Improving Read Availability of the HADR Standby database… Avoiding the Replay-only Window. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com/2018/12/improving-read-availability-of-hadr.html
 * Replication
   * High Availability Options for DB2/LUW. db2Dean. Dean Compher. 2007 (2015). Blog - http://www.db2dean.com/Previous/HAOpt.html
+  * DB2 Replication. My DokuWiki. Julien Andonov. 2017. Blog - http://www.jdbwiki.tech/doku.php?id=db2_qreplication
 * Replication center
   * Does your cup of Java get null point exception ? techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=622
 * Requirements
@@ -857,6 +870,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * SQL0752N on Rollforward After Redirected Restore. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2017/03/28/sql0752n-on-rollforward-after-redirected-restore/
   * DB2 LUW Truncate, Restore and Rollforward. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2016/03/03/db2-10-5-truncates-restore-and-rollforward/
   * DB2 LUW Import from /dev/null, Restore and Rollforward. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2016/03/08/db2-luw-import-from-devnull-restore-and-rollforward/
+  * DB2 Backup & Restore. My DokuWiki. Julien Andonov. 2017. Blog - http://www.jdbwiki.tech/doku.php?id=db_backup_restore
   * How To Perform Db2 Alternate Restore Using NetBackup ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/03/20/how-to-perform-db2-cross-node-restore-using-netbackup/
   * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/07/17/the-db2-recovery-history-file/
 * Restrictive
@@ -1079,6 +1093,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 Security Mysteries, Surrogates and Trusted Contexts. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/05/db2-security-mysteries-surrogates-and.html
   * DB2 Security: Privilege(d) Insight. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/06/db2-security-privileged-insight.html
   * Secure Your Db2 Data Base - Using Trusted Contexts. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/08/secure-your-db2-data-base-using-trusted.html
+  * DB2 Users, Security, Auditing. My DokuWiki. Julien Andonov. 2017. Blog - http://www.jdbwiki.tech/doku.php?id=db2_users
   * IBM Db2 Tech Talk: Db2 Security and Compliance Support. Db2 Tech Talk. Roger Sanders. 2018. Webminar - https://www.ibm.com/events/Z56SMPES
 * Select
   * FOR statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/for/
@@ -1356,6 +1371,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Making SQL PL and PL/SQL sensitive to changes in statistics, and more. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/statistics_sensitive_sql_pl
 * SQL Replication
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
+  * DB2 Replication. My DokuWiki. Julien Andonov. 2017. Blog - http://www.jdbwiki.tech/doku.php?id=db2_qreplication
   * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/01/18/high-availability-options-for-db2-luw/
 * SQLCA - SQL Communications Area
   * Now, where did that come from? Getting more out of your error messages. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2014. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/runtimeerrororigins
@@ -1676,6 +1692,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
     * Reclaimable Table Spaces. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/02/21/reclaimable-table-spaces/
     * DB2 SQL2104N THE ADMIN_MOVE_TABLE PROCEDURE COULD NOT BE COMPLETED AT THIS TIME BY THIS USER. REASON CODE: “9”. SQLSTATE=5UA0M. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/sql2104n-the-admin_move_table-procedure-could-not-be-completed-at-this-time-by-this-user-reason-code-9-sqlstate5ua0m/
     * Resolving – SQL2104N The ADMIN_MOVE_TABLE procedure could not be completed at this time by this user. Reason code: “4”. SQLSTATE=5UA0M. Ken's DBA Blog. Ken Garber. 2017. Blog - https://kendbablog.wordpress.com/2017/03/09/resolving-sql2104n-the-admin_move_table-procedure-could-not-be-completed-at-this-time-by-this-user-reason-code-4-sqlstate5ua0m/
+    * Tables, Indexes, Partitions, Objects. My DokuWiki. Julien Andonov. 2017. Blog - http://www.jdbwiki.tech/doku.php?id=db2_tables
   * SysProc.Admin_Rotate_Master_Key
     * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
   * SysProc.Audit_Delim_Extract
@@ -1786,6 +1803,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Table
   * Optimize your Tablespaces and Bufferpools-3: Bufferpool Optimization . db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/10/optimize-your-tablespaces-and.html
   * Size matters: A handy routine to compute the defined row size of a table. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/getrowsize
+  * Tables, Indexes, Partitions, Objects. My DokuWiki. Julien Andonov. 2017. Blog - http://www.jdbwiki.tech/doku.php?id=db2_tables
 * Table expression
   * Returning ResultSets From Delete , Update Queries using data-change-table-reference expressions. db2 tips by an IBMer. Ilker Ender. 2009. Blog - http://ilker-db2.tumblr.com/post/258702315
 * Table function
@@ -1805,7 +1823,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * TABLE PARTITIONING - A datawarehouse case-study. DB2 LUW Blog. Shivraj Kumar. 2015. Blog - https://db2today.blogspot.com/2015/07/table-partitioning-datawarehouse-case.html
   * Restore Transport option – mix and match your schemas (Part 1). db2geek. Mark Gillis. 2016. Blog - http://db2geek.triton.co.uk/restore-transport-option-mix-match-schemas/
   * DB2 TABLE PARTITIONING. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/db2-table-partitioning/
-  * Db2 Database Partitioning vs Range Partitioning. Linkedin. Luis Reina. 2018. Blog - https://www.linkedin.com/pulse/db2-database-partitioning-vs-range-luis-reina/
+  * Tables, Indexes, Partitions, Objects. My DokuWiki. Julien Andonov. 2018. Blog - http://www.jdbwiki.tech/doku.php?id=db2_tables
+  * Db2 Database Partitioning vs Range Partitioning. Linkedin. Luis Reina. 2017. Blog - https://www.linkedin.com/pulse/db2-database-partitioning-vs-range-luis-reina/
 * Table queue
   * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html
 * Table size
@@ -1842,6 +1861,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Basic concepts that are useful to design and implement a successful backup strategy in db2. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/09/Basic-concepts-that-are-useful-to-design-and-implement-a-successful-backup-strategy-in-db2.html
   * Monitoring database backup performance in db2. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/10/monitoring-database-backup-performance-db2.html
   * Space disks for DB2. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/12/space-disks-for-db2.html
+  * DB2 Table spaces, Containers. My DokuWiki. Julien Andonov. 2017. Blog - http://www.jdbwiki.tech/doku.php?id=db2_troubleshooting
   * (Invalid state change) Cambio de estado inválido en Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/02/cambio-de-estado-invalido-en-db2.html
   * DB2 How to Lower High Water Mark For DMS Tablespaces ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/01/19/db2-lower-high-water-mark-dms-tablespaces/
   * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/07/17/the-db2-recovery-history-file/
@@ -1854,6 +1874,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * How to Estimate the duration of a TAKEOVER HADR operation in DB2. ThinkingDB2! David Sciaraffa. Blog - http://thinkingdb2.blogspot.com.co/2015/07/how-to-estimate-duration-of-takeover.html
   * Access your database sooner after a system failure -- introducing DB2_ONLINERECOVERY! ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/08/access-your-database-sooner-after.html
   * Don't Get Caught Unprepared - Monitor Invalid Tablespaces on your HADR Standby database and Repair Them Efficiently. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/dont-get-caught-unprepared-monitor.html
+  * DB2 High Availability Data Replication. My DokuWiki. Julien Andonov. 2018. Blog - http://www.jdbwiki.tech/doku.php?id=db2_hadr
 * TCL - Transaction Control Language
   * DDL, DML, DCL and TCL in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/10/ddl-dml-dcl-and-tcl-in-db2.html
 * Tech Talks
@@ -1882,6 +1903,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Unit test SQL PL routines by using db2unit framework in DB2 LUW. DeveloperWorks. Andres Gomez. 2015. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1501unittest-sql-db2/index.html
 * Text search
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
+  * DB2 Text Search / Net Search Extender. My DokuWiki. Julien Andonov. 2018. Blog - http://www.jdbwiki.tech/doku.php?id=db2_nse
 * Tickets
   * PMR creation. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/02/pmr-creation.html
 * Tie-Breaking
@@ -1913,11 +1935,13 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * How To Deep Compare Two Db2 Environments? Raghu On Tech. Raghu Cherukuru. 2017. Blog - https://www.raghu-on-tech.com/2017/12/19/how-to-deep-compare-two-db2-environments/
 * TPC-c - Transaction Processing Performance Council
   * BenchmarkSQL for Db2. GitHub. Andres Gomez. Project - https://github.com/angoca/BenchmarkSQL
+  * Performance monitoring (tools and techniques). My DokuWiki. Julien Andonov. 2017. Blog - http://www.jdbwiki.tech/doku.php?id=db2_performance
 * Trace
+  * SQL procedure tracing. DeveloperWorks. Serge Rielau. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0409rielau/
   * Troubleshooting DB2 on Rails. DB2 on Rails. Leon Katsnelson, Antonio Cangiano. 2007. Blog - https://web.archive.org/web/20080719164826/http://antoniocangiano.com/files/tables_and_columns.html
   * Tracing DB2 JDBC Applications. db2 tips by an IBMer. Ilker Ender. 2009. Blog - http://ilker-db2.tumblr.com/post/285098205
   * DB2 Basics: An introduction to the DB2 UDB trace facility. DeveloperWorks. Roman Melnyk. 2014. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0409melnyk/
-  * SQL procedure tracing. DeveloperWorks. Serge Rielau. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0409rielau/
+  * Troubleshooting. My DokuWiki. Julien Andonov. 2018. Blog - http://www.jdbwiki.tech/doku.php?id=db2_troubleshooting
 * Transaction
   * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
@@ -1957,6 +1981,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 Archived Log Compression. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/09/db2-archived-log-compression-1.html
   * Access your database sooner after a system failure -- introducing DB2_ONLINERECOVERY! ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/08/access-your-database-sooner-after.html
   * CONFIGURE ARCHIVE LOGGING IN DB2 LUW DATABASE. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/configure-archive-logging-in-db2-luw-database/
+  * DB2 Log management. My DokuWiki. Julien Andonov. 2017. Blog - http://www.jdbwiki.tech/doku.php?id=db2_logs
   * Faster rollback processing of very large transactions in Db2 v11.1.3.3. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/faster-rollback-processing-of-very.html
   * Format and display Db2 log file information using db2fmtlog. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/format-and-display-db2-log-file.html
   * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/07/17/the-db2-recovery-history-file/
@@ -1999,6 +2024,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Client Connections in a TSA/HADR cluster- Part 3. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-3/
   * Client Connections in a TSA/HADR cluster- Part 4. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-4/
   * DB2 TSA RESOURCE GROUPS REMAIN IN LOCK STATE AFTER ENABLED. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/09/13/db2-tsa-resource-groups-remain-in-lock-state-after-enabled/
+  * TSA MP. My DokuWiki. Julien Andonov. 2017. Blog - http://www.jdbwiki.tech/doku.php?id=db2_tsamp
   * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/01/18/high-availability-options-for-db2-luw/
   * RSCT APAR Affecting TSAMP. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/03/29/rsct-apar-affecting-tsamp/
   * Using TSA/db2haicu to Automate Failover Part 5: Additional Configuration Best Practices. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/08/16/using-tsa-db2haicu-to-automate-failover-part-5-additional-configuration-best-practices/
@@ -2119,6 +2145,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 Upgrade Detail: Upgrading Event Monitor Tables. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/12/20/db2-upgrade-detail-upgrading-event-monitor-tables/ 
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/ 
   * We’re Risk Averse. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/were-risk-averse/ 
+  * DB2 Upgrade/Migration. My DokuWiki. Julien Andonov. 2018. Blog - http://www.jdbwiki.tech/doku.php?id=db2_install_upgrade
 * Upper case 
   * Performance differences between upper-case (XQuery) and UPPER scalar function. db2geek. Mark Gillisr. 2018. Blog - http://db2geek.triton.co.uk/performance-differences-upper-case-xquery-upper-scalar-function/ 
 * Upsert 
@@ -2305,6 +2332,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * Wrapper 
   * Mom, I joined the cloud! (or: Use old stuff with new stuff - DB2 federation). Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/03/mom-i-joined-cloud-or-use-old-stuff.html 
   * HOW TO SETUP FEDERATION BETWEEN TWO DB2 LUW DATABASES. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/how-to-setup-federation-between-two-db2-luw-databases/ 
+  * DB2 Remote nodes/databases. My DokuWiki. Julien Andonov. 2017. Blog - http://www.jdbwiki.tech/doku.php?id=db2_connect
 * Write 
   * DB2 problem determination using db2top utility. DeveloperWorks. Tao Wang and Shen Li. 2008. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0812wang/index.html 
   * DB2 Unlock. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-nuke.html 
