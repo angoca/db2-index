@@ -244,6 +244,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Improvise your Backup-Restore. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/11/improvise-you-backup-restore.html
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * DB2 Backup Script. A Day in DBA's life. Manohar Viswanatha. 2013. Blog - https://mviswa.blogspot.com/2013/01/db2-backup-script.html
+  * DB2 V9.7 Last successful backup timestamp. MyDBLearnings. Bhaskar UB. 2014. Blog - http://mylearnings-db.blogspot.com/2014/01/db2-v97-last-successful-backup-timestamp.html
   * Understanding and Tuning DB2/LUW Backup and Restore Performance. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/understanding-and-tuning-db2luw-backup.html
   * DB2 Advanced Copy Services: The scripted interface, Part 4, Implementation for DB2 ACS. DeveloperWorks. Martin Jungfer and Holger Hellmuth. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1506scriptdb2copy4/index.html
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
@@ -1071,6 +1072,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * db2fmpterm
   * IZ51398: DB2FMPTERM WILL SEGV IF ONE PARAMETER IS SPECIFIED. IBM. 2009. Support - http://www-01.ibm.com/support/docview.wss?uid=swg1IZ51398
   * DB2ATS + Transaction log full + backup fails. DB2 Knowledge Base Raf. Raf Mathijs. 2013. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2013/10/db2ats-transaction-log-full-backup-fails.html
+  * DB2 V9.7 - db2fmpterm. MyDBLearnings. Bhaskar UB. 2014. Blog - http://mylearnings-db.blogspot.com/2014/01/db2-v97-db2fmpterm.html
   * IT00784: UNSTABLE DB2FMP PROCESSES MAY ACCUMULATE ON SYSTEM RESULTING IN EXCESSIVE MEMORY USAGE. IBM. 2015. Support - https://www-01.ibm.com/support/docview.wss?uid=swg1IT00784
   * FORCE APPLICATION will not force sub-agents that are handling external routine requests. IBM. 2015. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21612984
   * db2fmp behavior. IBM. 2016. Support - https://www-01.ibm.com/support/docview.wss?uid=swg21994648
@@ -1523,6 +1525,9 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Well, Performance Engineering for Databases. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/02/well-performance-engineering-for.html
   * Size matters: A handy routine to compute the defined row size of a table. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/getrowsize
   * Char Vs. Varchar in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/char-vs-varchar-in-db2.html
+* Detach
+  * Partition detach hanged in DB2 v9.7. MyDBLearnings. Bhaskar UB. 2014. Blog - http://mylearnings-db.blogspot.com/2014/01/partition-detach-hanged-in-db2-v97.html
+  * DETACHing a data partition from a partitioned table may hang. IBM. 2015. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21601085
 * Deterministic
   * DETERMINISTIC and NOT DETERMINISTIC option. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/deterministic/
 * Developer Community Edition
