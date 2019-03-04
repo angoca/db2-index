@@ -99,6 +99,9 @@ These blogs are not longer updated 😞
 * Manohar Viswanatha - A Day in DBA's life. http://mviswa.blogspot.com/
   * All articles (Between 2012 and 2016 - Complete)
   * In archive.org
+* Bhaskar UB - MyDBLearnings. http://mylearnings-db.blogspot.com/search/label/db2%20luw
+  * All articles (Between 2014 and 2015 - Complete)
+  * In archive.org
 * Raf Mathijs - DB2 Knowledge Base Raf (Blog about technical stuff). http://db2-luw-knowledgebase.blogspot.com/
   * All articles (Between 2013 and 2015 - Complete).
   * In archive.org
@@ -192,4 +195,3 @@ https://www.ibm.com/developerworks/community/groups/service/html/communitystart?
 * http://dbaworks.blogspot.com/2015/02/db2-with-tsa.html
 * https://dzone.com/search?page=1 (db2)i
 * http://wordpress.wongpakm.com/tag/db2/
-* http://mylearnings-db.blogspot.com/search/label/db2%20luw
