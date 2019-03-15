@@ -195,3 +195,4 @@ https://www.ibm.com/developerworks/community/groups/service/html/communitystart?
 * http://dbaworks.blogspot.com/2015/02/db2-with-tsa.html
 * https://dzone.com/search?page=1 (db2)i
 * http://wordpress.wongpakm.com/tag/db2/
+* https://www.itgain-is.de/en/performance-monitoring/speedgain-for-db2/
