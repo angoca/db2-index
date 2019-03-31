@@ -134,6 +134,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * How To Perform Db2 Alternate Restore Using NetBackup ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/03/20/how-to-perform-db2-cross-node-restore-using-netbackup/
 * ArchRetryDelay
   * The DB2Night Show #196: Db2 LUW Transaction Log Expedition w/ Ember Crooks. The DB2Night Show. Ember Crooks. 2017. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=730
+* ARIES
+  * DB2 How To Measure Transaction Log Write Time ? Raghu On Tech. Raghu Cherukuru. 2019. Blog - https://www.raghu-on-tech.com/2019/02/28/howtomonitor-transactionlog-writetime/
 * Array
   * DB2 10: Using locally defined types and procedures. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/local_types_and_procedures
 * Article
@@ -179,6 +181,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Db2 Basics: Investigating Permissions in an Existing Database. db2commerce. Ember Brooks. 2018. Blog - http://datageek.blog/2018/01/23/db2-basics-investigating-permissions-in-an-existing-database/
   * DB2 Administrative SQL Cookbook: Listing Database Authorities that an ID/Group Holds. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/04/19/db2-administrative-sql-cookbook-listing-database-authorities-that-an-idgroup-holds/
   * IBM Db2 Tech Talk: Db2 Security and Compliance Support. Db2 Tech Talk. Roger Sanders. 2018. Webminar - https://www.ibm.com/events/Z56SMPES
+  * Db2 System Authorities. Virtual-DBA. Marc Petros. 2019. Blog - https://www.virtual-dba.com/runstats-best-practices-db2-luw/
 * Authorization
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
   * DB2 Database Security Model. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/db2-database-security-model.html
@@ -438,6 +441,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 LUW – Handling database objects with mixed case and special characters in their names. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/08/20/db2-luw-handling-database-objects-with-mixed-case-and-special-characters-in-their-names/
 * Cast
   * Distinctly weak type rules with a constrained twist. DeveloperWorks - SQL Tips for DB2 LUW. Rick Swagerman. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/weak_type?lang=en
+  * Client Experiences: How DB2 Migration Affects Decimal Type Conversion. db2geek. Damir Wilder. 2019. Blog - http://db2geek.triton.co.uk/client-experiences-how-db2-migration-affects-decimal-type-conversion/
 * Catalog
   * Combining Db2 and Cloud Object Storage. Data Henrik. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
 * Centrify
@@ -456,6 +460,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Char Vs. Varchar in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/char-vs-varchar-in-db2.html
 * Char (Function)
   * (Date format according to time zone) Formato de fechas según modo horario. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/trucos/formato-de-fechas-zona/
+* Char_Old
+  * Client Experiences: How DB2 Migration Affects Decimal Type Conversion. db2geek. Damir Wilder. 2019. Blog - http://db2geek.triton.co.uk/client-experiences-how-db2-migration-affects-decimal-type-conversion/
 * Characters
   * Escape characters in shell for DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/escape-characters-in-shell-for-db2.html
   * Identify invalid characters in a script. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/04/identify-invalid-characters-in-script.html
@@ -637,6 +643,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 Tips n Tricks Part 98 - How Conversion of Regular to Large Tablespace Impacts Recovery. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=uJ2_HXMY6A4
 * Coordinating agent
   * Hello, Db2 World! – How to Connect to a Db2 (LUW) Database. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/21/hello-db2-world-how-to-connect-to-a-db2-luw-database/
+  * Db2 LOAD command – Estimating TCP/IP Ephemeral Ports in a Database Partitioned Environment. ThinkingDB2! David Sciaraffa. 2019. Blog - http://thinkingdb2.blogspot.com/2019/03/db2-load-command-estimating-tcpip_50.html
 * Coordinator node
   * Simultaneous Parallel Processing in Distributed DB2 Databases. db2Gdba. Reynaldo Mola. nd. Blog - https://www.db2gdba.com/articles-tips/simultaneous-parallel-processing-in-distributed-databases/
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
@@ -1496,6 +1503,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Performance monitoring tools and methodology. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/performance-monitoring-tools-and-methodology.html
   * Overview of LOCK ISSUES in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/07/overview-of-lock-issues-in-db2.html
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
+* Dec_To_Chat_Fmt
+  * Client Experiences: How DB2 Migration Affects Decimal Type Conversion. db2geek. Damir Wilder. 2019. Blog - http://db2geek.triton.co.uk/client-experiences-how-db2-migration-affects-decimal-type-conversion/
 * Declare
   * DECLARE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/declare/
   * DECLARE CURSOR statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/declare-cursor/
@@ -1612,6 +1621,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Downloading and installing Db2 Developer-C on Red Hat Enterprise Linux . Hybrid Data Management Community. Roger E. Sanders. 2018. Blog - https://community.ibm.com/community/user/hybriddatamanagement/viewdocument/downloading-and-installing-db2-deve-2
   * Downloading and installing Db2 Developer Community Edition on Ubuntu Linux. Hybrid Data Management Community. Roger E. Sanders. 2018. Blog - https://community.ibm.com/community/user/hybriddatamanagement/viewdocument/downloading-and-installing-db2-deve-3
   * Downloading and installing Db2 Developer Community Edition on Red Hat Enterprise Linux. Hybrid Data Management Community. Roger E. Sanders. 2018. Blog - https://community.ibm.com/community/user/hybriddatamanagement/viewdocument/downloading-and-installing-db2-deve-4
+  * Running Db2 Developer-C as Docker container. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2019. Blog - https://blog.4loeser.net/2019/03/running-db2-developer-c-as-docker.html
 * Documentation
   * SQL-PL Guide. SQL-PL Guide. Michael Spoden. Documentation - http://www.sqlpl-guide.com/
   * KnowledgeCenter DB2 11.1. IBM. Documentation - http://www.ibm.com/support/knowledgecenter/SSEPGG_11.1.0/com.ibm.db2.luw.kc.doc/welcome.html
@@ -1661,6 +1671,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Table in Quiesce Mode. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30324
   * Partitions held by a table. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30325
   * Db2 Database Partitioning vs Range Partitioning. Linkedin. Luis Reina. 2018. Blog - https://www.linkedin.com/pulse/db2-database-partitioning-vs-range-luis-reina/
+  * Db2 LOAD command – Estimating TCP/IP Ephemeral Ports in a Database Partitioned Environment. ThinkingDB2! David Sciaraffa. 2019. Blog - http://thinkingdb2.blogspot.com/2019/03/db2-load-command-estimating-tcpip_50.html
 * Driver
   * Use Db2 as Cloud SQL Database with Python. Data Henrik. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/10/use-db2-as-cloud-sql-database-with.html
   * How to know if Java clients in Db2 are using an updated driver. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/how-to-know-if-java-clients-in-db2-are.html
@@ -2133,6 +2144,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 Performance Myth Buster 2 - How Increasing Bufferpool Size will not increase LOAD Performance. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=spTrT6-U5Qk
   * DB2 Table Row (Tuple) Size. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2-row-size/
   * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
+  * DB2 How To Measure Transaction Log Write Time ? Raghu On Tech. Raghu Cherukuru. 2019. Blog - https://www.raghu-on-tech.com/2019/02/28/howtomonitor-transactionlog-writetime/
 * Identity
   * Returning inserted rows (and updated and deleted). DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/select_from_insert
   * A Cache of Identities and a Sequence of Events. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/01/a-cache-of-identities-and-sequence-of.html
@@ -2428,6 +2440,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * How To Perform DB2 Loads in HADR Environment ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/01/24/perform-loads-in-db2-hadr-environment/
   * Import data from a table with generated id in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/import-data-from-table-with-generated.html
   * Exception tables for LOAD and SET INTEGRITY in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/08/exception-tables-for-load-and-set.html
+  * Db2 LOAD command – Estimating TCP/IP Ephemeral Ports in a Database Partitioned Environment. ThinkingDB2! David Sciaraffa. 2019. Blog - http://thinkingdb2.blogspot.com/2019/03/db2-load-command-estimating-tcpip_50.html
 * LOB
   * Size matters: A handy routine to compute the defined row size of a table. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/getrowsize
   * Perform LOB inlining in an HADR environment for a standby database. DeveloperWorks. Somraj Chakrabarty and Suvradeep Sensarma. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1508lob-hadr-standby/index.html
@@ -2493,6 +2506,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Please check the "Diagnostic log" entry.
 * Log buffer
   * How Will Logging Process happen in DB2?. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/01/how-logging-process-will-happen-in-db2.html
+  * DB2 How To Measure Transaction Log Write Time ? Raghu On Tech. Raghu Cherukuru. 2019. Blog - https://www.raghu-on-tech.com/2019/02/28/howtomonitor-transactionlog-writetime/
 * Log chain
   * Format and display Db2 log file information using db2fmtlog. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/format-and-display-db2-log-file.html
 * Log flush sequence - LFS
