@@ -947,6 +947,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Improving Read Availability of the HADR Standby database… Avoiding the Replay-only Window. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com/2018/12/improving-read-availability-of-hadr.html
 * Routines
   * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
+  * Creating DB2 ROS Clutster on AWS - Part 1. adatacloudguru. Sandra Mausberg. 2018. Video - https://www.youtube.com/watch?v=yOMzh3gtqDg&t=30s
 * Row
   * db2top Agent Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-2.html
   * Size matters: A handy routine to compute the defined row size of a table. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/getrowsize
