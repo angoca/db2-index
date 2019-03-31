@@ -2,52 +2,52 @@ In this section, the main DB2 sources are described:
 
 * Ember Crooks - DataGeek (Blog about technical stuff 💃 ). https://datageek.blog/
   * Before DB2Commerce.
-  * Articles since 201607 to 201901
+  * Articles since 201607 to 201902
   * Also articles from http://www.virtual-dba.com/blog/
-    * Articles since 201701 to 201901
+    * Articles since 201701 to 201902
   * In archive.org
 * Andres Gomez Casanova - Ideas for DB2 (Blog about technical stuff). https://angocadb2.blogspot.com
-  * Articles since 201601 to 201901
+  * Articles since 201601 to 201902
   * In archive.org
 *  Dave Hay - A Portal to a Portal (Blog about many technologies around IBM, including Db2)
 https://portal2portal.blogspot.com/search?q=db2&max-results=20&by-date=true
-  * Articles since 201801 to 201901
+  * Articles since 201801 to 201902
   * In archive.org
 * Michael Krafick - Discover db2 (Video tutorial about Db2). https://www.youtube.com/DISCOVERDB2
   * In archive.org
 * Vinay Kumar Bommana - DB Tutorials (Videos of DB2 🎥 ).
   * https://www.youtube.com/channel/UCo0cIzR_TbMzU5wHQmbTjxQ/videos
   * Vinay's DB2 blog (Blog about technical stuff). http://vinaysdb2blog.blogspot.com
-    * Articles since 201601 to 201804
+    * Articles since 201601 to 201902
   * In archive.org
 * Scott Hayes - The DB2night show ( 📺  Videos and Webminars of DB2, also contests 😀 ). http://www.dbisoftware.com/db2nightshow/ - http://www.dbisoftware.com/blog/db2nightshow.php
   * In archive.org
 * Raghu Cherukuru - Raghu On Tech (Blog about different stuff of Db2). https://www.raghu-on-tech.com/
-  * All articles has been indexed. Last update 201901
+  * All articles has been indexed. Last update 201902
   * In archive.org
 * DB2 Geek (Blog of different things about DB2). http://db2geek.triton.co.uk
-  * Articles since 201601 to 201901
+  * Articles since 201601 to 201902
   * In archive.org
 * Henrik Loeser - Data Henrik: IT, Life, DB2, and more (Blog about technical stuff). http://blog.4loeser.net/
-  * Articles since 201601 to 201808
+  * Articles since 201601 to 201902
   * In archive.org
 * David Sciaraffa - ThinkingDB2! (Blog about technical stuff written by a Db2 develoeper 💻 ). http://thinkingdb2.blogspot.com
-  * All articles has been indexed. Last update 201808
+  * All articles has been indexed. Last update 201902
   * In archive.org
 * Jack Vamvas - DBA-DB2. http://www.dba-db2.com/
-  * Articles since 201708 to 201808
+  * Articles since 201708 to 201902
   * In archive.org
 * Scott Hayes - DB2 Performance (Articles about performance and DBI software). http://www.dbisoftware.com/blog/db2_performance.php
-  * Articles since 201301 to 201801
+  * Articles since 201301 to 201902
   * In archive.org
 * DeveloperWorks (Articles). http://www.ibm.com/developerworks/views/data/libraryview.jsp?sort_by=Date&search_by=db2
-  * Articles since 201601 to 201702
+  * Articles since 201601 to 201902
   * NOT in archive.org
 * Shiji Pan - With Data (Blog related to a data software). https://www.withdata.com/blog/
-  * All articles related to Db2 (Between 2013 and 201805)
+  * All articles related to Db2 (Between 2013 and 201902)
   * In archive.org
 * Leons Petrazickis - Leons on Tech. http://lpetr.org/
-  * All articles related to Db2 (Between 2006 anc 201811)
+  * All articles related to Db2 (Between 2006 anc 201902)
   * In archive.org
 * Shivraj Kumar - DB2 LUW Blog. https://db2today.blogspot.com
   * All articles related to Db2 (Between 2015 and 2018)
