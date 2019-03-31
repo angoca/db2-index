@@ -61,6 +61,8 @@ https://portal2portal.blogspot.com/search?q=db2&max-results=20&by-date=true
 * Julien Andonov - My DokuWiki. http://www.jdbwiki.tech/doku.php?id=db2
   * All pages (without a temporal order).
   * In archive.org
+* Sandra Mausberg - A Data Cloud Guru. https://www.youtube.com/channel/UCI3gDn3U2EQG0t-OgUpzr8w
+  * All videos (From 2018).
 
 These blogs are not longer updated 😞 
 
@@ -196,4 +198,3 @@ https://www.ibm.com/developerworks/community/groups/service/html/communitystart?
 * https://dzone.com/search?page=1 (db2)i
 * http://wordpress.wongpakm.com/tag/db2/
 * https://www.itgain-is.de/en/performance-monitoring/speedgain-for-db2/
-* https://www.youtube.com/channel/UCI3gDn3U2EQG0t-OgUpzr8w
