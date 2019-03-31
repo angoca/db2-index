@@ -97,8 +97,13 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Client Connections in a TSA/HADR cluster – Part 2. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-2/
   * Client Connections in a TSA/HADR cluster– Part 3. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-3/
   * Client Connections in a TSA/HADR cluster- Part 4. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-4/
-* Amazon
+* Amazon - AWS
   * DB2 and EC2. DB2 Diary from Radhesh. Radhesh Kumar. 2009. Blog - http://radheshk.blogspot.com/2009/02/db2-and-ec2.html
+  * Create a DB2 HADR Cluster on AWS - Part 1. adatacloudguru. Sandra Mausberg. 2018. Video - https://www.youtube.com/watch?v=VLYMYHrbGSI
+  * Create DB2 HADR Cluster on AWS - Part 2. adatacloudguru. Sandra Mausberg. 2018. Video - https://www.youtube.com/watch?v=ho_SHyBNgdw
+  * Creating DB2 ROS Clutster on AWS - Part 1. adatacloudguru. Sandra Mausberg. 2018. Video - https://www.youtube.com/watch?v=yOMzh3gtqDg&t
+  * DB2 ROS on AWS: Ensuring High Availabilty and Consistency with Lambda - Part 2 - Code Walkthrough. adatacloudguru. Sandra Mausberg. 2018. Video - https://www.youtube.com/watch?v=iuPIA_TGEBg
+  * DB2 ROS on AWS: Testing High Availability and ACR with Lambda - Part 3. adatacloudguru. Sandra Mausberg. 2018. Video - https://www.youtube.com/watch?v=6SjflKPMFB4
 * Anonymous block
   * DB2 10: Using locally defined types and procedures. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/local_types_and_procedures
   * Writing to a file from a Stored Procedure or Annonymous Block (sql pl). Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/writing-in-file-from-stored-procedure.html
@@ -2037,7 +2042,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Encrypting your database with DB2 10.5. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/encrypting-your-database-with-db2-105_13.html
   * How to Estimate the duration of a TAKEOVER HADR operation in DB2. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/07/how-to-estimate-duration-of-takeover.html
   * How to identify if a table has the not logged initially attribute. Ideas for DB2 (Spanish). Andres Gomez. 2015. Blog - http://angocadb2.blogspot.com.co/2015/12/how-to-identify-if-table-has-not-logged.html
-    * DB2 split mirror to create a HADR standby database. Ken's DBA Blog. Ken Garber. 2015. Blog - https://kendbablog.wordpress.com/2015/07/01/db2-split-mirror-to-create-a-hadr-standby-database/comment-page-1
+  * DB2 split mirror to create a HADR standby database. Ken's DBA Blog. Ken Garber. 2015. Blog - https://kendbablog.wordpress.com/2015/07/01/db2-split-mirror-to-create-a-hadr-standby-database/comment-page-1
   * Automated cluster controlled HADR configuration setup using the IBM DB2 high availability instance configuration utility. DeveloperWorks. Steve Raspudic, Malaravan Ponnuthurai. 2016. Article - http://www.ibm.com/developerworks/data/library/long/dm-0907hadrdb2haicu/index.html
   * Tie-Breaker Disk for HADR or pureScale. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/499
   * Avoid Tie Breaker Disk. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/501
@@ -2065,6 +2070,11 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Monitoring Db2 HADR Takeover. Db2 Reflections. Hao Yan. 2018. Blog - http://db2reflections.blogspot.com.co/2018/04/monitoring-db2-hadr-takeover.html
   * Workload Automation: How to Survive Disasters. Workload Automation Community. Eliana Cerasaro. 2018. Blog - http://www.workloadautomation-community.com/blogs/workload-automation-how-to-survive-disasters
   * Improving Read Availability of the HADR Standby database… Avoiding the Replay-only Window. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com/2018/12/improving-read-availability-of-hadr.html
+  * Create a DB2 HADR Cluster on AWS - Part 1. adatacloudguru. Sandra Mausberg. 2018. Video - https://www.youtube.com/watch?v=VLYMYHrbGSI
+  * Create DB2 HADR Cluster on AWS - Part 2. adatacloudguru. Sandra Mausberg. 2018. Video - https://www.youtube.com/watch?v=ho_SHyBNgdw
+  * Creating DB2 ROS Clutster on AWS - Part 1. adatacloudguru. Sandra Mausberg. 2018. Video - https://www.youtube.com/watch?v=yOMzh3gtqDg&t
+  * DB2 ROS on AWS: Ensuring High Availabilty and Consistency with Lambda - Part 2 - Code Walkthrough. adatacloudguru. Sandra Mausberg. 2018. Video - https://www.youtube.com/watch?v=iuPIA_TGEBg
+  * DB2 ROS on AWS: Testing High Availability and ACR with Lambda - Part 3. adatacloudguru. Sandra Mausberg. 2018. Video - https://www.youtube.com/watch?v=6SjflKPMFB4
   * Hard-Coding Ports for HADR When Setting up Multiple Standbys. Virtual-DBA. Aish Khare. 2019. Blog - https://www.virtual-dba.com/hard-coding-ports-for-hadr-multiple-standbys/
 * HADR Calculator
   * DB2 Logging and HADR Performance Analysis using DB2 Log Scanner and HADR Calculator. DeveloperWorks. Yuke Zhuge. 2014. Wiki - https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/DB2HADR/page/db2logscan 
@@ -2258,6 +2268,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Product identifier when installing Db2 (productShortName). Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/06/product-identifier-when-installing-db2.html
   * Evaluation license when installing a Fixpack. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/06/evaluation-license-when-installing.html
   * (Ep. 01) - Db2 Developer Ed. Installation and Basics. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=QvfQPq-8YU8
+  * Create a DB2 HADR Cluster on AWS - Part 1. adatacloudguru. Sandra Mausberg. 2018. Video - https://www.youtube.com/watch?v=VLYMYHrbGSI
+  * Create DB2 HADR Cluster on AWS - Part 2. adatacloudguru. Sandra Mausberg. 2018. Video - https://www.youtube.com/watch?v=ho_SHyBNgdw
   * DB2 Installation (LINUX). My DokuWiki. Julien Andonov. 2019. Blog - http://www.jdbwiki.tech/doku.php?id=db2_install_inst
 * installFixPack
   * Using db2prereqcheck to Check Prerequisites for DB2 LUW. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2prereqcheck-check-prerequisites-db2-luw/
