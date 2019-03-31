@@ -11,6 +11,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
   * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/line-optimization-v11-1/
   * Runstats Best Practices for Db2 on LUW. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/runstats-best-practices-db2-luw/
+  * SQL That Meant Well: Applying Conditions in the Subquery vs the Outer Query. DataGeek. Ember Brooks. 2019. Blog - https://datageek.blog/2019/03/08/sql-that-meant-well-applying-conditions-in-the-subquery-vs-the-outer-query/
 * Access to Uncommitted data
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * Access_Ctrl
@@ -265,6 +266,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Troubleshoot Db2 Backup Issues With Veritas NetBackup. Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/03/16/troubleshoot-db2-backup-issues-veritas-netbackup/
   * How To Perform Db2 Alternate Restore Using NetBackup ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/03/20/how-to-perform-db2-cross-node-restore-using-netbackup/
   * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/07/17/the-db2-recovery-history-file/
+  * DB2 Basics: Beyond Just Taking a Backup – Backup Performance, Utilities, and More!. DataGeek. Ember Brooks. 2019. Blog - https://datageek.blog/2019/03/26/db2-basics-beyond-just-taking-a-backup-backup-performance-utilities-and-more/
 * Backup Pending
   * DB2 DPF Tablespace Recovery Scenarios — Part 1 — Recover Tablespace(s) on Coordinator Node. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/03/05/db2-dpf-tablespace-recovery-scenarios-part-1/
   * How to take data Online Backup in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-take-data-online-backup-in-db2.html
@@ -800,6 +802,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * (Date format according to time zone) Formato de fechas según modo horario. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/trucos/formato-de-fechas-zona/
   * How to create a Date Series in DB2. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/12/how-to-create-a-date-series-in-db2-.html
   * Dealing with dates and formats. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/dealing-with-dates-and-formats.html
+  * SQL That Meant Well: Where Functions are Applied. DataGeek. Ember Brooks. 2019. Blog - https://datageek.blog/2019/03/14/sql-that-meant-well-where-functions-are-applied/
+  * SQL Differences Between Db2 and Informix. DataGeek. Ember Brooks. 2019. Blog - https://datageek.blog/2019/03/19/sql-differences-between-db2-and-informix/
 * DB2
   * IBM DB2. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2
   * IBM DB2 Express-C. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2_Express-C
@@ -954,6 +958,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * A Peek on DB2 Log Record. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/07/peek-on-db2-log-record.html
   * (Validate a physical db2 backup) Validación backup físico DB2 – db2ckbkp. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/utilidades/validacion-backup-fisico-db2-db2ckbkp/
+  * DB2 Basics: Beyond Just Taking a Backup – Backup Performance, Utilities, and More!. DataGeek. Ember Brooks. 2019. Blog - https://datageek.blog/2019/03/26/db2-basics-beyond-just-taking-a-backup-backup-performance-utilities-and-more/
 * db2cklog
   * Checking archive log files with the db2cklog tool. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/03/Checking-archive-log-files-with-the-db2cklog-tool.html
 * db2ckmig
@@ -1948,6 +1953,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
   * Seven SQL Performance-Killers to Avoid in Db2. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/seven-sql-performance-killers-avoid-db2/
+  * SQL That Meant Well: Where Functions are Applied. DataGeek. Ember Brooks. 2019. Blog - https://datageek.blog/2019/03/14/sql-that-meant-well-where-functions-are-applied/
 
 # G
 
