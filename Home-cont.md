@@ -467,6 +467,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Performance differences between upper-case (XQuery) and UPPER scalar function. db2geek. Mark Gillisr. 2018. Blog - http://db2geek.triton.co.uk/performance-differences-upper-case-xquery-upper-scalar-function/
   * Index Read Efficiency – A Key Performance Indicator for Db2. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/index-read-efficiency-db2/
   * Which is better db2expln or db2exfmt? Vinay's DB2 blog. Vinay Bommana. 2018. Blog - http://vinaysdb2blog.blogspot.com/2018/10/which-is-better-db2expln-or-db2exfmt.html
+  * DB2 Basics: Beyond Just Taking a Backup – Backup Performance, Utilities, and More!. DataGeek. Ember Brooks. 2019. Blog - https://datageek.blog/2019/03/26/db2-basics-beyond-just-taking-a-backup-backup-performance-utilities-and-more/
 * Performance Analysis Suite
   * IBM Performance Analysis Suite. DeveloperWorks. Bryan Tsai. Tool - https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=28cb6d68-ab67-4203-96f9-5538e654a5ff
 * Perl
@@ -649,6 +650,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Why are there Question Marks in my Db2 Queries?. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/why-are-there-question-marks-in-my-db2-queries/
   * Dealing with dates and formats. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/dealing-with-dates-and-formats.html
   * Which is better db2expln or db2exfmt? Vinay's DB2 blog. Vinay Bommana. 2018. Blog - http://vinaysdb2blog.blogspot.com/2018/10/which-is-better-db2expln-or-db2exfmt.html
+  * SQL That Meant Well: Applying Conditions in the Subquery vs the Outer Query. DataGeek. Ember Brooks. 2019. Blog - https://datageek.blog/2019/03/08/sql-that-meant-well-applying-conditions-in-the-subquery-vs-the-outer-query/
+  * SQL That Meant Well: Where Functions are Applied. DataGeek. Ember Brooks. 2019. Blog - https://datageek.blog/2019/03/14/sql-that-meant-well-where-functions-are-applied/
 * Queue
   * db2top Agent Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-2.html
 
@@ -876,6 +879,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 Backup & Restore. My DokuWiki. Julien Andonov. 2017. Blog - http://www.jdbwiki.tech/doku.php?id=db_backup_restore
   * How To Perform Db2 Alternate Restore Using NetBackup ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/03/20/how-to-perform-db2-cross-node-restore-using-netbackup/
   * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/07/17/the-db2-recovery-history-file/
+  * DB2 Basics: Beyond Just Taking a Backup – Backup Performance, Utilities, and More!. DataGeek. Ember Brooks. 2019. Blog - https://datageek.blog/2019/03/26/db2-basics-beyond-just-taking-a-backup-backup-performance-utilities-and-more/
 * Restrictive
   * DB2 WSE 9.7 - General Errors. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-error.html
   * Gotcha when restoring database with restrictive access ! techs@work. Raju Pillai. 2012. Blog - http://techsatwork.com/blog/?p=1310
@@ -1926,6 +1930,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Timeron
   * Explain Part 1 – Explain and the DB2 Optimizer. db2commerce. Ember Brooks. 2013. Blog - http://datageek.blog/2013/06/04/explain-part-1-explain-and-the-db2-optimizer/
   * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html
+  * SQL That Meant Well: Applying Conditions in the Subquery vs the Outer Query. DataGeek. Ember Brooks. 2019. Blog - https://datageek.blog/2019/03/08/sql-that-meant-well-applying-conditions-in-the-subquery-vs-the-outer-query/
 * Timestamp
   * Migrating from TSQL: The DATEADD function. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/dateadd
   * Dealing with dates and formats. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/dealing-with-dates-and-formats.html
@@ -2182,7 +2187,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/ 
   * Creating and loading column-organized and row-organized tables in DB2 BLU. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/10/06/creating-and-loading-column-organized-and-row-organized-tables-in-db2-blu/ 
   * Understanding and Tuning DB2/LUW Backup and Restore Performance. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/understanding-and-tuning-db2luw-backup.html 
-  * DB2 11.1 BLU with DPF Monitoring scripts. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11484 
+  * DB2 11.1 BLU with DPF Monitoring scripts. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11484
+  * DB2 Basics: Beyond Just Taking a Backup – Backup Performance, Utilities, and More!. DataGeek. Ember Brooks. 2019. Blog - https://datageek.blog/2019/03/26/db2-basics-beyond-just-taking-a-backup-backup-performance-utilities-and-more/
 * Util_Impact_Limit 
   * (Session priority in Db2) Prioridad de sesiones en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/prioridad-de-sesiones-en-db2/ 
   * Improvise your Backup-Restore. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/11/improvise-you-backup-restore.html
