@@ -196,3 +196,4 @@ https://www.ibm.com/developerworks/community/groups/service/html/communitystart?
 * https://dzone.com/search?page=1 (db2)i
 * http://wordpress.wongpakm.com/tag/db2/
 * https://www.itgain-is.de/en/performance-monitoring/speedgain-for-db2/
+* https://www.youtube.com/channel/UCI3gDn3U2EQG0t-OgUpzr8w
