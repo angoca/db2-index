@@ -39,6 +39,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html
   * Capturing SQL statements and performance metrics for a single application database-connection in DB2. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/04/capturing-sql-statements-and-activities.html
   * Transitioning from Query Patroller historical tables to WLM & Event Monitors in DB2 LUW. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/06/transitioning-from-query-patroller.html
+  * IBM Data Server Manager v2.1.3 ---- Query History Tutorial. AnalyticsPlatform. 2017. Video - https://www.youtube.com/watch?v=SQSeVj4ikWI
 * Adaptive compression
   * Getting an estimate – DB2 LUW V10.1 Compression. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/getting-an-estimate-db2-luw-v10-1-compression/
 * Add-ins
@@ -750,9 +751,20 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Data Server Driver
   * Configure parameters for IBM Data Server Driver for JDBC and SQLJ against HADR for DB2 pureScale. DeveloperWorks. Sujan Ghosh and Vinayak Joshi. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1509hadr-purescale/index.html
   * DB2 Remote nodes/databases. My DokuWiki. Julien Andonov. 2018. Blog - http://www.jdbwiki.tech/doku.php?id=db2_connect
-* Data Server Management
+* Data Server Manager - DSM
   * Data Server Manager 2.1.4. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11485
   * Db2 SQL Tutorial 2 - Getting Started with Db2 and DSM. CaleTheVideoMaker2. Caleb Curry. 2017. Video - https://www.youtube.com/watch?v=DXDAX2t953c
+  * What's New in IBM Data Server Manager 2.1.2. AnalyticsPlatform. 2017. Video - https://www.youtube.com/watch?v=l81YNS5ikLY
+  * 5 Things to Know about IBM Data Server Manager. AnalyticsPlatform. 2017. Video - https://www.youtube.com/watch?v=n0ds6eOlKp0
+  * What's New in IBM Data Server Manager v2.1.3. AnalyticsPlatform. 2017. Video - https://www.youtube.com/watch?v=M_eeJAHnyQU
+  * How does IBM Data Server Manager v2.1.3 support HADR. AnalyticsPlatform. 2017. Video - https://www.youtube.com/watch?v=seAhzxQmC2g
+  * IBM Data Server Manager v2.1.3 ---- Query History Tutorial. AnalyticsPlatform. 2017. Video - https://www.youtube.com/watch?v=SQSeVj4ikWI
+  * IBM Data Server Manager ---- pureScale Support. AnalyticsPlatform. 2017. Video - https://www.youtube.com/watch?v=lVuGB9-Xwzc
+  * IBM Data Server Manager v2.1.3 ---- SQL Editor Tutorial. AnalyticsPlatform. 2017. Video - https://www.youtube.com/watch?v=JA6BvdCODzs
+  * IBM Data Server Manager v2.1.3 ---- Welcome Tutorial. AnalyticsPlatform. 2017. Video - https://www.youtube.com/watch?v=NKTZy89FD0Q
+  * IBM Data Server Manager Hybrid Enterprise Overview. AnalyticsPlatform. 2017. Video - https://www.youtube.com/watch?v=gpYeLcI8vK8
+  * What's New in IBM Data Server Manager v2.1.4. AnalyticsPlatform. 2017. Video - https://www.youtube.com/watch?v=9PmKIx71ALQ
+  * Introduction of Federation and MQT in IBM Data Server Manager. AnalyticsPlatform. 2017. Video - https://www.youtube.com/watch?v=w_OFQEHMtRg
 * Data source
   * Reducing Contention: Changing Default Isolation Level for Websphere Commerce (WCS). db2commerce. Michael Krafick. 2017. Blog - http://datageek.blog/2017/11/02/reducing-contention-changing-default-isolation-level-for-websphere-commerce-wcs/
 * Data skipping
@@ -1862,6 +1874,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Mom, I joined the cloud! (or: Use old stuff with new stuff - DB2 federation). Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/03/mom-i-joined-cloud-or-use-old-stuff.html
   * HOW TO SETUP FEDERATION BETWEEN TWO DB2 LUW DATABASES. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/how-to-setup-federation-between-two-db2-luw-databases/
   * DB2 Remote nodes/databases. My DokuWiki. Julien Andonov. 2017. Blog - http://www.jdbwiki.tech/doku.php?id=db2_connect
+  * Introduction of Federation and MQT in IBM Data Server Manager. AnalyticsPlatform. 2017. Video - https://www.youtube.com/watch?v=w_OFQEHMtRg
 * Fenced
   * sysibmadm.dbmcfg gives error sql0444n reason code 4. DB2 Knowledge Base Raf. Raf Mathijs. 2013. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2013/10/sysibmadmdbmcfg-gives-error-sql0444n.html
   * Stored Procedure wlm_set_client_info gives error sql1131n. DB2 Knowledge Base Raf. Raf Mathijs. 2014. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2014/05/stored-procedure-wlmsetclientinfo-gives.html
@@ -2062,6 +2075,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Client Connections in a TSA/HADR cluster – Part 2. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-2/
   * Client Connections in a TSA/HADR cluster- Part 3. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-3/
   * Client Connections in a TSA/HADR cluster- Part 4. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-4/
+  * How does IBM Data Server Manager v2.1.3 support HADR. AnalyticsPlatform. 2017. Video - https://www.youtube.com/watch?v=seAhzxQmC2g
   * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/01/18/high-availability-options-for-db2-luw/
   * HADR ROS (READ ON STANDBY) MAJOR LIMITATION. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/hadr-ros-read-only-standby-limitation/
   * RSCT APAR Affecting TSAMP. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/03/29/rsct-apar-affecting-tsamp/
