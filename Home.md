@@ -100,6 +100,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Client Connections in a TSA/HADR cluster- Part 4. db2geek. Damir Wilder. 2017. Blog - http://db2geek.triton.co.uk/client-connections-tsahadr-cluster-part-4/
 * Amazon - AWS
   * DB2 and EC2. DB2 Diary from Radhesh. Radhesh Kumar. 2009. Blog - http://radheshk.blogspot.com/2009/02/db2-and-ec2.html
+  * Backup and Restore DB2 on cloud with DSM. Analytics Platform Tool. 2016. Video - https://www.youtube.com/watch?v=_pKE44xW96g
   * Create a DB2 HADR Cluster on AWS - Part 1. adatacloudguru. Sandra Mausberg. 2018. Video - https://www.youtube.com/watch?v=VLYMYHrbGSI
   * Create DB2 HADR Cluster on AWS - Part 2. adatacloudguru. Sandra Mausberg. 2018. Video - https://www.youtube.com/watch?v=ho_SHyBNgdw
   * Creating DB2 ROS Clutster on AWS - Part 1. adatacloudguru. Sandra Mausberg. 2018. Video - https://www.youtube.com/watch?v=yOMzh3gtqDg&t
@@ -243,7 +244,6 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Back-end process
   * "db2 connect" does not check the connection - Test an active connection. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/05/db2-connect-does-not-check-connection.html
 * Backup
-  * How to backup and extract the recovery history file from a database backup? IBM. 2016. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21994689
   * DB2 backup script on Linux. Berthou.com. 2008. Blog - http://www.berthou.com/us/2008/01/31/db2-backup-script-on-linux/
   * DB2 backup script on Linux. Berthou.com. 2008. Blog - http://www.berthou.com/us/2008/01/10/windows-script-for-a-db2-backup/
   * SSV Backup. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/08/ssv-backup.html
@@ -257,6 +257,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 V9.7 Last successful backup timestamp. MyDBLearnings. Bhaskar UB. 2014. Blog - http://mylearnings-db.blogspot.com/2014/01/db2-v97-last-successful-backup-timestamp.html
   * Understanding and Tuning DB2/LUW Backup and Restore Performance. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/understanding-and-tuning-db2luw-backup.html
   * DB2 Advanced Copy Services: The scripted interface, Part 4, Implementation for DB2 ACS. DeveloperWorks. Martin Jungfer and Holger Hellmuth. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1506scriptdb2copy4/index.html
+  * How to backup and extract the recovery history file from a database backup? IBM. 2016. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21994689
+  * Backup and Restore DB2 on cloud with DSM. Analytics Platform Tool. 2016. Video - https://www.youtube.com/watch?v=_pKE44xW96g
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
   * DB2 Tips n Tricks Part 97 - How To Take Offline Backup of Tablespace. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=tT1K3uamwxc
   * Backup terminated vs Backup complete. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/04/backup-terminated-vs-backup-complete.html
@@ -530,6 +532,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Example: Select statement in dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-select-statement-in-dynamic-sql/
   * Cursors. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/cursor/
 * Cloud
+  * Backup and Restore DB2 on cloud with DSM. Analytics Platform Tool. 2016. Video - https://www.youtube.com/watch?v=_pKE44xW96g
   * PkgCache #28: Easier to use when drunk. The Whole Package Cache. Ian Bjorhovde, Fred Sobotka. 2016. Podcast - http://www.pkgcache.com/28/
   * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://datageek.blog/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
 * CLP - Command Line Processor
@@ -752,6 +755,9 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Configure parameters for IBM Data Server Driver for JDBC and SQLJ against HADR for DB2 pureScale. DeveloperWorks. Sujan Ghosh and Vinayak Joshi. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1509hadr-purescale/index.html
   * DB2 Remote nodes/databases. My DokuWiki. Julien Andonov. 2018. Blog - http://www.jdbwiki.tech/doku.php?id=db2_connect
 * Data Server Manager - DSM
+  * Backup and Restore DB2 on cloud with DSM. Analytics Platform Tool. 2016. Video - https://www.youtube.com/watch?v=_pKE44xW96g
+  * DSM Access Plan Change Alert. Analytics Platform Tool. 2016. Video - https://www.youtube.com/watch?v=h2DUmdaWN3w
+  * Generate database daily report with DSM. Analytics Platform Tool. 2016. Video - https://www.youtube.com/watch?v=8q-tZ0qIrjU
   * Data Server Manager 2.1.4. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11485
   * Db2 SQL Tutorial 2 - Getting Started with Db2 and DSM. CaleTheVideoMaker2. Caleb Curry. 2017. Video - https://www.youtube.com/watch?v=DXDAX2t953c
   * What's New in IBM Data Server Manager 2.1.2. AnalyticsPlatform. 2017. Video - https://www.youtube.com/watch?v=l81YNS5ikLY
@@ -765,6 +771,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * IBM Data Server Manager Hybrid Enterprise Overview. AnalyticsPlatform. 2017. Video - https://www.youtube.com/watch?v=gpYeLcI8vK8
   * What's New in IBM Data Server Manager v2.1.4. AnalyticsPlatform. 2017. Video - https://www.youtube.com/watch?v=9PmKIx71ALQ
   * Introduction of Federation and MQT in IBM Data Server Manager. AnalyticsPlatform. 2017. Video - https://www.youtube.com/watch?v=w_OFQEHMtRg
+  * What's New in IBM Data Server Manager v2.1.5. Analytics Platform Tool. 2018. Video - https://www.youtube.com/watch?v=X8aXFRl6GYQ
 * Data source
   * Reducing Contention: Changing Default Isolation Level for Websphere Commerce (WCS). db2commerce. Michael Krafick. 2017. Blog - http://datageek.blog/2017/11/02/reducing-contention-changing-default-isolation-level-for-websphere-commerce-wcs/
 * Data skipping
