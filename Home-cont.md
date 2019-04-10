@@ -160,6 +160,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Federated Database Performance (Part-1). Ride On Data. Saurabh Agrawal. 2015. Blog - https://rideondata.wordpress.com/2015/05/31/federated-database-performance-part-1/
   * Creating a DB2 LUW (Linux, Unix and Windows) Sandbox database. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/09/08/creating-a-db2-luw-linux-unix-and-windows-sandbox-database/
   * Establishing a performance tuning strategy. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/establishing-performance-tuning-strategy.html
+  * Introduction of Federation and MQT in IBM Data Server Manager. AnalyticsPlatform. 2017. Video - https://www.youtube.com/watch?v=w_OFQEHMtRg
 * Multi Temperature Data
   * DB2 10: Multi Temperature Data Management. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/multitempdata
   * DB2 10.1 LUW Certification 611 notes 1 : Physical Design. Dangerous DBA. Philip Carrington. 2013. Blog - http://www.dangerousdba.com/db2-10-1-luw-exam-611-notes-physical-design/
@@ -360,6 +361,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
   * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/12/07/the-self-tuning-memory-manager-stmm/
+  * IBM Data Server Manager v2.1.3 ---- Query History Tutorial. AnalyticsPlatform. 2017. Video - https://www.youtube.com/watch?v=SQSeVj4ikWI
   * Why are there Question Marks in my Db2 Queries?. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/why-are-there-question-marks-in-my-db2-queries/
 * Package cache hit ratio
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
@@ -616,6 +618,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Db2 pureScale netname does not exist. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30270
   * Utility Scripts for pureScale. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30277
   * DB2 pureScale. My DokuWiki. Julien Andonov. 2017. Blog - http://www.jdbwiki.tech/doku.php?id=db2_purescale
+  * IBM Data Server Manager ---- pureScale Support. AnalyticsPlatform. 2017. Video - https://www.youtube.com/watch?v=lVuGB9-Xwzc
   * DB2 pureScale Cluster Slowness During Index Creation. Raghu On Tech. Raghu Cherukuru. 2019. Blog - https://www.raghu-on-tech.com/2019/01/28/db2-purescale-cluster-slowness-during-index-creation/
 * PureXML
   * pureXML. Wikipedia. Wiki - https://en.wikipedia.org/wiki/PureXML
@@ -2265,7 +2268,9 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * IBMDatamanagement. YouTube. Channel - https://www.youtube.com/channel/UC9QnRdjWEIe58LXKpAoXl4A 
   * IDUG DB2 Tech. IDUG. Channel - http://www.idug-db2.com/ 
   * IDUG: International DB2 Users Group. YouTube. Channel - https://www.youtube.com/channel/UCVY6PWpd9No0zNEQvKIVGhw 
-  * The DB2Night Show. DBI software. Channel - http://www.dbisoftware.com/blog/db2nightshow.php 
+  * The DB2Night Show. DBI software. Channel - http://www.dbisoftware.com/blog/db2nightshow.php
+  * AnalyticsPlatform. YouTube. Channel - https://www.youtube.com/channel/UCvPgSra4-RzXhztAkG3eAuQ
+  * Analytics Platform Tool. YouTube. Channel - https://www.youtube.com/user/OptimTeam/
 * View
   * DB2 security, Part 8: Twelve DB2 security best practices. DeveloperWorks. Ted J. Wasserman. 2006. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0607wasserman/index.html
   * Find a list of views marked inoperative. Leons on Tech. Leons Petrazickis. 2010 - http://www.lpetr.org/blog/archives/find-a-list-of-views-marked-inoperative
@@ -2335,8 +2340,9 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html 
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html 
   * Transitioning from Query Patroller historical tables to WLM & Event Monitors in DB2 LUW. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/06/transitioning-from-query-patroller.html 
-  * The multi-temperature data feature. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders, and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part1-trs/index.html 
+  * The multi-temperature data feature. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders, and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part1-trs/index.html
   * SQL fishing using WLM. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11456 
+  * IBM Data Server Manager v2.1.3 ---- Query History Tutorial. AnalyticsPlatform. 2017. Video - https://www.youtube.com/watch?v=SQSeVj4ikWI
 * Workload Scheduler 
   * How to Check the Consistency of your Workload Scheduler Database Schema. Workload Automation Community. Eliana Cerasaro. 2017. Blog - http://www.workloadautomation-community.com/blogs/how-to-check-the-consistency-of-your-workload-scheduler-database-schema 
 * Wlm_Set_Conn_Env 
