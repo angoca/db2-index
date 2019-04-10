@@ -92,6 +92,8 @@ These blogs are not longer updated 😞
 * Fred Sobotka and Ian Bjorhovde - The Whole Package Cache (Podcasts about DB2 world 🎤 ). http://www.pkgcache.com/
   * All podcast (Between 2013 and 2017 - Complete).
   * In archive.org
+* AnalyticsPlatform. https://www.youtube.com/channel/UCvPgSra4-RzXhztAkG3eAuQ
+  * All videos (2017 - Complete).
 * Bansari Prajapati - Remote DB Support. https://dbthread.wordpress.com/
   * All articles (2017 - Complete).
   * In archive.org
@@ -198,3 +200,4 @@ https://www.ibm.com/developerworks/community/groups/service/html/communitystart?
 * https://dzone.com/search?page=1 (db2)i
 * http://wordpress.wongpakm.com/tag/db2/
 * https://www.itgain-is.de/en/performance-monitoring/speedgain-for-db2/
+* https://www.youtube.com/user/TheOnDemandDemoGuy/search?query=db2
