@@ -744,6 +744,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * dashDB
   * PkgCache #28: Easier to use when drunk. The Whole Package Cache. Ian Bjorhovde, Fred Sobotka. 2016. Podcast - http://www.pkgcache.com/28/
 * Data
+  * Generating Data with SQL. Database Nerds. Douglas J. Partch. Article - https://www.ibm.com/developerworks/community/files/basic/anonymous/api/library/d192f731-da89-4b17-bd37-794ba86a6563/document/944cf11a-a598-4c5a-971e-28077de62e6a/media
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Data life cycle
   * DB2 10: Multi Temperature Data Management. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/multitempdata
@@ -865,6 +866,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Locking issues. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/02/locking-issues.html
   * Lock events for DB2 for Linux, UNIX, and Windows, Part 2: New options for analyzing lock timeouts in DB2 9.5. DeveloperWorks. Dirk Fechner. 2008. Article  - http://www.ibm.com/developerworks/data/library/techarticle/dm-0804fechner/index.html
 * DB2_COMPATIBILITY_VECTOR
+  * Protecting SQL Code Through DB2 LUW Obfuscation. Database Nerds. Douglas J. Partch. Presentation - https://slideplayer.com/slide/10524502/
   * (Compatibility of Db2 with Oracle: DB2 9.7 CLP PLUS (1/2)) Compatibilidad de DB2 con ORACLE: DB2 9.7 CLP PLUS (1/2). DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/compatibilidad-de-db2-con-oracle-db2-9-7-clp-plus-12/
   * Enabling LIMIT and OFFSET in DB2 9.7.2. DB2 on Rails. Antonio Cangiano. 2010. Blog - https://web.archive.org/web/20100612235701/http://antoniocangiano.com:80/2010/06/02/enabling-limit-and-offset-in-db2-9-7-2
 * DB2_DDL_SOFT_INVAL
@@ -1502,6 +1504,10 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/12/07/the-self-tuning-memory-manager-stmm/
 * dbm - Database Manager - Instance
   * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/22/db2-basics-levels-of-configuration/
+* DBMS_DDL module
+  * Protecting SQL Code Through DB2 LUW Obfuscation. Database Nerds. Douglas J. Partch. Presentation - https://slideplayer.com/slide/10524502/
+* DBMS_OUTPUT module
+  * Protecting SQL Code Through DB2 LUW Obfuscation. Database Nerds. Douglas J. Partch. Presentation - https://slideplayer.com/slide/10524502/
 * dbpath
   * DB2 - Changing Database and Log Path on an active database. A Portal to a Portal. Dave Hay. 2014. Blog - https://portal2portal.blogspot.com/2014/11/db2-changing-database-and-log-path-on.html
   * Default directory for DB creations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/default-directory-for-db-creations.html
@@ -1596,12 +1602,14 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Start Your Day With DIAGLOG. A Day in DBA's life. Manohar Viswanatha. 2012. Blog - http://mviswa.blogspot.com/2012/08/start-your-day-with-diaglog.html
 * DiagPath
   * RSCT APAR Affecting TSAMP. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/03/29/rsct-apar-affecting-tsamp/
+* Direct I/O
+  * Faster rollback processing of very large transactions in Db2 v11.1.3.3. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/faster-rollback-processing-of-very.html
 * Direct reads
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
   * db2top Bufferpools Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-bufferpools-screen-part-2.html
   * DB2 Performance Myth Buster 2 - How Increasing Bufferpool Size will not increase LOAD Performance. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=spTrT6-U5Qk
-* Direct I/O
-  * Faster rollback processing of very large transactions in Db2 v11.1.3.3. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/faster-rollback-processing-of-very.html
+* Direct Row Access
+  * Avoiding Timeouts and Deadlocks with DB2 Optimistic Locking. Database Nerds. Douglas J. Partch. Article - https://www.ibm.com/developerworks/community/files/form/anonymous/api/library/22ff690a-8314-4384-a2bb-b1d2d3332454/document/2f22e122-336e-4028-87a1-508a1b0de5ea/media
 * Directory
   * (Basic management of the Db2 catalog) Gestión básica Catálogo DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/gestion-basica-catalogo-db2/
 * Directories
@@ -2499,11 +2507,12 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * db2top Locks Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-locks-screen.html
   * db2top: The Locks screen (video). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-the-locks-screen-video.html
+  * Avoiding Timeouts and Deadlocks with DB2 Optimistic Locking. Database Nerds. Douglas J. Partch. Article - https://www.ibm.com/developerworks/community/files/form/anonymous/api/library/22ff690a-8314-4384-a2bb-b1d2d3332454/document/2f22e122-336e-4028-87a1-508a1b0de5ea/media
   * SQL Analysis from Locking Event Monitor Collecting History. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/11/03/sql-analysis-from-locking-event-monitor-collecting-history/
   * Overview of LOCK ISSUES in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/07/overview-of-lock-issues-in-db2.html
+  * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
   * Excluding a Table from Db2’s Automatic Runstats. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/09/05/excluding-a-table-from-db2s-automatic-runstats/
   * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html
-  * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * Lock escalation
   * DB2 problem determination using db2top utility. DeveloperWorks. Tao Wang and Shen Li. 2008. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0812wang/index.html
   * Locking issues. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/02/locking-issues.html
