@@ -1449,6 +1449,16 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * STANDBY_TABLESPACE_ERROR
   * Don't Get Caught Unprepared - Monitor Invalid Tablespaces on your HADR Standby database and Repair Them Efficiently. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/dont-get-caught-unprepared-monitor.html
 * Starburst
+  * Starburst. IBM Rsearch. http://alme1.almaden.ibm.com/cs/starwinds/starburst.html
+  * A Signature Access Method for the Starburst Database System. Walter W. Chang, Hans J. Schekl. 1989. Article - https://pdfs.semanticscholar.org/8c9e/40351aafcc8dfccc95b94288b824605cd83b.pdf?_ga=2.185622062.681871917.1555017192-524451876.1555017192
+  * Extensible Query Processing in Starburst. Laura M. Haas, J.C. Freytag, G.M. Lohman, and H. Pirahesh. 1989. Article - https://www.cs.ubc.ca/~rap/teaching/504/2005/readings/p377-haas.pdf
+  * The Starburst Long Field Manager. Tobin J. Lehman, Bruce G. Lindsay. 1989. Article - http://vldb.org/conf/1989/P375.PDF
+  * Starburst Mid-Flight: As the Dust Clears. Laura M. Haas, Walter Chang, Guy M. Lohman, John McPherson, Paul F. Wilms, George Lapis, Bruce Lindsay, Hamid Pirahesh, Michael J. Carey, Eugene Shekita. 1990. Article - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.874.9020&rep=rep1&type=pdf
+  * Implementing Set-Oriented Production Rules as an Extension to Starburst. Jennifer Widom, Roberta Jo Cochrane, Bruce G. Lindsay. 1991. Article - https://pdfs.semanticscholar.org/6730/46f53b0882997bcd45c06a22449d56624b41.pdf
+  * Extensible/Rule Based Query Rewrite Optimization in Starburst. Hamid Pirahesh, Joseph M. Hellerstein, Waqar Hasant. 1991. Article - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.99.9552&rep=rep1&type=pdf
+  * A Denotational Semantics for the Starburst Production Rule Language. Jennifer Widom. 1992. Article - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.47.9998&rep=rep1&type=pdf
+  * The Starburst Rule System: Language Design, Implementation, and Applications. Jennifer Widom. 1992. Article - http://ilpubs.stanford.edu:8090/16/1/1992-8.pdf
+  * The Starburst Active Database Rule System. Jennifer Widom. 1996. Article - https://cs.ulb.ac.be/public/_media/teaching/infoh415/widom.pdf
   * More family matters: Selected common SQL features for developers of portable DB2 applications. DeveloperWorks - SQL Tips for DB2 LUW. Rick Swagerman. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/db2common101
   * Distinctly weak type rules with a constrained twist. DeveloperWorks - SQL Tips for DB2 LUW. Rick Swagerman. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/weak_type?lang=en
   * Four DB2 Code Bases? Perspectives. James Hamilton. 2017. Blog - http://perspectives.mvdirona.com/2017/12/1187/
