@@ -142,6 +142,9 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * ArchRetryDelay
   * The DB2Night Show #196: Db2 LUW Transaction Log Expedition w/ Ember Crooks. The DB2Night Show. Ember Crooks. 2017. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=730
 * ARIES
+  * ARIES/NT: A Recovery Method Based on Write-Ahead Logging for Nested Transactions. K. Rothernlel, C. Mohan. 1989. Article - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.80.6656&rep=rep1&type=pdf 
+  * ARIES: A Transaction Recovery Method Supporting Fine-Granularity Locking and Partial Rollbacks Using Write-Ahead Logging. C. Mohan, Don Haderle, Bruce Lindsay, Hamid Pirahesh, Peter Schwarz. 1992. Article - https://cs.stanford.edu/people/chrismre/cs345/rl/aries.pdf
+  * ARIES/IM: An Efficient and High Concurrency index Management Method Using Write-Ahead Logging. C. Mohan. Frank Levine. 1992. Article - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.135.4751&rep=rep1&type=pdf
   * DB2 How To Measure Transaction Log Write Time ? Raghu On Tech. Raghu Cherukuru. 2019. Blog - https://www.raghu-on-tech.com/2019/02/28/howtomonitor-transactionlog-writetime/
 * Array
   * DB2 10: Using locally defined types and procedures. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/local_types_and_procedures
