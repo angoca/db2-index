@@ -312,6 +312,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
 * Optim Query Workload
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
+* Optimistic locking
+  * Avoiding Timeouts and Deadlocks with DB2 Optimistic Locking. Database Nerds. Douglas J. Partch. Article - https://www.ibm.com/developerworks/community/files/form/anonymous/api/library/22ff690a-8314-4384-a2bb-b1d2d3332454/document/2f22e122-336e-4028-87a1-508a1b0de5ea/media
 * Optimization guidelines
   * In-Line Optimization with V11.1. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/line-optimization-v11-1/
 * Optimization profile
@@ -745,6 +747,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Recovery Time Objetive
   * Please check the "RTO" entry.
 * Recursion
+  * Generating Data with SQL. Database Nerds. Douglas J. Partch. Article - https://www.ibm.com/developerworks/community/files/basic/anonymous/api/library/d192f731-da89-4b17-bd37-794ba86a6563/document/944cf11a-a598-4c5a-971e-28077de62e6a/media
   * SQL on Fire! Part 2. WAIUG. Serge Rielau. 2006. Presentation - http://www.waiug.org/present/Forum2006/Presentations/SQLonFire_2_Serge_Rielau.ppt
   * SQL Tips & Techniques- String Aggregation. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/02/sql-tips-techniques-string-aggregation.html
   * SQL Tips & Techniques- String Aggregation(Contd.) DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/02/sql-tips-techniques-string.html
@@ -1368,6 +1371,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * SQL access level clause. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/sql-access-level/
   * Supported SQL/PL statements. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/sql-pl-statements/
   * List of statements that can be dynamically prepared. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/statements-that-can-be-dynamically-prepared/
+  * Protecting SQL Code Through DB2 LUW Obfuscation. Database Nerds. Douglas J. Partch. Presentation - https://slideplayer.com/slide/10524502/
   * SQL procedure tracing. DeveloperWorks. Serge Rielau. 2005. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0409rielau/
   * SQL on Fire! Part 1. WAIUG. Serge Rielau. 2006. Presentation - http://www.waiug.org/present/Forum2006/Presentations/SQLonFire_1_Serge_Rielau.ppt
   * DB2 Stored Procedures and Defaults. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2-stored-procedures-and-defaults.html
@@ -2156,8 +2160,9 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Db2 Basics: Using FTPS to get a Fixpack Directly to a Db2 Server. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/02/01/db2-basics-using-ftps-to-get-a-fixpack-directly-to-a-db2-server/ 
 * Unsupported data types - BLU 
   * Leverage DB2 BLU Acceleration technology for tables involving unsupported data types. DeveloperWorks. Masahiro Ohkawa and Abhishek Chourasia. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507db2-blu-tables/index.html 
-* UOW - Unit Of Work 
-  * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html 
+* UOW - Unit Of Work
+  * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
+  * Avoiding Timeouts and Deadlocks with DB2 Optimistic Locking. Database Nerds. Douglas J. Partch. Article - https://www.ibm.com/developerworks/community/files/form/anonymous/api/library/22ff690a-8314-4384-a2bb-b1d2d3332454/document/2f22e122-336e-4028-87a1-508a1b0de5ea/media
   * SQL Analysis from Locking Event Monitor Collecting History. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/11/03/sql-analysis-from-locking-event-monitor-collecting-history/ 
   * Avoiding Lock Escalations and Improving Application Concurrency. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/09/avoiding-lock-escalations-and-improving.html 
 * Update 
@@ -2361,7 +2366,9 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * wplistener.bat 
   * Using the IBM NoSQL Wire Listener for DB2. DeveolperWorks. Ioannis Papapanagiotou, Marion Behnen, John Paul Parkin, and Jyh-Chen Fang. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson4/index.html 
 * wplistener.sh 
-  * Using the IBM NoSQL Wire Listener for DB2. DeveolperWorks. Ioannis Papapanagiotou, Marion Behnen, John Paul Parkin, and Jyh-Chen Fang. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson4/index.html 
+  * Using the IBM NoSQL Wire Listener for DB2. DeveolperWorks. Ioannis Papapanagiotou, Marion Behnen, John Paul Parkin, and Jyh-Chen Fang. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson4/index.html
+* Wrap
+  * Protecting SQL Code Through DB2 LUW Obfuscation. Database Nerds. Douglas J. Partch. Presentation - https://slideplayer.com/slide/10524502/
 * Wrapper 
   * Mom, I joined the cloud! (or: Use old stuff with new stuff - DB2 federation). Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/03/mom-i-joined-cloud-or-use-old-stuff.html 
   * HOW TO SETUP FEDERATION BETWEEN TWO DB2 LUW DATABASES. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/how-to-setup-federation-between-two-db2-luw-databases/ 
