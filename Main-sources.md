@@ -202,3 +202,4 @@ https://www.ibm.com/developerworks/community/groups/service/html/communitystart?
 * https://www.itgain-is.de/en/performance-monitoring/speedgain-for-db2/
 * https://www.youtube.com/user/TheOnDemandDemoGuy/search?query=db2
 * http://db2nerd.blogspot.com/
+* http://adminstuffs.blogspot.com/search?q=db2
