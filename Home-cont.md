@@ -6,6 +6,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * lInstalling DB2 on Mac OS X. Leons on Tech. Leons Petrazickis. 2014. Blog - http://www.lpetr.org/blog/archives/installing-db2-10-1-on-mac-os-x
   * Install DB2 on OS X Sierra. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/install-db2-on-os-x-sierra.html
   * Using DB2 on the IBM Cloud from macOS. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/05/using-db2-on-ibm-cloud-from-macos.html
+  * (Ep. 01) - Db2 Developer Ed. Installation and Basics. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=QvfQPq-8YU8
 * Magazine
   * DataMagazine. DataMagazine. Magazine - http://ibmdatamag.com/
 * Maintenance
