@@ -443,6 +443,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * How to connect remote Database in DB2. DB2 Forum. Muthukris Bala. 2011. Blog - https://db2forum.wordpress.com/2011/10/16/how-to-connect-remote-database-in-db2/
   * Db2 Catalog - A Guided Tour. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2017/08/db2-catalog-guided-tour.html
   * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://datageek.blog/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
+  * (Ep. 02) - Catalog a Node/Database. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=-Sm3eGG7LX8
 * Catalog cache
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
 * Case
@@ -776,6 +777,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * What's New in IBM Data Server Manager v2.1.4. AnalyticsPlatform. 2017. Video - https://www.youtube.com/watch?v=9PmKIx71ALQ
   * Introduction of Federation and MQT in IBM Data Server Manager. AnalyticsPlatform. 2017. Video - https://www.youtube.com/watch?v=w_OFQEHMtRg
   * What's New in IBM Data Server Manager v2.1.5. Analytics Platform Tool. 2018. Video - https://www.youtube.com/watch?v=X8aXFRl6GYQ
+  * (Ep. 01) - Db2 Developer Ed. Installation and Basics. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=QvfQPq-8YU8
 * Data source
   * Reducing Contention: Changing Default Isolation Level for Websphere Commerce (WCS). db2commerce. Michael Krafick. 2017. Blog - http://datageek.blog/2017/11/02/reducing-contention-changing-default-isolation-level-for-websphere-commerce-wcs/
 * Data skipping
@@ -804,6 +806,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * db2top Database Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-1.html
   * Database Up Time. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30323
   * Cannot drop database SQL1035N The operation failed because the specified database cannot be connected to in the mode requested. SQLSTATE=57019. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/06/cannot-drop-database-sql1035n-the-operation-failed-because-the-specified-database-cannot-be-connecte.html
+* Database (directory)
+  * (Ep. 02) - Catalog a Node/Database. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=-Sm3eGG7LX8
 * Database global memory
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
 * Database heap
@@ -1396,11 +1400,13 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/22/db2-basics-levels-of-configuration/
   * DB2 on Windows - What a difference a CR/LF makes ... A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/12/db2-on-windows-what-difference-crlf.html
   * Bouncing the instance. DB2 LUW Blog. Shivraj Kumar. 2018. Blog - https://db2today.blogspot.com/2018/12/bouncing-instance.html
+  * (Ep. 01) - Db2 Developer Ed. Installation and Basics. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=QvfQPq-8YU8
 * db2stop
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * What if db2stop fails ?!? techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=392
   * (DB2_KILL - What to do when a Db2 instance does not stop) DB2_KILL – ¿Qué hacer si una instancia DB2 no se para?. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/db2_kill-%c2%bfque-hacer-si-una-instancia-db2-no-se-para/
   * Bouncing the instance. DB2 LUW Blog. Shivraj Kumar. 2018. Blog - https://db2today.blogspot.com/2018/12/bouncing-instance.html
+  * (Ep. 01) - Db2 Developer Ed. Installation and Basics. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=QvfQPq-8YU8
 * db2strst.lck
   * Bouncing the instance. DB2 LUW Blog. Shivraj Kumar. 2018. Blog - https://db2today.blogspot.com/2018/12/bouncing-instance.html
 * db2support
@@ -1615,6 +1621,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Avoiding Timeouts and Deadlocks with DB2 Optimistic Locking. Database Nerds. Douglas J. Partch. Article - https://www.ibm.com/developerworks/community/files/form/anonymous/api/library/22ff690a-8314-4384-a2bb-b1d2d3332454/document/2f22e122-336e-4028-87a1-508a1b0de5ea/media
 * Directory
   * (Basic management of the Db2 catalog) Gestión básica Catálogo DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/gestion-basica-catalogo-db2/
+  * (Ep. 02) - Catalog a Node/Database. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=-Sm3eGG7LX8
 * Directories
   * Default directory for DB creations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/02/default-directory-for-db-creations.html
 * Dirty clean
