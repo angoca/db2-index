@@ -167,6 +167,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 Basics: Statement Terminators. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/07/13/db2-basics-statement-terminators/
 * Attach
   * Security. DeveloperWorks. Graham G. Milne. 2006. Article - https://www.ibm.com/developerworks/data/tutorials/db2-cert7302/db2-cert7302.html
+  * (Ep. 04) - New Environment Setup: Part 2. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=pme2hH4nXvk
 * Atomic
   * ATOMIC and NON ATOMIC. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/atomic/
   * Massive insert in Db2 as an atomic transaction - no auto-commit. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/08/massive-insert-in-db2-as-atomic.html
@@ -192,6 +193,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 Administrative SQL Cookbook: Listing Database Authorities that an ID/Group Holds. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/04/19/db2-administrative-sql-cookbook-listing-database-authorities-that-an-idgroup-holds/
   * IBM Db2 Tech Talk: Db2 Security and Compliance Support. Db2 Tech Talk. Roger Sanders. 2018. Webminar - https://www.ibm.com/events/Z56SMPES
   * Db2 System Authorities. Virtual-DBA. Marc Petros. 2019. Blog - https://www.virtual-dba.com/runstats-best-practices-db2-luw/
+  * (Ep. 04) - New Environment Setup: Part 2. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=pme2hH4nXvk
 * Authorization
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
   * DB2 Database Security Model. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/db2-database-security-model.html
@@ -1166,6 +1168,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * (Automatic start of a Db2 instance) Inicio automático de una instancia DB2 – db2iauto. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/inicio_automatico_instancia_db2_db2iauto/
   * DB2 UDB - Interesting quirk with auto-start on Linux. A Portal to a Portal. Dave Hay. 2012. Blog - https://portal2portal.blogspot.com/2012/08/db2-udb-interesting-quirk-with-auto.html
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
+  * (Ep. 04) - New Environment Setup: Part 2. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=pme2hH4nXvk
 * db2iclus
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
 * db2icrt
@@ -1379,6 +1382,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
   * Automatic Client Reroute – Templates. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11453
   * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/22/db2-basics-levels-of-configuration/
+  * (Ep. 04) - New Environment Setup: Part 2. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=pme2hH4nXvk
 * db2setup
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * Using db2prereqcheck to Check Prerequisites for DB2 LUW. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2prereqcheck-check-prerequisites-db2-luw/
@@ -1617,6 +1621,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * (Ep. 03) - New Environment Setup: Part 1. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=Opk8A0KbBfE
 * DiagPath
   * RSCT APAR Affecting TSAMP. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/03/29/rsct-apar-affecting-tsamp/
+  * (Ep. 04) - New Environment Setup: Part 2. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=pme2hH4nXvk
 * Direct I/O
   * Faster rollback processing of very large transactions in Db2 v11.1.3.3. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/faster-rollback-processing-of-very.html
 * Direct reads
@@ -2145,6 +2150,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
   * db2top Agent Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-1.html
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
+* Health monitor
+  * (Ep. 04) - New Environment Setup: Part 2. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=pme2hH4nXvk
 * Help
   * Getting DB2 Help. db2Dean. Dean Compher. 2007. Blog - http://www.db2dean.com/Previous/DB2Help.html
   * A file with one character-name can make the difference when asking for help. Ideas for Db2 (Spanish). Andres Gomez. 2017. Blog - http://angocadb2.blogspot.com.co/2017/12/a-file-with-one-character-name-can-make.html
