@@ -224,6 +224,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Errors when issuing nsrdb2rlog. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/04/errors-when-issuing-nsrdb2rlog.html
 * NewLogPath
   * DB2 - Changing Database and Log Path on an active database. A Portal to a Portal. Dave Hay. 2014. Blog - https://portal2portal.blogspot.com/2014/11/db2-changing-database-and-log-path-on.html
+* Node (directory)
+  * (Ep. 02) - Catalog a Node/Database. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=-Sm3eGG7LX8
 * Node number
   * db2top Sessions Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-1.html
   * db2top Agent Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-1.html
