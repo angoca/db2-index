@@ -130,6 +130,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
   * DB2 SNAPSHOT MONITOR SWITCHES. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/db2-snapshot-monitor-switches/
   * ENABLE DB2 DEFAULT MONITOR SWITCHES DBM PARAMETER WITHOUT DB2STOP/DB2START. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/enable-db2-snapshot-monitor-switches-permanently-without-db2stopdb2start/
+  * (Ep. 04) - New Environment Setup: Part 2. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=pme2hH4nXvk
 * Monitoring
   * Monitoring DB2 with Nagios. Blog dot lusis. John E. Vicent. 2006. Article - http://dev.lusis.org/nagios/usable/monitoring_db2_with_nagios.html
   * Where a DB Request Spends Time in DB2 9.7? DB2 Diary from Radhesh. Radhesh Kumar. 2010. Blog - http://radheshk.blogspot.com/2010/03/where-db-request-spends-time-in-db2-97.html
@@ -2038,6 +2039,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Faster rollback processing of very large transactions in Db2 v11.1.3.3. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/faster-rollback-processing-of-very.html
   * Format and display Db2 log file information using db2fmtlog. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/format-and-display-db2-log-file.html
   * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/07/17/the-db2-recovery-history-file/
+  * (Ep. 03) - New Environment Setup: Part 1. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=Opk8A0KbBfE
   * DB2 How To Measure Transaction Log Write Time ? Raghu On Tech. Raghu Cherukuru. 2019. Blog - https://www.raghu-on-tech.com/2019/02/28/howtomonitor-transactionlog-writetime/
 * Transfer ownership
   * Transfer Ownership. it.toolbox.com. Chris Eaton. 2006. Blog - http://it.toolbox.com/blogs/db2luw/transfer-ownership-10771
