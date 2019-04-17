@@ -229,6 +229,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Environment during auto stats - Open Files. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - https://angocadb2.blogspot.com.co/2017/01/environment-during-auto-stats-open-files.html
   * Excluding a Table from Db2’s Automatic Runstats. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/09/05/excluding-a-table-from-db2s-automatic-runstats/
   * Runstats Best Practices for Db2 on LUW. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/runstats-best-practices-db2-luw/
+  * (Ep. 05) - New Environment Setup: Part 3. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=sXEarox2sa8
 * Automatic memory management
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
 * Automatic storage
@@ -241,6 +242,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Automatic Task Scheduler
   * DB2ATS + Transaction log full + backup fails. DB2 Knowledge Base Raf. Raf Mathijs. 2013. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2013/10/db2ats-transaction-log-full-backup-fails.html
   * DB2 Automatic Task Scheduler. My DokuWiki. Julien Andonov. 2018. Blog - http://www.jdbwiki.tech/doku.php?id=db2_ats
+* Autorestart
+  * (Ep. 05) - New Environment Setup: Part 3. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=sXEarox2sa8
 * AvgRowSize
   * DB2 Table Row (Tuple) Size. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2-row-size/
 
@@ -1849,6 +1852,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Performance monitoring (tools and techniques). My DokuWiki. Julien Andonov. 2017. Blog - http://www.jdbwiki.tech/doku.php?id=db2_performance
 * Explain tables
   * DB2 tip: How to know the no. of rows that got affected. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/02/24/db2-tip-how-to-know-the-no-of-rows-that-got-affected/
+  * (Ep. 05) - New Environment Setup: Part 3. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=sXEarox2sa8
 * Explain_From_Activity
   * Please check the SysProc.Explain_From_Activity entry.
 * Export
@@ -2152,6 +2156,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
 * Health monitor
   * (Ep. 04) - New Environment Setup: Part 2. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=pme2hH4nXvk
+  * (Ep. 05) - New Environment Setup: Part 3. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=sXEarox2sa8
 * Help
   * Getting DB2 Help. db2Dean. Dean Compher. 2007. Blog - http://www.db2dean.com/Previous/DB2Help.html
   * A file with one character-name can make the difference when asking for help. Ideas for Db2 (Spanish). Andres Gomez. 2017. Blog - http://angocadb2.blogspot.com.co/2017/12/a-file-with-one-character-name-can-make.html
