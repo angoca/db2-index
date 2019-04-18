@@ -1047,7 +1047,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Lock events for DB2 for Linux, UNIX, and Windows, Part 2: New options for analyzing lock timeouts in DB2 9.5. DeveloperWorks. Dirk Fechner. 2008. Article  - http://www.ibm.com/developerworks/data/library/techarticle/dm-0804fechner/index.html
 * db2dart
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
-  * Not logged initially must be forbidden! KBCE. Klass Brant. 2015. Blog - https://www.kbce.com/not-logged-initially/
+  * Not logged initially must be forbidden! KBCE. Klaas Brant. 2015. Blog - https://www.kbce.com/not-logged-initially/
   * Troubleshooting tools for Performance Tuning: DB2DART. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/03/troubleshooting-tools-for-performance-tuning-db2dart.html
   * Avoiding Inoperative Tables on the HADR Standby. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/10/19/avoiding-inoperative-tables-on-the-hadr-standby/
   * Troubleshooting. My DokuWiki. Julien Andonov. 2018. Blog - http://www.jdbwiki.tech/doku.php?id=db2_troubleshooting
