@@ -331,6 +331,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Bind
   * First Article – DB2 Fix Packs. db2Dean. Dean Compher. 2006. Blog - http://www.db2dean.com/Previous/FixPak.html
   * DB2 Connect® Usage and Editions. db2Dean. Dean Compher. 2007. Blog - http://www.db2dean.com/Previous/DB2Connect.html
+  * DB2 Handling -805 on SYSLH2 packages. KBCE. Cristian Molaro. 2010. Blog - https://www.kbce.com/db2-handling-805-on-syslh2-packages/
   * Parameter Wednesday: DB2 Registry DB2_EVALUNCOMMITTED. db2commerce. Ember Crooks. 2012. Blog - http://datageek.blog/2012/06/27/parameter-wednesday-db2-registry-db2_evaluncommitted/
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/07/28/db2-basics-patching-db2/
 * Blk_Log_Dsk_Ful (HADR)
@@ -529,6 +530,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * CLI
   * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
   * Troubleshooting DB2 on Rails. DB2 on Rails. Leon Katsnelson, Antonio Cangiano. 2007. Blog - https://web.archive.org/web/20080719164826/http://antoniocangiano.com/files/tables_and_columns.html
+  * DB2 Handling -805 on SYSLH2 packages. KBCE. Cristian Molaro. 2010. Blog - https://www.kbce.com/db2-handling-805-on-syslh2-packages/
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * Client
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
@@ -547,6 +549,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 Basics: What Port Number is Db2 Listening for Connections on?. db2commerce. Ember Brooks. 2018. Blog - http://datageek.blog/2018/04/26/db2-basics-what-port-number-is-db2-listening-for-connections-on/
   * (Ep. 03) - New Environment Setup: Part 1. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=Opk8A0KbBfE
 * CLP - Command Line Processor
+  * DB2 Handling -805 on SYSLH2 packages. KBCE. Cristian Molaro. 2010. Blog - https://www.kbce.com/db2-handling-805-on-syslh2-packages/
   * DB2 Command Line Processing. techs@work. Raju Pillai. 2012. Blog - http://techsatwork.com/blog/?p=171
   * Escape characters in shell for DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/escape-characters-in-shell-for-db2.html
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
@@ -1044,6 +1047,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Lock events for DB2 for Linux, UNIX, and Windows, Part 2: New options for analyzing lock timeouts in DB2 9.5. DeveloperWorks. Dirk Fechner. 2008. Article  - http://www.ibm.com/developerworks/data/library/techarticle/dm-0804fechner/index.html
 * db2dart
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
+  * Not logged initially must be forbidden! KBCE. Klass Brant. 2015. Blog - https://www.kbce.com/not-logged-initially/
   * Troubleshooting tools for Performance Tuning: DB2DART. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/03/troubleshooting-tools-for-performance-tuning-db2dart.html
   * Avoiding Inoperative Tables on the HADR Standby. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/10/19/avoiding-inoperative-tables-on-the-hadr-standby/
   * Troubleshooting. My DokuWiki. Julien Andonov. 2018. Blog - http://www.jdbwiki.tech/doku.php?id=db2_troubleshooting
@@ -1860,6 +1864,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 Export and Load Using Compression & Named Pipes. dbawesome. Elder Lira. 2013. Blog - http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.html
 * Express-C
   * IBM DB2 Express-C. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2_Express-C
+  * Comparing DB2 10.5 Express-C with its competitors. KBCE. Klaas Brant. 2013. Blog - https://www.kbce.com/db2express/
   * Enterprise Database Software for Free – IBM Db2. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/ibm-db2-software-free/
 * Expression-based index
     * DB2 10.5 — Catalog data for Expression-Based Indexes. db2talk. Pavan Kristipati. 2015. Blog - https://db2talk.wordpress.com/2015/08/12/db2-10-5-catalog-data-for-expression-based-indexes/
