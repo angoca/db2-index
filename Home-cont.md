@@ -243,6 +243,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
 * Not logged
   * DB2 HADR for dummies – Part 3. DBMSguy.com. Paul Mayhew. 2009. Blog - http://dbmsguy.com/blog/2009/11/hadr-for-dummies-part-2/
+  * Not logged initially must be forbidden! KBCE. Klaas Brant. 2015. Blog - https://www.kbce.com/not-logged-initially/
   * How Will Logging Process happen in DB2?. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/01/how-logging-process-will-happen-in-db2.html
 * Not logged initially
   * How to identify if a table has the not logged initially attribute. Ideas for DB2 (Spanish). Andres Gomez. 2015. Blog - http://angocadb2.blogspot.com.co/2015/12/how-to-identify-if-table-has-not-logged.html
@@ -257,6 +258,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * SQL805N on NULLID.SYS* package. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=31
   * SQL805N on NULLID.SYS* package – Part 2. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=320
   * DB2 WSE 9.7 - General Errors. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-error.html
+  * DB2 Handling -805 on SYSLH2 packages. KBCE. Cristian Molaro. 2010. Blog - https://www.kbce.com/db2-handling-805-on-syslh2-packages/
 * Num_Db_Backups
   * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/07/17/the-db2-recovery-history-file/
 * Num_InitFenced
@@ -362,6 +364,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Packages
   * Security. DeveloperWorks. Graham G. Milne. 2006. Article - https://www.ibm.com/developerworks/data/tutorials/db2-cert7302/db2-cert7302.html
   * SQL805N on NULLID.SYS* package. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=31
+  * DB2 Handling -805 on SYSLH2 packages. KBCE. Cristian Molaro. 2010. Blog - https://www.kbce.com/db2-handling-805-on-syslh2-packages/
 * Package cache
   * Solve IBM BPM performance issues with IBM DB2 examples. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz2-trs/1509_volz2.html
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
