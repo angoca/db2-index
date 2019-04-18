@@ -109,6 +109,9 @@ These blogs are not longer updated 😞
 * Raf Mathijs - DB2 Knowledge Base Raf (Blog about technical stuff). http://db2-luw-knowledgebase.blogspot.com/
   * All articles (Between 2013 and 2015 - Complete).
   * In archive.org
+* Klaas Brant and Cristian Molaro - KBCE blog. https://www.kbce.com/category/db2-luw/
+  * All articles (Between 2010 and 2015 - Complete).
+  * 
 * Saurabh Agrawal - Ride On Data. http://www.rideondata.com/
   * All articles (2015 - Complete)
   * Most of the articles are plagiarism from DeveloperWorks.
