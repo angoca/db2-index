@@ -206,3 +206,4 @@ https://www.ibm.com/developerworks/community/groups/service/html/communitystart?
 * https://www.youtube.com/user/TheOnDemandDemoGuy/search?query=db2
 * http://db2nerd.blogspot.com/
 * http://adminstuffs.blogspot.com/search?q=db2
+https://www.youtube.com/channel/UCwQz2pEYzDyVF07E-1RIVXw
