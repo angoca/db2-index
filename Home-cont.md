@@ -381,6 +381,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Page
   * Size matters: A handy routine to compute the defined row size of a table. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/getrowsize
   * DB2 V9.7 Pending Free Pages. MyDBLearnings. Bhaskar UB. 2014. Blog - http://mylearnings-db.blogspot.com/2014/05/db2-v97-pending-free-pages.html
+  * Space: Calculating size of unused LOB space. SAP Community Wiki. David Godson. 2016. Blog - https://wiki.scn.sap.com/wiki/display/DB2/Space%3A+Calculating+size+of+unused+LOB+space
 * Page clean
   * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
   * Db2’s Alternate Page Cleaning. db2commerce. Ember Brooks. 2018. Blog - https://datageek.blog/2019/01/15/db2s-alternate-page-cleaning/
