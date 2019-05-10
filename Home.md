@@ -293,6 +293,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Backward-phase
   * Access your database sooner after a system failure -- introducing DB2_ONLINERECOVERY! ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/08/access-your-database-sooner-after.html
   * CONFIGURE ARCHIVE LOGGING IN DB2 LUW DATABASE. REMOTE DB SUPPORT. Bansari Prajapati. 2017. Blog - https://dbthread.wordpress.com/2017/07/08/configure-archive-logging-in-db2-luw-database/
+* Bap page
+  * Database Inconsistencies. SAP Community Wiki. 2015. Blog - https://wiki.scn.sap.com/wiki/display/DB2/Database+Inconsistencies
 * BAR
   * Backup Performance Investigation. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/10/03/backup-performance-investigation/
 * Bash
@@ -463,6 +465,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Client Experiences: How DB2 Migration Affects Decimal Type Conversion. db2geek. Damir Wilder. 2019. Blog - http://db2geek.triton.co.uk/client-experiences-how-db2-migration-affects-decimal-type-conversion/
 * Catalog
   * Combining Db2 and Cloud Object Storage. Data Henrik. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/08/combining-db2-and-cloud-object-storage.html
+* CBIT verifications errors
+  * Database Inconsistencies. SAP Community Wiki. 2015. Blog - https://wiki.scn.sap.com/wiki/display/DB2/Database+Inconsistencies
 * Centrify
   * Authentication and authorization in DB2. Centrify. Documentation - https://docs.centrify.com/en/css/2018-html/index.html#page/DB2%2FAuthentication_and_authorization_in_DB2.1.html%23
   * HOWTO: Install, configure and test the Centrify IBM DB2 SSO Module. TechBlog. Robertson. 2014. Blog - https://community.centrify.com/t5/TechBlog/HOWTO-Install-configure-and-test-the-Centrify-IBM-DB2-SSO-Module/ba-p/19189
@@ -1020,6 +1024,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * db2haicu disable / enable and scripting. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11482
 * db2ckrst
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
+* db2ckupdate
+  * Database Inconsistencies. SAP Community Wiki. 2015. Blog - https://wiki.scn.sap.com/wiki/display/DB2/Database+Inconsistencies
 * db2cli
   * DB2 Remote nodes/databases. My DokuWiki. Julien Andonov. 2018. Blog - http://www.jdbwiki.tech/doku.php?id=db2_connect
   * Using DB2 on the IBM Cloud from macOS. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/05/using-db2-on-ibm-cloud-from-macos.html
@@ -1048,6 +1054,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * db2dart
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * Not logged initially must be forbidden! KBCE. Klaas Brant. 2015. Blog - https://www.kbce.com/not-logged-initially/
+  * Database Inconsistencies. SAP Community Wiki. 2015. Blog - https://wiki.scn.sap.com/wiki/display/DB2/Database+Inconsistencies
   * Troubleshooting tools for Performance Tuning: DB2DART. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/03/troubleshooting-tools-for-performance-tuning-db2dart.html
   * Avoiding Inoperative Tables on the HADR Standby. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/10/19/avoiding-inoperative-tables-on-the-hadr-standby/
   * Troubleshooting. My DokuWiki. Julien Andonov. 2018. Blog - http://www.jdbwiki.tech/doku.php?id=db2_troubleshooting
@@ -1058,6 +1065,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * db2diag
   * How to Setup TSM Client with DB2 9.7 for log archiving and backup. Ilker Ender. 2010. Blog - http://ilker-db2.tumblr.com/post/4004300817
   * Start Your Day With DIAGLOG. A Day in DBA's life. Manohar Viswanatha. 2012. Blog - http://mviswa.blogspot.com/2012/08/start-your-day-with-diaglog.html
+  * Database Inconsistencies. SAP Community Wiki. 2015. Blog - https://wiki.scn.sap.com/wiki/display/DB2/Database+Inconsistencies
+  * Out-Of-Memory ( OOM ) - Instance Memory. SAP Community Wiki. David Godson. 2015. Blog - https://wiki.scn.sap.com/wiki/display/DB2/Out-Of-Memory+%28+OOM+%29+-+Instance+Memory
   * The Database isn’t Available from Half the Servers – it Must be DB2. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/08/19/the-database-isnt-available-from-half-the-servers-it-must-be-db2/
   * PowerShell Script for Local DB2 Database Activation. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/08/30/powershell-script-for-local-db2-database-activation/
   * Backup terminated vs Backup complete. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/04/backup-terminated-vs-backup-complete.html
@@ -2188,6 +2197,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * History file
   * How to backup and extract the recovery history file from a database backup? IBM. 2016. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21994689
   * Accidents happen - Recovering a dropped table. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/accidents-happen-recovering-dropped.html
+  * History File. SAP Community Wiki. 2015. Blog - https://wiki.scn.sap.com/wiki/display/DB2/History+File
   * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/07/17/the-db2-recovery-history-file/
 * Hit Ratio
   * db2top Database Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-database-screen-part-2.html
@@ -2232,12 +2242,14 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 Tips n Tricks Part 37 - How To Load Compressed Files directly without Extracting to Harddisk. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=FT3UBxpeR9k
   * DB2 LUW Import from /dev/null, Restore and Rollforward. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2016/03/08/db2-luw-import-from-devnull-restore-and-rollforward/
   * Import data from a table with generated id in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/import-data-from-table-with-generated.html
-* Auto incremental column
-  * (Definition of autoincremental columns a identity) Definición de columnas autoincrementales “identity” en DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/definicion-de-columnas-autoincrementales-identity-en-db2/
+* Inconsistency
+  * Database Inconsistencies. SAP Community Wiki. 2015. Blog - https://wiki.scn.sap.com/wiki/display/DB2/Database+Inconsistencies
 * Incremental backup
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * How to take data Online Backup in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-take-data-online-backup-in-db2.html
   * Basic concepts that are useful to design and implement a successful backup strategy in db2. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/09/Basic-concepts-that-are-useful-to-design-and-implement-a-successful-backup-strategy-in-db2.html
+* Auto incremental column
+  * (Definition of autoincremental columns a identity) Definición de columnas autoincrementales “identity” en DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/definicion-de-columnas-autoincrementales-identity-en-db2/
 * Index
   * Working With Execution Plans in DB2 LUW Express-C. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/explain-plan/db2
   * Getting an Execution Plan. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/explain-plan/db2/getting-an-execution-plan
@@ -2340,6 +2352,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * How to Recreate DB2 Instance. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/01/how-to-recreate-db2-instance.html
   * Security. DeveloperWorks. Graham G. Milne. 2006. Article - https://www.ibm.com/developerworks/data/tutorials/db2-cert7302/db2-cert7302.html
   * Working with DB2 Database Grants. Ride On Data. Saurabh Agrawal. 2015. Blog - https://rideondata.wordpress.com/2015/06/07/working-with-db2-database-grants/
+  * Out-Of-Memory ( OOM ) - Instance Memory. SAP Community Wiki. David Godson. 2015. Blog - https://wiki.scn.sap.com/wiki/display/DB2/Out-Of-Memory+%28+OOM+%29+-+Instance+Memory
   * How to replicate instance configuration parameters in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-replicate-instance-configurations-db2.html
   * Step by Step installation of DB2 V10.5 on Linux. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/04/step-by-step-installation-of-db2-v105-Linux.html
   * Database Up Time. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/30323
@@ -2349,6 +2362,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Instance owner
   * DB2 LUW Database Object’s owner and Instance Owner’s authority over it. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2016/07/18/db2-luw-database-objects-owner-and-instance-owners-authority-over-it/
 * INSTANCE_MEMORY
+  * Out-Of-Memory ( OOM ) - Instance Memory. SAP Community Wiki. David Godson. 2015. Blog - https://wiki.scn.sap.com/wiki/display/DB2/Out-Of-Memory+%28+OOM+%29+-+Instance+Memory
   * DB2 11.1 BLU with DPF Monitoring scripts. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11484
   * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/12/07/the-self-tuning-memory-manager-stmm/
   * SQL1643C on Rollforward. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/12/14/sql1643c-on-rollforward/
