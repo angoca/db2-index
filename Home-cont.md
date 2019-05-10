@@ -52,6 +52,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Do db2top High Watermarks Give Wrong Answers? The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/do-db2top-high-watermarks-give-wrong-answers.html
   * db2top Memory Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-memory-screen-part-2.html
   * (Cache hit ratio in Db2) Ratio Hit Cache en DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/tuning/ratio-hit-cache-en-db2/
+  * Out-Of-Memory ( OOM ) - Instance Memory. SAP Community Wiki. David Godson. 2015. Blog - https://wiki.scn.sap.com/wiki/display/DB2/Out-Of-Memory+%28+OOM+%29+-+Instance+Memory
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
   * DB2 Table Row (Tuple) Size. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2-row-size/
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
@@ -1482,6 +1483,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Four DB2 Code Bases? Perspectives. James Hamilton. 2017. Blog - http://perspectives.mvdirona.com/2017/12/1187/
 * Start / Stop instance
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
+  * How to shut down DB2 LUW fully when it is hung in unix or linux. Malcolm Weaver. SAP Community Wiki. 2016. Blog - https://wiki.scn.sap.com/wiki/display/DB2/How+to+shut+down+DB2+LUW+fully+when+it+is+hung+in+unix+or+linux
 * State, tablespace
   * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://datageek.blog/2016/07/12/monitoring-extent-movement-progress/
   * (Invalid state change) Cambio de estado inválido en Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/02/cambio-de-estado-invalido-en-db2.html
@@ -1520,6 +1522,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Why are there Question Marks in my Db2 Queries?. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/why-are-there-question-marks-in-my-db2-queries/
 * Stolen page
   * db2top Sessions Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-sessions-screen-part-3.html
+* Stop
+  * How to shut down DB2 LUW fully when it is hung in unix or linux. Malcolm Weaver. SAP Community Wiki. 2016. Blog - https://wiki.scn.sap.com/wiki/display/DB2/How+to+shut+down+DB2+LUW+fully+when+it+is+hung+in+unix+or+linux
 * Storage
   * db2top Tables Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tables-screen-part-1.html
   * Nfs4: Setting up DB2 for UNIX and Linux on NFS4 mounted file systems. db2 tips by an IBMer. Ilker Ender. 2010. Blog - http://ilker-db2.tumblr.com/post/521324056
