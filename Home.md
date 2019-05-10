@@ -2025,6 +2025,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Learn DB2 and dashDB with Stack Overflow. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/06/learn-db2-and-dashdb-with-stack-overflow.html
 * Forward-phase
   * Access your database sooner after a system failure -- introducing DB2_ONLINERECOVERY! ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/08/access-your-database-sooner-after.html
+* Free pages
+  * Space: Calculating size of unused LOB space. SAP Community Wiki. David Godson. 2016. Blog - https://wiki.scn.sap.com/wiki/display/DB2/Space%3A+Calculating+size+of+unused+LOB+space
 * Front-end process
   * "db2 connect" does not check the connection - Test an active connection. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/05/db2-connect-does-not-check-connection.html
 * Functions
@@ -2535,6 +2537,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Perform LOB inlining in an HADR environment for a standby database. DeveloperWorks. Somraj Chakrabarty and Suvradeep Sensarma. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1508lob-hadr-standby/index.html
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * DB2 Table Spaces – When to use File System Caching. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/489
+  * Space: Calculating size of unused LOB space. SAP Community Wiki. David Godson. 2016. Blog - https://wiki.scn.sap.com/wiki/display/DB2/Space%3A+Calculating+size+of+unused+LOB+space
   * How Will Logging Process happen in DB2?. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/01/how-logging-process-will-happen-in-db2.html
 * Local procedures
   * DB2 10: Using locally defined types and procedures. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/local_types_and_procedures
