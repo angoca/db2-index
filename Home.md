@@ -543,6 +543,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * How to know if Java clients in Db2 are using an updated driver. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/how-to-know-if-java-clients-in-db2-are.html
 * Client_PrdID
   * DB2 Tips n Tricks Part 42 - How to Identify DB2 Client Release Version from Server. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=XG8k5prZ7yA
+* CLOB
+  * Reading and Writing DB2 CLOB with Java. Merter Sualp. Merter Sualp's Weblog. 2016. Blog - https://mertersualp.blog/2016/06/19/beauty-of-maven/
 * Close
   * FOR statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/for/
   * Example: Select statement in dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-select-statement-in-dynamic-sql/
@@ -2406,6 +2408,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Tracing DB2 JDBC Applications. db2 tips by an IBMer. Ilker Ender. 2009. Blog - http://ilker-db2.tumblr.com/post/285098205
   * JDBC Statement Cache. Berst Blog. Bert van Langen. 2014. Blog - https://web.archive.org/web/20160308072658/https://blog.bertvanlangen.com/software-development/jdbc-statement-cache/
   * Configure parameters for IBM Data Server Driver for JDBC and SQLJ against HADR for DB2 pureScale. DeveloperWorks. Sujan Ghosh and Vinayak Joshi. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1509hadr-purescale/index.html
+  * Reading and Writing DB2 CLOB with Java. Merter Sualp. Merter Sualp's Weblog. 2016. Blog - https://mertersualp.blog/2016/06/19/beauty-of-maven/
   * Automatic Client Reroute – Templates. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11453
   * Establishing a DB2 JDBC Connection. db2commerce. Michael Krafick. 2017. Blog - http://datageek.blog/2017/10/26/establishing-a-db2-jdbc-connection/
   * Java to DB2 via TLS 1.2 - A new one on me. A Portal to a Portal. Dave Hay. 2017. Blog - https://portal2portal.blogspot.com/2017/08/java-to-db2-via-tls-12-new-one-on-me.html
@@ -2538,6 +2541,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * DB2 Table Spaces – When to use File System Caching. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/489
   * Space: Calculating size of unused LOB space. SAP Community Wiki. David Godson. 2016. Blog - https://wiki.scn.sap.com/wiki/display/DB2/Space%3A+Calculating+size+of+unused+LOB+space
+  * Reading and Writing DB2 CLOB with Java. Merter Sualp. Merter Sualp's Weblog. 2016. Blog - https://mertersualp.blog/2016/06/19/beauty-of-maven/
   * How Will Logging Process happen in DB2?. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/01/how-logging-process-will-happen-in-db2.html
 * Local procedures
   * DB2 10: Using locally defined types and procedures. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/local_types_and_procedures
