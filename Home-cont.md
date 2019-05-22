@@ -1021,6 +1021,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * db2start add member fails. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11419
   * DB2 pureScale Install Problem Determination. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
 * SAP
+  * SAP on DB2 for LUW: Exploitation of DB2’s Workload Management in an SAP Environment. SAP AG. Andreas Zimmermann. 2008. Whitepaper - https://archive.sap.com/kmuuid2/d046f3f5-13c5-2b10-179d-80b6ae7b9657/SAP%20on%20DB2%20for%20LUW%3A%20Exploitation%20of%20DB2's%20Workload%20Management%20in%20an%20SAP%20Environment.pdf
   * Accelerating SAP CO-PA with DB2 for Linux, UNIX, and Windows. DeveloperWorks. Alexander Zietlow. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1603-sapr-co-pa-db2r-luw-trs/index.html
   * IBM DB2 and SAP - A marriage made in heaven? Or Not? DBI blog. Martin Hubel. 2016. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=715
 * SAR: SQL Archive file
@@ -2375,6 +2376,8 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * WLB - Workload Balancing 
   * Configure parameters for IBM Data Server Driver for JDBC and SQLJ against HADR for DB2 pureScale. DeveloperWorks. Sujan Ghosh and Vinayak Joshi. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1509hadr-purescale/index.html 
 * WLM - Workload Manager 
+  * SAP on DB2 for LUW: Exploitation of DB2’s Workload Management in an SAP Environment. SAP AG. Andreas Zimmermann. 2008. Whitepaper - https://archive.sap.com/kmuuid2/d046f3f5-13c5-2b10-179d-80b6ae7b9657/SAP%20on%20DB2%20for%20LUW%3A%20Exploitation%20of%20DB2's%20Workload%20Management%20in%20an%20SAP%20Environment.pdf
+  * Workload Management with MicroStrategy Software and IBM DB2 9.5. IBM. Scott Cappiello, Paul Bird. 2009. Whitepaper - http://public.dhe.ibm.com/software/data/sw-library/db2/papers/wlm_msi_db29.5.pdf
   * Automatic Workload Management with BLU Acceleration. IT Toolbox. Chris Eaton. 2014. Blog - https://it.toolbox.com/blogs/ceaton55/automatic-workload-management-with-blu-acceleration-031114 
   * Querying Tables for an Activity Event Monitor. db2commerce. Ember Brooks. 2014. Blog - http://datageek.blog/2014/10/14/querying-tables-for-an-activity-event-monitor/ 
   * DB2 Workload Manager (WLM) as a Monitoring Solution – Understanding WLM (Part1 of 3). Abhik Roy. DataGeek. 2015. Blog - https://datageek.blog/2015/02/10/db2-workload-manager-wlm-as-a-monitoring-solution-understanding-wlm-part1-of-3/
