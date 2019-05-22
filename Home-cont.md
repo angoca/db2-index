@@ -2377,6 +2377,9 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 * WLM - Workload Manager 
   * Automatic Workload Management with BLU Acceleration. IT Toolbox. Chris Eaton. 2014. Blog - https://it.toolbox.com/blogs/ceaton55/automatic-workload-management-with-blu-acceleration-031114 
   * Querying Tables for an Activity Event Monitor. db2commerce. Ember Brooks. 2014. Blog - http://datageek.blog/2014/10/14/querying-tables-for-an-activity-event-monitor/ 
+  * DB2 Workload Manager (WLM) as a Monitoring Solution – Understanding WLM (Part1 of 3). Abhik Roy. DataGeek. 2015. Blog - https://datageek.blog/2015/02/10/db2-workload-manager-wlm-as-a-monitoring-solution-understanding-wlm-part1-of-3/
+  * DB2 Workload Manager (WLM) as a Monitoring Solution– How to Set up WLM (Part 2 of 3). Abhik Roy. DataGeek. 2015. Blog - https://datageek.blog/2015/03/17/db2-workload-manager-wlm-as-a-monitoring-solution-how-to-set-up-wlm-part-2-of-3/
+  * DB2 Workload Manager (WLM) as a Monitoring Solution– Analyzing WLM Information (Part 3 of 3). Abhik Roy. DataGeek. 2015. Blog - https://datageek.blog/2015/04/07/db2-workload-manager-wlm-as-a-monitoring-solution-analyzing-wlm-information-part-3-of-3/
   * Translating the monetary cost of SQL statements, Part 1, SQL cost in DB2 9.7 and 10.1. DeveloperWorks. Mike Faltys, Christopher Godfrey, and Ian Finlay. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1507sql-statement-cost/index.html 
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html 
   * Transitioning from Query Patroller historical tables to WLM & Event Monitors in DB2 LUW. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/06/transitioning-from-query-patroller.html 
