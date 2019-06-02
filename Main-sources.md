@@ -207,3 +207,4 @@ https://www.ibm.com/developerworks/community/groups/service/html/communitystart?
 * http://db2nerd.blogspot.com/
 * http://adminstuffs.blogspot.com/search?q=db2
 https://www.youtube.com/channel/UCwQz2pEYzDyVF07E-1RIVXw
+* https://community.ibm.com/community/user/hybriddatamanagement/home
