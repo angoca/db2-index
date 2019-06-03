@@ -280,6 +280,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 LUW Database Object’s owner and Instance Owner’s authority over it. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2016/07/18/db2-luw-database-objects-owner-and-instance-owners-authority-over-it/
 * Offline Backup
   * How to take data Online Backup in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-take-data-online-backup-in-db2.html
+  * (Ep. 07) - Restore Database (Offline/Online). Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=8Kx4oVnrbc4
 * Offline Reorg
   * What are the different phases of Online & Offline Reorg in DB2 ?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/what-are-different-phases-of-online-and-offline-reorg-db2.html
   * Difference between Online Reorg and Offline Reorg in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/difference-between-online-and-offline-reorg-db2.html
@@ -301,6 +302,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * SQL on Fire! Part 1. WAIUG. Serge Rielau. 2006. Presentation - http://www.waiug.org/present/Forum2006/Presentations/SQLonFire_1_Serge_Rielau.ppt
 * Online Backup
   * How to take data Online Backup in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-take-data-online-backup-in-db2.html
+  * (Ep. 07) - Restore Database (Offline/Online). Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=8Kx4oVnrbc4
 * Online Crash Recovery
   * IBM’s June Announcements About DB2. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/06/23/ibms-june-announcements-about-db2/
 * Online Reorg
@@ -906,6 +908,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * How To Perform Db2 Alternate Restore Using NetBackup ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/03/20/how-to-perform-db2-cross-node-restore-using-netbackup/
   * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/07/17/the-db2-recovery-history-file/
   * DB2 Basics: Beyond Just Taking a Backup – Backup Performance, Utilities, and More!. DataGeek. Ember Brooks. 2019. Blog - https://datageek.blog/2019/03/26/db2-basics-beyond-just-taking-a-backup-backup-performance-utilities-and-more/
+  * (Ep. 07) - Restore Database (Offline/Online). Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=8Kx4oVnrbc4
 * Restrictive
   * DB2 WSE 9.7 - General Errors. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-error.html
   * Gotcha when restoring database with restrictive access ! techs@work. Raju Pillai. 2012. Blog - http://techsatwork.com/blog/?p=1310
@@ -2054,6 +2057,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * (Ep. 03) - New Environment Setup: Part 1. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=Opk8A0KbBfE
   * (Ep. 05) - New Environment Setup: Part 3. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=sXEarox2sa8
   * DB2 How To Measure Transaction Log Write Time ? Raghu On Tech. Raghu Cherukuru. 2019. Blog - https://www.raghu-on-tech.com/2019/02/28/howtomonitor-transactionlog-writetime/
+  * (Ep. 06) - Backup Database (Offline/Online). Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=yDtFYmkHlsQ
 * Transfer ownership
   * Transfer Ownership. it.toolbox.com. Chris Eaton. 2006. Blog - http://it.toolbox.com/blogs/db2luw/transfer-ownership-10771
   * Transferring Ownership of Objects (ACC3). Toad - IBM DB2 Community. Steve Hilker. 2013. Wiki - https://www.toadworld.com/platforms/ibmdb2/w/wiki/7575.transferring-ownership-of-objects-acc3
