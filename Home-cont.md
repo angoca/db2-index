@@ -665,6 +665,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Influence query optimization with optimization profiles and statistical views in DB2 9. DeveloperWorks. Kenneth K. Chen. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0612chen/
   * Get Long Running SQL using SYSIBM Administrative Views. db2 tips by an IBMer. Ilker Ender. 2010. Blog - http://ilker-db2.tumblr.com/post/3585748498
   * SQL Anti logic!!!. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/04/sql-anti-logic.html
+  * Identifying which statement is consuming the most CPU. SAP Blogs. David Godson. 2015. Blog - https://wiki.scn.sap.com/wiki/display/DB2/Identifying+which+statement+is+consuming+the+most+CPU
   * DB2 - Queries. Sean's. Sean. 2016. Blog - http://twoseans.blogspot.com.co/2016/06/db2-queries.html
   * SQL Query Tuning Exercise. db2geek. Damir Wilder. 2016. Blog - http://db2geek.triton.co.uk/sql-query-tuning-exercise/
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
@@ -1030,6 +1031,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * SAR: SQL Archive file
   * Hide the body of a SQL PL Stored Procedure. SQL-PL guide. Documentation - http://www.sqlpl-guide.com/hide-procedure-body/
   * DB2 Tips n Tricks Part 39 - Deploy Stored Procedure without revealing source code. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=WxxKOYee9ZU
+  * How to Use Indexes for SAP BW Objects with Db2 BLU Acceleration. SAP Blogs. 
+Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-for-sap-bw-objects-with-db2-blu-acceleration/
 * SARG
   * Please check the "Search Argument - SARG" entry.
 * Savepoint
@@ -1246,9 +1249,10 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * (Snapshot for Db2 tunning) Snapshots para tuning DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/tuning/snapshots-para-tuning-db2/
   * DB2 monitoring: Migrate from snapshot monitor interfaces to in-memory metrics monitor interfaces. DeveloperWorks. Scott Walkty. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1407monitoring/index.html
   * DB2 Tips n Tricks Part 38 - Limitation on Monitor Metrics by Dynamic SQL Snapshot. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=MO-UlXkiRoo
+  * Identifying which statement is consuming the most CPU. SAP Blogs. David Godson. 2015. Blog - https://wiki.scn.sap.com/wiki/display/DB2/Identifying+which+statement+is+consuming+the+most+CPU
   * Solve IBM BPM performance issues with IBM DB2 examples. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz2-trs/1509_volz2.html
-  * Comparing dsmtop and db2top. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/03/07/comparing-dsmtop-and-db2top/
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
+  * Comparing dsmtop and db2top. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/03/07/comparing-dsmtop-and-db2top/
 * Sockets
   * Db2 LOAD command – Estimating TCP/IP Ephemeral Ports in a Database Partitioned Environment. ThinkingDB2! David Sciaraffa. 2019. Blog - http://thinkingdb2.blogspot.com/2019/03/db2-load-command-estimating-tcpip_50.html
 * Softmax (Deprecated)
@@ -1682,6 +1686,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
     * Why are there Question Marks in my Db2 Queries?. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/why-are-there-question-marks-in-my-db2-queries/
   * SysIBMAdm.Mon_DB_Summary
     * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
+  * SysIBMAdm.Mon_Current_SQL
+    * Identifying which statement is consuming the most CPU. SAP Blogs. David Godson. 2015. Blog - https://wiki.scn.sap.com/wiki/display/DB2/Identifying+which+statement+is+consuming+the+most+CPU
   * SysIBMAdm.PD_Get_Log_Msgs
     * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
     * Understanding Return Codes in the DB2 Diagnostic Log. db2commerce. Ember Crooks. 2017. Blog - http://datageek.blog/2017/01/26/understanding-return-codes-in-the-db2-diagnostic-log/
