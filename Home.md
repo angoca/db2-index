@@ -265,6 +265,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 V9.7 Last successful backup timestamp. MyDBLearnings. Bhaskar UB. 2014. Blog - http://mylearnings-db.blogspot.com/2014/01/db2-v97-last-successful-backup-timestamp.html
   * Understanding and Tuning DB2/LUW Backup and Restore Performance. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/understanding-and-tuning-db2luw-backup.html
   * DB2 Advanced Copy Services: The scripted interface, Part 4, Implementation for DB2 ACS. DeveloperWorks. Martin Jungfer and Holger Hellmuth. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1506scriptdb2copy4/index.html
+  * Long Running Backups. SAP Blogs. 2015. Blog - https://blogs.sap.com/2015/01/29/long-running-backups/
   * How to backup and extract the recovery history file from a database backup? IBM. 2016. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21994689
   * Backup and Restore DB2 on cloud with DSM. Analytics Platform Tool. 2016. Video - https://www.youtube.com/watch?v=_pKE44xW96g
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/
@@ -373,6 +374,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
   * DB2 11.1 BLU with DPF Monitoring scripts. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11484
   * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/12/07/the-self-tuning-memory-manager-stmm/
+  * How to Use Indexes for SAP BW Objects with Db2 BLU Acceleration. SAP Blogs. 
+Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-for-sap-bw-objects-with-db2-blu-acceleration/
 * Bluemix
   * Mom, I joined the cloud! (or: Use old stuff with new stuff - DB2 federation). Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/03/mom-i-joined-cloud-or-use-old-stuff.html
 * Books
@@ -694,6 +697,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * db2top Dynamic SQL Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-dynamic-sql-screen.html
   * Troubleshooting SQL problems in your database. DeveloperWorks. Raghavendra Chiyodu. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-troublshooting-sql-database/index.html
+  * Identifying which statement is consuming the most CPU. SAP Blogs. David Godson. 2015. Blog - https://wiki.scn.sap.com/wiki/display/DB2/Identifying+which+statement+is+consuming+the+most+CPU
   * Licensing Your Database Software on Virtual Platforms. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/10/04/licensing-your-database-software-on-virtual-platforms/
   * DB2 Table Row (Tuple) Size. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/db2-row-size/
   * DB2 performance monitoring with db2pd. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/03/db2-performance-monitoring-with-db2pd.html
@@ -1030,7 +1034,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * db2haicu disable / enable and scripting. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11482
 * db2ckrst
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
-* db2ckupdate
+* db2ckupgrade
   * Database Inconsistencies. SAP Community Wiki. 2015. Blog - https://wiki.scn.sap.com/wiki/display/DB2/Database+Inconsistencies
 * db2cli
   * DB2 Remote nodes/databases. My DokuWiki. Julien Andonov. 2018. Blog - http://www.jdbwiki.tech/doku.php?id=db2_connect
@@ -1336,6 +1340,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Friendship between REORG and Temp Tablespace's. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/friendship-between-reorg-and-temp.html
   * Storage groups - A comprehensive solution of handling your data. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/storage-groups-comprehensive-solution.html
   * FORCE APPLICATION will not force sub-agents that are handling external routine requests. IBM. 2015. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21612984
+  * Identifying which statement is consuming the most CPU. SAP Blogs. David Godson. 2015. Blog - https://wiki.scn.sap.com/wiki/display/DB2/Identifying+which+statement+is+consuming+the+most+CPU
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
   * Restart vendor process for archive logging. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/12/restart-vendor-process-for-archive.html
@@ -1441,6 +1446,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Bouncing the instance. DB2 LUW Blog. Shivraj Kumar. 2018. Blog - https://db2today.blogspot.com/2018/12/bouncing-instance.html
 * db2support
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
+  * Creating db2support. SAP Blogs. 2014. Blog - https://blogs.sap.com/2014/10/12/creating-db2support/
   * Solve IBM BPM performance issues with IBM DB2 examples. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz2-trs/1509_volz2.html
   * Improve IBM BPM performance with an IBM DB2 database. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz1-trs/1509_volz1.html
   * The db2support Problem with Db2 11.1, Fix Pack 3 (LUW). Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/07/the-db2support-problem-with-db2-11-1-fix-pack-3-luw/
@@ -1728,6 +1734,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * db2top Skew Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-skew-screen.html
   * Nfs4: Setting up DB2 for UNIX and Linux on NFS4 mounted file systems. db2 tips by an IBMer. Ilker Ender. 2010. Blog - http://ilker-db2.tumblr.com/post/521324056
   * How to Setup TSM Client with DB2 9.7 for log archiving and backup. Ilker Ender. 2010. Blog - http://ilker-db2.tumblr.com/post/4004300817
+  * DB2 LUW Table Partitioning in SAP OLTP Systems. SAP Blogs. Johannes Heinrich. 2011. Blog - https://blogs.sap.com/2011/06/20/db2-luw-table-partitioning-in-sap-oltp-systems/
   * Full reverse: A REVERSE function that handles unicode. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/reverse
   * fcm_parallelism + sql6031n. DB2 Knowledge Base Raf. Raf Mathijs. 2013. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2013/10/fcmparallelism-sql6031n.html
   * DB2 DPF Tablespace Recovery Scenarios — Part 1 — Recover Tablespace(s) on Coordinator Node. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/03/05/db2-dpf-tablespace-recovery-scenarios-part-1/
