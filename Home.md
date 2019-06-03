@@ -287,6 +287,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/07/17/the-db2-recovery-history-file/
   * (Ep. 03) - New Environment Setup: Part 1. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=Opk8A0KbBfE
   * DB2 Basics: Beyond Just Taking a Backup – Backup Performance, Utilities, and More!. DataGeek. Ember Brooks. 2019. Blog - https://datageek.blog/2019/03/26/db2-basics-beyond-just-taking-a-backup-backup-performance-utilities-and-more/
+  * (Ep. 06) - Backup Database (Offline/Online). Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=yDtFYmkHlsQ
 * Backup Pending
   * DB2 DPF Tablespace Recovery Scenarios — Part 1 — Recover Tablespace(s) on Coordinator Node. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/03/05/db2-dpf-tablespace-recovery-scenarios-part-1/
   * How to take data Online Backup in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/how-to-take-data-online-backup-in-db2.html
@@ -531,6 +532,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Using TSA/db2haicu to Automate Failover Part 5: Additional Configuration Best Practices. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/08/16/using-tsa-db2haicu-to-automate-failover-part-5-additional-configuration-best-practices/
 * Circular Logging
   * How Will Logging Process happen in DB2?. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/01/how-logging-process-will-happen-in-db2.html
+  * (Ep. 06) - Backup Database (Offline/Online). Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=yDtFYmkHlsQ
 * CLI
   * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
   * Troubleshooting DB2 on Rails. DB2 on Rails. Leon Katsnelson, Antonio Cangiano. 2007. Blog - https://web.archive.org/web/20080719164826/http://antoniocangiano.com/files/tables_and_columns.html
@@ -1016,6 +1018,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * A Peek on DB2 Log Record. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/07/peek-on-db2-log-record.html
   * (Validate a physical db2 backup) Validación backup físico DB2 – db2ckbkp. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/utilidades/validacion-backup-fisico-db2-db2ckbkp/
   * DB2 Basics: Beyond Just Taking a Backup – Backup Performance, Utilities, and More!. DataGeek. Ember Brooks. 2019. Blog - https://datageek.blog/2019/03/26/db2-basics-beyond-just-taking-a-backup-backup-performance-utilities-and-more/
+  * (Ep. 06) - Backup Database (Offline/Online). Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=yDtFYmkHlsQ
+  * (Ep. 07) - Restore Database (Offline/Online). Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=8Kx4oVnrbc4
 * db2cklog
   * Checking archive log files with the db2cklog tool. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/03/Checking-archive-log-files-with-the-db2cklog-tool.html
 * db2ckmig
@@ -2648,6 +2652,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * DB2 LUW V9.7 CUR_COMMIT database configuration option – buyer beware. DBMSguy.com. Paul Mayhew. 2011. Blog - http://dbmsguy.com/blog/2011/01/cur_commit_db_option/
 * Logger Process
   * How Will Logging Process happen in DB2?. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/01/how-logging-process-will-happen-in-db2.html
+* Logging
+  * Please visit the "Transaction log" entry.
 * Logical Data Paritition
   * How to setup logical data partitioning in DB2?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/how-to-setup-logical-data-partitioning-in-db2.html
 * Logical read
