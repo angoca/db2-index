@@ -2487,6 +2487,8 @@ https://ibm.box.com/v/DB2v11eBook
   * 2017: A year for DB2 11.1. db2geek. Iqbal Goralwalla. 2017. Blog - http://db2geek.triton.co.uk/2017-year-db2-11-1/ 
   * The db2support Problem with Db2 11.1, Fix Pack 3 (LUW). Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/07/the-db2support-problem-with-db2-11-1-fix-pack-3-luw/
   * Db2 2 V11.1 Mod Pack4 and Fix Pack 4 is available. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2018. Blog - https://blog.4loeser.net/2018/11/db2-2-v111-mod-pack4-and-fix-pack-4-is.html
+* 11.5
+  * Installing Db2 on your coffee break. Medium. Adam Storm. 2019. Blog - https://medium.com/@ajstorm/installing-db2-on-your-coffee-break-5be1d811b052
  
 # Signs 
  
