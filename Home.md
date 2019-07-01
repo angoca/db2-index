@@ -1703,6 +1703,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Downloading and installing Db2 Developer Community Edition on Ubuntu Linux. Hybrid Data Management Community. Roger E. Sanders. 2018. Blog - https://community.ibm.com/community/user/hybriddatamanagement/viewdocument/downloading-and-installing-db2-deve-3
   * Downloading and installing Db2 Developer Community Edition on Red Hat Enterprise Linux. Hybrid Data Management Community. Roger E. Sanders. 2018. Blog - https://community.ibm.com/community/user/hybriddatamanagement/viewdocument/downloading-and-installing-db2-deve-4
   * Running Db2 Developer-C as Docker container. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2019. Blog - https://blog.4loeser.net/2019/03/running-db2-developer-c-as-docker.html
+  * Installing Db2 on your coffee break. Medium. Adam Storm. 2019. Blog - https://medium.com/@ajstorm/installing-db2-on-your-coffee-break-5be1d811b052
 * Documentation
   * SQL-PL Guide. SQL-PL Guide. Michael Spoden. Documentation - http://www.sqlpl-guide.com/
   * KnowledgeCenter DB2 11.1. IBM. Documentation - http://www.ibm.com/support/knowledgecenter/SSEPGG_11.1.0/com.ibm.db2.luw.kc.doc/welcome.html
