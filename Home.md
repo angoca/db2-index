@@ -881,6 +881,8 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Db2 Persistent Data Collection Scripts - Public Community. DeveloperWorks. Wiki - https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=a294bddb-9ded-4757-8d5e-ca5ba173e2cd
   * Reduce Problem Resolution Times with Persistent Db2 Diagnostic Data Collection. ThinkingDB2! David Sciaraffa. 2017 - http://thinkingdb2.blogspot.com.co/2017/07/reduce-problem-resolution-times-with.html
 * db2 warehouse
+  * Db2WoC Demo - Flex Performance Plan. DTE - Digital Technical Engagement. 2018. Video - https://www.youtube.com/watch?v=yN-tZUxGxEI
+  * Db2WoC Demo - Introducing Db2 Warehouse on Cloud. DTE - Digital Technical Engagement. 2018. Video - https://www.youtube.com/watch?v=b1IYXr56zZ0
   * Introduction to IBM Db2 Warehouse. DTE - Digital Technical Engagement. 2019. Video - https://www.youtube.com/watch?v=-qn8uJGUYZg
   * Scaling out Db2 Warehouse with MPP. DTE - Digital Technical Engagement. 2019. Video - https://www.youtube.com/watch?v=gRPhq2A3vbA
 * db2_all
@@ -2464,6 +2466,8 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Notes on Notebooks, Data, DB2, and Bluemix. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/08/notes-on-notebooks-data-db2-and-bluemix.html
   * SQL Magic in Notebooks in the IBM Data Science Experience. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/11/sql-magic-in-notebooks-in-ibm-data.html
   * Connecting to DB2 from Jupyter Notebook. db2commerce. Ember Crooks. 2017. Blog - http://datageek.blog/2017/05/18/connecting-to-db2-from-jupyter-notebook/
+  * Installing Jupyter Notebook Extensions for Db2. DTE - Digital Technical Engagement. 2018. https://www.youtube.com/watch?v=qH4nGrv5hgo
+  * Accessing Db2 from a Jupyter Notebook. DTE - Digital Technical Engagement. 2018. https://www.youtube.com/watch?v=PnyfHRhGImY
   * Installing Jupyter Notebook Extensions for Db2. George Baklarz. DTE - Digital Technical Engagement. 2018. Video - https://www.youtube.com/watch?v=kZWaapguu28
 
 # K
