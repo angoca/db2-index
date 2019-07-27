@@ -404,6 +404,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Using the IBM NoSQL Wire Listener for DB2. DeveolperWorks. Ioannis Papapanagiotou, Marion Behnen, John Paul Parkin, and Jyh-Chen Fang. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson4/index.html
   * The DB2Night Show #187: FREE Resources to help you succeed with DB2 LUW V11. The DB2Night Show. George Baklarz. 2016. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=713, PDF - http://www.dbisoftware.com/db2nightshow/20161209DB2Night187.pdf
   * Extending SQL: Exploring the hidden JSON capabilities in DB2. IBM DataManagement. George Baklarz. 2017. Webminar - http://event.on24.com/wcc/r/1363468/E3E9C8C749686A23195DEE9498A434F2, PDF - http://event.lvl3.on24.com/event/13/63/46/8/rt/1/documents/resourceList1487863545737/db2_tech_talk_extending_sql20170223_final.pdf
+  * Query JSON in Db2. db2Dean. Dean Compher. 2019. Blog - http://www.db2dean.com/Previous/JSONinDB2.html
 * Buffered I/O
   * Faster rollback processing of very large transactions in Db2 v11.1.3.3. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/faster-rollback-processing-of-very.html
 * Bufferpool
@@ -2463,6 +2464,11 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * The DB2Night Show #187: FREE Resources to help you succeed with DB2 LUW V11. The DB2Night Show. George Baklarz. 2016. Video - http://www.dbisoftware.com/blog/db2nightshow.php?id=713, PDF - http://www.dbisoftware.com/db2nightshow/20161209DB2Night187.pdf
   * Extending SQL: Exploring the hidden JSON capabilities in DB2. IBM DataManagement. George Baklarz. 2017. Webminar - http://event.on24.com/wcc/r/1363468/E3E9C8C749686A23195DEE9498A434F2, PDF - http://event.lvl3.on24.com/event/13/63/46/8/rt/1/documents/resourceList1487863545737/db2_tech_talk_extending_sql20170223_final.pdf
+  * Query JSON in Db2. db2Dean. Dean Compher. 2019. Blog - http://www.db2dean.com/Previous/JSONinDB2.html
+* JSON_TABLE
+  * Query JSON in Db2. db2Dean. Dean Compher. 2019. Blog - http://www.db2dean.com/Previous/JSONinDB2.html
+* JSON_VALUE
+  * Query JSON in Db2. db2Dean. Dean Compher. 2019. Blog - http://www.db2dean.com/Previous/JSONinDB2.html
 * Jupyter Notebook
   * Coincidence? CeBIT visitors and weather featuring Jupyter Notebooks, Spark and dashDB. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/03/coincidence-cebit-visitors-and-weather.html
   * Notes on Notebooks, Data, DB2, and Bluemix. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/08/notes-on-notebooks-data-db2-and-bluemix.html
