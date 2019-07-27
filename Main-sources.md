@@ -6,6 +6,9 @@ In this section, the main DB2 sources are described:
   * Also articles from http://www.virtual-dba.com/blog/
     * Articles since 201701 to 201902
   * In archive.org
+* Dean Compher - db2Dean (Blog about technical stuff). http://db2dean.com/
+  * Articles since 201901 to 201907
+  * In archive.org
 * Andres Gomez Casanova - Ideas for DB2 (Blog about technical stuff). https://angocadb2.blogspot.com
   * Articles since 201601 to 201902
   * In archive.org
@@ -169,7 +172,6 @@ https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&conten
 * http://www.dbatodba.com/db2
 * https://community.toadworld.com/platforms/ibmdb2/w/wiki
 * https://community.toadworld.com/platforms/ibmdb2/b/weblog
-* http://db2dean.com/
 * https://www.brighttalk.com/channel/7637/idug-db2-tech-channel
 * IDUG Content Blog (Blog). http://www.idug.org/p/bl/bl/blogid=278
 * Thoughts from Support (Blog about technical stuff). https://www.ibm.com/developerworks/community/blogs/IMSupport
