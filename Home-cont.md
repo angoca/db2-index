@@ -880,6 +880,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Response file
   * Following the script - installing IBM DB2 UDB using a response file ( silent installation ). A Portal to a Portal. Dave Hay. 2012. Blog - https://portal2portal.blogspot.com/2012/06/following-script-installing-ibm-db2-udb.html
   * Step by Step installation of DB2 V10.5 on Linux. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/04/step-by-step-installation-of-db2-v105-Linux.html
+* Rest
+  * Using RESTful APIs to communicate with Db2 on Cloud. DTE - Digital Technical Engagement. 2018. Video - https://www.youtube.com/watch?v=PSNBDwgf9ts
 * Restore
   * Script de restauration DB2. Berthou.com. 2009. Blog - http://www.berthou.com/fr/2009/10/13/script-de-restauration-db2/
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
@@ -2489,6 +2491,7 @@ https://ibm.box.com/v/DB2v11eBook
   * Db2 2 V11.1 Mod Pack4 and Fix Pack 4 is available. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2018. Blog - https://blog.4loeser.net/2018/11/db2-2-v111-mod-pack4-and-fix-pack-4-is.html
 * 11.5
   * Installing Db2 on your coffee break. Medium. Adam Storm. 2019. Blog - https://medium.com/@ajstorm/installing-db2-on-your-coffee-break-5be1d811b052
+* DB2 11.5 New Features. db2Dean. Dean Compher. 2019. Blog - http://www.db2dean.com/Previous/NewStuffv115.html
  
 # Signs 
  
