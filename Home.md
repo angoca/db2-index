@@ -875,7 +875,9 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
 * DB2 Direct
   * 11 Exciting Things About DB2 11.1 for Linux, UNIX, and Windows. Virtual-DBA. Ember Crooks. 2016. Blog - http://www.virtual-dba.com/11-neat-things-db2-11-1-linux-unix-windows/
 * DB2 Log Scanner
-  * DB2 Logging and HADR Performance Analysis using DB2 Log Scanner and HADR Calculator. DeveloperWorks. Yuke Zhuge. 2014. Wiki - https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/DB2HADR/page/db2logscan 
+  * DB2 Logging and HADR Performance Analysis using DB2 Log Scanner and HADR Calculator. DeveloperWorks. Yuke Zhuge. 2014. Wiki - https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/DB2HADR/page/db2logscan
+* Db2 on Cloud
+  * Introducing IBM Db2 on Cloud. DTE - Digital Technical Engagement. 2018. Video - https://www.youtube.com/watch?v=F_ylk44_WOg
 * Db2 Persistent Data Collection Scripts
   * Db2 Persistent Data Collection Scripts - Collect and Retain Historical Diagnostic Data to Reduce Problem Determination Times. IBM. 2017. Support - http://www-01.ibm.com/support/docview.wss?uid=swg22005477
   * Db2 Persistent Data Collection Scripts - Public Community. DeveloperWorks. Wiki - https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=a294bddb-9ded-4757-8d5e-ca5ba173e2cd
@@ -2466,8 +2468,9 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Notes on Notebooks, Data, DB2, and Bluemix. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/08/notes-on-notebooks-data-db2-and-bluemix.html
   * SQL Magic in Notebooks in the IBM Data Science Experience. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/11/sql-magic-in-notebooks-in-ibm-data.html
   * Connecting to DB2 from Jupyter Notebook. db2commerce. Ember Crooks. 2017. Blog - http://datageek.blog/2017/05/18/connecting-to-db2-from-jupyter-notebook/
-  * Installing Jupyter Notebook Extensions for Db2. DTE - Digital Technical Engagement. 2018. https://www.youtube.com/watch?v=qH4nGrv5hgo
-  * Accessing Db2 from a Jupyter Notebook. DTE - Digital Technical Engagement. 2018. https://www.youtube.com/watch?v=PnyfHRhGImY
+  * Db2 on Cloud and Jupyter Notebook Integration. DTE - Digital Technical Engagement. 2018. Video - https://www.youtube.com/watch?v=bNfH0Wzx3is
+  * Installing Jupyter Notebook Extensions for Db2. DTE - Digital Technical Engagement. 2018. Video - https://www.youtube.com/watch?v=qH4nGrv5hgo
+  * Accessing Db2 from a Jupyter Notebook. DTE - Digital Technical Engagement. 2018. Video - https://www.youtube.com/watch?v=PnyfHRhGImY
   * Installing Jupyter Notebook Extensions for Db2. George Baklarz. DTE - Digital Technical Engagement. 2018. Video - https://www.youtube.com/watch?v=kZWaapguu28
 
 # K
