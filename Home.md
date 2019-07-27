@@ -2478,6 +2478,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Installing Jupyter Notebook Extensions for Db2. DTE - Digital Technical Engagement. 2018. Video - https://www.youtube.com/watch?v=qH4nGrv5hgo
   * Accessing Db2 from a Jupyter Notebook. DTE - Digital Technical Engagement. 2018. Video - https://www.youtube.com/watch?v=PnyfHRhGImY
   * Installing Jupyter Notebook Extensions for Db2. George Baklarz. DTE - Digital Technical Engagement. 2018. Video - https://www.youtube.com/watch?v=kZWaapguu28
+  * Jupyter Notebook Db2 Client. db2Dean. Dean Compher. 2019. Blog - http://www.db2dean.com/Previous/Db2Jupyter.html
 
 # K
 
