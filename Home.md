@@ -880,6 +880,9 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Db2 Persistent Data Collection Scripts - Collect and Retain Historical Diagnostic Data to Reduce Problem Determination Times. IBM. 2017. Support - http://www-01.ibm.com/support/docview.wss?uid=swg22005477
   * Db2 Persistent Data Collection Scripts - Public Community. DeveloperWorks. Wiki - https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=a294bddb-9ded-4757-8d5e-ca5ba173e2cd
   * Reduce Problem Resolution Times with Persistent Db2 Diagnostic Data Collection. ThinkingDB2! David Sciaraffa. 2017 - http://thinkingdb2.blogspot.com.co/2017/07/reduce-problem-resolution-times-with.html
+* db2 warehouse
+  * Introduction to IBM Db2 Warehouse. DTE - Digital Technical Engagement. 2019. Video - https://www.youtube.com/watch?v=-qn8uJGUYZg
+  * Scaling out Db2 Warehouse with MPP. DTE - Digital Technical Engagement. 2019. Video - https://www.youtube.com/watch?v=gRPhq2A3vbA
 * db2_all
   * db2_all and RAHUSER. DB2 Diary from Radhesh. Radhesh Kumar. 2007. Blog - http://radheshk.blogspot.com/2007/07/db2all-and-rahuser.html
   * SSV Backup. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/08/ssv-backup.html
@@ -1627,6 +1630,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * IBM’s June Announcements About DB2. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/06/23/ibms-june-announcements-about-db2/
   * Enterprise Database Software for Free – IBM Db2. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/ibm-db2-software-free/
   * (Ep. 01) - Db2 Developer Ed. Installation and Basics. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=QvfQPq-8YU8
+  * Introducing Db2 Developer-C Edition. DTE - Digital Technical Engagement. 2019. Video - https://www.youtube.com/watch?v=vA79fhG7AGQ
 * Development
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Device Read Rate
@@ -2460,6 +2464,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Notes on Notebooks, Data, DB2, and Bluemix. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/08/notes-on-notebooks-data-db2-and-bluemix.html
   * SQL Magic in Notebooks in the IBM Data Science Experience. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2016. Blog - http://blog.4loeser.net/2016/11/sql-magic-in-notebooks-in-ibm-data.html
   * Connecting to DB2 from Jupyter Notebook. db2commerce. Ember Crooks. 2017. Blog - http://datageek.blog/2017/05/18/connecting-to-db2-from-jupyter-notebook/
+  * Installing Jupyter Notebook Extensions for Db2. George Baklarz. DTE - Digital Technical Engagement. 2018. Video - https://www.youtube.com/watch?v=kZWaapguu28
 
 # K
 
