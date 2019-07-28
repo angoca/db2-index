@@ -555,6 +555,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
   * Hello, Db2 World! PowerShell. DataGeek.blog. Ember Brooks. 2018. Blog - https://datageek.blog/2018/08/09/hello-db2-world-powershell/
   * Troubleshooting. My DokuWiki. Julien Andonov. 2018. Blog - http://www.jdbwiki.tech/doku.php?id=db2_troubleshooting
+  * Working with Db2 copies …on Windows. Data Geek. Luke Numrych. 2019. Blog - https://datageek.blog/2019/06/19/working-with-db2-copies-on-windows/
   * Db2 Basics: Setting up a Command Line to Work with Db2. Data Geek. Ember Crooks. 2019. Blog - https://datageek.blog/2019/04/30/db2-basics-setting-up-a-command-line-to-work-with-db2/
 * Pre-partitioning agent
   * Db2 LOAD command – Estimating TCP/IP Ephemeral Ports in a Database Partitioned Environment. ThinkingDB2! David Sciaraffa. 2019. Blog - http://thinkingdb2.blogspot.com/2019/03/db2-load-command-estimating-tcpip_50.html
@@ -2386,6 +2387,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * DB2 on Windows - More fun with uninstallation. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/12/db2-on-windows-more-fun-with.html
   * DB2 and Windows and the missing database. A Portal to a Portal. Dave Hay. 2019. Blog - https://portal2portal.blogspot.com/2019/01/db2-and-windows-and-missing-database.html
   * Using Windows AD groups in DB2. db2commerce. Luke Numrych. 2019. Blog - https://datageek.blog/2019/02/05/using-ad-groups-in-db2/
+  * Working with Db2 copies …on Windows. Data Geek. Luke Numrych. 2019. Blog - https://datageek.blog/2019/06/19/working-with-db2-copies-on-windows/
 * Wire Listener 
   * Using the IBM NoSQL Wire Listener for DB2. DeveolperWorks. Ioannis Papapanagiotou, Marion Behnen, John Paul Parkin, and Jyh-Chen Fang. 2013. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson4/index.html 
 * Workload Automation 
