@@ -212,3 +212,4 @@ https://www.youtube.com/channel/UCwQz2pEYzDyVF07E-1RIVXw
 * https://community.ibm.com/community/user/hybriddatamanagement/home
 * https://howtodb2.wordpress.com/
 * http://db2quicksolver.blogspot.com/
+* http://anythingsimple.blogspot.com
