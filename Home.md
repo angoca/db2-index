@@ -1363,6 +1363,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Monitoring the replay-only-window on a Db2 HADR standby database. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/monitoring-replay-only-window-on-db2_28.html
   * Monitoring Db2 HADR Takeover. Db2 Reflections. Hao Yan. 2018. Blog - http://db2reflections.blogspot.com.co/2018/04/monitoring-db2-hadr-takeover.html
   * Troubleshooting. My DokuWiki. Julien Andonov. 2018. Blog - http://www.jdbwiki.tech/doku.php?id=db2_troubleshooting
+  * Why dsmtop isn’t Even Half as Good as db2top. Data Geek. Ember Crooks. 2019. Blog - https://datageek.blog/2019/07/03/why-dsmtop-isnt-even-half-as-good-as-db2top/
 * db2pdcfg
   * Analyzing lockwait situations in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2007. Article  - https://www.ibm.com/developerworks/data/library/techarticle/dm-0707fechner/index.html
   * Lock events for DB2 for Linux, UNIX, and Windows, Part 2: New options for analyzing lock timeouts in DB2 9.5. DeveloperWorks. Dirk Fechner. 2008. Article  - http://www.ibm.com/developerworks/data/library/techarticle/dm-0804fechner/index.html
@@ -1543,6 +1544,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * find the complete sql of a really long sql and explain it. DB2 Knowledge Base Raf. Raf Mathijs. 2015. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2015/04/find-complete-sql-of-really-long-sql.html
   * The Role of the DB2 DBA in Load/Performance Testing. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/02/09/the-role-of-the-db2-dba-in-loadperformance-testing/
   * Comparing dsmtop and db2top. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/03/07/comparing-dsmtop-and-db2top/
+  * Why dsmtop isn’t Even Half as Good as db2top. Data Geek. Ember Crooks. 2019. Blog - https://datageek.blog/2019/07/03/why-dsmtop-isnt-even-half-as-good-as-db2top/
 * db2trc
   * DB2 Basics: An introduction to the DB2 UDB trace facility. DeveloperWorks. Roman Melnyk. 2004. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0409melnyk/
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
@@ -1787,6 +1789,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Welcome to Text Based Monitoring for DB2 LUW - dsmtop. DeveloperWorks. KevinLBeck. 2016. Wiki - https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/Text%20Based%20Monitoring%20for%20DB2%20LUW%20-%20dsmtop/
   * The Role of the DB2 DBA in Load/Performance Testing. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/02/09/the-role-of-the-db2-dba-in-loadperformance-testing/
   * Comparing dsmtop and db2top. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/03/07/comparing-dsmtop-and-db2top/
+  * Why dsmtop isn’t Even Half as Good as db2top. Data Geek. Ember Crooks. 2019. Blog - https://datageek.blog/2019/07/03/why-dsmtop-isnt-even-half-as-good-as-db2top/
 * Dynamic SQL
   * Dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/dynamic-sql/
   * Example: Select statement in dynamic SQL. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/example-select-statement-in-dynamic-sql/
