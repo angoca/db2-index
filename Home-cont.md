@@ -555,6 +555,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
   * Hello, Db2 World! PowerShell. DataGeek.blog. Ember Brooks. 2018. Blog - https://datageek.blog/2018/08/09/hello-db2-world-powershell/
   * Troubleshooting. My DokuWiki. Julien Andonov. 2018. Blog - http://www.jdbwiki.tech/doku.php?id=db2_troubleshooting
+  * Db2 Basics: Setting up a Command Line to Work with Db2. Data Geek. Ember Crooks. 2019. Blog - https://datageek.blog/2019/04/30/db2-basics-setting-up-a-command-line-to-work-with-db2/
 * Pre-partitioning agent
   * Db2 LOAD command – Estimating TCP/IP Ephemeral Ports in a Database Partitioned Environment. ThinkingDB2! David Sciaraffa. 2019. Blog - http://thinkingdb2.blogspot.com/2019/03/db2-load-command-estimating-tcpip_50.html
 * Predicates
@@ -1940,6 +1941,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * (Invalid state change) Cambio de estado inválido en Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/02/cambio-de-estado-invalido-en-db2.html
   * DB2 How to Lower High Water Mark For DMS Tablespaces ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/01/19/db2-lower-high-water-mark-dms-tablespaces/
   * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/07/17/the-db2-recovery-history-file/
+  * Interesting Issue with /tmp on a Db2 Server. Data Geek. Ember Crooks. 2019. Blog - https://datageek.blog/2019/04/24/interesting-issue-with-tmp-on-a-db2-server/
 * Tablespace status
   * db2top Tablespaces Screen (Part 1). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-1.html
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
@@ -2254,7 +2256,8 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
 * Userexit 
   * Using Vendor Backup Solutions with DB2 for LUW. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/09/06/using-vendor-backup-solutions-with-db2-for-luw/ 
 * userprofile 
-  * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/22/db2-basics-levels-of-configuration/ 
+  * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/22/db2-basics-levels-of-configuration/
+  * Db2 Basics: Setting up a Command Line to Work with Db2. Data Geek. Ember Crooks. 2019. Blog - https://datageek.blog/2019/04/30/db2-basics-setting-up-a-command-line-to-work-with-db2/
 * UTF-8 
   * Using UNICODE characters, no matter the encoding of the script in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/using-unicode-characters-no-matter.html 
 * Util_Heap_Sz 
@@ -2506,3 +2509,6 @@ https://ibm.box.com/v/DB2v11eBook
  
 * : 
   * Why are there Question Marks in my Db2 Queries?. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/why-are-there-question-marks-in-my-db2-queries/ 
+
+* /tmp
+  * Interesting Issue with /tmp on a Db2 Server. Data Geek. Ember Crooks. 2019. Blog - https://datageek.blog/2019/04/24/interesting-issue-with-tmp-on-a-db2-server/
