@@ -1183,6 +1183,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Aide Memoire - Auto-starting DB2 on RHEL 7. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/09/aide-memoire-auto-starting-db2-on-rhel-7.html
   * Troubleshooting. My DokuWiki. Julien Andonov. 2018. Blog - http://www.jdbwiki.tech/doku.php?id=db2_troubleshooting
   * Desmistifying db2greg. Ideas for Db2 (Spanish). Andres Gomez. 2019. Blog - https://angocadb2.blogspot.com/2019/01/desmistifying-db2greg.html
+  * Working with Db2 copies …on Windows. Data Geek. Luke Numrych. 2019. Blog - https://datageek.blog/2019/06/19/working-with-db2-copies-on-windows/
 * db2gse
   * Acquiring spatial data and developing applications. DeveloperWorks. David Adler. 2016. Article - http://www.ibm.com/developerworks/data/tutorials/dm-1202db2spatialdata1/index.html
 * db2haicu
@@ -1286,6 +1287,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
 * db2ls
   * DB2 Installation Enhancements. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/01/db2-installation-enhancements.html
   * Hmmm, why can't root uninstall IBM DB2 ? A Portal to a Portal. Dave Hay. 2017. Blog - https://portal2portal.blogspot.com/2017/11/hmmm-why-cant-root-uninstall-ibm-db2.html
+  * Working with Db2 copies …on Windows. Data Geek. Luke Numrych. 2019. Blog - https://datageek.blog/2019/06/19/working-with-db2-copies-on-windows/
 * db2med
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * Understanding and Tuning DB2/LUW Backup and Restore Performance. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/understanding-and-tuning-db2luw-backup.html
@@ -1464,6 +1466,8 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Improve IBM BPM performance with an IBM DB2 database. DeveloperWorks. Stephan Volz and Bonnie Brummond. 2015. Article - https://www.ibm.com/developerworks/bpm/bpmjournal/1509_volz1-trs/1509_volz1.html
   * The db2support Problem with Db2 11.1, Fix Pack 3 (LUW). Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/07/the-db2support-problem-with-db2-11-1-fix-pack-3-luw/
   * Troubleshooting. My DokuWiki. Julien Andonov. 2018. Blog - http://www.jdbwiki.tech/doku.php?id=db2_troubleshooting
+* db2swtch
+  * Working with Db2 copies …on Windows. Data Geek. Luke Numrych. 2019. Blog - https://datageek.blog/2019/06/19/working-with-db2-copies-on-windows/
 * db2sync
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
 * db2tbst
