@@ -566,10 +566,12 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Escape characters in shell for DB2. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/escape-characters-in-shell-for-db2.html
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
   * Hello, Db2 World! – How to Connect to a Db2 (LUW) Database. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/21/hello-db2-world-how-to-connect-to-a-db2-luw-database/
+  * Db2 Basics: Setting up a Command Line to Work with Db2. Data Geek. Ember Crooks. 2019. Blog - https://datageek.blog/2019/04/30/db2-basics-setting-up-a-command-line-to-work-with-db2/
 * CLPPlus
   * (Compatibility of Db2 with Oracle: DB2 9.7 CLP PLUS (1/2)) Compatibilidad de DB2 con ORACLE: DB2 9.7 CLP PLUS (1/2). DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/compatibilidad-de-db2-con-oracle-db2-9-7-clp-plus-12/
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
   * Using DB2 on the IBM Cloud from macOS. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/05/using-db2-on-ibm-cloud-from-macos.html
+  * Db2 Basics: Setting up a Command Line to Work with Db2. Data Geek. Ember Crooks. 2019. Blog - https://datageek.blog/2019/04/30/db2-basics-setting-up-a-command-line-to-work-with-db2/
 * Clustering dimensions
   * Please check the MDC entry.
 * Cluster Facility
@@ -594,6 +596,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Accessing DB2 from the Command Line. Virtual-DBA. Ember Crooks. 2017. Blog - http://www.virtual-dba.com/accessing-db2-command-line/
   * Db2 Basics: Error Messages. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/03/13/db2-basics-error-messages/
   * Hello, Db2 World! – How to Connect to a Db2 (LUW) Database. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/21/hello-db2-world-how-to-connect-to-a-db2-luw-database/
+  * Db2 Basics: Setting up a Command Line to Work with Db2. Data Geek. Ember Crooks. 2019. Blog - https://datageek.blog/2019/04/30/db2-basics-setting-up-a-command-line-to-work-with-db2/
 * Command options
   * (Db2 command line options - Remove autocommit) Opciones db2 command line – Eliminar autocommit. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/opciones-db2-command-line-eliminar-autocommit/
   * Massive insert in Db2 as an atomic transaction - no auto-commit. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/08/massive-insert-in-db2-as-atomic.html
@@ -1061,6 +1064,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * DB2 pureScale. My DokuWiki. Julien Andonov. 2017. Blog - http://www.jdbwiki.tech/doku.php?id=db2_purescale
 * db2cmd
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
+  * Db2 Basics: Setting up a Command Line to Work with Db2. Data Geek. Ember Crooks. 2019. Blog - https://datageek.blog/2019/04/30/db2-basics-setting-up-a-command-line-to-work-with-db2/
 * DB2COMM
   * DB2 LINUX CONFIGURATION. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/db2-linux-configuration/
   * Receiving SQL5043n and SPM0438 ? techs@work. Raju Pillai. 2011. Blog - http://techsatwork.com/blog/?p=1092
@@ -1380,6 +1384,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/22/db2-basics-levels-of-configuration/
   * Hello, Db2 World! – How to Connect to a Db2 (LUW) Database. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/21/hello-db2-world-how-to-connect-to-a-db2-luw-database/
   * (Ep. 03) - New Environment Setup: Part 1. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=Opk8A0KbBfE
+  * Db2 Basics: Setting up a Command Line to Work with Db2. Data Geek. Ember Crooks. 2019. Blog - https://datageek.blog/2019/04/30/db2-basics-setting-up-a-command-line-to-work-with-db2/
 * db2rbind
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * Static SQL vs Dynamic SQL in Stored Procedures. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
@@ -1977,6 +1982,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Log full condition. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/log-full-condition.html
   * Comparing Two Db2 Systems. db2commerce. Ember Crooks. 2017. Blog - http://datageek.blog/2017/09/12/comparing-two-db2-systems/
   * (Ep. 03) - New Environment Setup: Part 1. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=Opk8A0KbBfE
+  * Interesting Issue with /tmp on a Db2 Server. Data Geek. Ember Crooks. 2019. Blog - https://datageek.blog/2019/04/24/interesting-issue-with-tmp-on-a-db2-server/
 * File System Caching (FSC)
   * db2top Tablespaces Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-tablespaces-screen-part-2.html
   * My db2 success story: Five things to check when you see high memory usage on db server. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/04/my-db2-success-story-five-things-to.html
