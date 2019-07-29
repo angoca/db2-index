@@ -870,10 +870,11 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Dealing with dates and formats. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/dealing-with-dates-and-formats.html
   * SQL That Meant Well: Where Functions are Applied. DataGeek. Ember Brooks. 2019. Blog - https://datageek.blog/2019/03/14/sql-that-meant-well-where-functions-are-applied/
   * SQL Differences Between Db2 and Informix. DataGeek. Ember Brooks. 2019. Blog - https://datageek.blog/2019/03/19/sql-differences-between-db2-and-informix/
-* DB2
+* Db2
   * IBM DB2. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2
   * IBM DB2 Express-C. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2_Express-C
   * DB2 UDB. Wikipedia. Wiki - https://en.wikipedia.org/wiki/DB2_UDB
+  * Database 101, Part 6: Popular Databases – IBM Db2. Virtual-DBA. Ember Crooks. 2019. Blog - https://www.virtual-dba.com/database-101-popular-databases-ibm-db2/
 * Db2 Connect
   * DB2 Connect® Usage and Editions. db2Dean. Dean Compher. 2007. Blog - http://www.db2dean.com/Previous/DB2Connect.html
 * DB2 Direct
