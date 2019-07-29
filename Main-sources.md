@@ -12,7 +12,7 @@ In this section, the main DB2 sources are described:
 * Andres Gomez Casanova - Ideas for DB2 (Blog about technical stuff). https://angocadb2.blogspot.com
   * Articles since 201601 to 201906
   * In archive.org
-*  Dave Hay - A Portal to a Portal (Blog about many technologies around IBM, including Db2)
+* Dave Hay - A Portal to a Portal (Blog about many technologies around IBM, including Db2)
 https://portal2portal.blogspot.com/search?q=db2&max-results=20&by-date=true
   * Articles since 201801 to 201902
   * In archive.org
