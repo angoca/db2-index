@@ -14,7 +14,7 @@ In this section, the main DB2 sources are described:
   * In archive.org
 * Dave Hay - A Portal to a Portal (Blog about many technologies around IBM, including Db2)
 https://portal2portal.blogspot.com/search?q=db2&max-results=20&by-date=true
-  * Articles since 201801 to 201902
+  * Articles since 201801 to 201906
   * In archive.org
 * Michael Krafick - Discover db2 (Video tutorial about Db2). https://www.youtube.com/DISCOVERDB2
   * Episodes 1-8.
@@ -22,12 +22,12 @@ https://portal2portal.blogspot.com/search?q=db2&max-results=20&by-date=true
 * Vinay Kumar Bommana - DB Tutorials (Videos of DB2 🎥 ).
   * https://www.youtube.com/channel/UCo0cIzR_TbMzU5wHQmbTjxQ/videos
   * Vinay's DB2 blog (Blog about technical stuff). http://vinaysdb2blog.blogspot.com
-    * Articles since 201601 to 201902
+    * Articles since 201601 to 201906
   * In archive.org
 * Scott Hayes - The DB2night show ( 📺  Videos and Webminars of DB2, also contests 😀 ). http://www.dbisoftware.com/db2nightshow/ - http://www.dbisoftware.com/blog/db2nightshow.php
   * In archive.org
 * Raghu Cherukuru - Raghu On Tech (Blog about different stuff of Db2). https://www.raghu-on-tech.com/
-  * All articles has been indexed. Last update 201902
+  * All articles has been indexed. Last update 201906
   * In archive.org
 * DB2 Geek (Blog of different things about DB2). http://db2geek.triton.co.uk
   * Articles since 201601 to 201902
