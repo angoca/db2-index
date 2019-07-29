@@ -4,7 +4,7 @@ In this section, the main DB2 sources are described:
   * Before DB2Commerce.
   * Articles since 201607 to 201906
   * Also articles from http://www.virtual-dba.com/blog/
-    * Articles since 201701 to 201902
+    * Articles since 201701 to 201906
   * In archive.org
 * Dean Compher - db2Dean (Blog about technical stuff). http://db2dean.com/
   * Articles since 201901 to 201907
