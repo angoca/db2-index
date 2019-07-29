@@ -981,6 +981,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * SQL Analysis from Locking Event Monitor Collecting History. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/11/03/sql-analysis-from-locking-event-monitor-collecting-history/
   * Establishing a performance tuning strategy. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/establishing-performance-tuning-strategy.html
   * Query Performance Analysis. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/09/19/query-performance-analysis/
+  * How To Find Redundant/Unused Indexes ? Raghu On Tech. Raghu Cherukuru. 2019. Blog - https://www.raghu-on-tech.com/2019/06/30/how-to-find-redundant-unused-indexes/
 * db2agent
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * Improve Db2 HADR Resilience of Network Transmission Corruptions. ThinkingDB2! David Sciaraffa. 2017. Blog - http://thinkingdb2.blogspot.com.co/2017/10/improve-db2-hadr-resilience-of-network.html
@@ -1067,6 +1068,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * DB2 11.1 Rebuild TSA Resources. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11436
   * Kernel upgrade and impact on pureScale. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11463
   * DB2 pureScale. My DokuWiki. Julien Andonov. 2017. Blog - http://www.jdbwiki.tech/doku.php?id=db2_purescale
+  * Alternative(s) To db2cluster command To Display GPFS Configuration. Raghu On Tech. Raghu Cherukuru. 2019. Blog - https://www.raghu-on-tech.com/2019/05/27/alternatives-to-db2cluster-command/
 * db2cmd
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * Db2 Basics: Setting up a Command Line to Work with Db2. Data Geek. Ember Crooks. 2019. Blog - https://datageek.blog/2019/04/30/db2-basics-setting-up-a-command-line-to-work-with-db2/
@@ -2112,6 +2114,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * DB2 pureScale instance creation hangs after GPFS. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11469
   * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/01/18/high-availability-options-for-db2-luw/
   * DB2 pureScale Cluster Slowness During Index Creation. Raghu On Tech. Raghu Cherukuru. 2019. Blog - https://www.raghu-on-tech.com/2019/01/28/db2-purescale-cluster-slowness-during-index-creation/
+  * Alternative(s) To db2cluster command To Display GPFS Configuration. Raghu On Tech. Raghu Cherukuru. 2019. Blog - https://www.raghu-on-tech.com/2019/05/27/alternatives-to-db2cluster-command/
 * GPL
   * DB2 purescale Install GPL Error. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
 * Grant
@@ -2328,6 +2331,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Index Read Efficiency – A Key Performance Indicator for Db2. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/index-read-efficiency-db2/
   * Dropping Indexes to Improve Db2 Performance. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/dropping-indexes-improve-db2-performance/
   * How To Find Missing Indexes On Foreign Key Columns ? Raghu On Tech. Raghu Cherukuru. 2018. Blog - https://www.raghu-on-tech.com/2018/07/10/how-to-find-missing-indexes-for-foreign-key-columns/
+  * How To Find Redundant/Unused Indexes ? Raghu On Tech. Raghu Cherukuru. 2019. Blog - https://www.raghu-on-tech.com/2019/06/30/how-to-find-redundant-unused-indexes/
 * Index (Resources on Internet)
   * Updated: DB2 LUW Performance Tuning Blogs: Greatest Hits. DBI blog. Martin Hubel. 2016. Blog - http://www.dbisoftware.com/blog/db2_performance.php?id=487
   * Index of Introductory Db2 Topics. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/03/22/index-of-introductory-db2-topics/
