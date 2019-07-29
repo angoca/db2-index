@@ -17,6 +17,7 @@ https://portal2portal.blogspot.com/search?q=db2&max-results=20&by-date=true
   * Articles since 201801 to 201902
   * In archive.org
 * Michael Krafick - Discover db2 (Video tutorial about Db2). https://www.youtube.com/DISCOVERDB2
+  * Episodes 1-8.
   * In archive.org
 * Vinay Kumar Bommana - DB Tutorials (Videos of DB2 🎥 ).
   * https://www.youtube.com/channel/UCo0cIzR_TbMzU5wHQmbTjxQ/videos
