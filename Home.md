@@ -1251,6 +1251,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * How to Identify the version and service level of DB2 product?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/05/how-to-identify-version-and-service.html
   * Establishing a DB2 JDBC Connection. db2commerce. Michael Krafick. 2017. Blog - http://datageek.blog/2017/10/26/establishing-a-db2-jdbc-connection/
   * Java to DB2 via TLS 1.2 - A new one on me. A Portal to a Portal. Dave Hay. 2017. Blog - https://portal2portal.blogspot.com/2017/08/java-to-db2-via-tls-12-new-one-on-me.html
+  * IBM WebSphere Liberty Profile and IBM DB2 and Docker - An approach. A Portal to a Portal. Dave Hay. 2019. Blog - https://portal2portal.blogspot.com/2019/07/ibm-websphere-liberty-profile-and-ibm.html
 * db2jdbcbind
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
 * db2ldcfg
