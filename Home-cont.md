@@ -1012,6 +1012,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 11.1 Rebuild TSA Resources. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11436
   * DB2 pureScale – No Product License found. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11476
   * db2haicu disable / enable and scripting. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11482
+  * Alternative(s) To db2cluster command To Display GPFS Configuration. Raghu On Tech. Raghu Cherukuru. 2019. Blog - https://www.raghu-on-tech.com/2019/05/27/alternatives-to-db2cluster-command/
 * RTO - Recovery Time Objetive
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
   * High Availability Options for Db2 LUW. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/01/18/high-availability-options-for-db2-luw/
@@ -1824,6 +1825,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Monitoring the replay-only-window on a Db2 HADR standby database. ThinkingDB2! David Sciaraffa. 2018. Blog - http://thinkingdb2.blogspot.com.co/2018/04/monitoring-replay-only-window-on-db2_28.html
   * SysProc.Mon_Get_Index
     * Monitoring considerations. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-data-emc-fastvp-part4-trs/index.html
+    * How To Find Redundant/Unused Indexes ? Raghu On Tech. Raghu Cherukuru. 2019. Blog - https://www.raghu-on-tech.com/2019/06/30/how-to-find-redundant-unused-indexes/
   * SysProc.Mon_Get_Index_Usage_List
     * Finding the access path for Columnar queries #2. db2geek. Mark Gillis. 2017. Blog - http://db2geek.triton.co.uk/finding-access-path-columnar-queries-2/
   * SysProc.Mon_Get_Locks
