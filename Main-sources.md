@@ -2,7 +2,7 @@ In this section, the main DB2 sources are described:
 
 * Ember Crooks - DataGeek (Blog about technical stuff 💃 ). https://datageek.blog/
   * Before DB2Commerce.
-  * Articles since 201607 to 201902
+  * Articles since 201607 to 201906
   * Also articles from http://www.virtual-dba.com/blog/
     * Articles since 201701 to 201902
   * In archive.org
