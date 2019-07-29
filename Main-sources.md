@@ -7,10 +7,10 @@ In this section, the main DB2 sources are described:
     * Articles since 201701 to 201906
   * In archive.org
 * Dean Compher - db2Dean (Blog about technical stuff). http://db2dean.com/
-  * Articles since 201901 to 201907
+  * Articles since 201901 to 201906
   * In archive.org
 * Andres Gomez Casanova - Ideas for DB2 (Blog about technical stuff). https://angocadb2.blogspot.com
-  * Articles since 201601 to 201902
+  * Articles since 201601 to 201906
   * In archive.org
 *  Dave Hay - A Portal to a Portal (Blog about many technologies around IBM, including Db2)
 https://portal2portal.blogspot.com/search?q=db2&max-results=20&by-date=true
