@@ -214,3 +214,4 @@ https://www.youtube.com/channel/UCwQz2pEYzDyVF07E-1RIVXw
 * https://howtodb2.wordpress.com/
 * http://db2quicksolver.blogspot.com/
 * http://anythingsimple.blogspot.com
+* http://db2quirks.blogspot.com/
