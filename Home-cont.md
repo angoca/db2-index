@@ -585,6 +585,12 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 Administrative SQL Cookbook: Listing Database Authorities that an ID/Group Holds. db2commerce. Ember Crooks. 2018. Blog - http://datageek.blog/2018/04/19/db2-administrative-sql-cookbook-listing-database-authorities-that-an-idgroup-holds/
   * IBM Db2 Tech Talk: Db2 Security and Compliance Support. Db2 Tech Talk. Roger Sanders. 2018. Webminar - https://www.ibm.com/events/Z56SMPES
   * Db2 System Authorities. Virtual-DBA. Marc Petros. 2019. Blog - https://www.virtual-dba.com/runstats-best-practices-db2-luw/
+* Problem resolution
+  * Best Practices - Frequently Asked Questions from Problem Management Reports. IBM. Saurabh Jain, Vikram Murali, Mark Wilding. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_PMRFAQ_0508I.pdf
+  * DB2 problem determination using db2top utility. DeveloperWorks. Tao Wang and Shen Li. 2008. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0812wang/index.html
+  * Reduce Problem Resolution Times with Persistent Db2 Diagnostic Data Collection. ThinkingDB2! David Sciaraffa. 2017 - http://thinkingdb2.blogspot.com.co/2017/07/reduce-problem-resolution-times-with.html
+* Procedure
+  * Please check the Stored procedure entry.
 * Procedures
   * DROP MODULE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/drop-module/
   * DB2 10: Using locally defined types and procedures. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/local_types_and_procedures
@@ -596,12 +602,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
 * profile.env
   * DB2 – db2set command – DBI1309E System error. Ken's DBA Blog. Ken Garber. 2017. Blog - https://kendbablog.wordpress.com/2017/07/11/db2-db2set-command-dbi1309e-system-error/
-* Problem resolution
-  * Best Practices - Frequently Asked Questions from Problem Management Reports. IBM. Saurabh Jain, Vikram Murali, Mark Wilding. Document - http://download.boulder.ibm.com/ibmdl/pub/software/dw/dm/db2/bestpractices/DB2BP_PMRFAQ_0508I.pdf
-  * DB2 problem determination using db2top utility. DeveloperWorks. Tao Wang and Shen Li. 2008. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0812wang/index.html
-  * Reduce Problem Resolution Times with Persistent Db2 Diagnostic Data Collection. ThinkingDB2! David Sciaraffa. 2017 - http://thinkingdb2.blogspot.com.co/2017/07/reduce-problem-resolution-times-with.html
-* Procedure
-  * Please check the Stored procedure entry.
+* Prompt
+  * Linux prompt configured with db2. Ideas for DB2 (Spanish). Andres Gomez. 2019. Blog -  https://angocadb2.blogspot.com/2019/04/linux-prompt-configured-with-db2.html
 * Prune
   * A Peek on DB2 Log Record. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/07/peek-on-db2-log-record.html
   * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/07/17/the-db2-recovery-history-file/
@@ -880,6 +882,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * IBM RFE. https://www.ibm.com/developerworks/rfe/
   * IBM Support. https://www.ibm.com/support/home/
   * (Ep. 08) - Resources You Didn't Know You Needed. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=0BVlHn5iyUY
+  * List of URLs about Db2. Ideas for DB2 (Spanish). Andres Gomez. 2019. Blog - https://angocadb2.blogspot.com/2019/03/list-of-urls-about-db2.html
 * Response file
   * Following the script - installing IBM DB2 UDB using a response file ( silent installation ). A Portal to a Portal. Dave Hay. 2012. Blog - https://portal2portal.blogspot.com/2012/06/following-script-installing-ibm-db2-udb.html
   * Step by Step installation of DB2 V10.5 on Linux. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/04/step-by-step-installation-of-db2-v105-Linux.html
@@ -1563,16 +1566,21 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * CALLED ON NULL INPUT option. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/called-on-null-input/
   * DETERMINISTIC and NOT DETERMINISTIC option. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/deterministic/
   * DROP MODULE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/drop-module/
-  * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
   * Default values. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/default-values/
   * Hide the body of a SQL PL Stored Procedure. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/hide-procedure-body/
   * LANGUAGE SQL clause. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/language-sql/
   * SQL access level clause. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/sql-access-level/
+  * DB2 security, Part 8: Twelve DB2 security best practices. DeveloperWorks. Ted J. Wasserman. 2006. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0607wasserman/index.html
   * DB2 Stored Procedures and Defaults. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2-stored-procedures-and-defaults.html
   * DB2 Stored Procedures and Defaults (Conclusion). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/stored-procedures-and-defaults-conclusion.html
-  * DB2 security, Part 8: Twelve DB2 security best practices. DeveloperWorks. Ted J. Wasserman. 2006. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0607wasserman/index.html
+  * DB2 10: Using locally defined types and procedures. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/local_types_and_procedures
   * Stored Procedure wlm_set_client_info gives error sql1131n. DB2 Knowledge Base Raf. Raf Mathijs. 2014. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2014/05/stored-procedure-wlmsetclientinfo-gives.html
+  * Don't be an ORTHODOX DBA. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/01/dont-be-orthodox-dba.html
+  * Handy Perl script to check the cost of STORED PROCEDURES. A Day in DBA's life. Manohar Viswanatha. 2014. Blog - https://mviswa.blogspot.com/2014/02/handy-perl-script-to-check-cost-of.html
+  * Manipulating bulk data using simple Stored Procedures. Ride On Data. Saurabh Agrawal. 2015. Blog - https://rideondata.wordpress.com/2015/05/31/manipulating-bulk-data-using-simple-stored-procedures/
+  * DB2 Basics: Stored Procedures, Functions, Modules, Oh My!. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/07/19/db2-basics-stored-procedures-functions-modules-oh-my/
   * The multi-temperature data feature. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders, and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part1-trs/index.html
+  * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * String
   * SQL Tips & Techniques- String Aggregation. DB2 Diary from Radhesh. Radhesh Kumar. 2008. Blog - http://radheshk.blogspot.com/2008/02/sql-tips-techniques-string-aggregation.html
