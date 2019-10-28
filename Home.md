@@ -478,6 +478,9 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Implementing the Centrify IBM DB2 SSO Module - Extra: GSSAPI plugin. Centrifying. 2014. Video - https://www.youtube.com/watch?v=CyQUMPZPS-c
   * Implementing the Centrify IBM DB2 SSO Module (1/2). Centrifying. 2014. Video - https://www.youtube.com/watch?v=01am7yXzWsw
   * Implementing the Centrify IBM DB2 SSO Module (2/2). Centrifying. 2014. Video - https://www.youtube.com/watch?v=lyPQa52_0s4
+  * Using Centrify's AD Technology to Overcome IBM DB2 Database Access and Identity Challenges - 1/3.  Centrifying. 2014. Video - https://www.youtube.com/watch?v=Z5viXuhfLIA
+  * Using Centrify's AD Technology to Overcome IBM DB2 Database Access and Identity Challenges - 2/3.  Centrifying. 2014. Video - https://www.youtube.com/watch?v=_YPa0mwg7ac
+  * Using Centrify's AD Technology to Overcome IBM DB2 Database Access and Identity Challenges - 3/3.  Centrifying. 2014. Video - https://www.youtube.com/watch?v=U2YaZ_qyHMs
   * Authentication and authorization in DB2. Centrify. Documentation - https://docs.centrify.com/en/css/2018-html/index.html#page/DB2%2FAuthentication_and_authorization_in_DB2.1.html%23
   * HOWTO: Install, configure and test the Centrify IBM DB2 SSO Module. TechBlog. Robertson. 2014. Blog - https://community.centrify.com/t5/TechBlog/HOWTO-Install-configure-and-test-the-Centrify-IBM-DB2-SSO-Module/ba-p/19189
   * Testing and Troubleshooting Centrify's DB2 plugin. TechBlog. Horto. 2014. Blog - https://community.centrify.com/t5/TechBlog/Testing-and-Troubleshooting-Centrify-s-DB2-plugin/ba-p/26737
