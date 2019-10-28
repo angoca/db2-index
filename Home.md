@@ -474,6 +474,10 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
 * CBIT verifications errors
   * Database Inconsistencies. SAP Community Wiki. 2015. Blog - https://wiki.scn.sap.com/wiki/display/DB2/Database+Inconsistencies
 * Centrify
+  * Business Cases: IBM DB2 Extra - Configuring GSSAPI/Kerberos SSO with the Centrify GSS Plugin. centrifying. 2014. Blog - http://centrifying.blogspot.com/2014/11/business-cases-ibm-db2-extra.html
+  * Implementing the Centrify IBM DB2 SSO Module - Extra: GSSAPI plugin. Centrifying. 2014. Video - https://www.youtube.com/watch?v=CyQUMPZPS-c
+  * Implementing the Centrify IBM DB2 SSO Module (1/2). Centrifying. 2014. Video - https://www.youtube.com/watch?v=01am7yXzWsw
+  * Implementing the Centrify IBM DB2 SSO Module (2/2). Centrifying. 2014. Video - https://www.youtube.com/watch?v=lyPQa52_0s4
   * Authentication and authorization in DB2. Centrify. Documentation - https://docs.centrify.com/en/css/2018-html/index.html#page/DB2%2FAuthentication_and_authorization_in_DB2.1.html%23
   * HOWTO: Install, configure and test the Centrify IBM DB2 SSO Module. TechBlog. Robertson. 2014. Blog - https://community.centrify.com/t5/TechBlog/HOWTO-Install-configure-and-test-the-Centrify-IBM-DB2-SSO-Module/ba-p/19189
   * Testing and Troubleshooting Centrify's DB2 plugin. TechBlog. Horto. 2014. Blog - https://community.centrify.com/t5/TechBlog/Testing-and-Troubleshooting-Centrify-s-DB2-plugin/ba-p/26737
