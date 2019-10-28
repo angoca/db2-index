@@ -484,7 +484,9 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Authentication and authorization in DB2. Centrify. Documentation - https://docs.centrify.com/en/css/2018-html/index.html#page/DB2%2FAuthentication_and_authorization_in_DB2.1.html%23
   * HOWTO: Install, configure and test the Centrify IBM DB2 SSO Module. TechBlog. Robertson. 2014. Blog - https://community.centrify.com/t5/TechBlog/HOWTO-Install-configure-and-test-the-Centrify-IBM-DB2-SSO-Module/ba-p/19189
   * Testing and Troubleshooting Centrify's DB2 plugin. TechBlog. Horto. 2014. Blog - https://community.centrify.com/t5/TechBlog/Testing-and-Troubleshooting-Centrify-s-DB2-plugin/ba-p/26737
+  * Using Centrify's AD Technology to Overcome IBM DB2 Database Access and Identity Challenges. centrifying. 2015. Blog - http://centrifying.blogspot.com/2015/08/using-centrifys-ad-technology-to.html
   * Authentication Guide for IBM DB2. Centrify Infrastructure Services. 2018. Article - https://docs.centrify.com/en/css/2018/centrify-db2-guide.pdf
+  * HOWTO: Configure DB2 on Linux to leverage Centrify/AD (PAM stack).  Centrify. 2019. Article - https://centrify.force.com/support/Article/HOWTO-Configure-DB2-on-Linux-to-leverage-Centrify-AD-PAM-stack-23559/
 * Certificate
   * Configuring SSL for IBM Data Server Driver for ODBC and CLI. DeveloperWorks. Chetan Papaiah, Ashok V. Jose and Chris Meyer. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-ssl-data-server-driver-odbc-cli-trs/index.html
 * Certification
