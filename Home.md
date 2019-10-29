@@ -488,6 +488,8 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Authentication Guide for IBM DB2. Centrify Infrastructure Services. 2018. Article - https://docs.centrify.com/en/css/2018/centrify-db2-guide.pdf
   * HOWTO: Configure DB2 on Linux to leverage Centrify/AD (PAM stack).  Centrify. 2019. Article - https://centrify.force.com/support/Article/HOWTO-Configure-DB2-on-Linux-to-leverage-Centrify-AD-PAM-stack-23559/
   * HOWTO: Install, configure and test the Centrify IBM DB2 SSO Module.  Centrify. 2019. Article - https://community.centrify.com/s/article/HOWTO-Install-configure-and-test-the-Centrify-IBM-DB2-SSO-Module-19189
+  * Installing DB2 Express-C on Linux and configuring the Centrify DB2 plugin.  Centrify. 2019. Article - https://community.centrify.com/s/article/Installing-DB2-Express-C-on-Linux-and-configuring-the-Centrify-DB2-plugin-25460
+  * HOWTO: Configure the IBM DB2 SSO Module for Kerberos/GSSAPI SSO.  Centrify. 2019. Article - https://community.centrify.com/s/article/HOWTO-Configure-the-IBM-DB2-SSO-Module-for-Kerberos-GSSAPI-SSO-19195
 * Certificate
   * Configuring SSL for IBM Data Server Driver for ODBC and CLI. DeveloperWorks. Chetan Papaiah, Ashok V. Jose and Chris Meyer. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-ssl-data-server-driver-odbc-cli-trs/index.html
 * Certification
