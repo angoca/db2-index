@@ -1336,6 +1336,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
   * How to make Db2 scripts executable (shebang for Db2). Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/04/how-to-make-db2-scripts-executable.html
   * Db2's SQL PL description in Rosetta Code. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/04/db2s-sql-pl-description-in-rosetta-code.html
+  * Db2 SQL Cookbook. Graeme Birchall, Rodney Krick. 2019. Book - http://db2-sql-cookbook.org/
 * SQL Language Council - SLC
   * Family matters: The SQL Reference for Cross-Platform Development. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/crossplatformsqlrefv4
   * More family matters: Selected common SQL features for developers of portable DB2 applications. DeveloperWorks - SQL Tips for DB2 LUW. Rick Swagerman. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/db2common101
