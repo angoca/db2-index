@@ -394,6 +394,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Unleashing DB2 10 for Linux, UNIX, and Windows. IBM RedBooks. Danny Arnold, Steve Diniro et al. 2012. Book - http://www.redbooks.ibm.com/abstracts/sg248032.html
   * DB2 10.5 with Blu Acceleration (IMM14140USEN). DB2 with BLU Acceleration. Paul Zikopoulus, Sam Lightstone et al. Book. 2014 - http://www.ibmbluhub.com/wp-
   * Architecting and Deploying DB2 with BLU Acceleration. IBM RedBooks. Whei-Jen Chen, Brigitte Blaser et al. 2015. Book - http://www.redbooks.ibm.com/abstracts/sg248212.html
+  * Db2 SQL Cookbook. Graeme Birchall, Rodney Krick. 2019. Book - http://db2-sql-cookbook.org/
 * Boolean
   * Boolean data type. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/boolean-data-type/
 * Bottleneck
@@ -1950,6 +1951,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Full reverse: A REVERSE function that handles unicode. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/reverse
 * External table
   * Db2 with External Tables: First Tests. Data Henrik. Henrik Loeser. 2017. Blog - http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
+  * Simplifying and Accelerating New Database Applications with Db2 11.5 and External Tables. IBM Cloud. Phil Downey. 2019. Blog - https://www.ibm.com/cloud/blog/simplifying-and-accelerating-new-database-applications-with-db2-115-and-external-tables
 * Extrapolate
   * Monitoring Extent Movement Progress. db2commerce. Ian Bjorhovde. 2013. Blog - http://datageek.blog/2016/07/12/monitoring-extent-movement-progress/
 
