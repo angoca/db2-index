@@ -218,5 +218,6 @@ https://www.youtube.com/channel/UCwQz2pEYzDyVF07E-1RIVXw
 * https://www.tridex.org/category/db2-luw/
 * http://www.cbttape.org/xephon/index.php?path=xephond/
 * https://catatanwakyeng.wordpress.com
+* https://xcoolwinds.wordpress.com/
 
 * Articulos de Serge Rielau - http://compgroups.net/comp.databases.ibm-db2/how-to-alter-a-table-using-the-altobj/2109814
