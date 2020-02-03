@@ -780,6 +780,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * db2top Agent Screen (Part 3). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-3.html
   * Loading db2 tables from another database. techs@work. Raju Pillai. 2012. Blog - http://techsatwork.com/blog/?p=1270
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
+  * Anonymous block / SQL PL code with a weird error. Ideas for DB2 (Spanish). Andres Gomez. 2020. Blog - https://angocadb2.blogspot.com/2020/02/anonymous-block-sql-pl-code-with-weird.html
 * Cursor Database
   * Loading db2 tables from another database. techs@work. Raju Pillai. 2012. Blog - http://techsatwork.com/blog/?p=1270
 * Cursor Stability - CS
