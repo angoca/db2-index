@@ -2106,6 +2106,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
 
 * Generated value
   * Import data from a table with generated id in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/import-data-from-table-with-generated.html
+  * Generated values in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2019. Blog - https://angocadb2.blogspot.com/2019/12/generated-values-in-db2.html
 * GeoJSON
   * Spatial Analytics with Db2 Warehouse. DeveloperWorks. Deepak Rangarao. 2018. Article - https://www.ibm.com/developerworks/library/bd-spatial-analytics-db2warehouse-mapbox/index.html
 * Get Authorizations
