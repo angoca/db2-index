@@ -844,6 +844,11 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Tables, Indexes, Partitions, Objects. My DokuWiki. Julien Andonov. 2017. Blog - http://www.jdbwiki.tech/doku.php?id=db2_tables
   * (Invalid state change) Cambio de estado inválido en Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/02/cambio-de-estado-invalido-en-db2.html
   * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/07/17/the-db2-recovery-history-file/
+* Reorg pending
+  * How do I determine how many “REORG-recommended” operations have been done on a table? Don't cry because it is over, smile because it happened! Eric Xu. 2011. Blog - https://xcoolwinds.wordpress.com/2011/04/08/how-do-i-determine-how-many-reorg-recommended-operations-have-been-done-on-a-t/
+  * DB2 : How to know what tables are in REORG PENDING. WAKYENG. catatanwakyeng. 2017. Blog - https://catatanwakyeng.wordpress.com/2017/07/06/how-to-know-what-tables-are-in-reorg-pending/
+  * How do I determine how many "REORG-recommended" operations have been done on a table?. IBM. 2018. Support. https://www.ibm.com/support/pages/how-do-i-determine-how-many-reorg-recommended-operations-have-been-done-table
+  * How to retrieve the list of tables in Reorg Pending. Ideas for DB2 (Spanish). Andres Gomez. 2020. Blog - https://angocadb2.blogspot.com/2020/02/how-to-retrieve-list-of-tables-in-reorg.html
 * Reorg Pointer
   * What are the different phases of Online & Offline Reorg in DB2 ?. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/09/what-are-different-phases-of-online-and-offline-reorg-db2.html
 * ReorgChk
