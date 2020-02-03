@@ -1620,6 +1620,8 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Performance monitoring tools and methodology. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/performance-monitoring-tools-and-methodology.html
   * Overview of LOCK ISSUES in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/07/overview-of-lock-issues-in-db2.html
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
+* Decimal values
+  * Visualización en Excel de archivos exportados desde Db2. Ideas for DB2 (Spanish). Andres Gomez. 2019. Blog - https://angocadb2.blogspot.com/2019/12/visualizacion-en-excel-de-archivos.html
 * Dec_To_Chat_Fmt
   * Client Experiences: How DB2 Migration Affects Decimal Type Conversion. db2geek. Damir Wilder. 2019. Blog - http://db2geek.triton.co.uk/client-experiences-how-db2-migration-affects-decimal-type-conversion/
 * Declare
