@@ -2479,6 +2479,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Finding and releasing the handbrakes on JDBC: enableExtendedDescribe. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/enableextendeddescribe.?lang=en
   * JDBC Statement Cache. Berst Blog. Bert van Langen. 2014. Blog - https://web.archive.org/web/20160308072658/https://blog.bertvanlangen.com/software-development/jdbc-statement-cache/
   * Establishing a DB2 JDBC Connection. db2commerce. Michael Krafick. 2017. Blog - http://datageek.blog/2017/10/26/establishing-a-db2-jdbc-connection/
+  * Extra parameters for Db2 JDBC connection from Pentaho. Ideas for DB2 (Spanish). Andres Gomez. 2020. Blog - https://angocadb2.blogspot.com/2020/01/extra-parameters-for-db2-jdbc.html
 * JDBC drivers
   * DB2 JDBC Driver Versions. IBM. 2019. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21363866
   * Knowledge Collection: DB2 JDBC driver issues. IBM. 2014. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21358484
