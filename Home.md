@@ -107,6 +107,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Creating DB2 ROS Clutster on AWS - Part 1. adatacloudguru. Sandra Mausberg. 2018. Video - https://www.youtube.com/watch?v=yOMzh3gtqDg&t
   * DB2 ROS on AWS: Ensuring High Availabilty and Consistency with Lambda - Part 2 - Code Walkthrough. adatacloudguru. Sandra Mausberg. 2018. Video - https://www.youtube.com/watch?v=iuPIA_TGEBg
   * DB2 ROS on AWS: Testing High Availability and ACR with Lambda - Part 3. adatacloudguru. Sandra Mausberg. 2018. Video - https://www.youtube.com/watch?v=6SjflKPMFB4
+* Anchor
+  * Db2 anchored data types. Ideas for DB2 (Spanish). Andres Gomez. 2019. Blog - https://angocadb2.blogspot.com/2019/08/96-normal-0-false-false-false-en-us-x.html
 * Anonymous block
   * DB2 10: Using locally defined types and procedures. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/local_types_and_procedures
   * Writing to a file from a Stored Procedure or Annonymous Block (sql pl). Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/writing-in-file-from-stored-procedure.html
@@ -562,6 +564,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * DBI1131E error when installing Db2 client. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/05/dbi1131e-error-when-installing-db2.html
   * Hello, Db2 World! – How to Connect to a Db2 (LUW) Database. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/06/21/hello-db2-world-how-to-connect-to-a-db2-luw-database/
   * How to know if Java clients in Db2 are using an updated driver. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/how-to-know-if-java-clients-in-db2-are.html
+  * How to check old Db2 clients. Ideas for DB2 (Spanish). Andres Gomez. 2019. Blog - https://angocadb2.blogspot.com/2019/09/how-to-check-old-db2-clients.html
 * Client_PrdID
   * DB2 Tips n Tricks Part 42 - How to Identify DB2 Client Release Version from Server. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2014. Video - https://www.youtube.com/watch?v=XG8k5prZ7yA
 * CLOB
@@ -593,6 +596,8 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Please check the "CF" entry.
 * Code page
   * Full reverse: A REVERSE function that handles unicode. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/reverse
+* Code set
+  * Territory, code set and collating when creating a Db2 database. Ideas for DB2 (Spanish). Andres Gomez. 2019. Blog - https://angocadb2.blogspot.com/2019/09/territory-code-set-and-collating-when.html
 * Column
   * (Definition of autoincremental columns a identity) Definición de columnas autoincrementales “identity” en DB2. DB2 Util (Spanish). Oscar Paredes. 2012. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/definicion-de-columnas-autoincrementales-identity-en-db2/
   * How to get column names from DB2 table. With Data. Shiji Pan. 2013. Blog - https://www.withdata.com/blog/db2/how-to-get-column-names-from-db2-table.html
@@ -1932,6 +1937,8 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
 * Export
   * (Simple data export of a table in Db2) Export simple datos de una tabla en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/export-simple-datos-de-una-tabla-en-db2/
   * DB2 Export and Load Using Compression & Named Pipes. dbawesome. Elder Lira. 2013. Blog - http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.html
+  * Export without column delimiter nor character delimiter. Ideas for DB2 (Spanish). Andres Gomez. 2019. Blog - https://angocadb2.blogspot.com/2019/09/export-without-column-delimiter-nor.html
+  * Territory, code set and collating when creating a Db2 database. Ideas for DB2 (Spanish). Andres Gomez. 2019. Blog - https://angocadb2.blogspot.com/2019/09/territory-code-set-and-collating-when.html
   * Generate the headers of the export of a query in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2019. Blog - https://angocadb2.blogspot.com/2019/11/export-headers-of-export-in-db2.html
   * Visualización en Excel de archivos exportados desde Db2. Ideas for DB2 (Spanish). Andres Gomez. 2019. Blog - https://angocadb2.blogspot.com/2019/12/visualizacion-en-excel-de-archivos.html
 * Express-C
@@ -2462,6 +2469,8 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
 * ISO
   * Selected common SQL features for developers of portable DB2 applications. DeveloperWorks. 2016. Article - http://www.ibm.com/developerworks/data/library/techarticle/db2common/index.html
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
+* ISO8859
+  * Territory, code set and collating when creating a Db2 database. Ideas for DB2 (Spanish). Andres Gomez. 2019. Blog - https://angocadb2.blogspot.com/2019/09/territory-code-set-and-collating-when.html
 * Isolation
   * Nice to meet you db2batch ! techs@work. Raju Pillai. 2012. Blog - http://techsatwork.com/blog/?p=161
   * Determine the effective isolation level in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Peter Schurr. 2011. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1107db2isolationlevel/index.html
@@ -2616,6 +2625,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Import data from a table with generated id in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/07/import-data-from-table-with-generated.html
   * Exception tables for LOAD and SET INTEGRITY in Db2. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/08/exception-tables-for-load-and-set.html
   * Db2 LOAD command – Estimating TCP/IP Ephemeral Ports in a Database Partitioned Environment. ThinkingDB2! David Sciaraffa. 2019. Blog - http://thinkingdb2.blogspot.com/2019/03/db2-load-command-estimating-tcpip_50.html
+  * Territory, code set and collating when creating a Db2 database. Ideas for DB2 (Spanish). Andres Gomez. 2019. Blog - https://angocadb2.blogspot.com/2019/09/territory-code-set-and-collating-when.html
 * LOB
   * Size matters: A handy routine to compute the defined row size of a table. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/getrowsize
   * Perform LOB inlining in an HADR environment for a standby database. DeveloperWorks. Somraj Chakrabarty and Suvradeep Sensarma. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1508lob-hadr-standby/index.html
