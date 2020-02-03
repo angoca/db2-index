@@ -1930,6 +1930,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
 * Export
   * (Simple data export of a table in Db2) Export simple datos de una tabla en DB2. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/export-simple-datos-de-una-tabla-en-db2/
   * DB2 Export and Load Using Compression & Named Pipes. dbawesome. Elder Lira. 2013. Blog - http://dbawesome.blogspot.com.co/2013/04/db2-export-and-load-using-compression.html
+  * Visualización en Excel de archivos exportados desde Db2. Ideas for DB2 (Spanish). Andres Gomez. 2019. Blog - https://angocadb2.blogspot.com/2019/12/visualizacion-en-excel-de-archivos.html
 * Express-C
   * IBM DB2 Express-C. Wikipedia. Wiki - https://en.wikipedia.org/wiki/IBM_DB2_Express-C
   * Comparing DB2 10.5 Express-C with its competitors. KBCE. Klaas Brant. 2013. Blog - https://www.kbce.com/db2express/
