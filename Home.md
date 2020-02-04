@@ -1625,6 +1625,11 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Performance monitoring tools and methodology. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/performance-monitoring-tools-and-methodology.html
   * Overview of LOCK ISSUES in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/07/overview-of-lock-issues-in-db2.html
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
+* Debug
+  * Configure DB2 Developer 9.1 For DB2 Stored Procedure Debugging. jakarts. cdkarthik. 2008. Blog - https://jakarts.wordpress.com/2008/08/12/configure-db2-developer-91-for-db2-stored-procedure-debugging/
+  * Use the Unified Debugger in a sample scenario. DeveloperWorks. Tom Miller and Hongdi Zhang. 2010. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0811zhang/index.html
+  * Configure the stored procedure debug session manager on z/OS. DeveloperWorks. Hongdi Zhang and Tom Miller. 2011. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0903debugdatastudio/
+  * Data Studio and DB2 for z/OS Stored Procedures. RedBooks. Paolo Bruni and Marichu Scanlon. 2011. Book - http://www.redbooks.ibm.com/redpapers/pdfs/redp4717.pdf
 * Decimal values
   * Visualización en Excel de archivos exportados desde Db2. Ideas for DB2 (Spanish). Andres Gomez. 2019. Blog - https://angocadb2.blogspot.com/2019/12/visualizacion-en-excel-de-archivos.html
 * Dec_To_Chat_Fmt
