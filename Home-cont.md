@@ -2526,7 +2526,8 @@ https://ibm.box.com/v/DB2v11eBook
   * Db2 2 V11.1 Mod Pack4 and Fix Pack 4 is available. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2018. Blog - https://blog.4loeser.net/2018/11/db2-2-v111-mod-pack4-and-fix-pack-4-is.html
 * 11.5
   * Installing Db2 on your coffee break. Medium. Adam Storm. 2019. Blog - https://medium.com/@ajstorm/installing-db2-on-your-coffee-break-5be1d811b052
-* DB2 11.5 New Features. db2Dean. Dean Compher. 2019. Blog - http://www.db2dean.com/Previous/NewStuffv115.html
+  * DB2 11.5 New Features. db2Dean. Dean Compher. 2019. Blog - http://www.db2dean.com/Previous/NewStuffv115.html
+  * What's New with BLU in Db2 11.5 (and beyond!). IDUG. Christopher Drexelius and John Hornibrook. 2020. Video - https://www.youtube.com/watch?v=0YmKI7ekmfQ
  
 # Signs 
  
