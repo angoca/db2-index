@@ -839,7 +839,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * UBUNTU 10.04 AND IBM DATA STUDIO 2.2. TeknoMagus. 2010. Blog - https://technomagus.wordpress.com/database/ibm-db2/ubuntu-10-04-and-ibm-data-studio-2-2/
   * DB2/Data Studio/Data Studio Web Console. Sean's. Sean. 2013. Blog - http://twoseans.blogspot.com.co/2013/08/db2data-studiodata-studio-web-console.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
-  * Debugging routines in Db2 from IBM DataStudio. Ideas for DB2 (Spanish). Andres Gomez. 2019. Blog - https://angocadb2.blogspot.com/2020/02/debugging-routines-in-db2-from-ibm.html
+  * Debugging routines in Db2 from IBM DataStudio. Ideas for DB2 (Spanish). Andres Gomez. 2020. Blog - https://angocadb2.blogspot.com/2020/02/debugging-routines-in-db2-from-ibm.html
 * Data Studio Web Console
   * DB2/Data Studio/Data Studio Web Console. Sean's. Sean. 2013. Blog - http://twoseans.blogspot.com.co/2013/08/db2data-studiodata-studio-web-console.html
 * Data tag
@@ -1631,7 +1631,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Use the Unified Debugger in a sample scenario. DeveloperWorks. Tom Miller and Hongdi Zhang. 2010. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0811zhang/index.html
   * Configure the stored procedure debug session manager on z/OS. DeveloperWorks. Hongdi Zhang and Tom Miller. 2011. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0903debugdatastudio/
   * Data Studio and DB2 for z/OS Stored Procedures. RedBooks. Paolo Bruni and Marichu Scanlon. 2011. Book - http://www.redbooks.ibm.com/redpapers/pdfs/redp4717.pdf
-  * Debugging routines in Db2 from IBM DataStudio. Ideas for DB2 (Spanish). Andres Gomez. 2019. Blog - https://angocadb2.blogspot.com/2020/02/debugging-routines-in-db2-from-ibm.html
+  * Debugging routines in Db2 from IBM DataStudio. Ideas for DB2 (Spanish). Andres Gomez. 2020. Blog - https://angocadb2.blogspot.com/2020/02/debugging-routines-in-db2-from-ibm.html
 * Decimal values
   * Visualización en Excel de archivos exportados desde Db2. Ideas for DB2 (Spanish). Andres Gomez. 2019. Blog - https://angocadb2.blogspot.com/2019/12/visualizacion-en-excel-de-archivos.html
 * Dec_To_Chat_Fmt
