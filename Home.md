@@ -336,6 +336,7 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Binary-coded decimal - BCD
   * Size matters: A handy routine to compute the defined row size of a table. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/getrowsize
 * Bind
+  * DB2 packages: Concepts, examples, and common problems. DeveloperWorks. John Chun and Paolo Cirone. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0606chun/index.html
   * First Article – DB2 Fix Packs. db2Dean. Dean Compher. 2006. Blog - http://www.db2dean.com/Previous/FixPak.html
   * DB2 Connect® Usage and Editions. db2Dean. Dean Compher. 2007. Blog - http://www.db2dean.com/Previous/DB2Connect.html
   * DB2 Handling -805 on SYSLH2 packages. KBCE. Cristian Molaro. 2010. Blog - https://www.kbce.com/db2-handling-805-on-syslh2-packages/
@@ -554,8 +555,9 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
 * Circular Logging
   * How Will Logging Process happen in DB2?. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/01/how-logging-process-will-happen-in-db2.html
   * (Ep. 06) - Backup Database (Offline/Online). Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=yDtFYmkHlsQ
-* CLI
+* CLI - Call Level Interface
   * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
+  * DB2 packages: Concepts, examples, and common problems. DeveloperWorks. John Chun and Paolo Cirone. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0606chun/index.html
   * Troubleshooting DB2 on Rails. DB2 on Rails. Leon Katsnelson, Antonio Cangiano. 2007. Blog - https://web.archive.org/web/20080719164826/http://antoniocangiano.com/files/tables_and_columns.html
   * DB2 Handling -805 on SYSLH2 packages. KBCE. Cristian Molaro. 2010. Blog - https://www.kbce.com/db2-handling-805-on-syslh2-packages/
   * Data concurrency in DB2 deep dive. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/08/data-concurrency-in-db2-deep-dive.html
@@ -1029,6 +1031,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Performance tuning tools and methodology. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/performance-tuning-tools-and-methodology_31.html
   * Query Performance Analysis. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/09/19/query-performance-analysis/
 * db2bfd
+  * DB2 packages: Concepts, examples, and common problems. DeveloperWorks. John Chun and Paolo Cirone. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0606chun/index.html
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
 * db2bm
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
@@ -1280,6 +1283,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Java to DB2 via TLS 1.2 - A new one on me. A Portal to a Portal. Dave Hay. 2017. Blog - https://portal2portal.blogspot.com/2017/08/java-to-db2-via-tls-12-new-one-on-me.html
   * IBM WebSphere Liberty Profile and IBM DB2 and Docker - An approach. A Portal to a Portal. Dave Hay. 2019. Blog - https://portal2portal.blogspot.com/2019/07/ibm-websphere-liberty-profile-and-ibm.html
 * db2jdbcbind
+  * DB2 packages: Concepts, examples, and common problems. DeveloperWorks. John Chun and Paolo Cirone. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0606chun/index.html
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
 * db2ldcfg
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
@@ -1418,6 +1422,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * (Ep. 03) - New Environment Setup: Part 1. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=Opk8A0KbBfE
   * Db2 Basics: Setting up a Command Line to Work with Db2. Data Geek. Ember Crooks. 2019. Blog - https://datageek.blog/2019/04/30/db2-basics-setting-up-a-command-line-to-work-with-db2/
 * db2rbind
+  * DB2 packages: Concepts, examples, and common problems. DeveloperWorks. John Chun and Paolo Cirone. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0606chun/index.html
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * Static SQL vs Dynamic SQL in Stored Procedures. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
@@ -1852,6 +1857,8 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Going from DB2 Enterprise to DB2 Express-C. Leons on Tech. Leons Petrazickis. 2010 - http://www.lpetr.org/blog/archives/going-from-db2-enterprise-to-db2-express-c-2
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * Enterprise Database Software for Free – IBM Db2. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/ibm-db2-software-free/
+* Embedded SQL
+  * DB2 packages: Concepts, examples, and common problems. DeveloperWorks. John Chun and Paolo Cirone. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0606chun/index.html
 * EMC2
   * Restore database from a backup in Networker. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/how-to-identify-backup-timestamp-in.html
   * How to identify a backup timestamp in Networker. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/11/restore-database-from-backup-in.html
