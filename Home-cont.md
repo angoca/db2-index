@@ -368,6 +368,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 # P
 
 * Packages
+  * DB2 packages: Concepts, examples, and common problems. DeveloperWorks. John Chun and Paolo Cirone. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0606chun/index.html
   * Security. DeveloperWorks. Graham G. Milne. 2006. Article - https://www.ibm.com/developerworks/data/tutorials/db2-cert7302/db2-cert7302.html
   * SQL805N on NULLID.SYS* package. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=31
   * DB2 Handling -805 on SYSLH2 packages. KBCE. Cristian Molaro. 2010. Blog - https://www.kbce.com/db2-handling-805-on-syslh2-packages/
@@ -563,6 +564,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Db2 Basics: Setting up a Command Line to Work with Db2. Data Geek. Ember Crooks. 2019. Blog - https://datageek.blog/2019/04/30/db2-basics-setting-up-a-command-line-to-work-with-db2/
 * Pre-partitioning agent
   * Db2 LOAD command – Estimating TCP/IP Ephemeral Ports in a Database Partitioned Environment. ThinkingDB2! David Sciaraffa. 2019. Blog - http://thinkingdb2.blogspot.com/2019/03/db2-load-command-estimating-tcpip_50.html
+* Precompile
+  * DB2 packages: Concepts, examples, and common problems. DeveloperWorks. John Chun and Paolo Cirone. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0606chun/index.html
 * Predicates
   * Distinguishing Access and Filter-Predicates. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/explain-plan/db2/filter-predicates
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
@@ -756,6 +759,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * (ADM6044E error during a tablespace rebalancing after adding a container) Error ADM6044E durante rebalanceo en un tablespaces después de añadir un container. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/errores/error-adm6044e-durante-rebalanceo-en-un-tablespaces-despues-de-anadir-un-container/
   * DB2 10: Multi Temperature Data Management. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/multitempdata
 * Rebind
+  * DB2 packages: Concepts, examples, and common problems. DeveloperWorks. John Chun and Paolo Cirone. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0606chun/index.html
   * Making SQL PL and PL/SQL sensitive to changes in statistics, and more. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/statistics_sensitive_sql_pl
   * Static SQL vs Dynamic SQL in Stored Procedures. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/13/static-sql-vs-dynamic-sql-in-stored-procedures/
   * Ember’s Best Practices for Runstats and Reorgs. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/27/embers-best-practices-for-runstats-and-reorgs/
@@ -1451,6 +1455,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Condition handling. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/condition-handling/
 * SQLj
   * Calling a stored procedure from your application. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/calling-a-stored-procedure-from-your-application/
+  * DB2 packages: Concepts, examples, and common problems. DeveloperWorks. John Chun and Paolo Cirone. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0606chun/index.html
 * sqllib
   * db2rfe for non-root installations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/01/db2rfe-for-non-root-instalations.html
 * sqlpltrc
@@ -1655,8 +1660,18 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
     * Dropping Indexes to Improve Db2 Performance. Virtual-DBA. Ember Crooks. 2018. Blog - https://www.virtual-dba.com/dropping-indexes-improve-db2-performance/
   * SysCat.NodeGroupDef
     * Index Cardinality in a DB2 multi-partitioned (DPF) database. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/04/28/index-cardinality-in-a-db2-multi-partitioned-dpf-database/
+  * SysCat.Packages
+    * DB2 packages: Concepts, examples, and common problems. DeveloperWorks. John Chun and Paolo Cirone. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0606chun/index.html
+  * SysCat.PackageAuth
+    * DB2 packages: Concepts, examples, and common problems. DeveloperWorks. John Chun and Paolo Cirone. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0606chun/index.html
+  * SysCat.PackageDep
+    * DB2 packages: Concepts, examples, and common problems. DeveloperWorks. John Chun and Paolo Cirone. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0606chun/index.html
+  * SysCat.Procedures
+    * DB2 packages: Concepts, examples, and common problems. DeveloperWorks. John Chun and Paolo Cirone. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0606chun/index.html
   * SysCat.RoleAuth
     * How I can now answer auditor’s questions – Leveraging DB2’s Audit facility. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/06/02/basics-of-db2s-db2audit-facility/
+  * SysCat.RoutineDep
+    * DB2 packages: Concepts, examples, and common problems. DeveloperWorks. John Chun and Paolo Cirone. 2006. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-0606chun/index.html
   * SysCat.SchemaAuth
     * DB2 LUW Database Object’s owner and Instance Owner’s authority over it. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2016/07/18/db2-luw-database-objects-owner-and-instance-owners-authority-over-it/
   * SysCat.ServerOptions
