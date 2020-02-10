@@ -2097,6 +2097,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * (Ep. 05) - New Environment Setup: Part 3. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=sXEarox2sa8
   * DB2 How To Measure Transaction Log Write Time ? Raghu On Tech. Raghu Cherukuru. 2019. Blog - https://www.raghu-on-tech.com/2019/02/28/howtomonitor-transactionlog-writetime/
   * (Ep. 06) - Backup Database (Offline/Online). Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=yDtFYmkHlsQ
+  *  Size of the transaction logs. Ideas for DB2 (Spanish). Andres Gomez. 2020. Blog - https://angocadb2.blogspot.com/2020/02/size-of-transaction-logs.html
 * Transfer ownership
   * Transfer Ownership. it.toolbox.com. Chris Eaton. 2006. Blog - http://it.toolbox.com/blogs/db2luw/transfer-ownership-10771
   * Transferring Ownership of Objects (ACC3). Toad - IBM DB2 Community. Steve Hilker. 2013. Wiki - https://www.toadworld.com/platforms/ibmdb2/w/wiki/7575.transferring-ownership-of-objects-acc3
