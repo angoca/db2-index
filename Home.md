@@ -2235,6 +2235,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * DB2 ROS on AWS: Ensuring High Availabilty and Consistency with Lambda - Part 2 - Code Walkthrough. adatacloudguru. Sandra Mausberg. 2018. Video - https://www.youtube.com/watch?v=iuPIA_TGEBg
   * DB2 ROS on AWS: Testing High Availability and ACR with Lambda - Part 3. adatacloudguru. Sandra Mausberg. 2018. Video - https://www.youtube.com/watch?v=6SjflKPMFB4
   * Hard-Coding Ports for HADR When Setting up Multiple Standbys. Virtual-DBA. Aish Khare. 2019. Blog - https://www.virtual-dba.com/hard-coding-ports-for-hadr-multiple-standbys/
+  * DB2 Split Brain - it's still a thing... PC, Android, Virtual Reality. 2019. Blog - http://pcandvr.blogspot.com/2019/07/db2-split-brain-its-still-thing.html
 * HADR Calculator
   * DB2 Logging and HADR Performance Analysis using DB2 Log Scanner and HADR Calculator. DeveloperWorks. Yuke Zhuge. 2014. Wiki - https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/DB2HADR/page/db2logscan 
 * HADR_PEER_WINDOW
