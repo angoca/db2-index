@@ -983,6 +983,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Checking archive log files with the db2cklog tool. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/03/Checking-archive-log-files-with-the-db2cklog-tool.html
   * DB2 LUW Truncate, Restore and Rollforward. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2016/03/03/db2-10-5-truncates-restore-and-rollforward/
   * DB2 LUW Import from /dev/null, Restore and Rollforward. db2talk. Pavan Kristipati. 2016. Blog - https://db2talk.wordpress.com/2016/03/08/db2-luw-import-from-devnull-restore-and-rollforward/
+  * DB2 Split Brain - it's still a thing... PC, Android, Virtual Reality. 2019. Blog - http://pcandvr.blogspot.com/2019/07/db2-split-brain-its-still-thing.html
 * Root installation
   * db2rfe for non-root installations. Ideas for DB2 (Spanish). Andres Gomez. 2016. Blog - http://angocadb2.blogspot.com.co/2016/01/db2rfe-for-non-root-instalations.html
 * ROS - Read On Stand by
@@ -1313,6 +1314,8 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * Spill
   * db2top Agent Screen (Part 2). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-agent-screen-part-2.html
+* Split brain
+  * DB2 Split Brain - it's still a thing... PC, Android, Virtual Reality. 2019. Blog - http://pcandvr.blogspot.com/2019/07/db2-split-brain-its-still-thing.html
 * Split mirror
   * DB2 split mirror to create a HADR standby database. Ken's DBA Blog. Ken Garber. 2015. Blog - https://kendbablog.wordpress.com/2015/07/01/db2-split-mirror-to-create-a-hadr-standby-database/comment-page-1
   * How to check DB2 LUW database write suspend state with db2pd. DBA-DB2. Jack Vamvas. 2017. Blog - http://www.dba-db2.com/2017/05/how-to-check-db2-luw-database-write-suspend-state-with-db2pd.html
