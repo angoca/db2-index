@@ -1021,7 +1021,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * IBM Db2 Tech Talk: Db2 Security and Compliance Support. Db2 Tech Talk. Roger Sanders. 2018. Webminar - https://www.ibm.com/events/Z56SMPES
 * DB2AutoStart
   * DB2 UDB - Interesting quirk with auto-start on Linux. A Portal to a Portal. Dave Hay. 2012. Blog - https://portal2portal.blogspot.com/2012/08/db2-udb-interesting-quirk-with-auto.html
-  * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
+  * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwIS0
   * Aide Memoire - Auto-starting DB2 on RHEL 7. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/09/aide-memoire-auto-starting-db2-on-rhel-7.html
 * db2batch
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
@@ -1171,12 +1171,12 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * DB2 UDB - Interesting quirk with auto-start on Linux. A Portal to a Portal. Dave Hay. 2012. Blog - https://portal2portal.blogspot.com/2012/08/db2-udb-interesting-quirk-with-auto.html
   * DB2 UDB and Linux - Start Me Up - AGAIN. A Portal to a Portal. Dave Hay. 2012. Blog - https://portal2portal.blogspot.com/2012/11/db2-udb-and-linux-start-me-up-again.html
-  * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without using DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
+  * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without using DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwIS0
   * Aide Memoire - Auto-starting DB2 on RHEL 7. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/09/aide-memoire-auto-starting-db2-on-rhel-7.html
   * Troubleshooting. My DokuWiki. Julien Andonov. 2018. Blog - http://www.jdbwiki.tech/doku.php?id=db2_troubleshooting
 * db2fmcd - Fault Monitor Coordinator
   * DB2 UDB and Linux - Start Me Up - AGAIN. A Portal to a Portal. Dave Hay. 2012. Blog - https://portal2portal.blogspot.com/2012/11/db2-udb-and-linux-start-me-up-again.html
-  * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without using DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
+  * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without using DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwIS0
   * DB2 UDB and Linux - Start Me Up - AGAIN. A Portal to a Portal. Dave Hay. 2012. Blog - https://portal2portal.blogspot.com/2018/09/aide-memoire-auto-starting-db2-on-rhel-7.html
 * db2fmcmd
   * DB2 UDB - Interesting quirk with auto-start on Linux. A Portal to a Portal. Dave Hay. 2012. Blog - https://portal2portal.blogspot.com/2012/08/db2-udb-interesting-quirk-with-auto.html
@@ -1237,7 +1237,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
 * db2iauto
   * (Automatic start of a Db2 instance) Inicio automático de una instancia DB2 – db2iauto. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/inicio_automatico_instancia_db2_db2iauto/
   * DB2 UDB - Interesting quirk with auto-start on Linux. A Portal to a Portal. Dave Hay. 2012. Blog - https://portal2portal.blogspot.com/2012/08/db2-udb-interesting-quirk-with-auto.html
-  * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
+  * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwIS0
   * (Ep. 04) - New Environment Setup: Part 2. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=pme2hH4nXvk
 * db2iclus
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
@@ -1456,7 +1456,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Resetting DB2 file permissions. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=41
 * db2set
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
-  * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwISO
+  * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without sing DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwIS0
   * Automatic Client Reroute – Templates. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11453
   * Db2 Basics: Levels of Configuration. db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/08/22/db2-basics-levels-of-configuration/
   * (Ep. 04) - New Environment Setup: Part 2. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=pme2hH4nXvk
