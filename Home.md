@@ -1178,13 +1178,11 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * DB2 UDB and Linux - Start Me Up - AGAIN. A Portal to a Portal. Dave Hay. 2012. Blog - https://portal2portal.blogspot.com/2012/11/db2-udb-and-linux-start-me-up-again.html
   * DB2 Tips n Tricks Part 101 - How to Start/Stop DB2 Instance without using DB2START. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=e7uejHpwIS0
   * DB2 UDB and Linux - Start Me Up - AGAIN. A Portal to a Portal. Dave Hay. 2012. Blog - https://portal2portal.blogspot.com/2018/09/aide-memoire-auto-starting-db2-on-rhel-7.html
-* db2fmcmd
-  * DB2 UDB - Interesting quirk with auto-start on Linux. A Portal to a Portal. Dave Hay. 2012. Blog - https://portal2portal.blogspot.com/2012/08/db2-udb-interesting-quirk-with-auto.html
 * db2fmcu
   * DB2 UDB and Linux - Start Me Up - AGAIN. A Portal to a Portal. Dave Hay. 2012. Blog - https://portal2portal.blogspot.com/2012/11/db2-udb-and-linux-start-me-up-again.html
 * db2fmd
   * Upgrading from DB2 V8.2 to DB2 V9.5. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=215
-  * (Problems with the db2fmd process - Fixpack Installation) Problemas con proceso Db2fmd – Instalación FixPacks. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20180805191138/http://www.db2util.es/administracion/renombrar-una-base-de-datos-db2/
+  * (Problems with the db2fmd process - Fixpack Installation) Problemas con proceso Db2fmd – Instalación FixPacks. DB2 Util (Spanish). Oscar Paredes. 2010. Blog - https://web.archive.org/web/20120705212444/http://www.db2util.es/errores/problemas-con-proceso-db2fmd-instalacion-fixpacks/
 * db2fmp
   * DB2ATS + Transaction log full + backup fails. DB2 Knowledge Base Raf. Raf Mathijs. 2013. Blog - http://db2-luw-knowledgebase.blogspot.com.co/2013/10/db2ats-transaction-log-full-backup-fails.html
   * Accumulation of db2fmp (Java) processes. IBM. 2010. Support - https://www-01.ibm.com/support/docview.wss?uid=swg21432402
