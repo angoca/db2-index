@@ -218,6 +218,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
 * Automaint_Set_PolicyFile
   * Please check the SysProc.Automaint_Set_PolicyFile entry.
 * Automatic Client Reroute - ACR
+  * Common pitfalls when using DB2, HADR, ACR and WebSphere. veithen.io. Andreas Veithen. 2013. Blog - https://veithen.io/2013/04/06/db2-hadr-acr-websphere-pitfalls.html
+  * Reducing the impact of DB2 client reroutes on applications deployed on WebSphere. veithen.io. Andreas Veithen. 2014. Blog - https://veithen.io/2014/02/05/reducing-impact-of-db2-client-reroutes.html
   * Configure parameters for IBM Data Server Driver for JDBC and SQLJ against HADR for DB2 pureScale. DeveloperWorks. Sujan Ghosh and Vinayak Joshi. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1509hadr-purescale/index.html
   * Configuring SSL for IBM Data Server Driver for ODBC and CLI. DeveloperWorks. Chetan Papaiah, Ashok V. Jose and Chris Meyer. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-ssl-data-server-driver-odbc-cli-trs/index.html
   * Automatic Client Reroute – Templates. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11453
@@ -2189,6 +2191,8 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * DB2 HADR for dummies – Part 3. DBMSguy.com. Paul Mayhew. 2009. Blog - http://dbmsguy.com/blog/2009/12/db2-hadr-for-dummies-part-3/
   * db2top HADR Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-hadr-screen.html
   * DB2 system topology and configuration for automated multi-site HA and DR. IBM. Aruna De Silva. 2010. Whitepaper - http://public.dhe.ibm.com/software/dw/data/dm-1002automateddb2hadr/Automated_long-distance_HADR_configurations.pdf
+  * Common pitfalls when using DB2, HADR, ACR and WebSphere. veithen.io. Andreas Veithen. 2013. Blog - https://veithen.io/2013/04/06/db2-hadr-acr-websphere-pitfalls.html
+  * Reducing the impact of DB2 client reroutes on applications deployed on WebSphere. veithen.io. Andreas Veithen. 2014. Blog - https://veithen.io/2014/02/05/reducing-impact-of-db2-client-reroutes.html
   * Automating HADR on DB2 10.1 for Linux, UNIX and Windows Failover Solution Using Tivoli System Automation for Multiplatforms. IBM. 2014. Whitepaper - http://public.dhe.ibm.com/software/dw/im/dm-0907hadrdb2haicu/db2-10-hadr-tsa.pdf
   * Increase DB2 availability. DeveloperWorks. Stephen Holt. 2014. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-1406db2avail/index.html
   * DB2HADR-Checking for unavailable tables on the HADR standby. DeveloperWorks. Amy Tang. 2014. Blog - https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/Checking%20for%20unavailable%20tables%20on%20the%20HADR%20standby
@@ -2510,6 +2514,8 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
 * JDBC
   * Tracing DB2 JDBC Applications. db2 tips by an IBMer. Ilker Ender. 2009. Blog - http://ilker-db2.tumblr.com/post/285098205
   * Finding and releasing the handbrakes on JDBC: enableExtendedDescribe. DeveloperWorks - SQL Tips for DB2 LUW. Serge Rielau. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/enableextendeddescribe.?lang=en
+  * Common pitfalls when using DB2, HADR, ACR and WebSphere. veithen.io. Andreas Veithen. 2013. Blog - https://veithen.io/2013/04/06/db2-hadr-acr-websphere-pitfalls.html
+  * Reducing the impact of DB2 client reroutes on applications deployed on WebSphere. veithen.io. Andreas Veithen. 2014. Blog - https://veithen.io/2014/02/05/reducing-impact-of-db2-client-reroutes.html
   * JDBC Statement Cache. Berst Blog. Bert van Langen. 2014. Blog - https://web.archive.org/web/20160308072658/https://blog.bertvanlangen.com/software-development/jdbc-statement-cache/
   * Establishing a DB2 JDBC Connection. db2commerce. Michael Krafick. 2017. Blog - http://datageek.blog/2017/10/26/establishing-a-db2-jdbc-connection/
   * Extra parameters for Db2 JDBC connection from Pentaho. Ideas for DB2 (Spanish). Andres Gomez. 2020. Blog - https://angocadb2.blogspot.com/2020/01/extra-parameters-for-db2-jdbc.html
