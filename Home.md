@@ -1079,6 +1079,10 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
 * db2ckupgrade
   * Database Inconsistencies. SAP Community Wiki. 2015. Blog - https://wiki.scn.sap.com/wiki/display/DB2/Database+Inconsistencies
+* db2cleancat
+  * Finding orphan rows in database that need to be changed. IBM. 2019. Support - https://www.ibm.com/support/pages/finding-orphan-rows-database-need-be-changed
+  * Steps to run db2cleancat when orphan rows were found in your system catalog. IBM. 2019. Support - https://www.ibm.com/support/pages/steps-run-db2cleancat-when-orphan-rows-were-found-your-system-catalog
+  * db2cleancat download. IBM. 2020. Support - https://www.ibm.com/support/pages/node/303935
 * db2cli
   * DB2 Remote nodes/databases. My DokuWiki. Julien Andonov. 2018. Blog - http://www.jdbwiki.tech/doku.php?id=db2_connect
   * Using DB2 on the IBM Cloud from macOS. A Portal to a Portal. Dave Hay. 2018. Blog - https://portal2portal.blogspot.com/2018/05/using-db2-on-ibm-cloud-from-macos.html
