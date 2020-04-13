@@ -25,4 +25,4 @@
 * [X](home-cont#x)
 * Y
 * [Z](home-cont#Z)
-* [Number](home#number)
+* [Number](home-cont#number)
