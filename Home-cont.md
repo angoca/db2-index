@@ -256,10 +256,12 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
 * Null value
   * Distinctly weak type rules with a constrained twist. DeveloperWorks - SQL Tips for DB2 LUW. Rick Swagerman. 2013. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/weak_type?lang=en
 * NullID
+  * SQL0805N Package NULLID.SYS* was not found. DBAtoDBA. Vinícius Perallis. Blog - http://www.dbatodba.com/db2/problem-resolution/general-errors/sql805n-on-nullid-sys-package/
   * SQL805N on NULLID.SYS* package. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=31
   * SQL805N on NULLID.SYS* package – Part 2. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=320
   * DB2 WSE 9.7 - General Errors. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-error.html
   * DB2 Handling -805 on SYSLH2 packages. KBCE. Cristian Molaro. 2010. Blog - https://www.kbce.com/db2-handling-805-on-syslh2-packages/
+  * SQL0805N Package "" was not found. DataGeek.blog. Ember Crooks. 2011. Blog - https://datageek.blog/en/2011/04/15/sql0805/
 * Num_Db_Backups
   * The Db2 Recovery History File. Data Geek. Ember Crooks. 2018. Blog - https://datageek.blog/2018/07/17/the-db2-recovery-history-file/
 * Num_InitFenced
