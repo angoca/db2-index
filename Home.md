@@ -2163,6 +2163,8 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Alternative(s) To db2cluster command To Display GPFS Configuration. Raghu On Tech. Raghu Cherukuru. 2019. Blog - https://www.raghu-on-tech.com/2019/05/27/alternatives-to-db2cluster-command/
 * GPL
   * DB2 purescale Install GPL Error. Zinox. Vikram Khatri. 2016. Blog - http://www.zinox.com/archives/11423
+* Graphical Workload Management Tool (GWLM)
+  * Graphical Workload Management Tool (GWLM). IBM Community. 2020. Blog - https://community.ibm.com/community/user/hybriddatamanagement/viewdocument/ibm-graphical-workload-management-t?CommunityKey=ea909850-39ea-4ac4-9512-8e2eb37ea09a&tab=librarydocuments
 * Grant
   * DB2 WSE 9.7 - General Errors. DB2 Queries. Nagendra. 2009. Blog - http://learndb.blogspot.com.co/2009/07/db2-error.html
   * DB2 security, Part 8: Twelve DB2 security best practices. DeveloperWorks. Ted J. Wasserman. 2006. Article - http://www.ibm.com/developerworks/data/library/techarticle/dm-0607wasserman/index.html
