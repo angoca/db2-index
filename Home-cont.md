@@ -2458,6 +2458,7 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
   * The multi-temperature data feature. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders, and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part1-trs/index.html
   * SQL fishing using WLM. Zinox. Vikram Khatri. 2017. Blog - http://www.zinox.com/archives/11456 
   * IBM Data Server Manager v2.1.3 ---- Query History Tutorial. AnalyticsPlatform. 2017. Video - https://www.youtube.com/watch?v=SQSeVj4ikWI
+  * Graphical Workload Management Tool (GWLM). IBM Community. 2020. Blog - https://community.ibm.com/community/user/hybriddatamanagement/viewdocument/ibm-graphical-workload-management-t?CommunityKey=ea909850-39ea-4ac4-9512-8e2eb37ea09a&tab=librarydocuments
 * Workload Scheduler 
   * How to Check the Consistency of your Workload Scheduler Database Schema. Workload Automation Community. Eliana Cerasaro. 2017. Blog - http://www.workloadautomation-community.com/blogs/how-to-check-the-consistency-of-your-workload-scheduler-database-schema 
 * Wlm_Set_Conn_Env 
