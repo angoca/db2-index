@@ -2525,7 +2525,10 @@ http://blog.4loeser.net/2017/09/db2-with-external-tables-first-tests.html
 # Z 
  
 * Zig-zag - ZZJOIN 
-  * DB2 LUW Execution Plan Operations. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/explain-plan/db2/operations 
+  * DB2 LUW Execution Plan Operations. Use the Index, Luke. Markus Winand. Book - https://use-the-index-luke.com/sql/explain-plan/db2/operations
+* zsh
+  * db2profile and zsh. Craig St. Jean. Craig St. Jean. 2016. Blog - http://www.craigstjean.com/2016/03/db2profile-and-zsh/
+
  
 # Number 
  
