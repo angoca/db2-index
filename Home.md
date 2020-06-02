@@ -1406,7 +1406,8 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Lock events for DB2 for Linux, UNIX, and Windows, Part 2: New options for analyzing lock timeouts in DB2 9.5. DeveloperWorks. Dirk Fechner. 2008. Article  - http://www.ibm.com/developerworks/data/library/techarticle/dm-0804fechner/index.html
   * Troubleshooting. My DokuWiki. Julien Andonov. 2018. Blog - http://www.jdbwiki.tech/doku.php?id=db2_troubleshooting
   * DB2 High Availability Data Replication. My DokuWiki. Julien Andonov. 2018. Blog - http://www.jdbwiki.tech/doku.php?id=db2_hadr
-  * How to use db2pdcfg to catch lock timeout events and invoke the db2cos script for automatic data collection?. IBM. 2015. Support - https://www.ibm.com/support/pages/how-use-db2pdcfg-catch-lock-timeout-events-and-invoke-db2cos-script-automatic-data-collection
+  * How to use db2pdcfg to catch lock timeout events and invoke the db2cos script for automatic data collection?. IBM. 2018. Support - https://www.ibm.com/support/pages/how-use-db2pdcfg-catch-lock-timeout-events-and-invoke-db2cos-script-automatic-data-collection
+  * FAQ - Enabling coredumps for DB2 diagnostics for DB2 support. IBM. 2018. Support - https://www.ibm.com/support/pages/faq-enabling-coredumps-db2-diagnostics-db2-support
 * db2perfc
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
 * db2perfi
