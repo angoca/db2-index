@@ -2439,6 +2439,8 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Following the script - installing IBM DB2 UDB using a response file ( silent installation ). A Portal to a Portal. Dave Hay. 2012. Blog - https://portal2portal.blogspot.com/2012/06/following-script-installing-ibm-db2-udb.html
   * DB2/Data Studio/Data Studio Web Console. Sean's. Sean. 2013. Blog - http://twoseans.blogspot.com.co/2013/08/db2data-studiodata-studio-web-console.html
   * db2setup on Windows – Repair Option. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2017/04/04/db2setup-on-windows-repair-option/
+  * Automated DB2 Installations with Fault Monitors! Craig St. Jean. Craig St. Jean. 2016. Blog - http://www.craigstjean.com/2016/03/Automated-DB2-Installations-with-Fault-Monitors/
+  * DB2 Express-C 11.1 on OpenSuSE 42.2 Leap. Craig St. Jean. Craig St. Jean. 2016. Blog - http://www.craigstjean.com/2016/12/DB2-Express-C-11-1-on-OpenSuSE-42-2-Leap/
   * Security considerations when installing and using the DB2 database manager. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/01/security-considerations-when-installing-DB2.html
   * Step by Step installation of DB2 V10.5 on Linux. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/04/step-by-step-installation-of-db2-v105-Linux.html
   * Space disks for DB2. Ideas for DB2 (Spanish). Andres Gomez. 2017. Blog - https://angocadb2.blogspot.com.co/2017/12/space-disks-for-db2.html
