@@ -806,6 +806,9 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * (Ep. 03) - New Environment Setup: Part 1. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=Opk8A0KbBfE
 * Data life cycle
   * DB2 10: Multi Temperature Data Management. DeveloperWorks. Serge Rielau. 2012. Blog - https://www.ibm.com/developerworks/community/blogs/SQLTips4DB2LUW/entry/multitempdata
+* Data Management Console - Data Server manager - Data Studio Web Console
+  * DB2/Data Studio/Data Studio Web Console. Sean's. Sean. 2013. Blog - http://twoseans.blogspot.com.co/2013/08/db2data-studiodata-studio-web-console.html
+  * Using RESTful APIs and Microservices to Work With Db2. DZone. Peter Kohlmann. 2020. Blog - https://dzone.com/articles/db2-dte-pocdb2dmc
 * Data movement
   * Moving Mountains with a Redirected Restore. db2commerce. Michael Krafick. 2016. Blog - http://datageek.blog/2016/08/04/moving-mountains-with-a-redirected-restore/
 * Data Partitioning Feature
@@ -844,8 +847,6 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * DB2/Data Studio/Data Studio Web Console. Sean's. Sean. 2013. Blog - http://twoseans.blogspot.com.co/2013/08/db2data-studiodata-studio-web-console.html
   * Compare the distributed DB2 10.5 database servers. DeveloperWorks. Amyris Rada and Roman Melnyk. 2015. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1311db2compare/index.html
   * Debugging routines in Db2 from IBM DataStudio. Ideas for DB2 (Spanish). Andres Gomez. 2020. Blog - https://angocadb2.blogspot.com/2020/02/debugging-routines-in-db2-from-ibm.html
-* Data Studio Web Console
-  * DB2/Data Studio/Data Studio Web Console. Sean's. Sean. 2013. Blog - http://twoseans.blogspot.com.co/2013/08/db2data-studiodata-studio-web-console.html
 * Data tag
   * The multi-temperature data feature. DeveloperWorks. Aruna De Silva, Aslam Nomani, Naresh Chainani, Roger Sanders, and John Adams. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1601-db2-data-emc-fastvp-part1-trs/index.html
 * Data temperature
