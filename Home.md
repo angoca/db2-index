@@ -698,6 +698,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * DB2 Tips n Tricks Part 99 - How To Perform Redirected Restore without REDIRECT Keyword. DB2-LUW-ACADEMY. Harishkumar Pathanga. 2016. Video - https://www.youtube.com/watch?v=B2OWBhNg_E8
   * Considerations for building and deploying DB2 Docker containers. DeveloperWorks. Aruna De Silva. 2016. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1602-db2-docker-trs/index.html
   * Db2 on Docker from IBM. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com/2018/09/db2-on-docker-from-ibm.html
+  * Using LDAP for Db2 Authentication in a Docker Container. DataGeek. Ember Brooks. 2020. Blog - https://datageek.blog/en/2020/07/14/using-ldap-for-db2-authentication-in-a-docker-container/
 * Contains SQL
   * DB2 Stored Procedures and Defaults. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2-stored-procedures-and-defaults.html
   * DB2 Stored Procedures and Defaults (Conclusion). The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/stored-procedures-and-defaults-conclusion.html
@@ -2615,6 +2616,7 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * DB2 - LDAP. Tutorials Point. nd. Tutorial - https://www.tutorialspoint.com/db2/db2_ldap.htm
   * DB2 and Transparent LDAP in DB2 DPF – Misleading error SQL30082N. db2talk. Pavan Kristipati. 2014. Blog - https://db2talk.wordpress.com/2014/10/13/db2-and-transparent-ldap-in-db2-dpf-misleading-error-sql30082n/
   * DB2 UDB and Linux LDAP Authentication. Ken's DBA Blog. Ken Garber. 2015. Blog - https://kendbablog.wordpress.com/2015/07/01/db2-udb-and-linux-ldap-authentication/
+  * Using LDAP for Db2 Authentication in a Docker Container. DataGeek. Ember Brooks. 2020. Blog - https://datageek.blog/en/2020/07/14/using-ldap-for-db2-authentication-in-a-docker-container/
 * Leave
   * LEAVE statement. SQL-PL Guide. Michael Spoden. Documentation - http://wordpress.sqlpl-guide.com/leave/
 * libpam
