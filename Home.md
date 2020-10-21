@@ -1332,8 +1332,11 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Understanding and Tuning DB2/LUW Backup and Restore Performance. ThinkingDB2! David Sciaraffa. 2015. Blog - http://thinkingdb2.blogspot.com.co/2015/03/understanding-and-tuning-db2luw-backup.html
   * Basic concepts that are useful to design and implement a successful backup strategy in db2. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/09/Basic-concepts-that-are-useful-to-design-and-implement-a-successful-backup-strategy-in-db2.html
   * Monitoring database backup performance in db2. Vinay's DB2 blog. Vinay Bommana. 2017. Blog - http://vinaysdb2blog.blogspot.com.co/2017/10/monitoring-database-backup-performance-db2.html
-* db2mon.pl
+* db2mon.pl - db2mon.sh
   * db2mon script for monitoring performance. IBM. 2017. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21993956
+  * Performance monitor data collection and reports using db2mon. IBM. 2018. Support - https://www.ibm.com/support/pages/performance-monitor-data-collection-and-reports-using-db2mon
+  * Db2 Performance Monitoring with db2mon.pl. IBM Developer. Kostas Rakopoulus. 2019. https://developer.ibm.com/recipes/tutorials/db2-performance-monitoring-with-db2mon-pl/
+  * An Introduction to db2mon. IDUG. Kostas Rakopoulos. 2020. Article - https://www.idug.org/p/bl/ar/blogaid=1062
 * db2move
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
   * TRANSFER, COPY OR MOVE DB2 DATABASE FROM LINUX TO WINDOWS. TeknoMagus. 2011. Blog - https://technomagus.wordpress.com/database/ibm-db2/transfer-db2-database-from-linux-to-windows/
