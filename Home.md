@@ -1335,7 +1335,8 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
 * db2mon.pl - db2mon.sh
   * db2mon script for monitoring performance. IBM. 2017. Support - http://www-01.ibm.com/support/docview.wss?uid=swg21993956
   * Performance monitor data collection and reports using db2mon. IBM. 2018. Support - https://www.ibm.com/support/pages/performance-monitor-data-collection-and-reports-using-db2mon
-  * Db2 Performance Monitoring with db2mon.pl. IBM Developer. Kostas Rakopoulus. 2019. https://developer.ibm.com/recipes/tutorials/db2-performance-monitoring-with-db2mon-pl/
+  * Advanced Performance Analysis and Monitoring of Db2. Db2 Aktuell. Matthias Nicola. 2019. Presentation - Db2 Performance Monitoring with db2mon.pl. IBM Developer. Kostas Rakopoulus. 2019. https://developer.ibm.com/recipes/tutorials/db2-performance-monitoring-with-db2mon-pl/
+  * https://www.db2-aktuell.de/doc/pdf/25-09-2019/MNicola_-_Adv_Perf_Analysis_and_Monitoring_Db2.pdf
   * An Introduction to db2mon. IDUG. Kostas Rakopoulos. 2020. Article - https://www.idug.org/p/bl/ar/blogaid=1062
 * db2move
   * DB2 System Command Examples. techs@work. Michael Dang, Sylvia Qi. 2009. Blog - http://techsatwork.com/blog/wp-content/uploads/2009/04/db2systemcommands.pdf
