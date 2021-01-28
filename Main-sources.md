@@ -223,5 +223,6 @@ https://www.youtube.com/channel/UCwQz2pEYzDyVF07E-1RIVXw
 * http://jmerrell.com/tag/db2/
 * https://markjacobsen.net/category/db2/
 * https://www.youtube.com/c/AdrianOpreaDBA/search?query=db2
+* https://enterprisedb2.com/
 
 * Articulos de Serge Rielau - http://compgroups.net/comp.databases.ibm-db2/how-to-alter-a-table-using-the-altobj/2109814
