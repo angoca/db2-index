@@ -33,7 +33,7 @@ in the main project or in the GitHub page.
 You are welcome to reference your entries.
 
 
-Andres Gomez [@angoca](twitter.com/angoca)
+Andres Gomez [@angoca](http://twitter.com/angoca)
 
 # Acknowledgements
 
