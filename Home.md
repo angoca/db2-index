@@ -117,6 +117,8 @@ NOTE: The index is divided in two pages due to a limitation of 500KB per page in
   * Develop portable data applications with common IBM SQL features. DeveloperWorks. Robert Indrigo. 2017. Article - https://www.ibm.com/developerworks/library/ba-sql-portable-data-application-development/index.html
 * APAR
   * DB2 Basics: Patching DB2. db2commerce. Ember Crooks. 2016. Blog - http://datageek.blog/2016/07/28/db2-basics-patching-db2/
+* Append
+  * To APPEND or not to APPEND: Insert and Import Performance. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2010. Blog - https://blog.4loeser.net/2010/08/to-append-or-not-to-append-insert-and.html
 * Appl_Memory
   * How Resource utilization will be done in DB2. Vinay's DB2 blog. Vinay Bommana. 2016. Blog - http://vinaysdb2blog.blogspot.com.co/2016/02/how-resource-utilization-will-be-done-in-db2.html
 * ApplHeapSz
@@ -1329,6 +1331,9 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
   * Hmmm, why can't root uninstall IBM DB2 ? A Portal to a Portal. Dave Hay. 2017. Blog - https://portal2portal.blogspot.com/2017/11/hmmm-why-cant-root-uninstall-ibm-db2.html
   * Working with Db2 copies …on Windows. Data Geek. Luke Numrych. 2019. Blog - https://datageek.blog/2019/06/19/working-with-db2-copies-on-windows/
 * DB2MAXFSCRSEARCH
+  * When is space from a deleted row reused by DB2. IBM. Support - https://www.ibm.com/support/pages/when-space-deleted-row-reused-db2
+  * DB2 Insert Performance due to FSCR and how to identify that. IBM. Support - https://www.ibm.com/support/pages/db2-insert-performance-due-fscr-and-how-identify
+  * To APPEND or not to APPEND: Insert and Import Performance. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2010. Blog - https://blog.4loeser.net/2010/08/to-append-or-not-to-append-insert-and.html
   * Understanding DB2MAXFSCRSEARCH - insert performance vs. space optimization. IBM. 2018. Support - https://www.ibm.com/support/pages/understanding-db2maxfscrsearch-insert-performance-vs-space-optimization
 * db2med
   * Integrated support for data deduplication devices in DB2 for Linux, UNIX, and Windows. DeveloperWorks. Dirk Fechner. 2012. Article - https://www.ibm.com/developerworks/data/library/techarticle/dm-1302db2deduplication/
@@ -2132,6 +2137,9 @@ Sabine Reich. 2018. Blog - https://blogs.sap.com/2018/08/07/how-to-use-indexes-f
 * Front-end process
   * "db2 connect" does not check the connection - Test an active connection. Ideas for DB2 (Spanish). Andres Gomez. 2018. Blog - https://angocadb2.blogspot.com.co/2018/05/db2-connect-does-not-check-connection.html
 * FSCR - Free Space Cache Record
+  * When is space from a deleted row reused by DB2. IBM. Support - https://www.ibm.com/support/pages/when-space-deleted-row-reused-db2
+  * DB2 Insert Performance due to FSCR and how to identify that. IBM. Support - https://www.ibm.com/support/pages/db2-insert-performance-due-fscr-and-how-identify
+  * To APPEND or not to APPEND: Insert and Import Performance. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2010. Blog - https://blog.4loeser.net/2010/08/to-append-or-not-to-append-insert-and.html
   * Understanding DB2MAXFSCRSEARCH - insert performance vs. space optimization. IBM. 2018. Support - https://www.ibm.com/support/pages/understanding-db2maxfscrsearch-insert-performance-vs-space-optimization
 * Functions
   * DB2 Stored Procedures and Defaults. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2-stored-procedures-and-defaults.html
