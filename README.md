@@ -11,6 +11,8 @@ The clone can be accessed at:
  * [Db2-Index A-L concepts](Home.md)
  * [Db2-Index M-# concepts](Home-cont.md)
 
+The sources from which this index is created from are these: [Main-sources.md](Main-sources.md)
+
 # Purpose of this project
 
 This project aims to provide a content index about all DB2 for LUW terms/concepts.
