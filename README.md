@@ -32,6 +32,9 @@ in the main project or in the GitHub page.
 
 You are welcome to reference your entries.
 
+
+Andres Gomez [@angoca](twitter.com/angoca)
+
 # Acknowledgements
 
 I want to thank the following persons, because they keep creating content
