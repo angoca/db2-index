@@ -440,6 +440,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
   * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/12/07/the-self-tuning-memory-manager-stmm/
   * (Ep. 05) - New Environment Setup: Part 3. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=sXEarox2sa8
+* PCTFREE
+  * Understanding DB2MAXFSCRSEARCH - insert performance vs. space optimization. IBM. 2018. Support - https://www.ibm.com/support/pages/understanding-db2maxfscrsearch-insert-performance-vs-space-optimization
 * PD_Get_Log_Msgs
   * Please check the SysIBMAdm.PD_Get_Log_Msgs entry.
 * PDLogMsgs_Last24Hours 
@@ -830,6 +832,7 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * Simple Offline DB2 Reorg Script – Take 2. techs@work. Raju Pillai. 2009. Blog - http://techsatwork.com/blog/?p=226
   * New reorg formula. techs@work. Raju Pillai. 2010. Blog - http://techsatwork.com/blog/?p=780
   * db2top Utilities Screen. The K Guy. Keith McDonald. 2010. Blog - http://www.thekguy.com/db2top-utilities-screen.html
+  * To APPEND or not to APPEND: Insert and Import Performance. Data Henrik: IT, Life, DB2, and more. Henrik Loeser. 2010. Blog - https://blog.4loeser.net/2010/08/to-append-or-not-to-append-insert-and.html
   * RUNSTATS and REORG-1: How important they are. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/04/runstats-and-reorg-1-how-important-they.html
   * RUNSTATS and REORG-3: An effective REORG policy. db2 performance. Sameer Kumar. 2011. Blog - http://db2performance.blogspot.com/2011/05/runstats-and-reorg-3-effective-reorg.html
   * Issuing a REORG TABLE command to DB2 from VA Smalltalk (and Glorp). Joachims Small World. Joachims Tuchel. 2013. Blog - https://joachimtuchel.wordpress.com/2013/04/24/issuing-a-reorg-table-command-to-db2-from-va-smalltalk-and-glorp/
