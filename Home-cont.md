@@ -440,6 +440,8 @@ This is the second page of the index due to a limitation in GitHub wikis to 500 
   * DB2 Memory Area In-Depth: The Package Cache. db2commerce. Ember Brooks. 2016. Blog - http://datageek.blog/2016/09/20/db2-memory-area-in-depth-the-package-cache/
   * The Self-Tuning Memory Manager (STMM). db2commerce. Ember Brooks. 2017. Blog - http://datageek.blog/2017/12/07/the-self-tuning-memory-manager-stmm/
   * (Ep. 05) - New Environment Setup: Part 3. Discover.db2. Michael Krafick. 2018. Video - https://www.youtube.com/watch?v=sXEarox2sa8
+* PCTFREE
+  * Understanding DB2MAXFSCRSEARCH - insert performance vs. space optimization. IBM. 2018. Support - https://www.ibm.com/support/pages/understanding-db2maxfscrsearch-insert-performance-vs-space-optimization
 * PD_Get_Log_Msgs
   * Please check the SysIBMAdm.PD_Get_Log_Msgs entry.
 * PDLogMsgs_Last24Hours 
