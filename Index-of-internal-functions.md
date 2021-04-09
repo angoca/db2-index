@@ -1,4 +1,4 @@
-
+ 
 * access plan manager
   * sqlra_cache_mem_please
     * Package cache overflow. Se ha excedido su tamaño máximo. Se recomienda poner en AUTOMATIC.
