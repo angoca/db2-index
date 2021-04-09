@@ -3,19 +3,14 @@ In order to sync the Wiki with the main code to generate the GitHub pages, it is
     git clone https://github.com/angoca/db2-index.git
     cd db2-index
 
-Then, add a remote branch to point to the wiki, and pull the content from this unrelated repo.
+Then, add a remote branch to point to the wiki.
 
 ```
 git remote add angoca git://github.com/angoca/db2-index.wiki.git
 git branch -a
-git pull angoca master --allow-unrelated-histories
 ```
 
-And finally, integrate:
+And finally, pull changes and integrate them into the other:
 
-    git push
-
-For following execution, it is just necessary to do:
-
-    git pull angoca master
+    git pull angoca master --allow-unrelated-histories
     git push
