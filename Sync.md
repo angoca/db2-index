@@ -12,4 +12,5 @@ git remote add angoca git://github.com/angoca/db2-index.wiki.git
 And finally, pull changes and integrate them into the other:
 
     git pull angoca master --allow-unrelated-histories
+    git pull
     git push
