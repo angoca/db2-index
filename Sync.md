@@ -7,7 +7,6 @@ Then, add a remote branch to point to the wiki.
 
 ```
 git remote add angoca git://github.com/angoca/db2-index.wiki.git
-git branch -a
 ```
 
 And finally, pull changes and integrate them into the other:
